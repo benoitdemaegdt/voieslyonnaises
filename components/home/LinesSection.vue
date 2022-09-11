@@ -11,7 +11,7 @@
             <div class="flex-shrink-0">
               <div
                 class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                :class="`${voie.color}`"
+                :style="`background-color: ${voie.color}`"
               >
               {{ voie.line }}
               </div>

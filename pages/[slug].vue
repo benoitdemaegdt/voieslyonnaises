@@ -31,10 +31,10 @@
                       <div class="flex-shrink-0">
                         <div
                           class="h-20 w-20 rounded-full flex items-center justify-center bg-ligne1 text-white text-3xl font-bold"
-                          :class="`${voie.color}`"
-                          >
-                            {{ voie.line }}
-                          </div>
+                          :style="`background-color: ${voie.color}`"
+                        >
+                          {{ voie.line }}
+                        </div>
                       </div>
                       <div class="mt-4 text-center sm:mt-0 sm:pt-1 sm:text-left">
                         <p class="text-sm font-medium text-gray-600">Voie Lyonnaise</p>
@@ -118,7 +118,7 @@
                             <div class="flex-shrink-0">
                               <div
                                 class="h-8 w-8 rounded-full flex items-center justify-center text-white font-bold"
-                                :class="voie.color"
+                                :style="`background-color: ${voie.color}`"
                               >
                                 {{ voie.line }}
                               </div>
@@ -133,7 +133,7 @@
                             </p>
                           </div>
                           <div>
-                            <NuxtLink :to="voie.path" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> Voir </NuxtLink>
+                            <NuxtLink :to="voie._path" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> Voir </NuxtLink>
                           </div>
                         </div>
                       </li>
@@ -157,8 +157,12 @@ import { Popover } from '@headlessui/vue'
 
 const { path } = useRoute()
 
-const { data: voie } = await useAsyncData(`test-${path}`, () => {
-  return queryContent().where({ _path: path, _type: 'json' }).findOne()
+const { data: voie } = await useAsyncData(`${path}`, () => {
+  return queryContent().where({ _path: path }).findOne()
+})
+
+const { data: otherLines } = await useAsyncData(`surround-${path}`, () => {
+  return queryContent().where({ _path: { $ne: path } }).limit(4).find()
 })
 
 const announcements = [
@@ -183,12 +187,5 @@ const announcements = [
     preview:
       'Tenetur libero voluptatem rerum occaecati qui est molestiae exercitationem. Voluptate quisquam iure assumenda consequatur ex et recusandae. Alias consectetur voluptatibus. Accusamus a ab dicta et. Consequatur quis dignissimos voluptatem nisi.',
   },
-]
-
-const otherLines = [
-  { line: '2', path: '/ligne-2', color: 'bg-ligne2', from: 'Cailloux', to: 'Mions' },
-  { line: '3', path: '/ligne-3', color: 'bg-ligne3', from: 'Quincieux', to: 'Givors' },
-  { line: '4', path: '/ligne-4', color: 'bg-ligne4', from: 'Lissieu', to: 'Villeurbanne' },
-  { line: '5', path: '/ligne-5', color: 'bg-ligne5', from: 'Saint-Fons', to: 'Bron' },
 ]
 </script>
