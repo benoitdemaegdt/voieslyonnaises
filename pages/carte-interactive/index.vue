@@ -1,3 +1,3 @@
 <template>
-  <h1>carte interactive</h1>
+  <h1>work in progress</h1>
 </template>

@@ -7,65 +7,13 @@
 
           <div class="w-full py-5 lg:border-t lg:border-white lg:border-opacity-20">
             <div class="lg:grid lg:grid-cols-3 lg:gap-8 lg:items-center">
-              <!-- Left nav -->
-
-              <div class="px-12 lg:px-0">
-
-              </div>
+              <div class="px-12 lg:px-0"></div>
             </div>
           </div>
         </div>
       </div>
-
-      <TransitionRoot as="template" :show="open">
-        <div class="lg:hidden">
-          <TransitionChild as="template" enter="duration-150 ease-out" enter-from="opacity-0" enter-to="opacity-100" leave="duration-150 ease-in" leave-from="opacity-100" leave-to="opacity-0">
-            <PopoverOverlay class="z-20 fixed inset-0 bg-black bg-opacity-25" />
-          </TransitionChild>
-
-          <TransitionChild as="template" enter="duration-150 ease-out" enter-from="opacity-0 scale-95" enter-to="opacity-100 scale-100" leave="duration-150 ease-in" leave-from="opacity-100 scale-100" leave-to="opacity-0 scale-95">
-            <PopoverPanel focus class="z-30 absolute top-0 inset-x-0 max-w-3xl mx-auto w-full p-2 transition transform origin-top">
-              <div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-white divide-y divide-gray-200">
-                <div class="pt-3 pb-2">
-                  <div class="flex items-center justify-between px-4">
-                    <div>
-                      <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-cyan-600.svg" alt="Workflow" />
-                    </div>
-                    <div class="-mr-2">
-                      <PopoverButton class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-cyan-500">
-                        <span class="sr-only">Close menu</span>
-                        <XIcon class="h-6 w-6" aria-hidden="true" />
-                      </PopoverButton>
-                    </div>
-                  </div>
-                  <div class="mt-3 px-2 space-y-1">
-                    <a v-for="item in navigation" :key="item.name" :href="item.href" class="block rounded-md px-3 py-2 text-base text-gray-900 font-medium hover:bg-gray-100 hover:text-gray-800">{{ item.name }}</a>
-                  </div>
-                </div>
-                <div class="pt-4 pb-2">
-                  <div class="flex items-center px-5">
-                    <div class="flex-shrink-0">
-                      <img class="h-10 w-10 rounded-full" :src="user.imageUrl" alt="" />
-                    </div>
-                    <div class="ml-3 min-w-0 flex-1">
-                      <div class="text-base font-medium text-gray-800 truncate">{{ user.name }}</div>
-                      <div class="text-sm font-medium text-gray-500 truncate">{{ user.email }}</div>
-                    </div>
-                    <button type="button" class="ml-auto flex-shrink-0 bg-white p-1 text-gray-400 rounded-full hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cyan-500">
-                      <span class="sr-only">View notifications</span>
-                      <Icon name="mdi:bell-outline" class="h-6 w-6" aria-hidden="true"></Icon>
-                    </button>
-                  </div>
-                  <div class="mt-3 px-2 space-y-1">
-                    <a v-for="item in userNavigation" :key="item.name" :href="item.href" class="block rounded-md px-3 py-2 text-base text-gray-900 font-medium hover:bg-gray-100 hover:text-gray-800">{{ item.name }}</a>
-                  </div>
-                </div>
-              </div>
-            </PopoverPanel>
-          </TransitionChild>
-        </div>
-      </TransitionRoot>
     </Popover>
+
     <main class="-mt-24 pb-8">
       <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <h1 class="sr-only">Profile</h1>
@@ -81,24 +29,31 @@
                   <div class="sm:flex sm:items-center sm:justify-between">
                     <div class="sm:flex sm:space-x-5">
                       <div class="flex-shrink-0">
-                        <img class="mx-auto h-20 w-20 rounded-full" :src="user.imageUrl" alt="" />
+                        <div class="h-20 w-20 rounded-full flex items-center justify-center bg-ligne1 text-white text-3xl font-bold">1</div>
                       </div>
                       <div class="mt-4 text-center sm:mt-0 sm:pt-1 sm:text-left">
-                        <p class="text-sm font-medium text-gray-600">Welcome back,</p>
-                        <p class="text-xl font-bold text-gray-900 sm:text-2xl">{{ user.name }}</p>
-                        <p class="text-sm font-medium text-gray-600">{{ user.role }}</p>
+                        <p class="text-sm font-medium text-gray-600">Voie Lyonnaise</p>
+                        <p class="text-xl font-bold text-gray-900 sm:text-2xl"> Ligne {{ voie.line }}</p>
+                        <p class="text-sm font-medium text-gray-600">{{ voie.from }} → {{ voie.to }}</p>
                       </div>
-                    </div>
-                    <div class="mt-5 flex justify-center sm:mt-0">
-                      <a href="#" class="flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> View profile </a>
                     </div>
                   </div>
                 </div>
                 <div class="border-t border-gray-200 bg-gray-50 grid grid-cols-1 divide-y divide-gray-200 sm:grid-cols-3 sm:divide-y-0 sm:divide-x">
-                  <div v-for="stat in stats" :key="stat.label" class="px-6 py-5 text-sm font-medium text-center">
-                    <span class="text-gray-900">{{ stat.value }}</span>
-                    {{ ' ' }}
-                    <span class="text-gray-600">{{ stat.label }}</span>
+                  <div class="px-6 py-5 text-sm font-medium text-center">
+                    <span class="text-gray-600">Distance:</span>
+                      {{ ' ' }}
+                    <span class="text-gray-900">{{ voie.distance }}</span>
+                  </div>
+                  <div class="px-6 py-5 text-sm font-medium text-center">
+                    <span class="text-gray-600">Trafic:</span>
+                      {{ ' ' }}
+                    <span class="text-gray-900">{{ voie.trafic }}</span>
+                  </div>
+                  <div class="px-6 py-5 text-sm font-medium text-center">
+                    <span class="text-gray-600">État:</span>
+                      {{ ' ' }}
+                    <span class="text-gray-900">{{ voie.status }}</span>
                   </div>
                 </div>
               </div>
@@ -141,7 +96,7 @@
             <section aria-labelledby="announcements-title">
               <div class="rounded-lg bg-white overflow-hidden shadow">
                 <div class="p-6">
-                  <h2 class="text-base font-medium text-gray-900" id="announcements-title">Announcements</h2>
+                  <h2 class="text-base font-medium text-gray-900" id="announcements-title">Actualités</h2>
                   <div class="flow-root mt-6">
                     <ul role="list" class="-my-5 divide-y divide-gray-200">
                       <li v-for="announcement in announcements" :key="announcement.id" class="py-5">
@@ -167,28 +122,35 @@
               </div>
             </section>
 
-            <!-- Recent Hires -->
-            <section aria-labelledby="recent-hires-title">
+            <!-- Other lines -->
+            <section aria-labelledby="other-lines-title">
               <div class="rounded-lg bg-white overflow-hidden shadow">
                 <div class="p-6">
-                  <h2 class="text-base font-medium text-gray-900" id="recent-hires-title">Autres Voies Lyonnaises</h2>
+                  <h2 class="text-base font-medium text-gray-900" id="other-lines-title">Autres lignes</h2>
                   <div class="flow-root mt-6">
                     <ul role="list" class="-my-5 divide-y divide-gray-200">
-                      <li v-for="person in recentHires" :key="person.handle" class="py-4">
+                      <li v-for="voie in otherLines" :key="voie.line" class="py-4">
                         <div class="flex items-center space-x-4">
                           <div class="flex-shrink-0">
-                            <img class="h-8 w-8 rounded-full" :src="person.imageUrl" alt="" />
+                            <div class="flex-shrink-0">
+                              <div
+                                class="h-8 w-8 rounded-full flex items-center justify-center text-white font-bold"
+                                :class="voie.color"
+                              >
+                                {{ voie.line }}
+                              </div>
+                            </div>
                           </div>
                           <div class="flex-1 min-w-0">
                             <p class="text-sm font-medium text-gray-900 truncate">
-                              {{ person.name }}
+                              Ligne {{ voie.line }}
                             </p>
                             <p class="text-sm text-gray-500 truncate">
-                              {{ '@' + person.handle }}
+                              {{ voie.from }} → {{ voie.to }}
                             </p>
                           </div>
                           <div>
-                            <a :href="person.href" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> View </a>
+                            <NuxtLink :to="voie.path" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> View </NuxtLink>
                           </div>
                         </div>
                       </li>
@@ -207,161 +169,55 @@
   </div>
 </template>
 
-<script>
-import {
-  Menu,
-  MenuButton,
-  MenuItem,
-  MenuItems,
-  Popover,
-  PopoverButton,
-  PopoverOverlay,
-  PopoverPanel,
-  TransitionChild,
-  TransitionRoot,
-} from '@headlessui/vue'
+<script setup>
+import { Popover } from '@headlessui/vue'
 
-
-
-const user = {
-  name: 'Chelsea Hagon',
-  email: 'chelseahagon@example.com',
-  role: 'Human Resources Manager',
-  imageUrl:
-    'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+const voie = {
+  line: '1',
+  from: 'Vaulx-en-Velin',
+  to: 'Saint-Fons',
+  distance: '21km',
+  trafic: '28 000 vélos / jour',
+  status: 'Travaux en cours'
 }
-const navigation = [
-  { name: 'Home', href: '#', current: true },
-  { name: 'Profile', href: '#', current: false },
-  { name: 'Resources', href: '#', current: false },
-  { name: 'Company Directory', href: '#', current: false },
-  { name: 'Openings', href: '#', current: false },
-]
-const userNavigation = [
-  { name: 'Your Profile', href: '#' },
-  { name: 'Settings', href: '#' },
-  { name: 'Sign out', href: '#' },
-]
-const stats = [
-  { label: 'Vacation days left', value: 12 },
-  { label: 'Sick days left', value: 4 },
-  { label: 'Personal days left', value: 2 },
-]
+
 const actions = [
-  {
-    icon: '',
-    name: 'Request time off',
-    href: '#',
-    iconForeground: 'text-teal-700',
-    iconBackground: 'bg-teal-50',
-  },
-  {
-    icon: '',
-    name: 'Benefits',
-    href: '#',
-    iconForeground: 'text-purple-700',
-    iconBackground: 'bg-purple-50',
-  },
-  {
-    icon: '',
-    name: 'Schedule a one-on-one',
-    href: '#',
-    iconForeground: 'text-sky-700',
-    iconBackground: 'bg-sky-50',
-  },
+  { icon: '', name: 'Request time off', href: '#', iconForeground: 'text-teal-700', iconBackground: 'bg-teal-50' },
+  { icon: '', name: 'Benefits', href: '#', iconForeground: 'text-purple-700', iconBackground: 'bg-purple-50' },
+  { icon: '', name: 'Schedule a one-on-one', href: '#', iconForeground: 'text-sky-700', iconBackground: 'bg-sky-50' },
   { icon: '', name: 'Payroll', href: '#', iconForeground: 'text-yellow-700', iconBackground: 'bg-yellow-50' },
-  {
-    icon: '',
-    name: 'Submit an expense',
-    href: '#',
-    iconForeground: 'text-rose-700',
-    iconBackground: 'bg-rose-50',
-  },
-  {
-    icon: '',
-    name: 'Training',
-    href: '#',
-    iconForeground: 'text-indigo-700',
-    iconBackground: 'bg-indigo-50',
-  },
+  { icon: '', name: 'Submit an expense', href: '#', iconForeground: 'text-rose-700', iconBackground: 'bg-rose-50' },
+  { icon: '', name: 'Training', href: '#', iconForeground: 'text-indigo-700', iconBackground: 'bg-indigo-50' },
 ]
-const recentHires = [
-  {
-    name: 'Leonard Krasner',
-    handle: 'leonardkrasner',
-    imageUrl:
-      'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  {
-    name: 'Floyd Miles',
-    handle: 'floydmiles',
-    imageUrl:
-      'https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  {
-    name: 'Emily Selman',
-    handle: 'emilyselman',
-    imageUrl:
-      'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  {
-    name: 'Kristin Watson',
-    handle: 'kristinwatson',
-    imageUrl:
-      'https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-]
+
 const announcements = [
   {
     id: 1,
-    title: 'Office closed on July 2nd',
+    title: 'Inauguration de la première portion',
     href: '#',
     preview:
       'Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores.',
   },
   {
     id: 2,
-    title: 'New password policy',
+    title: 'Début des travaux de la première portion',
     href: '#',
     preview:
       'Alias inventore ut autem optio voluptas et repellendus. Facere totam quaerat quam quo laudantium cumque eaque excepturi vel. Accusamus maxime ipsam reprehenderit rerum id repellendus rerum. Culpa cum vel natus. Est sit autem mollitia.',
   },
   {
     id: 3,
-    title: 'Office closed on July 2nd',
+    title: 'Réunion de concertation',
     href: '#',
     preview:
       'Tenetur libero voluptatem rerum occaecati qui est molestiae exercitationem. Voluptate quisquam iure assumenda consequatur ex et recusandae. Alias consectetur voluptatibus. Accusamus a ab dicta et. Consequatur quis dignissimos voluptatem nisi.',
   },
 ]
 
-export default {
-  components: {
-    Menu,
-    MenuButton,
-    MenuItem,
-    MenuItems,
-    Popover,
-    PopoverButton,
-    PopoverOverlay,
-    PopoverPanel,
-    TransitionChild,
-    TransitionRoot,
-  },
-  setup() {
-    return {
-      user,
-      navigation,
-      userNavigation,
-      stats,
-      actions,
-      recentHires,
-      announcements,
-    }
-  },
-}
+const otherLines = [
+  { line: '2', path: '/ligne-2', color: 'bg-ligne2', from: 'Cailloux', to: 'Mions' },
+  { line: '3', path: '/ligne-3', color: 'bg-ligne3', from: 'Quincieux', to: 'Givors' },
+  { line: '4', path: '/ligne-4', color: 'bg-ligne4', from: 'Lissieu', to: 'Villeurbanne' },
+  { line: '5', path: '/ligne-5', color: 'bg-ligne5', from: 'Saint-Fons', to: 'Bron' },
+]
 </script>
