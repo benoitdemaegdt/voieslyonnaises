@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       { hid: 'description', name: 'description', content: 'avancement des voies lyonnaises' },
     ]
   },
-  modules: ['@nuxtjs/tailwindcss', 'nuxt-icon'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
   tailwindcss: { viewer: false },
   build: {
     transpile: ['@headlessui/vue'],

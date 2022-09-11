@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@headlessui/vue": "^1.7.0",
+    "@nuxt/content": "^2.1.0",
     "@nuxtjs/tailwindcss": "^5.3.3",
     "nuxt": "3.0.0-rc.9",
     "nuxt-icon": "^0.1.5"

@@ -1,0 +1,9 @@
+{
+  "line": "12",
+  "color": "bg-ligne12",
+  "from": "Lyon",
+  "to": "Saint-Priest",
+  "distance": "20km",
+  "trafic": "24 000 vélos / jour",
+  "status": "Travaux en cours"
+}

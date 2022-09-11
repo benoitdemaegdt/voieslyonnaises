@@ -29,7 +29,12 @@
                   <div class="sm:flex sm:items-center sm:justify-between">
                     <div class="sm:flex sm:space-x-5">
                       <div class="flex-shrink-0">
-                        <div class="h-20 w-20 rounded-full flex items-center justify-center bg-ligne1 text-white text-3xl font-bold">1</div>
+                        <div
+                          class="h-20 w-20 rounded-full flex items-center justify-center bg-ligne1 text-white text-3xl font-bold"
+                          :class="`${voie.color}`"
+                          >
+                            {{ voie.line }}
+                          </div>
                       </div>
                       <div class="mt-4 text-center sm:mt-0 sm:pt-1 sm:text-left">
                         <p class="text-sm font-medium text-gray-600">Voie Lyonnaise</p>
@@ -150,14 +155,14 @@
                             </p>
                           </div>
                           <div>
-                            <NuxtLink :to="voie.path" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> View </NuxtLink>
+                            <NuxtLink :to="voie.path" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> Voir </NuxtLink>
                           </div>
                         </div>
                       </li>
                     </ul>
                   </div>
                   <div class="mt-6">
-                    <a href="#" class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> View all </a>
+                    <a href="#" class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </a>
                   </div>
                 </div>
               </div>
@@ -172,14 +177,11 @@
 <script setup>
 import { Popover } from '@headlessui/vue'
 
-const voie = {
-  line: '1',
-  from: 'Vaulx-en-Velin',
-  to: 'Saint-Fons',
-  distance: '21km',
-  trafic: '28 000 vélos / jour',
-  status: 'Travaux en cours'
-}
+const { path } = useRoute()
+
+const { data: voie } = await useAsyncData(`test-${path}`, () => {
+  return queryContent().where({ _path: path, _type: 'json' }).findOne()
+})
 
 const actions = [
   { icon: '', name: 'Request time off', href: '#', iconForeground: 'text-teal-700', iconBackground: 'bg-teal-50' },

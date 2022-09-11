@@ -17,7 +17,7 @@
               </div>
             </div>
             <div class="flex-1 min-w-0">
-              <NuxtLink :to="voie.path" class="focus:outline-none">
+              <NuxtLink :to="voie._path" class="focus:outline-none">
                 <span class="absolute inset-0" aria-hidden="true" />
                 <p class="text-sm font-medium text-gray-900">
                   Ligne {{ voie.line }}
@@ -35,19 +35,7 @@
 </template>
 
 <script setup>
-const voies = [
-  { line: '1', path: '/ligne-1', color: 'bg-ligne1', from: 'Vaulx-en-Velin', to: 'Saint-Fons' },
-  { line: '2', path: '/ligne-2', color: 'bg-ligne2', from: 'Cailloux', to: 'Mions' },
-  { line: '3', path: '/ligne-3', color: 'bg-ligne3', from: 'Quincieux', to: 'Givors' },
-  { line: '4', path: '/ligne-4', color: 'bg-ligne4', from: 'Lissieu', to: 'Villeurbanne' },
-  { line: '5', path: '/ligne-5', color: 'bg-ligne5', from: 'Saint-Fons', to: 'Bron' },
-  { line: '6', path: '/ligne-6', color: 'bg-ligne6', from: 'Rilleux la Pape', to: 'Saint-Genis-Laval' },
-  { line: '7', path: '/ligne-7', color: 'bg-ligne7', from: 'Rilleux', to: 'Solaize' },
-  { line: '8', path: '/ligne-8', color: 'bg-ligne8', from: 'La Tour-de-Salvagny', to: 'Bron' },
-  { line: '9', path: '/ligne-9', color: 'bg-ligne9', from: 'Jonage', to: 'Saint-Genis-Laval' },
-  { line: '10', path: '/ligne-10', color: 'bg-ligne10', from: "Marcy-L'Étoile", to: 'Meyzieu' },
-  { line: '11', path: '/ligne-11', color: 'bg-ligne11', from: 'Craponne', to: 'Chassieu' },
-  { line: '12', path: '/ligne-12', color: 'bg-ligne12', from: 'Lyon', to: 'Saint-Priest' },
-  { line: '13', path: '/ligne-13', color: 'bg-ligne13', from: 'Rillieux', to: 'Corbas' }
-]
+const { data: voies } = await useAsyncData(() => {
+  return queryContent('/').where({ _type: 'json' }).find()
+})
 </script>
