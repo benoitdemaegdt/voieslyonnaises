@@ -40,7 +40,7 @@
             >
             <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
               <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-green-600 hover:bg-green-700 sm:px-8"> Plan officiel </NuxtLink>
-              <NuxtLink to="/avancement" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-green-700 bg-white hover:bg-green-50 sm:px-8"> Carte interactive </NuxtLink>
+              <NuxtLink to="/carte-interactive" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-green-700 bg-white hover:bg-green-50 sm:px-8"> Carte interactive </NuxtLink>
             </div>
             </div>
           </div>

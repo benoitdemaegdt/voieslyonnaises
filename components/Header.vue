@@ -110,6 +110,6 @@ import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/
 
 const navItems = [
   { name: 'Plan officel', path: '/plan-officiel' },
-  { name: 'Avancement', path: '/avancement' },
+  { name: 'Carte interactive', path: '/carte-interactive' },
 ]
 </script>
