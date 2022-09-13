@@ -9,6 +9,11 @@ export default defineNuxtConfig({
       { hid: 'description', name: 'description', content: 'avancement des voies lyonnaises' },
     ]
   },
+  runtimeConfig: {
+    public: {
+      mapboxAccessToken: process.env.NUXT_MAPBOX_ACCESS_TOKEN,
+    },
+  },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
   tailwindcss: { viewer: false },
   build: {

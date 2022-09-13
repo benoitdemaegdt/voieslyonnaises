@@ -13,5 +13,8 @@
     "@nuxtjs/tailwindcss": "^5.3.3",
     "nuxt": "3.0.0-rc.9",
     "nuxt-icon": "^0.1.5"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.10.0"
   }
 }
