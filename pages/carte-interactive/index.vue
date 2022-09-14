@@ -44,9 +44,25 @@ onMounted(() => {
       source: 'lines',
       paint: {
         'line-width': 3,
-        'line-color': ['get', 'color']
+        'line-color': ['get', 'color'],
+        // 'line-dasharray': [1,1]
       }
     })
+
+    map.on('click', 'lines', (e) => {
+      new mapboxgl.Popup()
+      .setLngLat(e.lngLat)
+      .setHTML(e.features[0].properties.name)
+      .addTo(map);
+    });
+
+    map.on('mouseenter', 'lines', () => {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+
+    map.on('mouseleave', 'lines', () => {
+      map.getCanvas().style.cursor = '';
+    });
   })
 })
 </script>

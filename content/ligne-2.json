@@ -8,7 +8,9 @@
   "status": "Travaux en cours",
   "sections": [
     {
-      "properties": {},
+      "properties": {
+        "name": "Ligne 2"
+      },
       "coordinates": [
         [
           4.860248565673828,
