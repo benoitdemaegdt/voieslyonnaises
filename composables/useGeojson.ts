@@ -4,6 +4,7 @@ export const useGeojson = () => {
     return voie.sections.map(section => ({
       type: 'Feature',
       properties: {
+        name: `Ligne ${voie.line}`,
         color: voie.color,
         ...section.properties
       },

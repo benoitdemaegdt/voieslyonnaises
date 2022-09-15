@@ -17,6 +17,10 @@ const { getGeojsonFeatures } = useGeojson()
 const { data: voies } = await useAsyncData(() => {
   return queryContent().find()
 })
+const sections = voies.value
+  .map(voie => getGeojsonFeatures(voie))
+  .flat()
+
 
 onMounted(() => {
   const map = new mapboxgl.Map({
@@ -28,41 +32,54 @@ onMounted(() => {
   })
 
   map.on('load', () => {
-    map.addSource('lines', {
+    map.addSource('done-lines', {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: voies.value
-          .map(voie => getGeojsonFeatures(voie))
-          .flat()
+        features: sections.filter(({ properties }) => properties.status === 'done')
       }
     })
-
     map.addLayer({
-      id: 'lines',
+      id: 'done-lines',
       type: 'line',
-      source: 'lines',
+      source: 'done-lines',
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
-        // 'line-dasharray': [1,1]
       }
     })
 
-    map.on('click', 'lines', (e) => {
+    map.addSource('in-progress-lines', {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: sections.filter(({ properties }) => properties.status === 'in-progress')
+      }
+    })
+    map.addLayer({
+      id: 'in-progress-lines',
+      type: 'line',
+      source: 'in-progress-lines',
+      paint: {
+        'line-width': 3,
+        'line-color': ['get', 'color'],
+        'line-dasharray': [1, 1],
+      }
+    })
+
+    map.on('click', ['done-lines', 'in-progress-lines'], (e) => {
       new mapboxgl.Popup()
       .setLngLat(e.lngLat)
       .setHTML(e.features[0].properties.name)
-      .addTo(map);
-    });
+      .addTo(map)
+    })
 
-    map.on('mouseenter', 'lines', () => {
-      map.getCanvas().style.cursor = 'pointer';
-    });
-
-    map.on('mouseleave', 'lines', () => {
-      map.getCanvas().style.cursor = '';
-    });
+    map.on('mouseenter', ['done-lines', 'in-progress-lines'], () => {
+      map.getCanvas().style.cursor = 'pointer'
+    })
+    map.on('mouseleave', ['done-lines', 'in-progress-lines'], () => {
+      map.getCanvas().style.cursor = ''
+    })
   })
 })
 </script>
