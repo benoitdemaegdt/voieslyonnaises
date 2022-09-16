@@ -1,6 +1,6 @@
 <template>
-  <div class="h-screen w-full">
-    <div id="map" class="h-screen"></div>
+  <div class="h-full w-full">
+    <div id="map" class="h-full"></div>
   </div>
 </template>
 
@@ -9,7 +9,10 @@ import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css'
 
 // https://github.com/nuxt/framework/issues/3587
-definePageMeta({ pageTransition: false })
+definePageMeta({
+  pageTransition: false,
+  layout: 'fullscreen',
+})
 
 const { getGeojsonFeatures } = useGeojson()
 
@@ -65,13 +68,13 @@ onMounted(() => {
     })
 
     map.on('click', 'done-lines', (e) => {
-      new maplibregl.Popup({ closeButton: true, closeOnClick: false})
+      new maplibregl.Popup({ closeButton: true, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<h1>test</h1>')
         .addTo(map)
     })
     map.on('click', 'in-progress-lines', (e) => {
-      new maplibregl.Popup({ closeButton: true, closeOnClick: false})
+      new maplibregl.Popup({ closeButton: true, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<h1>test</h1>')
         .addTo(map)
