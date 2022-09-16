@@ -15,6 +15,6 @@
     "nuxt-icon": "^0.1.5"
   },
   "dependencies": {
-    "mapbox-gl": "^2.10.0"
+    "maplibre-gl": "^2.4.0"
   }
 }

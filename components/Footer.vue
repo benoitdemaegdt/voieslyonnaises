@@ -14,7 +14,7 @@
         </a>
       </div>
       <p class="mt-8 text-center text-base text-gray-400">
-        &copy; 2022 Voies Lyonnaises. Tout droit réservé.
+        &copy; 2022 Voies Lyonnaises.
       </p>
     </div>
   </footer>

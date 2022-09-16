@@ -5,13 +5,12 @@
 </template>
 
 <script setup>
-import mapboxgl from 'mapbox-gl'
-import 'mapbox-gl/dist/mapbox-gl.css'
+import maplibregl from 'maplibre-gl';
+import 'maplibre-gl/dist/maplibre-gl.css'
 
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({ pageTransition: false })
 
-const config = useRuntimeConfig()
 const { getGeojsonFeatures } = useGeojson()
 
 const { data: voies } = await useAsyncData(() => {
@@ -21,12 +20,10 @@ const sections = voies.value
   .map(voie => getGeojsonFeatures(voie))
   .flat()
 
-
 onMounted(() => {
-  const map = new mapboxgl.Map({
-    accessToken: config.public.mapboxAccessToken,
+  const map = new maplibregl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v9',
+    style: 'https://openmaptiles.geo.data.gouv.fr/styles/osm-bright/style.json',
     center: [4.8312188, 45.757198],
     zoom: 13
   })
@@ -67,19 +64,23 @@ onMounted(() => {
       }
     })
 
-    map.on('click', ['done-lines', 'in-progress-lines'], (e) => {
-      new mapboxgl.Popup()
-      .setLngLat(e.lngLat)
-      .setHTML(e.features[0].properties.name)
-      .addTo(map)
+    map.on('click', 'done-lines', (e) => {
+      new maplibregl.Popup({ closeButton: true, closeOnClick: false})
+        .setLngLat(e.lngLat)
+        .setHTML('<h1>test</h1>')
+        .addTo(map)
+    })
+    map.on('click', 'in-progress-lines', (e) => {
+      new maplibregl.Popup({ closeButton: true, closeOnClick: false})
+        .setLngLat(e.lngLat)
+        .setHTML('<h1>test</h1>')
+        .addTo(map)
     })
 
-    map.on('mouseenter', ['done-lines', 'in-progress-lines'], () => {
-      map.getCanvas().style.cursor = 'pointer'
-    })
-    map.on('mouseleave', ['done-lines', 'in-progress-lines'], () => {
-      map.getCanvas().style.cursor = ''
-    })
+    map.on('mouseenter', 'done-lines', () => map.getCanvas().style.cursor = 'pointer')
+    map.on('mouseleave', 'done-lines', () => map.getCanvas().style.cursor = '')
+    map.on('mouseenter', 'in-progress-lines', () => map.getCanvas().style.cursor = 'pointer')
+    map.on('mouseleave', 'in-progress-lines', () => map.getCanvas().style.cursor = '')
   })
 })
 </script>
