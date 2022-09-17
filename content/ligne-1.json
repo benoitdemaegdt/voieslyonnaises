@@ -9,19 +9,19 @@
   "avancement": "25%",
   "images": [
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-3_njb0up.jpg",
       "alt": "test"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-2_lm5nmv.jpg",
       "alt": "test"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg",
       "alt": "test"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-4_drrgd7.jpg",
       "alt": "test"
     }
   ],
