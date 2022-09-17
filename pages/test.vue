@@ -22,7 +22,7 @@
       </div>
 
       <!-- Product info -->
-      <div class="max-w-2xl mx-auto pt-10 px-4 sm:px-6 lg:max-w-7xl lg:pt-16 lg:px-8 lg:grid lg:grid-cols-3 lg:grid-rows-[auto,auto,1fr] lg:gap-x-8">
+      <div class="max-w-2xl mx-auto pt-10 px-4 sm:px-6 lg:max-w-7xl lg:pt-16 lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8">
         <div class="lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
           <h1 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
             Ligne {{ voie.line }}
@@ -32,8 +32,6 @@
         <!-- Dernières nouvelles -->
         <div class="mt-4 lg:mt-0 lg:row-span-3">
           <h2 class="text-xl font-bold sm:text-2xl text-gray-900">Dernières nouvelles</h2>
-
-          <!-- Reviews -->
           <div class="mt-6">
             <section aria-labelledby="announcements-title">
               <div class="overflow-hidden">
@@ -50,13 +48,12 @@
                   <div class="mt-6">
                     <button class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </button>
                   </div>
-
               </div>
             </section>
           </div>
         </div>
 
-        <div class="py-10 lg:pt-6 lg:pb-16 lg:col-start-1 lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
+        <div class="py-10 lg:py-6 lg:col-start-1 lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
           <!-- Description and stats -->
           <div>
             <h3 class="sr-only">Description</h3>
@@ -92,9 +89,10 @@
           </div>
 
           <section aria-labelledby="shipping-heading" class="mt-10">
-            <p>insérer carte</p>
+            <Map />
           </section>
         </div>
+
       </div>
 
       <section aria-labelledby="related-products-heading" class="bg-white">
