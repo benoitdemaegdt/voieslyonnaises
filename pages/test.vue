@@ -1,0 +1,115 @@
+<template>
+  <div class="bg-white">
+
+    <main class="pt-10 sm:pt-16">
+
+      <!-- Image gallery -->
+      <div class="mt-6 max-w-2xl mx-auto sm:px-6 lg:max-w-7xl lg:grid lg:grid-cols-3 lg:gap-x-8 lg:px-8">
+        <div class="hidden aspect-w-3 aspect-h-4 rounded-lg overflow-hidden lg:block">
+          <img :src="voie.images[0].src" :alt="voie.images[0].alt" class="w-full h-full object-center object-cover" />
+        </div>
+        <div class="hidden lg:grid lg:grid-cols-1 lg:gap-y-8">
+          <div class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden">
+            <img :src="voie.images[1].src" :alt="voie.images[1].alt" class="w-full h-full object-center object-cover" />
+          </div>
+          <div class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden">
+            <img :src="voie.images[2].src" :alt="voie.images[2].alt" class="w-full h-full object-center object-cover" />
+          </div>
+        </div>
+        <div class="aspect-w-4 aspect-h-5 sm:rounded-lg sm:overflow-hidden lg:aspect-w-3 lg:aspect-h-4">
+          <img :src="voie.images[3].src" :alt="voie.images[3].alt" class="w-full h-full object-center object-cover" />
+        </div>
+      </div>
+
+      <!-- Product info -->
+      <div class="max-w-2xl mx-auto pt-10 px-4 sm:px-6 lg:max-w-7xl lg:pt-16 lg:px-8 lg:grid lg:grid-cols-3 lg:grid-rows-[auto,auto,1fr] lg:gap-x-8">
+        <div class="lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
+          <h1 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
+            Ligne {{ voie.line }}
+          </h1>
+        </div>
+
+        <!-- Dernières nouvelles -->
+        <div class="mt-4 lg:mt-0 lg:row-span-3">
+          <h2 class="text-xl font-bold sm:text-2xl text-gray-900">Dernières nouvelles</h2>
+
+          <!-- Reviews -->
+          <div class="mt-6">
+            <section aria-labelledby="announcements-title">
+              <div class="overflow-hidden">
+                  <div class="flow-root">
+                    <ul role="list" class="-my-5 divide-y divide-gray-200">
+                      <li v-for="(announcement, index) in voie.announcements" :key="index" class="py-5">
+                        <div class="relative focus-within:ring-2 focus-within:ring-cyan-500">
+                          <h3 class="text-sm font-semibold text-gray-800">{{ announcement.title }}</h3>
+                          <p class="mt-1 text-sm text-gray-600 line-clamp-2">{{ announcement.text }}</p>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="mt-6">
+                    <button class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </button>
+                  </div>
+
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="py-10 lg:pt-6 lg:pb-16 lg:col-start-1 lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
+          <!-- Description and stats -->
+          <div>
+            <h3 class="sr-only">Description</h3>
+            <div class="space-y-6">
+              <p class="text-base text-gray-900">{{ voie.description }}</p>
+              <dl class="mt-5 grid grid-cols-1 rounded-lg bg-white overflow-hidden shadow divide-y divide-gray-200 md:grid-cols-3 md:divide-y-0 md:divide-x">
+                <div class="px-4 py-5 sm:p-6">
+                  <dt class="text-base font-normal text-gray-900">Distance</dt>
+                  <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+                    <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
+                      {{ voie.distance }}
+                    </div>
+                  </dd>
+                </div>
+                <div class="px-4 py-5 sm:p-6">
+                  <dt class="text-base font-normal text-gray-900">Fréquentation</dt>
+                  <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+                    <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
+                      {{ voie.trafic }}
+                    </div>
+                  </dd>
+                </div>
+                <div class="px-4 py-5 sm:p-6">
+                  <dt class="text-base font-normal text-gray-900">Avancement</dt>
+                  <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+                    <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
+                      {{ voie.avancement }}
+                    </div>
+                  </dd>
+                </div>
+              </dl>
+            </div>
+          </div>
+
+          <section aria-labelledby="shipping-heading" class="mt-10">
+            <p>insérer carte</p>
+          </section>
+        </div>
+      </div>
+
+      <section aria-labelledby="related-products-heading" class="bg-white">
+        <div class="max-w-2xl mx-auto py-24 px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+          <h2 id="related-products-heading" class="text-xl font-bold tracking-tight text-gray-900">Les autres lignes</h2>
+          <p class="text-md text-gray-500">Choisissez l'une des autres voies lyonnaises pour voir son niveau d'avancement.</p>
+          <HomeLinesSection class="mt-6"/>
+        </div>
+      </section>
+    </main>
+  </div>
+</template>
+
+<script setup>
+const { data: voie } = await useAsyncData(() => {
+  return queryContent('ligne-1').findOne()
+})
+</script>

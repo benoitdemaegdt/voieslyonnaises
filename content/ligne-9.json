@@ -4,6 +4,39 @@
   "from": "Jonage",
   "to": "Saint-Genis-Laval",
   "distance": "37km",
+  "description": "Lorem ipsum.",
   "trafic": "14 000 vélos / jour",
-  "status": "Travaux en cours"
+  "avancement": "25%",
+  "images": [
+    {
+      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+      "alt": "test"
+    },
+    {
+      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+      "alt": "test"
+    },
+    {
+      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+      "alt": "test"
+    },
+    {
+      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+      "alt": "test"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Inauguration de la première section",
+      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+    },
+    {
+      "title": "Début des travaux de la première section",
+      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+    },
+    {
+      "title": "Réunion de concertation",
+      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+    }
+  ]
 }
