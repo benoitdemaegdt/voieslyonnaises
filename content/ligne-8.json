@@ -3,7 +3,7 @@
   "color": "#7E6D98",
   "from": "La Tour-de-Salvagny",
   "to": "Bron",
-  "distance": "28km",
+  "distance": 28000,
   "description": "Lorem ipsum.",
   "trafic": "19 000 vélos / jour",
   "avancement": "25%",

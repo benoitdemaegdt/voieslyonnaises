@@ -3,7 +3,7 @@
   "color": "#75BCAE",
   "from": "Rilleux",
   "to": "Solaize",
-  "distance": "34km",
+  "distance": 34000,
   "description": "Lorem ipsum.",
   "trafic": "18 000 vélos / jour",
   "avancement": "25%",

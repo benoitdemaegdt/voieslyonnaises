@@ -48,7 +48,7 @@
                   <div class="px-6 py-5 text-sm font-medium text-center">
                     <span class="text-gray-600">Distance:</span>
                       {{ ' ' }}
-                    <span class="text-gray-900">{{ voie.distance }}</span>
+                    <span class="text-gray-900">{{ Math.round(voie.distance/1000) }}km</span>
                   </div>
                   <div class="px-6 py-5 text-sm font-medium text-center">
                     <span class="text-gray-600">Trafic:</span>

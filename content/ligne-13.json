@@ -3,7 +3,7 @@
   "color": "#7F5D50",
   "from": "Rillieux",
   "to": "Corbas",
-  "distance": "24km",
+  "distance": 24000,
   "description": "Lorem ipsum.",
   "trafic": "N/A",
   "avancement": "0%",

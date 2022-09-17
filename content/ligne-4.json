@@ -3,7 +3,7 @@
   "color": "#DC8953",
   "from": "Lissieu",
   "to": "Villeurbanne",
-  "distance": "22km",
+  "distance": 22000,
   "description": "Lorem ipsum.",
   "trafic": "18 000 vélos / jour",
   "avancement": "25%",

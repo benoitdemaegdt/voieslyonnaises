@@ -3,7 +3,7 @@
   "color": "#AF7392",
   "from": "Saint-Fons",
   "to": "Bron",
-  "distance": "46km",
+  "distance": 46000,
   "description": "Lorem ipsum.",
   "trafic": "15 000 vélos / jour",
   "avancement": "25%",

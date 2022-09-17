@@ -3,7 +3,7 @@
   "color": "#3B7B64",
   "from": "Quincieux",
   "to": "Givors",
-  "distance": "57km",
+  "distance": 57000,
   "description": "Lorem ipsum.",
   "trafic": "11 000 vélos / jour",
   "avancement": "25%",

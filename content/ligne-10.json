@@ -3,7 +3,7 @@
   "color": "#9A8A4B",
   "from": "Marcy-L'Étoile",
   "to": "Meyzieu",
-  "distance": "31km",
+  "distance": 31000,
   "description": "Lorem ipsum.",
   "trafic": "24 000 vélos / jour",
   "avancement": "25%",

@@ -3,7 +3,7 @@
   "color": "#AC4D35",
   "from": "Cailloux",
   "to": "Mions",
-  "distance": "32km",
+  "distance": 32000,
   "description": "Lorem ipsum.",
   "trafic": "21 000 vélos / jour",
   "avancement": "25%",

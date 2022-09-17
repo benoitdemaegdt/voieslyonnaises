@@ -3,7 +3,7 @@
   "color": "#EAAB50",
   "from": "Jonage",
   "to": "Saint-Genis-Laval",
-  "distance": "37km",
+  "distance": 37000,
   "description": "Lorem ipsum.",
   "trafic": "14 000 vélos / jour",
   "avancement": "25%",

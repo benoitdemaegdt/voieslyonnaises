@@ -3,7 +3,7 @@
   "color": "#DBABB7",
   "from": "Lyon",
   "to": "Saint-Priest",
-  "distance": "20km",
+  "distance": 20000,
   "description": "Lorem ipsum.",
   "trafic": "24 000 vélos / jour",
   "avancement": "25%",

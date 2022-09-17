@@ -76,7 +76,7 @@
                   <dt class="text-base font-normal text-gray-900">Distance</dt>
                   <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
                     <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
-                      {{ voie.distance }}
+                      {{ Math.round(voie.distance/1000) }}km
                     </div>
                   </dd>
                 </div>
@@ -92,7 +92,7 @@
                   <dt class="text-base font-normal text-gray-900">Avancement</dt>
                   <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
                     <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
-                      {{ voie.avancement }}
+                      {{ avancement }}%
                     </div>
                   </dd>
                 </div>
@@ -122,4 +122,9 @@
 const { data: voie } = await useAsyncData(() => {
   return queryContent('ligne-1').findOne()
 })
+
+const avancement = Math.round(voie.value.sections
+  .map(section => section.properties.distance)
+  .reduce((acc, current) => acc + current, 0) * 100 / voie.value.distance);
+
 </script>

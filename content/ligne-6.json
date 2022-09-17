@@ -3,7 +3,7 @@
   "color": "#396083",
   "from": "Rilleux la Pape",
   "to": "Saint-Genis-Laval",
-  "distance": "20km",
+  "distance": 20000,
   "description": "Lorem ipsum.",
   "trafic": "11 000 vélos / jour",
   "avancement": "25%",
