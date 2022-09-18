@@ -69,16 +69,23 @@ onMounted(() => {
       }
     })
 
+    // const allCoordinates = sections.map(section => section.geometry.coordinates).flat()
+    // const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
+    // for (const coord of allCoordinates) {
+    //   bounds.extend(coord);
+    // }
+    // map.fitBounds(bounds, { padding: 20 });
+
     map.on('click', 'done-lines', (e) => {
       new maplibregl.Popup({ closeButton: true, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML('<h1>test</h1>')
+        .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon terminé et pratiquable</p>`)
         .addTo(map)
     })
     map.on('click', 'in-progress-lines', (e) => {
       new maplibregl.Popup({ closeButton: true, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML('<h1>test</h1>')
+        .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon en travaux 🚧</p>`)
         .addTo(map)
     })
 
