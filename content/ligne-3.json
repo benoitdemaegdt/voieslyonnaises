@@ -4,39 +4,315 @@
   "from": "Quincieux",
   "to": "Givors",
   "distance": 57000,
-  "description": "Lorem ipsum.",
+  "description": "La ligne 3 des voies lyonnaises longera la Saône et permettra de relier Givors depuis Genay ou Qincieux. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).",
   "trafic": "11 000 vélos / jour",
   "avancement": "25%",
   "images": [
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg",
+      "alt": "visuel de la ligne 3 des voies lyonnaises à Lyon 5"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-3_dk3bzw.jpg",
+      "alt": "visuel de la ligne 3 des voies lyonnaises à Couzon"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg",
+      "alt": "visuel de la ligne 3 des voies lyonnaises le long de la saône"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-4_ioqvpb.png",
+      "alt": "ligne 3 des voies lyonnaises à Vaise"
     }
   ],
   "announcements": [
     {
-      "title": "Inauguration de la première section",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "title": "Fin prévisionnelle des travaux à Couzon",
+      "date": "Novembre 2022",
+      "text": "Les travaux du tronçon situé à Couzon-au-Mont d’Or sur l'avenue Gabriel Péri devraient se terminer."
     },
     {
-      "title": "Début des travaux de la première section",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "title": "Début des travaux à Couzon",
+      "date": "16 Mai 2022",
+      "text": "Début des travaux du tronçon situé à Couzon-au-Mont d’Or sur l'avenue Gabriel Péri entre chemin des Carrières et l’avenue du général De Gaulle."
+    }
+  ],
+  "sections": [
+    {
+      "properties": {
+        "name": "Chemin des Carrières - Av. G. De Gaulle",
+        "distance": 850,
+        "status": "in-progress"
+      },
+      "coordinates": [
+        [
+          4.831892251968384,
+          45.84692910117725
+        ],
+        [
+          4.831779599189758,
+          45.847328930258776
+        ],
+        [
+          4.831790328025818,
+          45.84762039263795
+        ],
+        [
+          4.832047820091248,
+          45.84865544541195
+        ],
+        [
+          4.83223021030426,
+          45.84913746702572
+        ],
+        [
+          4.832718372344971,
+          45.85017249156991
+        ],
+        [
+          4.833067059516907,
+          45.85097957315623
+        ],
+        [
+          4.833426475524902,
+          45.85190247154294
+        ],
+        [
+          4.834107756614684,
+          45.85434975951034
+        ]
+      ]
     },
     {
-      "title": "Réunion de concertation",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "properties": {
+        "name": "Île Barbe - Laborde",
+        "distance": 1944,
+        "status": "in-progress"
+      },
+      "coordinates": [
+        [
+          4.813299179077148,
+          45.78557924146629
+        ],
+        [
+          4.814404249191284,
+          45.78730000723163
+        ],
+        [
+          4.8150694370269775,
+          45.788122963385696
+        ],
+        [
+          4.815702438354492,
+          45.78875139444901
+        ],
+        [
+          4.816839694976807,
+          45.789611735010276
+        ],
+        [
+          4.819285869598389,
+          45.791324895360056
+        ],
+        [
+          4.820873737335205,
+          45.79260412049421
+        ],
+        [
+          4.82175350189209,
+          45.79335219176213
+        ],
+        [
+          4.823105335235596,
+          45.79413017522907
+        ],
+        [
+          4.825862646102905,
+          45.79564122746802
+        ],
+        [
+          4.829006195068359,
+          45.79724200049122
+        ],
+        [
+          4.8304760456085205,
+          45.79793764919972
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "name": "Laborde - Pont Georges Clemenceau",
+        "distance": 1275,
+        "status": "done"
+      },
+      "coordinates": [
+        [
+          4.80852484703064,
+          45.775096386242744
+        ],
+        [
+          4.807741641998291,
+          45.77691475294567
+        ],
+        [
+          4.80802059173584,
+          45.7785534770772
+        ],
+        [
+          4.809082746505737,
+          45.78042410785765
+        ],
+        [
+          4.810895919799805,
+          45.782601443045245
+        ],
+        [
+          4.81325626373291,
+          45.78554931463521
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "name": "Pont Maréchal Koenig - Pont Kitchener Marchand",
+        "distance": 3321,
+        "status": "done"
+      },
+      "coordinates": [
+        [
+          4.821635484695435,
+          45.7517254720919
+        ],
+        [
+          4.8224616050720215,
+          45.75258638397264
+        ],
+        [
+          4.8231858015060425,
+          45.75330504806818
+        ],
+        [
+          4.823464751243591,
+          45.753634432685836
+        ],
+        [
+          4.8243337869644165,
+          45.75555455658702
+        ],
+        [
+          4.824521541595459,
+          45.7560298986956
+        ],
+        [
+          4.825074076652527,
+          45.75671857614265
+        ],
+        [
+          4.825648069381714,
+          45.757351103918374
+        ],
+        [
+          4.827225208282471,
+          45.758923035387
+        ],
+        [
+          4.827917218208313,
+          45.759611677128305
+        ],
+        [
+          4.828421473503113,
+          45.76057351576926
+        ],
+        [
+          4.828689694404602,
+          45.761333244297774
+        ],
+        [
+          4.82896864414215,
+          45.761999401687184
+        ],
+        [
+          4.829397797584534,
+          45.76297242627651
+        ],
+        [
+          4.829429984092712,
+          45.76381819540227
+        ],
+        [
+          4.829392433166504,
+          45.76449929219189
+        ],
+        [
+          4.829226136207581,
+          45.76470885876194
+        ],
+        [
+          4.829108119010925,
+          45.76558079693172
+        ],
+        [
+          4.828834533691406,
+          45.76626935649937
+        ],
+        [
+          4.8276329040527335,
+          45.76712630191625
+        ],
+        [
+          4.826565384864807,
+          45.76745560495055
+        ],
+        [
+          4.8258572816848755,
+          45.76748554149364
+        ],
+        [
+          4.824162125587463,
+          45.7674107001058
+        ],
+        [
+          4.8225849866867065,
+          45.76735456899902
+        ],
+        [
+          4.820423126220703,
+          45.76679325482476
+        ],
+        [
+          4.819130301475525,
+          45.76650885348723
+        ],
+        [
+          4.81724739074707,
+          45.766643570091006
+        ],
+        [
+          4.815959930419921,
+          45.766871839149175
+        ],
+        [
+          4.8146456480026245,
+          45.76733585861756
+        ],
+        [
+          4.813599586486816,
+          45.767732517361026
+        ],
+        [
+          4.8130738735198975,
+          45.76816285148702
+        ],
+        [
+          4.812821745872498,
+          45.76858195631421
+        ],
+        [
+          4.812660813331604,
+          45.769955250959505
+        ]
+      ]
     }
   ]
 }
