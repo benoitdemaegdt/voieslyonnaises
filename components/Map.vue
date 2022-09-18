@@ -23,6 +23,8 @@ onMounted(() => {
     center: [4.8312188, 45.757198],
     zoom: 13
   })
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
+  map.addControl(new maplibregl.FullscreenControl(), 'top-right');
 
   map.on('load', () => {
     map.addSource('done-lines', {
