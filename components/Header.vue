@@ -31,13 +31,12 @@
           </NuxtLink>
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
-          <a
-            href="https://github.com/benoitdemaegdt/voieslyonnaises"
-            target="_blank"
+          <NuxtLink
+            to="/contribuer"
             class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-official hover:bg-green-700"
           >
             Contribuer
-        </a>
+        </NuxtLink>
         </div>
       </div>
     </div>
