@@ -6,15 +6,12 @@
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css'
 
-// https://github.com/nuxt/framework/issues/3587
-definePageMeta({ pageTransition: false })
+const { voie } = defineProps({
+  voie: { type: Object, required: true },
+})
 
 const { getGeojsonFeatures } = useGeojson()
-
-const { data: voie } = await useAsyncData(() => {
-  return queryContent('ligne-1').findOne()
-})
-const sections = getGeojsonFeatures(voie.value).flat()
+const sections = getGeojsonFeatures(voie).flat()
 
 onMounted(() => {
   const map = new maplibregl.Map({

@@ -1,191 +1,141 @@
 
 <template>
-  <div class="min-h-full">
-    <Popover as="header" class="pb-24 bg-gradient-to-r from-sky-800 to-cyan-600" v-slot="{ open }">
-      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-        <div class="relative flex flex-wrap items-center justify-center lg:justify-between">
+  <div class="bg-white">
 
-          <div class="w-full py-5 lg:border-t lg:border-white lg:border-opacity-20">
-            <div class="lg:grid lg:grid-cols-3 lg:gap-8 lg:items-center">
-              <div class="px-12 lg:px-0"></div>
+    <main class="pt-10 sm:pt-16">
+
+      <!-- Image gallery -->
+      <div class="mt-6 max-w-2xl mx-auto sm:px-6 lg:max-w-7xl lg:grid lg:grid-cols-3 lg:gap-x-8 lg:px-8">
+        <div class="hidden aspect-w-3 aspect-h-4 rounded-lg overflow-hidden lg:block">
+          <img :src="voie.images[0].src" :alt="voie.images[0].alt" class="w-full h-full object-center object-cover" />
+        </div>
+        <div class="hidden lg:grid lg:grid-cols-1 lg:gap-y-8">
+          <div class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden">
+            <img :src="voie.images[1].src" :alt="voie.images[1].alt" class="w-full h-full object-center object-cover" />
+          </div>
+          <div class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden">
+            <img :src="voie.images[2].src" :alt="voie.images[2].alt" class="w-full h-full object-center object-cover" />
+          </div>
+        </div>
+        <div class="aspect-w-4 aspect-h-5 sm:rounded-lg sm:overflow-hidden lg:aspect-w-3 lg:aspect-h-4">
+          <img :src="voie.images[3].src" :alt="voie.images[3].alt" class="w-full h-full object-center object-cover" />
+        </div>
+      </div>
+
+      <!-- Product info -->
+      <div class="max-w-2xl mx-auto pt-10 px-4 sm:px-6 lg:max-w-7xl lg:pt-16 lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8">
+        <div class="lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
+          <h1 class="flex items-center text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
+            <div>Ligne</div>
+            <div
+              class="ml-2 h-9 w-9 rounded-full flex items-center justify-center text-white font-bold"
+              :style="`background-color: ${voie.color}`"
+            >
+            {{ voie.line }}
+            </div>
+          </h1>
+        </div>
+
+        <!-- Dernières nouvelles -->
+        <div class="mt-4 lg:mt-0 lg:row-span-3">
+          <h2 class="text-xl font-bold sm:text-2xl text-gray-900">Dernières nouvelles</h2>
+          <div class="mt-6">
+            <section aria-labelledby="announcements-title" class="flex flex-col gap-16">
+              <div class="overflow-hidden">
+                  <div class="flow-root">
+                    <ul role="list" class="-my-5">
+                      <li v-for="(announcement, index) in voie.announcements" :key="index" class="py-5">
+                        <div class="relative">
+                          <time class="relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 pl-3.5" datetime="2022-09-05">
+                            <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
+                              <span class="h-4 w-0.5 bg-zinc-200"></span>
+                            </span>
+                            {{ announcement.date}}
+                          </time>
+                          <h3 class="text-sm font-semibold text-gray-800">{{ announcement.title }}</h3>
+                          <p class="mt-1 text-sm text-gray-600 line-clamp-2">{{ announcement.text }}</p>
+                          <NuxtLink v-if="announcement.link" :to="announcement.link" target="_blank" area-hidden="true" class="relative z-10 mt-2 flex items-center text-sm font-medium" :style="`color: ${voie.color}`">
+                            {{ announcement.anchor }}
+                            <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" class="ml-1 h-4 w-4 stroke-current">
+                              <path d="M6.75 5.75 9.25 8l-2.5 2.25" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                          </NuxtLink>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="mt-6">
+                    <button class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </button>
+                  </div>
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <div class="py-10 lg:py-6 lg:col-start-1 lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
+          <!-- Description and stats -->
+          <div>
+            <h3 class="sr-only">Description</h3>
+            <div class="space-y-6">
+              <p class="text-base text-gray-900">{{ voie.description }}</p>
+              <dl class="mt-5 grid grid-cols-1 rounded-lg bg-white overflow-hidden shadow divide-y divide-gray-200 md:grid-cols-3 md:divide-y-0 md:divide-x">
+                <div class="px-4 py-5 sm:p-6">
+                  <dt class="text-base font-normal text-gray-900">Distance</dt>
+                  <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+                    <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
+                      {{ Math.round(voie.distance/1000) }}km
+                    </div>
+                  </dd>
+                </div>
+                <div class="px-4 py-5 sm:p-6">
+                  <dt class="text-base font-normal text-gray-900">Fréquentation</dt>
+                  <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+                    <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
+                      {{ voie.trafic }}
+                    </div>
+                  </dd>
+                </div>
+                <div class="px-4 py-5 sm:p-6">
+                  <dt class="text-base font-normal text-gray-900">Avancement</dt>
+                  <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+                    <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
+                      {{ avancement }}%
+                    </div>
+                  </dd>
+                </div>
+              </dl>
             </div>
           </div>
+
+          <section aria-labelledby="shipping-heading" class="mt-10">
+            <Map :voie="voie"/>
+          </section>
         </div>
+
       </div>
-    </Popover>
 
-    <main class="-mt-24 pb-8">
-      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-        <h1 class="sr-only">Profile</h1>
-        <!-- Main 3 column grid -->
-        <div class="grid grid-cols-1 gap-4 items-start lg:grid-cols-3 lg:gap-8">
-          <!-- Left column -->
-          <div class="grid grid-cols-1 gap-4 lg:col-span-2">
-            <!-- Welcome panel -->
-            <section aria-labelledby="profile-overview-title">
-              <div class="rounded-lg bg-white overflow-hidden shadow">
-                <h2 class="sr-only" id="profile-overview-title">Profile Overview</h2>
-                <div class="bg-white p-6">
-                  <div class="sm:flex sm:items-center sm:justify-between">
-                    <div class="sm:flex sm:space-x-5">
-                      <div class="flex-shrink-0">
-                        <div
-                          class="h-20 w-20 rounded-full flex items-center justify-center bg-ligne1 text-white text-3xl font-bold"
-                          :style="`background-color: ${voie.color}`"
-                        >
-                          {{ voie.line }}
-                        </div>
-                      </div>
-                      <div class="mt-4 text-center sm:mt-0 sm:pt-1 sm:text-left">
-                        <p class="text-sm font-medium text-gray-600">Voie Lyonnaise</p>
-                        <p class="text-xl font-bold text-gray-900 sm:text-2xl"> Ligne {{ voie.line }}</p>
-                        <p class="text-sm font-medium text-gray-600">{{ voie.from }} → {{ voie.to }}</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="border-t border-gray-200 bg-gray-50 grid grid-cols-1 divide-y divide-gray-200 sm:grid-cols-3 sm:divide-y-0 sm:divide-x">
-                  <div class="px-6 py-5 text-sm font-medium text-center">
-                    <span class="text-gray-600">Distance:</span>
-                      {{ ' ' }}
-                    <span class="text-gray-900">{{ Math.round(voie.distance/1000) }}km</span>
-                  </div>
-                  <div class="px-6 py-5 text-sm font-medium text-center">
-                    <span class="text-gray-600">Trafic:</span>
-                      {{ ' ' }}
-                    <span class="text-gray-900">{{ voie.trafic }}</span>
-                  </div>
-                  <div class="px-6 py-5 text-sm font-medium text-center">
-                    <span class="text-gray-600">État:</span>
-                      {{ ' ' }}
-                    <span class="text-gray-900">{{ voie.status }}</span>
-                  </div>
-                </div>
-              </div>
-            </section>
-
-            <!-- Map panel -->
-            <section aria-labelledby="quick-links-title">
-              <div class="rounded-lg bg-gray-200 overflow-hidden shadow divide-y divide-gray-200 sm:divide-y-0 sm:grid sm:grid-cols-2 sm:gap-px">
-                <h2 class="sr-only" id="quick-links-title">Quick links</h2>
-                <p>Map : work in progress</p>
-              </div>
-            </section>
-          </div>
-
-          <!-- Right column -->
-          <div class="grid grid-cols-1 gap-4">
-            <!-- Announcements -->
-            <section aria-labelledby="announcements-title">
-              <div class="rounded-lg bg-white overflow-hidden shadow">
-                <div class="p-6">
-                  <h2 class="text-base font-medium text-gray-900" id="announcements-title">Actualités</h2>
-                  <div class="flow-root mt-6">
-                    <ul role="list" class="-my-5 divide-y divide-gray-200">
-                      <li v-for="announcement in announcements" :key="announcement.id" class="py-5">
-                        <div class="relative focus-within:ring-2 focus-within:ring-cyan-500">
-                          <h3 class="text-sm font-semibold text-gray-800">
-                            <a :href="announcement.href" class="hover:underline focus:outline-none">
-                              <!-- Extend touch target to entire panel -->
-                              <span class="absolute inset-0" aria-hidden="true" />
-                              {{ announcement.title }}
-                            </a>
-                          </h3>
-                          <p class="mt-1 text-sm text-gray-600 line-clamp-2">
-                            {{ announcement.preview }}
-                          </p>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="mt-6">
-                    <a href="#" class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </a>
-                  </div>
-                </div>
-              </div>
-            </section>
-
-            <!-- Other lines -->
-            <section aria-labelledby="other-lines-title">
-              <div class="rounded-lg bg-white overflow-hidden shadow">
-                <div class="p-6">
-                  <h2 class="text-base font-medium text-gray-900" id="other-lines-title">Autres lignes</h2>
-                  <div class="flow-root mt-6">
-                    <ul role="list" class="-my-5 divide-y divide-gray-200">
-                      <li v-for="voie in otherLines" :key="voie.line" class="py-4">
-                        <div class="flex items-center space-x-4">
-                          <div class="flex-shrink-0">
-                            <div class="flex-shrink-0">
-                              <div
-                                class="h-8 w-8 rounded-full flex items-center justify-center text-white font-bold"
-                                :style="`background-color: ${voie.color}`"
-                              >
-                                {{ voie.line }}
-                              </div>
-                            </div>
-                          </div>
-                          <div class="flex-1 min-w-0">
-                            <p class="text-sm font-medium text-gray-900 truncate">
-                              Ligne {{ voie.line }}
-                            </p>
-                            <p class="text-sm text-gray-500 truncate">
-                              {{ voie.from }} → {{ voie.to }}
-                            </p>
-                          </div>
-                          <div>
-                            <NuxtLink :to="voie._path" class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50"> Voir </NuxtLink>
-                          </div>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="mt-6">
-                    <a href="#" class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </a>
-                  </div>
-                </div>
-              </div>
-            </section>
-          </div>
+      <section aria-labelledby="related-products-heading" class="bg-white">
+        <div class="max-w-2xl mx-auto py-24 px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+          <h2 id="related-products-heading" class="text-xl font-bold tracking-tight text-gray-900">Les autres lignes</h2>
+          <p class="text-md text-gray-500">Choisissez l'une des autres voies lyonnaises pour voir son niveau d'avancement.</p>
+          <HomeLinesSection class="mt-6"/>
         </div>
-      </div>
+      </section>
     </main>
   </div>
 </template>
 
 <script setup>
-import { Popover } from '@headlessui/vue'
-
 const { path } = useRoute()
+
+// https://github.com/nuxt/framework/issues/3587
+definePageMeta({ pageTransition: false })
 
 const { data: voie } = await useAsyncData(`${path}`, () => {
   return queryContent().where({ _path: path }).findOne()
 })
 
-const { data: otherLines } = await useAsyncData(`surround-${path}`, () => {
-  return queryContent().where({ _path: { $ne: path } }).limit(4).find()
-})
-
-const announcements = [
-  {
-    id: 1,
-    title: 'Inauguration de la première portion',
-    href: '#',
-    preview:
-      'Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores.',
-  },
-  {
-    id: 2,
-    title: 'Début des travaux de la première portion',
-    href: '#',
-    preview:
-      'Alias inventore ut autem optio voluptas et repellendus. Facere totam quaerat quam quo laudantium cumque eaque excepturi vel. Accusamus maxime ipsam reprehenderit rerum id repellendus rerum. Culpa cum vel natus. Est sit autem mollitia.',
-  },
-  {
-    id: 3,
-    title: 'Réunion de concertation',
-    href: '#',
-    preview:
-      'Tenetur libero voluptatem rerum occaecati qui est molestiae exercitationem. Voluptate quisquam iure assumenda consequatur ex et recusandae. Alias consectetur voluptatibus. Accusamus a ab dicta et. Consequatur quis dignissimos voluptatem nisi.',
-  },
-]
+const avancement = Math.round(voie.value.sections
+  .map(section => section.properties.distance || 0)
+  .reduce((acc, current) => acc + current, 0) * 100 / voie.value.distance);
 </script>
