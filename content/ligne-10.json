@@ -9,33 +9,36 @@
   "avancement": "25%",
   "images": [
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
       "alt": "test"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
       "alt": "test"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
       "alt": "test"
     },
     {
-      "src": "https://tailwindui.com/img/ecommerce-images/product-page-02-featured-product-shot.jpg",
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
       "alt": "test"
     }
   ],
   "announcements": [
     {
       "title": "Inauguration de la première section",
+      "date": "23 juin 2022",
       "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
     },
     {
       "title": "Début des travaux de la première section",
+      "date": "23 juin 2022",
       "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
     },
     {
       "title": "Réunion de concertation",
+      "date": "23 juin 2022",
       "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
     }
   ],
