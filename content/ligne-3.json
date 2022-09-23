@@ -4,7 +4,7 @@
   "from": "Quincieux",
   "to": "Givors",
   "distance": 57000,
-  "description": "La ligne 3 des voies lyonnaises longera la Saône et permettra de relier Givors depuis Genay ou Qincieux. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).",
+  "description": "La voie lyonnaise n°3 longera la Saône et permettra de relier Givors depuis Genay ou Qincieux. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).",
   "trafic": "11 000 vélos / jour",
   "avancement": "25%",
   "images": [
@@ -26,6 +26,13 @@
     }
   ],
   "announcements": [
+    {
+      "title": "Début prévisionnel des travaux du tronçon île barbe - Pont Marchand",
+      "date": "Début 2024",
+      "text": "Ce tronçon déjà largement cyclable (excepté les sections Pont Koenig - Pont Clemenceau et île Barbe - Laborde) devrait être adapté aux standards d'une voie lyonnaise.",
+      "link": "https://jeparticipe.grandlyon.com/project/voie-lyonnaise-ndeg3-section-centre-pont-de-lile-barbe-lyon-9eme-et-le-pont-kitchener-marchand-lyon-5eme/presentation/comprendre-le-projet-pour-participer",
+      "anchor": "lien"
+    },
     {
       "title": "Fin prévisionnelle des travaux à Couzon",
       "date": "Novembre 2022",
