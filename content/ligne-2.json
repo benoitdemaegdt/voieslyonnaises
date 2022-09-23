@@ -4,7 +4,7 @@
   "from": "Cailloux",
   "to": "Mions",
   "distance": 32000,
-  "description": "Lorem ipsum.",
+  "description": "La voie lyonnaise n°2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Elle transformera plusieurs axes routiers majeurs puisqu'elle passera par le boulevard Stalingrad (le long du parc de la tête d'or), le boulevard Vivier Merle ainsi que le boulevard des Tchécoslovaques plus au sud.",
   "trafic": "21 000 vélos / jour",
   "avancement": "25%",
   "images": [
@@ -32,6 +32,11 @@
       "text": "Les travaux devraient commencer pour la section située entre le pont Poincaré et l'avenue Berthelot en passant par la Part Dieu. Ce premier tronçon devrait être livré pour l'été 2024."
     },
     {
+      "title": "Création d'une piste cyclable temporaire sur le boulevard Stalingrad",
+      "date": "20 septembre 2022",
+      "text": "Cette piste cyclable temporaire est située sur la chaussée et réduit donc la circulation automobile à une voie. La voie lyonnaise n°2 devrait quant à elle être située sur la contre-allée (aujourd'hui un parking)."
+    },
+    {
       "title": "Fin de la concertation publique",
       "date": "8 juillet 2022",
       "text": "Le dossier de concertation était consultable du 7 juin au 8 juillet 2022 dans toutes les mairies concernées (Caluire, Villeurbanne, Lyon 3e , 6e et 7e)."
@@ -43,6 +48,27 @@
     }
   ],
   "sections": [
+    {
+      "properties": {
+        "name": "Boulevard Stalingrad",
+        "distance": 746,
+        "status": "in-progress"
+      },
+      "coordinates": [
+        [
+          4.859486818313599,
+          45.77961600306019
+        ],
+        [
+          4.859111309051514,
+          45.77636850086642
+        ],
+        [
+          4.858757257461548,
+          45.77293372478248
+        ]
+      ]
+    },
     {
       "properties": {
         "name": "Part Dieu",

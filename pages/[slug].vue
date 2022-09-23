@@ -64,7 +64,7 @@
                       </li>
                     </ul>
                   </div>
-                  <div v-if="voie.announcements.length > 3" class="mt-6">
+                  <div v-if="voie.announcements.length > 4" class="mt-6">
                     <button class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50"> Tout voir </button>
                   </div>
               </div>

@@ -67,13 +67,13 @@ onMounted(() => {
     map.fitBounds(bounds, { padding: 20 });
 
     map.on('click', 'done-lines', (e) => {
-      new maplibregl.Popup({ closeButton: true, closeOnClick: true })
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon terminé et pratiquable</p>`)
         .addTo(map)
     })
     map.on('click', 'in-progress-lines', (e) => {
-      new maplibregl.Popup({ closeButton: true, closeOnClick: true })
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon en travaux 🚧</p>`)
         .addTo(map)
