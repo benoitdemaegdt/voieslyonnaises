@@ -9,38 +9,108 @@
   "avancement": "25%",
   "images": [
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-1_ypzsvx.jpg",
+      "alt": "visualisation de la voie lyonnaise 4"
     },
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg",
+      "alt": "visualisation de la voie lyonnaise 4"
     },
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-3_zbyqwq.jpg",
+      "alt": "visualisation de la voie lyonnaise 4"
     },
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-4_mms9pp.jpg",
+      "alt": "visualisation de la voie lyonnaise 4"
     }
   ],
   "announcements": [
     {
-      "title": "Inauguration de la première section",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
-    },
-    {
-      "title": "Début des travaux de la première section",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "title": "Début des travaux sur la section Lyon - Villeurbanne",
+      "date": "Octobre 2023",
+      "text": "Ces travaux concernent l'avenue Verguin, le cours André Philip et la rue Francis de Pressensé jusqu’au croisement avec la rue Flachet."
     },
     {
       "title": "Réunion de concertation",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "date": "14 octobre 2022",
+      "text": "Réunion de concertation à 18h30 à la mairie de Lyon 6."
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "properties": {
+        "name": "Pont Georges Clemenceau",
+        "distance": 163,
+        "status": "in-progress"
+      },
+      "coordinates": [
+        [
+          4.810785949230194,
+          45.77483634747536
+        ],
+        [
+          4.809173941612244,
+          45.774993493350266
+        ],
+        [
+          4.808707237243652,
+          45.775036521310206
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "name": "Tunnel de la croix-rousse",
+        "distance": 2353,
+        "status": "done"
+      },
+      "coordinates": [
+        [
+          4.810793995857239,
+          45.77483447668846
+        ],
+        [
+          4.813460111618042,
+          45.77459875703791
+        ],
+        [
+          4.816051125526428,
+          45.77463617292199
+        ],
+        [
+          4.820396304130554,
+          45.77428446262061
+        ],
+        [
+          4.823561310768127,
+          45.7740449990185
+        ],
+        [
+          4.82625424861908,
+          45.77381301767344
+        ],
+        [
+          4.830760359764099,
+          45.77346130218066
+        ],
+        [
+          4.8352450132369995,
+          45.77310210109009
+        ],
+        [
+          4.838597774505615,
+          45.77273915597167
+        ],
+        [
+          4.838678240776062,
+          45.77261193753607
+        ],
+        [
+          4.840775728225708,
+          45.77244355974861
+        ]
+      ]
+    }
+  ]
 }
