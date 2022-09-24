@@ -1641,25 +1641,6 @@
       }
     },
     {
-      "id": "boundary-land-level-4",
-      "type": "line",
-      "source": "openmaptiles",
-      "source-layer": "boundary",
-      "minzoom": 2,
-      "filter": [
-        "all",
-        [">=", "admin_level", 3],
-        ["<=", "admin_level", 8],
-        ["!=", "maritime", 1]
-      ],
-      "layout": {"line-join": "round", "visibility": "none"},
-      "paint": {
-        "line-color": "#9e9cab",
-        "line-dasharray": [3, 1, 1, 1],
-        "line-width": {"base": 1.4, "stops": [[4, 0.4], [5, 1], [12, 3]]}
-      }
-    },
-    {
       "id": "boundary-land-level-2",
       "type": "line",
       "source": "openmaptiles",
