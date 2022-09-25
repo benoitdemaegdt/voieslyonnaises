@@ -26,7 +26,7 @@ onMounted(() => {
   map.addControl(new maplibregl.AttributionControl({ compact: true }));
 
   map.on('load', () => {
-    map.addSource('done-lines', {
+    map.addSource('done-sections', {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
@@ -34,16 +34,16 @@ onMounted(() => {
       }
     })
     map.addLayer({
-      id: 'done-lines',
+      id: 'done-sections',
       type: 'line',
-      source: 'done-lines',
+      source: 'done-sections',
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
       }
     })
 
-    map.addSource('in-progress-lines', {
+    map.addSource('in-progress-sections', {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
@@ -51,9 +51,9 @@ onMounted(() => {
       }
     })
     map.addLayer({
-      id: 'in-progress-lines',
+      id: 'in-progress-sections',
       type: 'line',
-      source: 'in-progress-lines',
+      source: 'in-progress-sections',
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
@@ -61,8 +61,25 @@ onMounted(() => {
       }
     })
 
+    map.addSource('not-started-sections', {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: sections.filter(({ properties }) => properties.status === 'not-started')
+      }
+    })
+    map.addLayer({
+      id: 'not-started-sections',
+      type: 'line',
+      source: 'not-started-sections',
+      paint: {
+        'line-width': 3,
+        'line-color': ['get', 'color'],
+        'line-dasharray': [1.5, 1.5],
+      }
+    })
+
     const allCoordinates = sections
-      .filter(({ properties }) => ['in-progress', 'done'].includes(properties.status))
       .map(section => section.geometry.coordinates)
       .flat()
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
@@ -71,23 +88,31 @@ onMounted(() => {
     }
     map.fitBounds(bounds, { padding: 20 });
 
-    map.on('click', 'done-lines', (e) => {
+    map.on('click', 'done-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon terminé et pratiquable</p>`)
         .addTo(map)
     })
-    map.on('click', 'in-progress-lines', (e) => {
+    map.on('click', 'in-progress-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon en travaux 🚧</p>`)
         .addTo(map)
     })
+    map.on('click', 'not-started-sections', (e) => {
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon en étude</p>`)
+        .addTo(map)
+    })
 
-    map.on('mouseenter', 'done-lines', () => map.getCanvas().style.cursor = 'pointer')
-    map.on('mouseleave', 'done-lines', () => map.getCanvas().style.cursor = '')
-    map.on('mouseenter', 'in-progress-lines', () => map.getCanvas().style.cursor = 'pointer')
-    map.on('mouseleave', 'in-progress-lines', () => map.getCanvas().style.cursor = '')
+    map.on('mouseenter', 'done-sections', () => map.getCanvas().style.cursor = 'pointer')
+    map.on('mouseleave', 'done-sections', () => map.getCanvas().style.cursor = '')
+    map.on('mouseenter', 'in-progress-sections', () => map.getCanvas().style.cursor = 'pointer')
+    map.on('mouseleave', 'in-progress-sections', () => map.getCanvas().style.cursor = '')
+    map.on('mouseenter', 'not-started-sections', () => map.getCanvas().style.cursor = 'pointer')
+    map.on('mouseleave', 'not-started-sections', () => map.getCanvas().style.cursor = '')
   })
 })
 </script>
