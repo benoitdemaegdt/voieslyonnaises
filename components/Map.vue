@@ -18,10 +18,12 @@ onMounted(() => {
     container: 'map',
     style: 'https://raw.githubusercontent.com/benoitdemaegdt/voieslyonnaises/main/style.json',
     center: [4.8312188, 45.757198],
-    zoom: 13
+    zoom: 13,
+    attributionControl: false
   })
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
   map.addControl(new maplibregl.FullscreenControl(), 'top-right');
+  map.addControl(new maplibregl.AttributionControl({ compact: true }));
 
   map.on('load', () => {
     map.addSource('done-lines', {
@@ -59,7 +61,10 @@ onMounted(() => {
       }
     })
 
-    const allCoordinates = sections.map(section => section.geometry.coordinates).flat()
+    const allCoordinates = sections
+      .filter(({ properties }) => ['in-progress', 'done'].includes(properties.status))
+      .map(section => section.geometry.coordinates)
+      .flat()
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
     for (const coord of allCoordinates) {
       bounds.extend(coord);
