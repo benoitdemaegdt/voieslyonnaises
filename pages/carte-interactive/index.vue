@@ -65,7 +65,7 @@ onMounted(() => {
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
-        'line-dasharray': [1, 1],
+        'line-dasharray': [0.8, 0.8],
       }
     })
 
@@ -83,7 +83,7 @@ onMounted(() => {
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
-        'line-dasharray': [2, 2],
+        'line-dasharray': [1.5, 1.5],
       }
     })
 
