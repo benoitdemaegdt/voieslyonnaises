@@ -11,6 +11,8 @@ const { voie } = defineProps({
 })
 
 const { getGeojsonFeatures } = useGeojson()
+const { getTooltipHtml } = useTooltip()
+
 const sections = getGeojsonFeatures(voie).flat()
 
 onMounted(() => {
@@ -91,19 +93,19 @@ onMounted(() => {
     map.on('click', 'done-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon terminé et pratiquable</p>`)
+        .setHTML(getTooltipHtml(e.features[0].properties))
         .addTo(map)
     })
     map.on('click', 'in-progress-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon en travaux 🚧</p>`)
+        .setHTML(getTooltipHtml(e.features[0].properties))
         .addTo(map)
     })
     map.on('click', 'not-started-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(`<h1 class="text-sm font-semibold text-gray-800">${e.features[0].properties.name}</h1><p>tronçon en étude</p>`)
+        .setHTML(getTooltipHtml(e.features[0].properties))
         .addTo(map)
     })
 
