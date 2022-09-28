@@ -10,19 +10,19 @@
   "images": [
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
+      "alt": "logo des voies lyonnaises"
+    },
+    {
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349687/voieslyonnaises/ligne12/ligne12_vdqyfi.jpg",
+      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
+    },
+    {
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349687/voieslyonnaises/ligne12/ligne12_vdqyfi.jpg",
+      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
     },
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "test"
+      "alt": "logo des voies lyonnaises"
     }
   ],
   "announcements": [
