@@ -10,24 +10,24 @@
   "images": [
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-3_njb0up.jpg",
-      "alt": "test"
+      "alt": "Photo du premier tronçon inauguré de la voie lyonnaise 1"
     },
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-2_lm5nmv.jpg",
-      "alt": "test"
+      "alt": "illustration de la voie lyonnaise 1"
     },
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg",
-      "alt": "test"
+      "alt": "illustration de la voie lyonnaise 1"
     },
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-4_drrgd7.jpg",
-      "alt": "test"
+      "alt": "Photo du premier tronçon inauguré de la voie lyonnaise 1"
     }
   ],
   "announcements": [
     {
-      "title": "Inauguration de la première section",
+      "title": "Inauguration du 1er tronçon",
       "date": "8 juillet 2022",
       "text": "Fin des travaux de la 1ère section de la ligne 1 des voies lyonnaises. Inauguration par Bruno Bernard (président de la Métropole de Lyon) et Grégory Doucet (maire de Lyon).",
       "link": "https://www.lyon.fr/actualite/deplacements/inauguration-du-1er-troncon-de-la-voie-lyonnaise-1#:~:text=La%20construction%20de%20la%20premi%C3%A8re,une%20longueur%20de%2017%20km.",
@@ -41,7 +41,7 @@
       "anchor": "dossier de concertation"
     },
     {
-      "title": "Début des travaux de la première section",
+      "title": "Début des travaux du 1er tronçon",
       "date": "22 février 2022",
       "text": "Lancement des travaux de la voie lyonnaise n°1. Cette 1ère section se situe le long du Rhône entre le pont de la Guillotière et le pont de l’Université. Les travaux devraient durer 4 mois."
     }
