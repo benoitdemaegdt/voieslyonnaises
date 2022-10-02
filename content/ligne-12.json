@@ -30,17 +30,53 @@
       "title": "Inauguration de la première section",
       "date": "23 juin 2022",
       "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
-    },
-    {
-      "title": "Début des travaux de la première section",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
-    },
-    {
-      "title": "Réunion de concertation",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "properties": {
+        "name": "Pont de la guillotière - Cours Gambetta",
+        "distance": 1933,
+        "status": "not-started"
+      },
+      "coordinates": [
+        [
+          4.859395623207092,
+          45.74971163504711
+        ],
+        [
+          4.858998656272888,
+          45.74980521644522
+        ],
+        [
+          4.858574867248535,
+          45.749966176082985
+        ],
+        [
+          4.855780005455017,
+          45.750894492377064
+        ],
+        [
+          4.849530458450317,
+          45.753061751363674
+        ],
+        [
+          4.844369888305664,
+          45.75484340728971
+        ],
+        [
+          4.841376543045044,
+          45.75592884205079
+        ],
+        [
+          4.838147163391113,
+          45.75695437135881
+        ],
+        [
+          4.836999177932739,
+          45.757253792419554
+        ]
+      ]
+    }
+  ]
 }
