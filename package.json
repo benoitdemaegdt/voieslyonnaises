@@ -8,7 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@headlessui/vue": "^1.7.2",
+    "@headlessui/vue": "^1.7.3",
     "@nuxt/content": "^2.1.1",
     "@nuxtjs/tailwindcss": "^5.3.3",
     "@tailwindcss/typography": "^0.5.7",
