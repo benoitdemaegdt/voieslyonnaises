@@ -13,7 +13,8 @@
     "@nuxtjs/tailwindcss": "^5.3.5",
     "@tailwindcss/typography": "^0.5.7",
     "nuxt": "^3.0.0-rc.11",
-    "nuxt-icon": "^0.1.6"
+    "nuxt-icon": "^0.1.6",
+    "sitemap": "^7.1.1"
   },
   "dependencies": {
     "maplibre-gl": "^2.4.0"

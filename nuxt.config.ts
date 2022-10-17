@@ -16,6 +16,11 @@ export default defineNuxtConfig({
   },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
   tailwindcss: { viewer: false },
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml']
+    }
+  },
   build: {
     transpile: ['@headlessui/vue'],
   },
