@@ -27,9 +27,11 @@
   ],
   "announcements": [
     {
-      "title": "Inauguration de la première section",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "title": "Réunion de concertation",
+      "date": "Fin 2022",
+      "text": "Bruno Bernard, président de la métropole de Lyon annonce qu'une réunion de concertation sur la voie lyonnaise n°7 se tiendra fin 2022.",
+      "link": "https://twitter.com/brunobernard_fr/status/1576860424821440512?s=12&t=UANtpE5CQhVpscVIti4gRA",
+      "anchor": "lien du tweet"
     }
   ],
   "sections": [
