@@ -4,7 +4,7 @@ import { dirname, resolve } from 'path'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-const BASE_URL = 'https://monpetitsommet.fr'
+const BASE_URL = 'https://voieslyonnaises.netlify.app'
 
 export default defineEventHandler(async (event) => {
   const sitemap = new SitemapStream({ hostname: BASE_URL })
