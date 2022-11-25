@@ -7,6 +7,7 @@
 <script setup>
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css'
+import style from '@/assets/style.json'
 
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
@@ -27,7 +28,7 @@ const sections = voies.value
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
-    style: 'https://raw.githubusercontent.com/benoitdemaegdt/voieslyonnaises/main/style.json',
+    style,
     center: [4.8312188, 45.757198],
     zoom: 13
   })

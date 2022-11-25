@@ -5,6 +5,7 @@
 <script setup>
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css'
+import style from '@/assets/style.json'
 
 const { voie } = defineProps({
   voie: { type: Object, required: true },
@@ -18,7 +19,7 @@ const sections = getGeojsonFeatures(voie).flat()
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
-    style: 'https://raw.githubusercontent.com/benoitdemaegdt/voieslyonnaises/main/style.json',
+    style,
     center: [4.8312188, 45.757198],
     zoom: 13,
     attributionControl: false
