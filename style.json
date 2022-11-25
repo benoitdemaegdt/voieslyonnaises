@@ -316,7 +316,7 @@
       "source-layer": "water",
       "filter": ["all", ["!=", "intermittent", 1], ["!=", "brunnel", "tunnel"]],
       "layout": {"visibility": "visible"},
-      "paint": {"fill-color": "#e71837"}
+      "paint": {"fill-color": "hsl(210, 67%, 85%)"}
     },
     {
       "id": "water-intermittent",
