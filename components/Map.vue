@@ -18,7 +18,7 @@ const sections = getGeojsonFeatures(voie).flat()
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
-    style: 'https://github.com/benoitdemaegdt/voieslyonnaises/blob/836fedfa03256a477b7af90662931369e6c9a64c/style.json',
+    style: 'https://raw.githubusercontent.com/benoitdemaegdt/voieslyonnaises/main/style.json',
     center: [4.8312188, 45.757198],
     zoom: 13,
     attributionControl: false
