@@ -139,7 +139,7 @@
 import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue'
 
 const navItems = [
-  { name: 'Plan officel', path: '/plan-officiel' },
+  { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Carte interactive', path: '/carte-interactive' },
 ]
 
