@@ -57,10 +57,10 @@
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
-            to="/contribuer"
+            to="/blog"
             class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-official hover:bg-green-700"
           >
-            Contribuer
+            Blog
         </NuxtLink>
         </div>
       </div>
