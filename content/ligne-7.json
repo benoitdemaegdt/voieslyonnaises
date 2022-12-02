@@ -7,6 +7,7 @@
   "description": "Lorem ipsum.",
   "trafic": "18 000 vélos / jour",
   "avancement": "25%",
+  "cover": "https://res.cloudinary.com/monpetitsommet/image/upload/v1670018233/voieslyonnaises/ligne7/cover-vl7_edmjb7.png",
   "images": [
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",

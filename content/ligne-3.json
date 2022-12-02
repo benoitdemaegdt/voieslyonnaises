@@ -7,6 +7,7 @@
   "description": "La voie lyonnaise n°3 longera la Saône et permettra de relier Givors depuis Genay ou Qincieux. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).",
   "trafic": "11 000 vélos / jour",
   "avancement": "25%",
+  "cover": "https://res.cloudinary.com/monpetitsommet/image/upload/v1670017953/voieslyonnaises/ligne3/cover-vl3_bndsdf.png",
   "images": [
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg",

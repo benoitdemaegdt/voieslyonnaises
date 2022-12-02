@@ -141,9 +141,17 @@ const avancement = Math.round(voie.value.sections
   .map(section => section.properties.distance || 0)
   .reduce((acc, current) => acc + current, 0) * 100 / voie.value.distance);
 
+const description = `Avancement de la voie lyonnaise n°${voie.value.line}`
+const coverImage = voie.value.cover
 useHead({
   meta: [
-    { name: 'description', content: `Avancement de la voie lyonnaise n°${voie.value.line}` }
+    // description
+    { hid: 'description', name: 'description', content: description },
+    { hid: 'og:description', property: 'og:description', content: description },
+    { hid: 'twitter:description', name: 'twitter:description', content: description },
+    // cover image
+    { hid: 'og:image', property: 'og:image', content: coverImage },
+    { hid: 'twitter:image', name: 'twitter:image', content: coverImage },
   ],
 })
 </script>
