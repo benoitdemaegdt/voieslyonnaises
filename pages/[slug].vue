@@ -140,4 +140,10 @@ const avancement = Math.round(voie.value.sections
   .filter(section => section.properties.status === 'done')
   .map(section => section.properties.distance || 0)
   .reduce((acc, current) => acc + current, 0) * 100 / voie.value.distance);
+
+useHead({
+  meta: [
+    { name: 'description', content: `Avancement de la voie lyonnaise n°${voie.value.line}` }
+  ],
+})
 </script>
