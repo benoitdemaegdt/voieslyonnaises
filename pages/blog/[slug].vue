@@ -18,4 +18,16 @@ const { data: article } = await useAsyncData(`article-${path}`, () => {
     .where({ _path: withoutTrailingSlash(path) })
     .findOne()
 })
+
+useHead({
+  meta: [
+    // description
+    { hid: 'description', name: 'description', content: article.value.description },
+    { hid: 'og:description', property: 'og:description', content: article.value.description },
+    { hid: 'twitter:description', name: 'twitter:description', content: article.value.description },
+    // cover image
+    { hid: 'og:image', property: 'og:image', content: article.value.imageUrl },
+    { hid: 'twitter:image', name: 'twitter:image', content: article.value.imageUrl },
+  ],
+})
 </script>
