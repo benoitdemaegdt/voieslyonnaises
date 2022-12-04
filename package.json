@@ -17,6 +17,7 @@
     "sitemap": "^7.1.1"
   },
   "dependencies": {
-    "maplibre-gl": "^2.4.0"
+    "maplibre-gl": "^2.4.0",
+    "vue-tweet": "^2.0.2"
   }
 }
