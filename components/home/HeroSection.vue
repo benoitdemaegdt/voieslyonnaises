@@ -33,7 +33,7 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Toute l'actualité sur les voies lyonnaises. Réunions de concertation, début des travaux, suivi des chantiers : suivez le développement du nouveau réseau vélo lyonnais !
+              Projet citoyen de suivi des aménagements cyclables et de l'actu vélo de la métropole lyonnaise.
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
