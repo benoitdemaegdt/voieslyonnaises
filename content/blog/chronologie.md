@@ -1,7 +1,7 @@
 ---
 title: Avancement des voies lyonnaises
 description: "Suivi mensuel de l'avancement du projet des voies lyonnaises porté par la métropole de Lyon."
-imageUrl: "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg"
+imageUrl: "https://source.unsplash.com/hhc4eySyzxk"
 ---
 
 ## Décembre 2022
