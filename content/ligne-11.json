@@ -5,7 +5,7 @@
   "to": "Chassieu",
   "distance": 25000,
   "description": "Lorem ipsum.",
-  "trafic": "25 000 vélos / jour",
+  "trafic": "25k vélos / jour",
   "avancement": "25%",
   "cover": "https://res.cloudinary.com/monpetitsommet/image/upload/v1670018272/voieslyonnaises/ligne11/cover-vl11_odsz6c.png",
   "images": [
@@ -43,5 +43,79 @@
       "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
     }
   ],
-  "sections": []
+  "sections": [
+    {
+      "properties": {
+        "name": "part Dieu",
+        "distance": 3420,
+        "status": "not-started"
+      },
+      "coordinates": [
+        [
+          4.866504835976372,
+          45.754563058164024
+        ],
+        [
+          4.864293242937549,
+          45.755905894438996
+        ],
+        [
+          4.862615578575543,
+          45.75696011851758
+        ],
+        [
+          4.86227793167248,
+          45.75709263037447
+        ],
+        [
+          4.861522444613854,
+          45.75716919314118
+        ],
+        [
+          4.861594195085274,
+          45.7588918244675
+        ],
+        [
+          4.861518224331434,
+          45.758977218480254
+        ],
+        [
+          4.861492900747322,
+          45.75907439081868
+        ],
+        [
+          4.858456106753664,
+          45.75882754972662
+        ],
+        [
+          4.858274630803635,
+          45.75974949560907
+        ],
+        [
+          4.85573862697143,
+          45.75952634145048
+        ],
+        [
+          4.852219886885024,
+          45.75924751393299
+        ],
+        [
+          4.852082805896458,
+          45.759955230133585
+        ],
+        [
+          4.84892538571097,
+          45.759712527122815
+        ],
+        [
+          4.84531979792655,
+          45.759463625269206
+        ],
+        [
+          4.840871460113931,
+          45.75912353049813
+        ]
+      ]
+    }
+  ]
 }
