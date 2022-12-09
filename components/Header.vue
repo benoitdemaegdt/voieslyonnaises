@@ -11,6 +11,7 @@
               alt="logo voies lyonnaises"
             />
           </NuxtLink>
+          <span class="ml-2 text-2xl sm:hidden font-extrabold text-official">Voies Lyonnaises</span>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
