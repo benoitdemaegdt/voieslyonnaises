@@ -6,6 +6,23 @@ imageUrl: "https://source.unsplash.com/hhc4eySyzxk"
 
 ## Décembre 2022
 
+### 12 décembre 2022
+
+**Les travaux de la voie Lyonnaise 2 sont approuvés par le conseil métropolitain**
+::tweet
+---
+tweet-id: '1602395716323770389'
+---
+::
+
+**Un carrefour hollandais en cours de construction dans le 6ème arrondissement**
+::tweet
+---
+tweet-id: '1602360199024709639'
+---
+::
+
+
 ### 2 décembre 2022
 
 Pas mal de news pour ce tout début décembre ! 😍
