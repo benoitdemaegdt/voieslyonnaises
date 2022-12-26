@@ -1,0 +1,52 @@
+{
+  "date": "2022/12",
+  "description": "Travaux de la voie lyonnaise n°2 approuvés, un carrefour hollandais dans le 6ème et fin de l'aménagement du pont Clémenceau.",
+  "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
+  "events": [
+    {
+      "date": "2022/12/22",
+      "news": [
+        {
+          "title": "Le premier carrefour hollandais de Lyon semble terminé.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/LyonAVelo/status/1605922890561384448"
+        }
+      ]
+    },
+    {
+      "date": "2022/12/12",
+      "news": [
+        {
+          "title": "Les travaux de la voie Lyonnaise 2 sont approuvés par le conseil métropolitain.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/Fabien_Bagnon/status/1602395716323770389"
+        },
+        {
+          "title": "Un carrefour hollandais en cours de construction dans le 6ème arrondissement.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/LyonAVelo/status/1602360199024709639"
+        }
+      ]
+    },
+    {
+      "date": "2022/12/02",
+      "news": [
+        {
+          "title": "Réalisation d'un marquage au sol sur la rue Garibaldi.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/LyonAVelo/status/1598692578555097088"
+        },
+        {
+          "title": "Préparation des travaux (boulevard Vivier-Merle ?).",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/vincent_monot/status/1598666956139335680"
+        },
+        {
+          "title": "Fin des travaux pour la piste cyclable sur le Pont Clémenceau.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/QSaone/status/1598606415832272897"
+        }
+      ]
+    }
+  ]
+}

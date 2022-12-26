@@ -5,8 +5,8 @@
           <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">Quelques articles</h2>
           <p class="mt-3 text-xl text-gray-500 sm:mt-4">Quelques articles et autres réflexions sur l'actualité des voies lyonnaises. </p>
         </div>
-        <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
-          <div v-for="article in articles" :key="article.title">
+        <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-4">
+          <div v-for="article in articles" :key="article.title" class="p-4 rounded-lg hover:bg-gray-50">
             <div>
               <div class="inline-block">
                 <span class="bg-green-100 text-green-800 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium">
@@ -29,7 +29,18 @@
 </template>
 
 <script setup>
-const { data: articles } = await useAsyncData(() => {
-  return queryContent('/blog').find()
+const { data: fetchedArticles } = await useAsyncData(() => {
+  return queryContent('blog')
+  .where({ _path: { $not: { $contains: 'chronologie' } } })
+  .find()
 })
+
+const articles = [
+  {
+    title: 'Avancement des voies lyonnaises',
+    description: "Suivi mensuel de l'avancement du projet des voies lyonnaises porté par la métropole de Lyon.",
+    _path: '/blog/chronologie'
+  },
+  ...fetchedArticles.value
+]
 </script>

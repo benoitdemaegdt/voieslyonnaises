@@ -1,7 +1,7 @@
 export const useGeojson = () => {
-  function getGeojsonFeatures(voie) {
+  function getGeojsonFeatures(voie: any) {
     if (!voie.sections) return []
-    return voie.sections.map(section => ({
+    return voie.sections.map((section: any) => ({
       type: 'Feature',
       properties: {
         line: voie.line,
