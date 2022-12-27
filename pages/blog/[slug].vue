@@ -3,7 +3,7 @@
     header="Article"
     :title="article.title"
     :description="article.description"
-    :imageUrl="article.imageUrl"
+    :image-url="article.imageUrl"
   >
     <ContentRenderer :value="article" />
   </ContentFrame>
@@ -27,7 +27,7 @@ useHead({
     { hid: 'twitter:description', name: 'twitter:description', content: article.value.description },
     // cover image
     { hid: 'og:image', property: 'og:image', content: article.value.imageUrl },
-    { hid: 'twitter:image', name: 'twitter:image', content: article.value.imageUrl },
-  ],
+    { hid: 'twitter:image', name: 'twitter:image', content: article.value.imageUrl }
+  ]
 })
 </script>

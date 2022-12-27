@@ -10,7 +10,7 @@
           class="text-gray-400 hover:text-gray-500"
         >
           <span class="sr-only">{{ item.name }}</span>
-          <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true"></Icon>
+          <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
         </a>
       </div>
       <p class="mt-8 text-center text-base text-gray-400">
@@ -26,18 +26,18 @@ const navigation = {
     {
       name: 'Twitter',
       href: 'https://twitter.com/benoit_demaegdt',
-      icon: 'mdi:twitter',
+      icon: 'mdi:twitter'
     },
     {
       name: 'Github',
       href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
-      icon: 'mdi:github',
+      icon: 'mdi:github'
     },
     {
       name: 'LinkedIn',
       href: 'https://www.linkedin.com/in/benoitdemaegdt',
       icon: 'mdi:linkedin'
-    },
-  ],
+    }
+  ]
 }
 </script>

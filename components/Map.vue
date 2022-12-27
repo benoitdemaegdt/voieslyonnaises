@@ -1,14 +1,14 @@
 <template>
-  <div id="map" class="rounded-lg" style="height: 40vh"></div>
+  <div id="map" class="rounded-lg" style="height: 40vh" />
 </template>
 
 <script setup>
-import maplibregl from 'maplibre-gl';
+import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import style from '@/assets/style.json'
 
 const { voie } = defineProps({
-  voie: { type: Object, required: true },
+  voie: { type: Object, required: true }
 })
 
 const { getGeojsonFeatures } = useGeojson()
@@ -24,9 +24,9 @@ onMounted(() => {
     zoom: 13,
     attributionControl: false
   })
-  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
-  map.addControl(new maplibregl.FullscreenControl(), 'top-right');
-  map.addControl(new maplibregl.AttributionControl({ compact: true }));
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
+  map.addControl(new maplibregl.FullscreenControl(), 'top-right')
+  map.addControl(new maplibregl.AttributionControl({ compact: true }))
 
   map.on('load', () => {
     map.addSource('done-sections', {
@@ -42,7 +42,7 @@ onMounted(() => {
       source: 'done-sections',
       paint: {
         'line-width': 3,
-        'line-color': ['get', 'color'],
+        'line-color': ['get', 'color']
       }
     })
 
@@ -60,7 +60,7 @@ onMounted(() => {
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
-        'line-dasharray': [1, 1],
+        'line-dasharray': [1, 1]
       }
     })
 
@@ -78,18 +78,18 @@ onMounted(() => {
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
-        'line-dasharray': [1.5, 1.5],
+        'line-dasharray': [1.5, 1.5]
       }
     })
 
     const allCoordinates = sections
       .map(section => section.geometry.coordinates)
       .flat()
-    const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
+    const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0])
     for (const coord of allCoordinates) {
-      bounds.extend(coord);
+      bounds.extend(coord)
     }
-    map.fitBounds(bounds, { padding: 20 });
+    map.fitBounds(bounds, { padding: 20 })
 
     map.on('click', 'done-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
