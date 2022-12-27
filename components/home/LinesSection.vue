@@ -6,7 +6,7 @@
           class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
           :style="`background-color: ${voie.color}`"
         >
-        {{ voie.line }}
+          {{ voie.line }}
         </div>
       </div>
       <div class="flex-1 min-w-0">
@@ -28,7 +28,7 @@
 const { data: voies } = await useAsyncData(() => {
   return queryContent('/').where({
     _type: 'json',
-    _path: { $not: { $contains: 'chronologie' } }
+    _path: { $not: { $contains: 'blog' } }
   }).find()
 })
 </script>

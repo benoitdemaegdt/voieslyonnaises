@@ -35,7 +35,7 @@
 <script setup>
 const { data: fetchedArticles } = await useAsyncData(() => {
   return queryContent('blog')
-    .where({ _path: { $not: { $contains: 'chronologie' } } })
+    .where({ _path: /^\/blog\/[^/]*$/ })
     .find()
 })
 
