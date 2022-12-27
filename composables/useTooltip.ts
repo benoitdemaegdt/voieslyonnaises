@@ -1,3 +1,11 @@
+type Properties = {
+  line: string,
+  color: string,
+  name: string,
+  distance: number,
+  status: 'not-started' | 'in-progress' | 'done'
+}
+
 export const useTooltip = () => {
   const statusText = {
     'not-started': 'tronçon en étude 🔎',
@@ -5,7 +13,7 @@ export const useTooltip = () => {
     done: 'tronçon terminé et pratiquable'
   }
 
-  function getTooltipHtml (properties: any) {
+  function getTooltipHtml (properties: Properties) {
     return `
       <div class="flex items-center text-base font-extrabold tracking-tight text-gray-900">
         <div>Ligne</div>
