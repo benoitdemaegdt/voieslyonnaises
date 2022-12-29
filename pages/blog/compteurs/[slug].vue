@@ -54,4 +54,18 @@ const chartOptions = {
     ]
   }
 }
+
+const DESCRIPTION = `Compteur vélo ${data.value.name}`
+const IMAGE_URL = data.value.imageUrl
+useHead({
+  meta: [
+    // description
+    { hid: 'description', name: 'description', content: DESCRIPTION },
+    { hid: 'og:description', property: 'og:description', DESCRIPTION },
+    { hid: 'twitter:description', name: 'twitter:description', DESCRIPTION },
+    // cover image
+    { hid: 'og:image', property: 'og:image', content: IMAGE_URL },
+    { hid: 'twitter:image', name: 'twitter:image', content: IMAGE_URL }
+  ]
+})
 </script>
