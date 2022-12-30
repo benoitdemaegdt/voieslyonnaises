@@ -5,8 +5,9 @@
     :description="data.description"
     :image-url="data.imageUrl"
   >
-    <ChartTotalByYear :data="data" />
-    <ChartMonthlyAccumulation :data="data" />
+    <ChartTotalByYear :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+    <ChartTotalByMonth :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+    <ChartMonthlyAccumulation :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
   </ContentFrame>
 </template>
 

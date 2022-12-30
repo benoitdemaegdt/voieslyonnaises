@@ -12,8 +12,9 @@ const props = defineProps({ data: { type: Object, required: true } })
 const years = [...new Set(props.data.counts.map(item => new Date(item.month).getFullYear()))].sort()
 
 const chartOptions = {
-  title: { text: 'Cumul des passages' },
-  yAxis: { title: { text: 'Cumuls' } },
+  title: { text: 'Total des passages par mois' },
+  subtitle: { text: 'Source: data.eco-counter.com' },
+  yAxis: { title: { text: 'Passages' } },
   xAxis: {
     categories: ['Jan', 'Fev', 'Mar', 'Avr', 'Mai', 'Juin', 'Juil', 'Août', 'Sept', 'Oct', 'Nov', 'Dec']
   },
@@ -24,7 +25,7 @@ const chartOptions = {
       data: props.data.counts
         .filter(item => new Date(item.month).getFullYear() === year)
         .sort((a, b) => a.month - b.month)
-        .map((sum => item => sum = Math.round((sum + item.count) * 10) / 10)(0))
+        .map(item => item.count)
     }))
   ],
   responsive: {
