@@ -15,6 +15,7 @@ const chartOptions = {
   chart: { type: 'column' },
   title: { text: 'Total des passages par année' },
   subtitle: { text: 'Source: data.eco-counter.com' },
+  credits: { enabled: false },
   xAxis: { categories: years },
   yAxis: { min: 0, title: { text: 'Passages' } },
   legend: { layout: 'vertical', align: 'right', verticalAlign: 'middle' },
