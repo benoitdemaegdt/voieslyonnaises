@@ -157,13 +157,11 @@ import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/
 
 const navItems = [
   { name: 'Plan officiel', path: '/plan-officiel' },
-  { name: 'Carte interactive', path: '/carte-interactive' }
+  { name: 'Carte interactive', path: '/carte-interactive' },
+  { name: 'Compteurs', path: '/compteurs' }
 ]
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('/').where({
-    _type: 'json',
-    _path: { $not: { $contains: 'blog' } }
-  }).find()
+  return queryContent('lignes').where({ _type: 'json' }).find()
 })
 </script>

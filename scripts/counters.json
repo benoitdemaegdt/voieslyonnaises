@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Lyon 7_Yves Farge",
+    "idPdc": 100030102,
+    "flowIds": "101030102;102030102",
+    "lat": 45.74442654681239,
+    "long": 4.835220332033199
+  },
+  {
+    "name": "Lyon 8_Etats-Unis",
+    "idPdc": 100030106,
+    "flowIds": "101030106;102030106",
+    "lat": 45.734650472341144,
+    "long": 4.863499402999878
+  },
+  {
+    "name": "Vénissieux_F.Pressensé_Lévy",
+    "idPdc": 100030107,
+    "flowIds": "101030107;102030107",
+    "lat": 45.719315,
+    "long": 4.8684998
+  },
+  {
+    "name": "Lyon 9_Jayr",
+    "idPdc": 100030146,
+    "flowIds": "101030146;102030146",
+    "lat": 45.77544809142351,
+    "long": 4.808358550071717
+  },
+  {
+    "name": "Lyon 6_Pont Morand",
+    "idPdc": 100030252,
+    "flowIds": "101030252;102030252",
+    "lat": 45.768582782789686,
+    "long": 4.840493075917949
+  },
+  {
+    "name": "Lyon 4_Canuts",
+    "idPdc": 100030255,
+    "flowIds": "101030255;102030255",
+    "lat": 45.78374245244295,
+    "long": 4.8310124874115
+  },
+  {
+    "name": "Lyon 7_Duvivier_Vienne",
+    "idPdc": 100030256,
+    "flowIds": "101030256;102030256",
+    "lat": 45.73929651208555,
+    "long": 4.851498718689911
+  },
+  {
+    "name": "Lyon 3/7_Gambetta",
+    "idPdc": 100030257,
+    "flowIds": "101030257;102030257",
+    "lat": 45.75454348587052,
+    "long": 4.8451031475259665
+  },
+  {
+    "name": "Lyon 7_Jean Jaurès",
+    "idPdc": 100030258,
+    "flowIds": "101030258;102030258",
+    "lat": 45.743805467619744,
+    "long": 4.8410793877663005
+  },
+  {
+    "name": "Bron_Lionel Terray_Mermoz",
+    "idPdc": 100030259,
+    "flowIds": "101030259;102030259",
+    "lat": 45.729465,
+    "long": 4.8938518
+  },
+  {
+    "name": "Villeurbanne_Piste T3_Bertin",
+    "idPdc": 100030260,
+    "flowIds": "101030260;102030260",
+    "lat": 45.76052110838324,
+    "long": 4.920337411574898
+  },
+  {
+    "name": "Lyon 6_Pont de Lattre de Tassigny",
+    "idPdc": 100030262,
+    "flowIds": "101030262;102030262",
+    "lat": 45.77241907407597,
+    "long": 4.840592137379542
+  },
+  {
+    "name": "Lyon 6_Grande Bretagne",
+    "idPdc": 100030263,
+    "flowIds": "101030263;102030263",
+    "lat": 45.7730227674639,
+    "long": 4.8411329679323645
+  },
+  {
+    "name": "Lyon 5_Pont Maréchal Juin",
+    "idPdc": 100030265,
+    "flowIds": "101030265;102030265",
+    "lat": 45.763233,
+    "long": 4.8299513
+  },
+  {
+    "name": "Bron_Roosevelt",
+    "idPdc": 100030267,
+    "flowIds": "101030267;102030267",
+    "lat": 45.73634660044263,
+    "long": 4.900626540184022
+  },
+  {
+    "name": "Lyon 6_Vauban_Thiers",
+    "idPdc": 100030269,
+    "flowIds": "101030269;102030269",
+    "lat": 45.766288067238584,
+    "long": 4.8614609241485605
+  },
+  {
+    "name": "Lyon 9_Pont Clémenceau",
+    "idPdc": 100030274,
+    "flowIds": "101030274;102030274",
+    "lat": 45.77484570140887,
+    "long": 4.808455109596253
+  },
+  {
+    "name": "Villeurbanne_Anatole France",
+    "idPdc": 100030322,
+    "flowIds": "101030322;102030322",
+    "lat": 45.76875,
+    "long": 4.8826146
+  },
+  {
+    "name": "Lyon 2_Pont de la Mulatière",
+    "idPdc": 100032516,
+    "flowIds": "101032516;102032516",
+    "lat": 45.731827222149356,
+    "long": 4.816630482673646
+  },
+  {
+    "name": "Bron_Parc Parilly_Garennes",
+    "idPdc": 100032795,
+    "flowIds": "101032795;102032795",
+    "lat": 45.722584,
+    "long": 4.899764
+  },
+  {
+    "name": "Marcy l'Etoile_Parc Lacroix-Laval_Belle Etoile",
+    "idPdc": 100032799,
+    "flowIds": "101032799;102032799",
+    "lat": 45.785316,
+    "long": 4.717272
+  },
+  {
+    "name": "Marcy l'Etoile_Parc Lacroix-Laval_Buissonnier",
+    "idPdc": 100032800,
+    "flowIds": "101032800;102032800",
+    "lat": 45.784187,
+    "long": 4.7262754
+  },
+  {
+    "name": "Bron_Parc Parilly_Turfistes",
+    "idPdc": 100032802,
+    "flowIds": "101032802;102032802",
+    "lat": 45.722305,
+    "long": 4.9135427
+  },
+  {
+    "name": "Bron/Vénissieux_Balmes",
+    "idPdc": 100032819,
+    "flowIds": "101032819;102032819",
+    "lat": 45.724045695798694,
+    "long": 4.892456531524659
+  },
+  {
+    "name": "Lyon 1_Pont Koenig",
+    "idPdc": 100032820,
+    "flowIds": "101032820;102032820",
+    "lat": 45.77017842091873,
+    "long": 4.813971745420247
+  },
+  {
+    "name": "Lyon 7_Pont Raymond Barre",
+    "idPdc": 100032821,
+    "flowIds": "101032821;102032821",
+    "lat": 45.73212805959342,
+    "long": 4.821056798567818
+  },
+  {
+    "name": "Lyon 3_Mouton Duvernet",
+    "idPdc": 100032822,
+    "flowIds": "101032822;102032822",
+    "lat": 45.750477,
+    "long": 4.8606963
+  },
+  {
+    "name": "Lyon 3/8_Albert Thomas",
+    "idPdc": 100032824,
+    "flowIds": "101032824;102032824",
+    "lat": 45.74926058879285,
+    "long": 4.860610298093206
+  },
+  {
+    "name": "Meyzieu_Pont d'Herbens",
+    "idPdc": 100032825,
+    "flowIds": "101032825;102032825",
+    "lat": 45.79470417188881,
+    "long": 4.990980681015831
+  },
+  {
+    "name": "Lyon 2_Pont Kitchener Marchand",
+    "idPdc": 100032826,
+    "flowIds": "101032826;102032826",
+    "lat": 45.751343,
+    "long": 4.8227634
+  },
+  {
+    "name": "Lyon 7_Pont Galliéni",
+    "idPdc": 100032828,
+    "flowIds": "101032828;102032828",
+    "lat": 45.74797847919331,
+    "long": 4.833587408065797
+  },
+  {
+    "name": "Vaulx en Velin_Pont de la Sucrerie",
+    "idPdc": 100032830,
+    "flowIds": "101032830;102032830",
+    "lat": 45.77096555513254,
+    "long": 4.9355918169021615
+  },
+  {
+    "name": "Vaulx en Velin_Contre-halage Sucrerie",
+    "idPdc": 100032832,
+    "flowIds": "101032832;102032832",
+    "lat": 45.77075227021992,
+    "long": 4.936353564262391
+  },
+  {
+    "name": "Décines_Passerelle Nelson Mandela",
+    "idPdc": 100032833,
+    "flowIds": "101032833;102032833",
+    "lat": 45.77523108210597,
+    "long": 4.9540776014328
+  },
+  {
+    "name": "Décines_Contre-halage passerelle N. Mandela",
+    "idPdc": 100032834,
+    "flowIds": "101032834;102032834",
+    "lat": 45.774606240216734,
+    "long": 4.953643083572388
+  },
+  {
+    "name": "Vaulx en Velin_Contre-halage Hippodrome",
+    "idPdc": 100032835,
+    "flowIds": "101032835;102032835",
+    "lat": 45.767006,
+    "long": 4.9182854
+  },
+  {
+    "name": "Villeurbanne_Pont de Croix Luizet",
+    "idPdc": 100032836,
+    "flowIds": "101032836;102032836",
+    "lat": 45.78389468794958,
+    "long": 4.891858771688828
+  },
+  {
+    "name": "Lyon 4_Tube Modes Doux (Birmingham)",
+    "idPdc": 100032838,
+    "flowIds": "101032838;102032838",
+    "lat": 45.774643656095776,
+    "long": 4.813985824584962
+  },
+  {
+    "name": "Bron_Parc Parilly_Jeunesse",
+    "idPdc": 100033492,
+    "flowIds": "101033492;102033492",
+    "lat": 45.722248,
+    "long": 4.8956227
+  },
+  {
+    "name": "Lyon 1_Pont La Feuillée",
+    "idPdc": 100034819,
+    "flowIds": "101034819;102034819",
+    "lat": 45.7666402949662,
+    "long": 4.8299081258078935
+  },
+  {
+    "name": "Lyon 7_Pont de l'Université",
+    "idPdc": 100034861,
+    "flowIds": "101034861;102034861",
+    "lat": 45.75219489610414,
+    "long": 4.836278702749292
+  },
+  {
+    "name": "Villeurbanne_Emile Zola",
+    "idPdc": 100043512,
+    "flowIds": "101043512;102043512",
+    "lat": 45.76945270810287,
+    "long": 4.879772350908818
+  },
+  {
+    "name": "Bron/Villeurbanne_Genas",
+    "idPdc": 100047688,
+    "flowIds": "101047688;102047688",
+    "lat": 45.7505,
+    "long": 4.91029
+  },
+  {
+    "name": "Lyon 3_Paul Bert",
+    "idPdc": 100047690,
+    "flowIds": "101047690;102047690",
+    "lat": 45.75707455320546,
+    "long": 4.859770542026642
+  },
+  {
+    "name": "Vénissieux_Joliot-Curie",
+    "idPdc": 100047692,
+    "flowIds": "101047692;102047692",
+    "lat": 45.721686953646184,
+    "long": 4.873592955870234
+  },
+  {
+    "name": "Vénissieux_Vienne_L.Bonnevay",
+    "idPdc": 100047693,
+    "flowIds": "101047693;102047693",
+    "lat": 45.71702716252009,
+    "long": 4.85473930835724
+  },
+  {
+    "name": "Vénissieux_Pinel",
+    "idPdc": 100047694,
+    "flowIds": "101047694;102047694",
+    "lat": 45.72240135022086,
+    "long": 4.887446348466453
+  },
+  {
+    "name": "Lyon 6_Pont Winston Churchill",
+    "idPdc": 100048664,
+    "flowIds": "101048664;102048664",
+    "lat": 45.77819108063529,
+    "long": 4.843427683650088
+  },
+  {
+    "name": "Lyon 9_Passerelle Masaryk",
+    "idPdc": 100049670,
+    "flowIds": "101049670;102049670",
+    "lat": 45.7784791437538,
+    "long": 4.808297837334199
+  },
+  {
+    "name": "Lyon 7_Raoul Servant",
+    "idPdc": 100049671,
+    "flowIds": "101049671;102049671",
+    "lat": 45.74601830274346,
+    "long": 4.833018046557935
+  },
+  {
+    "name": "Lyon 7_Leclerc",
+    "idPdc": 100049672,
+    "flowIds": "101049672;102049672",
+    "lat": 45.74605435112975,
+    "long": 4.832278490066529
+  },
+  {
+    "name": "Vénissieux_Passerelle Puizot",
+    "idPdc": 100052943,
+    "flowIds": "101052943;102052943",
+    "lat": 45.72023851552473,
+    "long": 4.885063306657305
+  },
+  {
+    "name": "Lyon 3/6_Cours Lafayette_Pont SNCF",
+    "idPdc": 100054728,
+    "flowIds": "101054728;102054728",
+    "lat": 45.76364756183339,
+    "long": 4.859866082147017
+  },
+  {
+    "name": "Lyon 9_Bourbonnais",
+    "idPdc": 100054729,
+    "flowIds": "101054729;102054729",
+    "lat": 45.77359983284981,
+    "long": 4.795473927089331
+  },
+  {
+    "name": "Lyon 8_Frères Lumière",
+    "idPdc": 100054730,
+    "flowIds": "101054730;102054730",
+    "lat": 45.74710644385517,
+    "long": 4.859463746020443
+  },
+  {
+    "name": "Lyon 9_Pont Schuman",
+    "idPdc": 100056211,
+    "flowIds": "101056211;102056211",
+    "lat": 45.780383858625335,
+    "long": 4.809342670079482
+  },
+  {
+    "name": "Lyon 5_Quai Pierre Scize",
+    "idPdc": 100057984,
+    "flowIds": "101057984;102057984",
+    "lat": 45.76693680306031,
+    "long": 4.8210272277746835
+  },
+  {
+    "name": "Lyon 2_Delandine",
+    "idPdc": 100058579,
+    "flowIds": "101058579;102058579",
+    "lat": 45.748221536394155,
+    "long": 4.82845342041327
+  },
+  {
+    "name": "Lyon 3_Felix Faure_Pont SNCF",
+    "idPdc": 100058580,
+    "flowIds": "101058580;102058580",
+    "lat": 45.753765942759735,
+    "long": 4.860354054410854
+  },
+  {
+    "name": "Villeurbanne_11 Novembre 1918",
+    "idPdc": 100058822,
+    "flowIds": "101058822;102058822",
+    "lat": 45.77947017903065,
+    "long": 4.862387714685554
+  },
+  {
+    "name": "Lyon 3/6_Pont Lafayette",
+    "idPdc": 100059636,
+    "flowIds": "101059636;102059636",
+    "lat": 45.763561241829265,
+    "long": 4.840648988663183
+  },
+  {
+    "name": "Lyon 3_Saxe",
+    "idPdc": 100063239,
+    "flowIds": "101063239;102063239",
+    "lat": 45.76285865879087,
+    "long": 4.84509009223264
+  },
+  {
+    "name": "Lyon 3_Piste T3_Flandin",
+    "idPdc": 100063321,
+    "flowIds": "101063321;102063321",
+    "lat": 45.75389770588103,
+    "long": 4.863255316100346
+  },
+  {
+    "name": "Lyon 2_Bellecour",
+    "idPdc": 100063558,
+    "flowIds": "101063558;102063558",
+    "lat": 45.75876745945252,
+    "long": 4.8310852971598495
+  },
+  {
+    "name": "Lyon 3_Part-Dieu",
+    "idPdc": 100064282,
+    "flowIds": "101064282;102064282",
+    "lat": 45.75966781602602,
+    "long": 4.848420023918153
+  },
+  {
+    "name": "Villeurbanne_Pont de Cusset_ID2250-2251_ZELT CORRIGE",
+    "idPdc": 100064522,
+    "flowIds": "101064522;102064522",
+    "lat": 45.76740869506911,
+    "long": 4.904326039056066
+  },
+  {
+    "name": "Lyon 8_Challemel-Lacour_Champagneux_ZELT CORRIGE_PLUS DE COMPTAGE",
+    "idPdc": 100064525,
+    "flowIds": "101064525;105064525",
+    "lat": 45.72925097542825,
+    "long": 4.850324392318726
+  },
+  {
+    "name": "Vaulx en Velin_Pont de la Soie_ID2252-2253_3G",
+    "idPdc": 300014680,
+    "flowIds": "353245798;353245799;353245800;353245801;353246068;353246069",
+    "lat": 45.77082336528144,
+    "long": 4.932362437248231
+  },
+  {
+    "name": "Lyon 7_Croix Barret_A.Chollat_SNCF_3G_ID2258-2259",
+    "idPdc": 300014746,
+    "flowIds": "353246210;353246211",
+    "lat": 45.73695,
+    "long": 4.84932
+  },
+  {
+    "name": "Saint Fons_Pont de Pierre Bénite_3G_ID2254-2255",
+    "idPdc": 300015200,
+    "flowIds": "353252464;353252465;353252504;353252506",
+    "lat": 45.69383052074085,
+    "long": 4.843629598617554
+  },
+  {
+    "name": "Lyon 3_Quai du Rhône rive gauche",
+    "idPdc": 300018950,
+    "flowIds": "353277144;353277145",
+    "lat": 45.76022695634148,
+    "long": 4.840909623276835
+  },
+  {
+    "name": "Lyon 2_ Passage France Péjot",
+    "idPdc": 300019010,
+    "flowIds": "353277556;353277557",
+    "lat": 45.747941045427815,
+    "long": 4.825315475463868
+  },
+  {
+    "name": "Caluire_Pont Ile Barbe RG",
+    "idPdc": 300029517,
+    "flowIds": "353350504;353350505",
+    "lat": 45.79607134623283,
+    "long": 4.8317474126815805
+  }
+]

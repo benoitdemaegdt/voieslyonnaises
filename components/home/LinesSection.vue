@@ -26,9 +26,6 @@
 
 <script setup>
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('/').where({
-    _type: 'json',
-    _path: { $not: { $contains: 'blog' } }
-  }).find()
+  return queryContent('lignes').where({ _type: 'json' }).find()
 })
 </script>

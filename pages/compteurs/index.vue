@@ -40,6 +40,6 @@
 
 <script setup>
 const { data: counters } = await useAsyncData(() => {
-  return queryContent('blog', 'compteurs').without('counts').find()
+  return queryContent('compteurs').without('counts').find()
 })
 </script>
