@@ -14,7 +14,6 @@ const years = [...new Set(props.data.counts.map(item => new Date(item.month).get
 const chartOptions = {
   chart: { type: 'column' },
   title: { text: 'Total des passages par année' },
-  subtitle: { text: 'Source: data.eco-counter.com' },
   credits: { enabled: false },
   xAxis: { categories: years },
   yAxis: { min: 0, title: { text: 'Passages' } },

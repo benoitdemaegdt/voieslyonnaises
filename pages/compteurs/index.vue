@@ -26,9 +26,9 @@
                 <p class="text-xl font-semibold text-gray-900">
                   {{ counter.name }}
                 </p>
-                <p class="mt-3 text-base text-gray-500">
-                  {{ counter.description }}
-                </p>
+                <!--                <p class="mt-3 text-base text-gray-500">-->
+                <!--                  {{ counter.description }}-->
+                <!--                </p>-->
               </div>
             </div>
           </div>

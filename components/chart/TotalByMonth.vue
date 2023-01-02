@@ -14,7 +14,6 @@ const months = Array.from({ length: 12 }, (_, i) => i)
 
 const chartOptions = {
   title: { text: 'Total des passages par mois' },
-  subtitle: { text: 'Source: data.eco-counter.com' },
   credits: { enabled: false },
   yAxis: { title: { text: 'Passages' } },
   xAxis: {
