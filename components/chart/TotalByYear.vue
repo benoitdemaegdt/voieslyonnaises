@@ -28,6 +28,21 @@ const chartOptions = {
         .filter(item => new Date(item.month).getFullYear() === year)
         .reduce((acc, item) => acc + item.count, 0)
     })
-  }]
+  }],
+  responsive: {
+    rules: [
+      {
+        condition: { maxWidth: 500 },
+        chartOptions: {
+          legend: {
+            layout: 'horizontal',
+            align: 'center',
+            verticalAlign: 'bottom'
+          },
+          yAxis: { title: { text: undefined } }
+        }
+      }
+    ]
+  }
 }
 </script>

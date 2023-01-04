@@ -45,7 +45,8 @@ const chartOptions = {
             layout: 'horizontal',
             align: 'center',
             verticalAlign: 'bottom'
-          }
+          },
+          yAxis: { title: { text: undefined } }
         }
       }
     ]
