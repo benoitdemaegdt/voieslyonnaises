@@ -11,14 +11,17 @@
  */
 
 const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/data/300018950?'
-const idPdc = '100032838'
-const flowIds = '101032838;102032838'
+const idPdc = '100030257'
+const flowIds = '101030257;102030257'
+const from = '01/01/2015'
+const to = '31/01/2023'
 
 ;(async () => {
   const counts = await getCounts()
   console.log(JSON.stringify({
     name: '',
     description: '',
+    arrondissement: '',
     imageUrl: '',
     idPdc,
     flowIds,
@@ -31,8 +34,8 @@ async function getCounts () {
     idOrganisme: '3902',
     idPdc,
     flowIds,
-    debut: '01/11/2022',
-    fin: '31/01/2023',
+    debut: from,
+    fin: to,
     interval: '6' // month
   }))
   if (res.ok) {

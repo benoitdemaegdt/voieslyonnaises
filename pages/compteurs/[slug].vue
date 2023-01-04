@@ -18,6 +18,11 @@
     </ul>
     <ChartTotalByMonth :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
+    <template v-if="data.limitation">
+      <h2>Limitation</h2>
+      <p>{{ data.limitation }}</p>
+    </template>
+
     <h2>Source des données</h2>
     <p>Les données proviennent de <a href="https://data.eco-counter.com/ParcPublic/?id=3902#" target="_blank">data.eco-counter.com</a>.</p>
   </ContentFrame>

@@ -1,8 +1,8 @@
 {
-  "name": "",
-  "description": "",
-  "arrondissement": "",
-  "imageUrl": "",
+  "name": "Cours Gambetta",
+  "description": "Le compteur vélo du Cours Gambetta est situé entre l'arrêt de métro Saxe-Gambetta et la place Gabriel Péri. Il mesure la fréquentation cycliste dans le 2 sens.",
+  "arrondissement": "Lyon 3 / Lyon 7",
+  "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
   "idPdc": "100030257",
   "flowIds": "101030257;102030257",
   "counts": [
@@ -389,10 +389,6 @@
     {
       "month": "2022/12/01",
       "count": 121508
-    },
-    {
-      "month": "2023/01/01",
-      "count": 7710
     }
   ]
 }
