@@ -1,0 +1,37 @@
+{
+  "date": "2023/01/01",
+  "description": "C'est l'heure des comptes : l'année 2022 bat tous les records d'utilisation du vélo !",
+  "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
+  "events": [
+    {
+      "date": "2023/01/01",
+      "news": [
+        {
+          "title": "Les compteurs vélo de la métropole de Lyon ont enregistré plus de 42 millions de passages. Une hausse de 12% sur 1 an.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/Fabien_Bagnon/status/1609570659209822208"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/04",
+      "news": [
+        {
+          "title": "Point d'avancement du projet des Voies Lyonnaises. Alors que les premiers tronçons ont été livrés en 2022, certains élus s'opposent politiquement au projet.",
+          "link": "voir l'article",
+          "tweet": "https://www.lyoncapitale.fr/actualite/voies-lyonnaises-certaines-communes-sont-plus-sur-de-l-obstruction-politique-pointe-thibaut-chardey-la-ville-a-velo"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/05",
+      "news": [
+        {
+          "title": "Plus de 10 millions de trajets ont été réalisé en vélo'v en 2022. Un record !",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/brunobernard_fr/status/1610956039502839808"
+        }
+      ]
+    }
+  ]
+}
