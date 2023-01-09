@@ -1,5 +1,6 @@
 <template>
   <ContentFrame
+    v-if="data"
     header="compteur vélo"
     :title="data.name"
     :description="data.description"
@@ -37,6 +38,11 @@ const { data } = await useAsyncData(`compteur-${path}`, () => {
     .where({ _path: withoutTrailingSlash(path) })
     .findOne()
 })
+
+if (!data.value) {
+  const router = useRouter()
+  router.push({ path: '/404' })
+}
 
 const DESCRIPTION = `Compteur vélo ${data.value.name}`
 const IMAGE_URL = data.value.imageUrl

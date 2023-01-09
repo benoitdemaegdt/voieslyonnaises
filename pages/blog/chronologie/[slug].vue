@@ -1,5 +1,6 @@
 <template>
   <ContentFrame
+    v-if="article"
     header="chronologie"
     :title="getDateText(article.date).toUpperCase()"
     :description="article.description"
@@ -37,6 +38,11 @@ const { data: article } = await useAsyncData(`article-${path}`, () => {
     .where({ _path: withoutTrailingSlash(path) })
     .findOne()
 })
+
+if (!article.value) {
+  const router = useRouter()
+  router.push({ path: '/404' })
+}
 
 useHead({
   meta: [

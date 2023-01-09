@@ -1,5 +1,6 @@
 <template>
   <ContentFrame
+    v-if="article"
     header="Article"
     :title="article.title"
     :description="article.description"
@@ -19,6 +20,11 @@ const { data: article } = await useAsyncData(`article-${path}`, () => {
     .findOne()
 })
 
+if (!article.value) {
+  const router = useRouter()
+  router.push({ path: '/404' })
+}
+
 useHead({
   meta: [
     // description
@@ -30,4 +36,5 @@ useHead({
     { hid: 'twitter:image', name: 'twitter:image', content: article.value.imageUrl }
   ]
 })
+
 </script>
