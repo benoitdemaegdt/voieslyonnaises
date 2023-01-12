@@ -4,10 +4,25 @@
   "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
   "events": [
     {
+      "date": "2023/01/10",
+      "news": [
+        {
+          "title": "En périphérie lyonnaise, les compteurs vélo battent également tous les records de fréquentation.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/lavilleavelo/status/1612764898114822144"
+        },
+        {
+          "title": "Annonce d'une nouvelle concertation sur la voie lyonnaise n°7 pour le tronçon Lyon 7 - Saint-Fons.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/vincent_monot/status/1612814767269216256"
+        }
+      ]
+    },
+    {
       "date": "2023/01/09",
       "news": [
         {
-          "title": "Le pont Bonaparte va être rénové en 2023. Ces travaux permettront l'aménagement de la voie lyonnaise 12.",
+          "title": "Le pont Bonaparte va être rénové en 2023. Ces travaux permettront l'aménagement de la voie lyonnaise n°12.",
           "link": "voir le tweet",
           "tweet": "https://twitter.com/brunobernard_fr/status/1612393813946908672"
         },
@@ -24,7 +39,7 @@
         {
           "title": "Plus de 10 millions de trajets ont été réalisé en vélo'v en 2022. Un record !",
           "link": "voir le tweet",
-          "tweet": "https://twitter.com/brunobernard_fr/status/1610956039502839808"
+          "tweet": "https://twitter.com/brunobernard_fr/status/1613150081988935682"
         }
       ]
     },
