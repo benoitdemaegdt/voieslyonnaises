@@ -4,14 +4,14 @@
       <div class="flex justify-between items-center py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <NuxtLink to="/">
-            <span class="sr-only">Voies Lyonnaises</span>
+            <span class="sr-only">Cyclopolis</span>
             <img
               class="h-8 w-auto sm:h-10"
               src="~/assets/logo.png"
               alt="logo voies lyonnaises"
             >
           </NuxtLink>
-          <span class="ml-2 text-2xl sm:hidden font-extrabold text-official">Voies Lyonnaises</span>
+          <span class="ml-2 text-2xl sm:hidden font-extrabold text-official">Cyclopolis</span>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
