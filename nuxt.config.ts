@@ -1,6 +1,6 @@
-const TITLE = 'Voies Lyonnaises'
-const DESCRIPTION = 'Avancement des voies lyonnaises'
-const BASE_URL = 'https://voieslyonnaises.netlify.app'
+const TITLE = 'Cyclopolis'
+const DESCRIPTION = 'Suivi des aménagmenets cyclables lyonnais'
+const BASE_URL = 'https://cyclopolis.fr'
 const COVER_IMAGE_URL = 'https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png'
 
 export default defineNuxtConfig({
@@ -18,7 +18,7 @@ export default defineNuxtConfig({
         {
           hid: 'og:description',
           property: 'og:description',
-          content: DESCRIPTION,
+          content: DESCRIPTION
         },
         { hid: 'og:image', property: 'og:image', content: COVER_IMAGE_URL },
         { property: 'og:image:width', content: '640' },
@@ -30,17 +30,17 @@ export default defineNuxtConfig({
         {
           hid: 'twitter:description',
           name: 'twitter:description',
-          content: DESCRIPTION,
+          content: DESCRIPTION
         },
-        { hid: 'twitter:image', name: 'twitter:image', content: COVER_IMAGE_URL },
+        { hid: 'twitter:image', name: 'twitter:image', content: COVER_IMAGE_URL }
       ]
     }
   },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
   content: {
     markdown: {
-      tags: { h1: 'h1', h2: 'h2', h3: 'h3', h4: 'h4', h5: 'h5', h6: 'h6' },
-    },
+      tags: { h1: 'h1', h2: 'h2', h3: 'h3', h4: 'h4', h5: 'h5', h6: 'h6' }
+    }
   },
   tailwindcss: { viewer: false },
   nitro: {
@@ -49,6 +49,6 @@ export default defineNuxtConfig({
     }
   },
   build: {
-    transpile: ['@headlessui/vue'],
-  },
+    transpile: ['@headlessui/vue']
+  }
 })
