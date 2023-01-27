@@ -4,6 +4,66 @@
   "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
   "events": [
     {
+      "date": "2023/01/27",
+      "news": [
+        {
+          "title": "La métropole de Lyon, la Mulatière et la ville de Lyon annoncent le réaménagement du quai des Étroits et du quai Jean-Jacques Rousseau.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/brunobernard_fr/status/1618961261915668480"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/25",
+      "news": [
+        {
+          "title": "Le 1er tronçon de la voie lyonnaise 3, situé à Couzon-au-Mont-d'Or est terminé.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/fabien_bagnon/status/1618309992737812480"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/24",
+      "news": [
+        {
+          "title": "Fin des travaux et des nouveaux aménagements rue des Girondins dans le 7ème arrondissement.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/fannydubot/status/1617884191735287809"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/23",
+      "news": [
+        {
+          "title": "Présentation du futur aménagement du Pont Morand. Il devrait y avoir une voie voiture en moins, au profit d'un trottoir piéton et d'une piste cyclable plus large.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/brunobernard_fr/status/1617460816323780609"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/19",
+      "news": [
+        {
+          "title": "Les bandes cyclables du Cours Vitton refaites à neuf et élargies.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/lyonavelo/status/1616113936494993409"
+        }
+      ]
+    },
+    {
+      "date": "2023/01/12",
+      "news": [
+        {
+          "title": "Bruno Bernard annonce le début des travaux pour 7 voies lyonnaises en 2023.",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/grandlyon/status/1618206628175552515"
+        }
+      ]
+    },
+    {
       "date": "2023/01/10",
       "news": [
         {
