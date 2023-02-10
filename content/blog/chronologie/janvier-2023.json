@@ -4,6 +4,21 @@
   "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
   "events": [
     {
+      "date": "2023/01/30",
+      "news": [
+        {
+          "title": "Premier visuel de ce qui devrait être la voie lyonnaise n°12, qui passera sur le cours Gambetta",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/fabien_bagnon/status/1620317021077643267"
+        },
+        {
+          "title": "Réunion de concertation à venir sur la voie lyonnaise n°7 qui prolongera la requalification de la rue Garibaldi depuis la gde rue de la Guillotière jusqu’à l’av Berthelot ",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/vincent_monot/status/1620090467248664576"
+        }
+      ]
+    },
+    {
       "date": "2023/01/27",
       "news": [
         {
