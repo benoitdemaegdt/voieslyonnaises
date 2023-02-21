@@ -6,11 +6,10 @@ imageUrl: "https://source.unsplash.com/snNHKZ-mGfE"
 
 ## Voie lyonnaise n°1
 - Section berge du Rhônes, entre l'avenue Tony Garnier et le Boulevard des Belges. [Lien du dossier](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220311_voieslyonnaises_ligne1_dossier-concertation.pdf).
-
+- Section entre le boulevrad Stalingrad et le le boulevard Niels Bohr. [Lien du dossier](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf).
 
 ## Voie lyonnaise n°2
 - Section Part-Dieu, entre le Pont Poincaré et l'avenue Berthelot. [Lien du dossier](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf).
-
 
 ## Voie lyonnaise n°3
 - Section berge de Saône, entre l'île barbe et le Pont Kitchener Marchand. [Lien du dossier](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf).
