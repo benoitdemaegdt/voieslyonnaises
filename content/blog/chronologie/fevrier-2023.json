@@ -4,6 +4,21 @@
   "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
   "events": [
     {
+      "date": "2023/02/23",
+      "news": [
+        {
+          "title": "Ouverture d'une nouvelle concertation pour le tronçon Nord de la Voie Lyonnaise n°1",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/brunobernard_fr/status/1628757598991253504",
+        },
+        {
+          "title": "Le pôle de la Part Dieu, enfin accessible aux cyclistes !",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/fabien_bagnon/status/1628712075080916993"
+        }
+      ]
+    },
+    {
       "date": "2023/02/16",
       "news": [
         {
