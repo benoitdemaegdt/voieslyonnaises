@@ -4,7 +4,7 @@ const BASE_URL = 'https://cyclopolis.fr'
 const COVER_IMAGE_URL = 'https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png'
 
 export default defineNuxtConfig({
-  app: {
+  app: {
     head: {
       htmlAttrs: { lang: 'fr' },
       title: TITLE,
@@ -33,6 +33,13 @@ export default defineNuxtConfig({
           content: DESCRIPTION
         },
         { hid: 'twitter:image', name: 'twitter:image', content: COVER_IMAGE_URL }
+      ],
+      script: [
+        {
+          src: 'https://beamanalytics.b-cdn.net/beam.min.js',
+          'data-token': 'a2aab44b-048b-4696-9171-c8b470bc8ba5',
+          async: true
+        }
       ]
     }
   },
