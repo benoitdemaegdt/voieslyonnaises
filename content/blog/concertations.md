@@ -13,6 +13,7 @@ imageUrl: "https://source.unsplash.com/snNHKZ-mGfE"
 
 ## Voie lyonnaise n°3
 - Section berge de Saône, entre l'île barbe et le Pont Kitchener Marchand. [Lien du dossier](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf).
+- Section au nord de l'île barbe. [Lien du dossier](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf).
 
 ## Voie lyonnaise n°4
 - Section Lyon 6 - Villeurbanne. [Lien du dossier](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf).
@@ -28,7 +29,7 @@ Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonna
 Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonnaise.
 
 ## Voie lyonnaise n°8
-Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonnaise.
+- Section Bron - Saint-Priest. [Lien du dossier](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf).
 
 ## Voie lyonnaise n°9
 - Section Miribel Jonage. [Lien du dossier](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne9_dossier.pdf).
@@ -37,7 +38,7 @@ Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonna
 Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonnaise.
 
 ## Voie lyonnaise n°11
-Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonnaise.
+- Section Chassieu. [Lien du dossier](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf).
 
 ## Voie lyonnaise n°12
-Il n'y a pas encore de dossier de concertation disponibel pour cette voie lyonnaise.
+- Section Lyon - Saint Priest. [Lien du dossier](https://jeparticipe.grandlyon.com/media/default/0001/01/2cb050a25f0c7e80a0e5ea22cc329f4896245873.pdf).
