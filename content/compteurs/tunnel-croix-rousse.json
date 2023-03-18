@@ -1,6 +1,6 @@
 {
   "name": "Tunnel de la Croix-Rousse",
-  "description": "test",
+  "description": "Le compteur vélo du tunnel de la Croix Rousse est située à la soritie du tunnel, côté Saône. Il compte les passages des cyclistes dans les 2 sens de circulation.",
   "arrondissement": "Lyon 4",
   "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
   "idPdc": "100032838",
@@ -333,6 +333,10 @@
     {
       "month": "2023/01/01",
       "count": 102986
+    },
+    {
+      "month": "2023/02/01",
+      "count": 98661
     }
   ]
 }
