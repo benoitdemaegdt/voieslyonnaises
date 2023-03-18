@@ -41,7 +41,7 @@
               Description
             </h3>
             <div class="space-y-6">
-              <p class="text-base text-gray-900">
+              <p class="text-base text-gray-900 text-justify">
                 {{ voie.description }}
               </p>
               <dl class="mt-5 grid grid-cols-1 rounded-lg bg-white overflow-hidden shadow divide-y divide-gray-200 md:grid-cols-3 md:divide-y-0 md:divide-x">

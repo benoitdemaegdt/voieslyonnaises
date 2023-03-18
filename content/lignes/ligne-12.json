@@ -4,33 +4,42 @@
   "from": "Lyon",
   "to": "Saint-Priest",
   "distance": 20000,
-  "description": "Lorem ipsum.",
+  "description": "C'est peut-être la Voie Lyonnaise la plus ambitieuse. La Voie Lyonnaise n°12 doit permettre aux cyclistes de traverser Lyon d'Ouest en Est en passant le 9ème, le 5ème, le 2ème, le 3ème, le 7ème et le 8ème arrondissement avant de rejoindre Saint-Priest. Elle passera par des lieux emblématiques de Lyon comme la place Bellecour, le Pont Bonaparte et le Pont de la Guillotière. Ce projet est très ambitieux, car il vise à aménager des lieux très denses où les aménagements cyclables sont rudimentaires voir inexistants.",
   "trafic": "24k vélos / jour",
   "avancement": "25%",
   "cover": "https://res.cloudinary.com/monpetitsommet/image/upload/v1670018279/voieslyonnaises/ligne12/cover-vl12_f9gc5x.png",
   "images": [
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "logo des voies lyonnaises"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png",
+      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
     },
     {
       "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png",
       "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
     },
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349687/voieslyonnaises/ligne12/ligne12_vdqyfi.jpg",
-      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png",
+      "alt": "prévisualisation de la ligne 12 des voies lyonnaises au niveau de la place Bellecour"
     },
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "logo des voies lyonnaises"
+      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png",
+      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
     }
   ],
   "announcements": [
     {
-      "title": "Inauguration de la première section",
-      "date": "23 juin 2022",
-      "text": "Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores."
+      "title": "Réunion de concertation",
+      "date": "Mercredi 29 Mars 2023",
+      "text": "Réunion de concertation au musée Lugdunum. 17 rue Cléberg, Lyon 5",
+      "link": "https://jeparticipe.grandlyon.com/media/default/0001/01/2cb050a25f0c7e80a0e5ea22cc329f4896245873.pdf",
+      "anchor": "dossier de concertation"
+    },
+    {
+      "title": "Réunion de concertation",
+      "date": "Mardi 14 Mars 2023",
+      "text": "Réunion de concertation à l'Université Jean Moulin Lyon 3 (Manufacture des Tabacs).",
+      "link": "https://jeparticipe.grandlyon.com/media/default/0001/01/2cb050a25f0c7e80a0e5ea22cc329f4896245873.pdf",
+      "anchor": "dossier de concertation"
     }
   ],
   "sections": [
