@@ -34,7 +34,8 @@ const { data: articles } = await useAsyncData(() => {
   return queryContent('blog', 'chronologie').sort({ date: -1 }).find()
 })
 
-const DESCRIPTION = "Travaux en cours, nouveaux projets, végétalisation, réflexions : retrouvez mois après mois l'historique des aménagements cyclables et des voies Lyonnaises."
+const DESCRIPTION =
+  "Travaux en cours, nouveaux projets, végétalisation, réflexions : retrouvez mois après mois l'historique des aménagements cyclables et des voies Lyonnaises."
 const IMAGE_URL = 'https://source.unsplash.com/KQJpAe6UabU'
 useHead({
   meta: [
