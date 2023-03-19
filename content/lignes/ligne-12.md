@@ -11,7 +11,7 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018279/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
 ---
 
-## Les sections
+## Les sections (d'Est en Ouest)
 
 ### Section Ouest (9ème et 5ème arrondissements)
 
@@ -100,6 +100,6 @@ Mardi 14 Mars 2023, réunion de concertation à l'Université Jean Moulin Lyon 3
 #### Debrief
 - Réunion dans le 8ème arrondissement qui rassemblait essentiellement des habitants du 3ème, 7ème et 8ème.
 - Très peu de questions sur le Cours Gambetta (à part sur le stationnement sauvage sur les pistes cyclables).
-- Inquiétudes sur le report de traffic dans les petites rues autour de Grange Blanche.
+- Inquiétudes sur le report de trafic dans les petites rues autour de Grange Blanche.
 - Inquiétudes sur la circulation des ambulances avenue Rockefeller.
 
