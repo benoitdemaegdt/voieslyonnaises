@@ -29,12 +29,12 @@ caption: Photo du 1er tronçon de la voie lyonnaise n°1.
 ---
 ::
 
-#### Sous-section, de la piscine du Rhône au Pont de Lattre de Tassigny
+#### Sous-section, de la piscine du Rhône au Pont Morand
 Cette section devrait être réaménagée car les installations cyclables en place sont en dessous des standards d'une voie lyonnaise.
 
 On ne connait pas encore les détails des travaux à venir.
 
-#### Sous-section, du Pont de Lattre de Tassigny au parc de la Tête d'Or
+#### Sous-section, du Pont Morand au parc de la Tête d'Or
 Cette section est terminée. Le marquage final a été réalisée le 28 Février 2023.
 
 [Voir l'annonce sur twitter](https://twitter.com/fabien_bagnon/status/1630616108561580041)
@@ -42,8 +42,8 @@ Cette section est terminée. Le marquage final a été réalisée le 28 Février
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679230537/voieslyonnaises/ligne1/vl-1-tassigny-tete-or_ub6hzm.png
-alt: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Tassigny et la Tête d'Or.
-caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Tassigny et la Tête d'Or.
+alt: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Tête d'Or.
+caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Tête d'Or.
 ---
 ::
 
@@ -92,6 +92,13 @@ caption: Calendrier prévisionnel de la section nord de la  de la voie lyonnaise
 
 
 ## Fil d'actu
+
+### Fin des travaux du 2ème tronçon
+28 Février 2023
+
+Fin des travaux du 2ème tronçon, entre le Pont Morand et le parc de la Tête d'Or.
+
+[Voir l'annonce](https://twitter.com/fabien_bagnon/status/1630616108561580041)
 
 ### Réunion de concertation
 2 mars 2023
