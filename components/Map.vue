@@ -7,14 +7,11 @@ import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import style from '@/assets/style.json'
 
-const { voie } = defineProps({
-  voie: { type: Object, required: true }
+const { geojson } = defineProps({
+  geojson: { type: Object, required: true }
 })
 
-const { getGeojsonFeatures } = useGeojson()
 const { getTooltipHtml } = useTooltip()
-
-const sections = getGeojsonFeatures(voie).flat()
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -33,7 +30,7 @@ onMounted(() => {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: sections.filter(({ properties }) => properties.status === 'done')
+        features: geojson.features.filter(({ properties }) => properties.status === 'done')
       }
     })
     map.addLayer({
@@ -50,7 +47,7 @@ onMounted(() => {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: sections.filter(({ properties }) => properties.status === 'in-progress')
+        features: geojson.features.filter(({ properties }) => properties.status === 'in-progress')
       }
     })
     map.addLayer({
@@ -68,7 +65,7 @@ onMounted(() => {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: sections.filter(({ properties }) => properties.status === 'not-started')
+        features: geojson.features.filter(({ properties }) => properties.status === 'not-started')
       }
     })
     map.addLayer({
@@ -82,8 +79,8 @@ onMounted(() => {
       }
     })
 
-    const allCoordinates = sections
-      .map(section => section.geometry.coordinates)
+    const allCoordinates = geojson.features
+      .map(feature => feature.geometry.coordinates)
       .flat()
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0])
     for (const coord of allCoordinates) {

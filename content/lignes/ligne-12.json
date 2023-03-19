@@ -1,92 +1,146 @@
 {
-  "line": "12",
-  "color": "#DBABB7",
-  "from": "Lyon",
-  "to": "Saint-Priest",
-  "distance": 20000,
-  "description": "C'est peut-être la Voie Lyonnaise la plus ambitieuse. La Voie Lyonnaise n°12 doit permettre aux cyclistes de traverser Lyon d'Ouest en Est en passant le 9ème, le 5ème, le 2ème, le 3ème, le 7ème et le 8ème arrondissement avant de rejoindre Saint-Priest. Elle passera par des lieux emblématiques de Lyon comme la place Bellecour, le Pont Bonaparte et le Pont de la Guillotière. Ce projet est très ambitieux, car il vise à aménager des lieux très denses où les aménagements cyclables sont rudimentaires voir inexistants.",
-  "trafic": "24k vélos / jour",
-  "avancement": "25%",
-  "cover": "https://res.cloudinary.com/monpetitsommet/image/upload/v1670018279/voieslyonnaises/ligne12/cover-vl12_f9gc5x.png",
-  "images": [
+  "type": "FeatureCollection",
+  "features": [
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png",
-      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png",
-      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png",
-      "alt": "prévisualisation de la ligne 12 des voies lyonnaises au niveau de la place Bellecour"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png",
-      "alt": "prévisualisation de la ligne 12 des voies lyonnaises"
-    }
-  ],
-  "announcements": [
-    {
-      "title": "Réunion de concertation",
-      "date": "Mercredi 29 Mars 2023",
-      "text": "Réunion de concertation au musée Lugdunum. 17 rue Cléberg, Lyon 5",
-      "link": "https://jeparticipe.grandlyon.com/media/default/0001/01/2cb050a25f0c7e80a0e5ea22cc329f4896245873.pdf",
-      "anchor": "dossier de concertation"
-    },
-    {
-      "title": "Réunion de concertation",
-      "date": "Mardi 14 Mars 2023",
-      "text": "Réunion de concertation à l'Université Jean Moulin Lyon 3 (Manufacture des Tabacs).",
-      "link": "https://jeparticipe.grandlyon.com/media/default/0001/01/2cb050a25f0c7e80a0e5ea22cc329f4896245873.pdf",
-      "anchor": "dossier de concertation"
-    }
-  ],
-  "sections": [
-    {
+      "type": "Feature",
       "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "name": "9ème et 5ème arrondissements",
+        "distance": 3953,
+        "status": "not-started"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.805422375500115, 45.77513056432596],
+          [4.805466181402636, 45.77243796552875],
+          [4.805581691777661, 45.76970230715915],
+          [4.805625494267133, 45.76883498840945],
+          [4.805435143741306, 45.76817242363191],
+          [4.8055165821715775, 45.76596404191122],
+          [4.80566842491811, 45.76573227210707],
+          [4.806242029041471, 45.76517099536204],
+          [4.806632696211523, 45.764430962815055],
+          [4.80727738261092, 45.76352896888932],
+          [4.808247526279757, 45.76238022560548],
+          [4.808711045733702, 45.76167751039719],
+          [4.809288499549979, 45.76104099199145],
+          [4.809488683539058, 45.76084224636051],
+          [4.810177778425356, 45.760348064965854],
+          [4.811688768334676, 45.75917258185672],
+          [4.811654121106187, 45.75875627557997],
+          [4.812346650967271, 45.75871612175834],
+          [4.81307565352779, 45.75844592119759],
+          [4.81487082233258, 45.757489082810054],
+          [4.8173186770798395, 45.75632168851604],
+          [4.818625235109238, 45.756017820867925],
+          [4.819234962190251, 45.75613384325615],
+          [4.82022317755488, 45.75651791660289],
+          [4.820777474900211, 45.756899128698706],
+          [4.821496901807706, 45.75737860764224],
+          [4.822098710354936, 45.75820731348509],
+          [4.823674498525094, 45.75864928490182],
+          [4.824094180800017, 45.75910230197135],
+          [4.824427244767207, 45.759872519577925],
+          [4.825068645982412, 45.761148664418926],
+          [4.825440817056858, 45.761690050382214],
+          [4.825931766135255, 45.762021508582905],
+          [4.826173631286508, 45.76196706136733],
+          [4.825571822739278, 45.76048653137963],
+          [4.825555985671571, 45.76028765122393],
+          [4.826561639428689, 45.76028212676525],
+          [4.82666458036357, 45.76013849064179],
+          [4.828026568128706, 45.759724153599706]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "name": "Presqu'île",
+        "distance": 770,
+        "status": "not-started"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.82798883096757, 45.75974679797321],
+          [4.828609686141618, 45.75952096657036],
+          [4.832233994550734, 45.758491756143144],
+          [4.834175882882562, 45.75795745946414],
+          [4.837206940916531, 45.75718836588129]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
         "name": "Pont de la guillotière - Cours Gambetta",
         "distance": 1933,
         "status": "not-started"
       },
-      "coordinates": [
-        [
-          4.859395623207092,
-          45.74971163504711
-        ],
-        [
-          4.858998656272888,
-          45.74980521644522
-        ],
-        [
-          4.858574867248535,
-          45.749966176082985
-        ],
-        [
-          4.855780005455017,
-          45.750894492377064
-        ],
-        [
-          4.849530458450317,
-          45.753061751363674
-        ],
-        [
-          4.844369888305664,
-          45.75484340728971
-        ],
-        [
-          4.841376543045044,
-          45.75592884205079
-        ],
-        [
-          4.838147163391113,
-          45.75695437135881
-        ],
-        [
-          4.836999177932739,
-          45.757253792419554
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.859395623207092, 45.74971163504711],
+          [4.858998656272888, 45.74980521644522],
+          [4.858574867248535, 45.749966176082985],
+          [4.855780005455017, 45.750894492377064],
+          [4.849530458450317, 45.753061751363674],
+          [4.844369888305664, 45.75484340728971],
+          [4.841376543045044, 45.75592884205079],
+          [4.838147163391113, 45.75695437135881],
+          [4.836999177932739, 45.75725379241955]
         ]
-      ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "name": "Cours Albert Thomas, Av. Rockefeller et Av. Franklin Roosevelt",
+        "distance": 3930,
+        "status": "not-started"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.85943737730878, 45.749702331287665],
+          [4.860672645098248, 45.7492403843309],
+          [4.862027967508425, 45.748743032060815],
+          [4.864204527533133, 45.74799127407371],
+          [4.866868667968021, 45.74708230562368],
+          [4.86940387659817, 45.74619899643153],
+          [4.872277376812292, 45.74521143325774],
+          [4.875377071183067, 45.74413786205656],
+          [4.8776286254201295, 45.74336293974869],
+          [4.878181616652142, 45.74317652267487],
+          [4.878404684427522, 45.743169827036326],
+          [4.878730891066851, 45.743281978880475],
+          [4.8790475033937355, 45.74324515292656],
+          [4.879289759794943, 45.74306102279269],
+          [4.879385702924395, 45.74288191380697],
+          [4.8795062902585755, 45.74275015889776],
+          [4.87981570685082, 45.74263465813348],
+          [4.880357785531004, 45.74247396102035],
+          [4.882385243806397, 45.7421600494402],
+          [4.883288570833457, 45.74199682946937],
+          [4.885164665377005, 45.74137116543628],
+          [4.890450516247739, 45.73964499087779],
+          [4.892042547504985, 45.739120652271595],
+          [4.899770978980939, 45.7365413588839],
+          [4.901071822869511, 45.73597883156785],
+          [4.9025282026833, 45.73551992289805],
+          [4.90290997214953, 45.735352148894634],
+          [4.904875377917932, 45.734730393780524]
+        ]
+      }
     }
   ]
 }
