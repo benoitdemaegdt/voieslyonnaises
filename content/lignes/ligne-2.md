@@ -6,7 +6,6 @@ to: Mions
 distance: 32000
 description: La voie lyonnaise n°2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Elle transformera plusieurs axes routiers majeurs puisqu'elle passera par le boulevard Stalingrad (le long du parc de la tête d'or), le boulevard Vivier Merle ainsi que le boulevard des Tchécoslovaques plus au sud.
 trafic: 21k vélos / jour
-avancement: 25%
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017928/voieslyonnaises/ligne2/cover-vl2_litbbi.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
 ---
