@@ -15,14 +15,14 @@ definePageMeta({
   layout: 'fullscreen'
 })
 
-const { getGeojsonFeatures } = useGeojson()
 const { getTooltipHtml } = useTooltip()
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent().find()
+  return queryContent('lignes').where({ _type: 'json' }).find()
 })
+
 const sections = voies.value
-  .map(voie => getGeojsonFeatures(voie))
+  .map(voie => voie.features)
   .flat()
 
 onMounted(() => {
