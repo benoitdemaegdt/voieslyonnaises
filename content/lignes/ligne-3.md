@@ -19,7 +19,6 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voiesl
 
 Sur ce tronçon, la voie lyonnaise n°3 devrait longer la Saône sur le D51 jusqu'au giratoir de Quincieux.
 
-
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-quincieux_cjq56r.png
@@ -27,7 +26,6 @@ alt: Visualisation de la voie lyonnaise n°3 entre Quincieux et l'île barbe.
 caption: Visualisation de la voie lyonnaise n°3 entre Quincieux et l'île barbe.
 ---
 ::
-
 
 #### Sous-section, Neuville-sur-Saône à Genay
 
