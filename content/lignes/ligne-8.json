@@ -1,127 +1,40 @@
 {
-  "line": "8",
-  "color": "#7E6D98",
-  "from": "La Tour-de-Salvagny",
-  "to": "Bron",
-  "distance": 28000,
-  "description": "On ne sait pas encore grand chose de cette future voie lyonnaise n°8 excepté qu'elle permettra de relier Bron à la Tour de Salvagny en 28km. Les plans actuellement à disposition laissent supposer qu'elle empruntera la rue de l'épargne, la rue Marc Bloch, le pont Gallieni. Aucune certitude cependant : il faudra attendre les dossiers de concertation pour confirmer ces hypothèses.",
-  "trafic": "19k vélos / jour",
-  "avancement": "25%",
-  "cover": "https://res.cloudinary.com/monpetitsommet/image/upload/v1670018243/voieslyonnaises/ligne8/cover-vl8_ivz4ds.png",
-  "images": [
+  "type": "FeatureCollection",
+  "features": [
     {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "logo des voies lyonnaises"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg",
-      "alt": "prévisualisation de la ligne 8 des voies lyonnaises"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg",
-      "alt": "prévisualisation de la ligne 8 des voies lyonnaises"
-    },
-    {
-      "src": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png",
-      "alt": "logo des voies lyonnaises"
-    }
-  ],
-  "announcements": [
-    {
-      "title": "Réunion de concertation",
-      "date": "fin 2022",
-      "text": "La réunion de concertation devrait se tenir au 4ème trimestre 2022."
-    }
-  ],
-  "sections": [
-    {
+      "type": "Feature",
       "properties": {
+        "line": 8,
+        "color": "#7E6D98",
         "name": "7ème, 2ème et 5ème arrondissements",
         "distance": 5465,
         "status": "not-started"
       },
-      "coordinates": [
-        [
-          4.866471290588379,
-          45.73913592646087
-        ],
-        [
-          4.864840507507324,
-          45.74019920332147
-        ],
-        [
-          4.86194372177124,
-          45.74126245993399
-        ],
-        [
-          4.857738018035889,
-          45.74253534614939
-        ],
-        [
-          4.852330684661865,
-          45.74389805099091
-        ],
-        [
-          4.850056171417235,
-          45.746503569841856
-        ],
-        [
-          4.84872579574585,
-          45.745365542083405
-        ],
-        [
-          4.846000671386719,
-          45.746847968406314
-        ],
-        [
-          4.840271472930908,
-          45.7502019998303
-        ],
-        [
-          4.838576316833496,
-          45.75126506594052
-        ],
-        [
-          4.836902618408202,
-          45.75193882975228
-        ],
-        [
-          4.8335981369018555,
-          45.74782125720949
-        ],
-        [
-          4.8276329040527335,
-          45.74972286482317
-        ],
-        [
-          4.82525110244751,
-          45.750449052211195
-        ],
-        [
-          4.821689128875732,
-          45.75172921521579
-        ],
-        [
-          4.823373556137085,
-          45.7534734836269
-        ],
-        [
-          4.824306964874268,
-          45.75548718493693
-        ],
-        [
-          4.824575185775757,
-          45.756160897777626
-        ],
-        [
-          4.82574462890625,
-          45.75755321187369
-        ],
-        [
-          4.827826023101807,
-          45.75960419193766
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.866471290588379, 45.73913592646087],
+          [4.864840507507324, 45.74019920332147],
+          [4.86194372177124, 45.74126245993399],
+          [4.857738018035889, 45.74253534614939],
+          [4.852330684661865, 45.74389805099091],
+          [4.850056171417235, 45.746503569841856],
+          [4.84872579574585, 45.745365542083405],
+          [4.846000671386719, 45.746847968406314],
+          [4.840271472930908, 45.7502019998303],
+          [4.838576316833496, 45.75126506594052],
+          [4.836902618408202, 45.75193882975228],
+          [4.8335981369018555, 45.74782125720949],
+          [4.8276329040527335, 45.74972286482317],
+          [4.82525110244751, 45.750449052211195],
+          [4.821689128875732, 45.75172921521579],
+          [4.823373556137085, 45.7534734836269],
+          [4.824306964874268, 45.75548718493693],
+          [4.824575185775757, 45.756160897777626],
+          [4.82574462890625, 45.75755321187369],
+          [4.827826023101807, 45.75960419193766]
         ]
-      ]
+      }
     }
   ]
 }
