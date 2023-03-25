@@ -154,7 +154,6 @@ caption: calendrier prévisionnel du tronçon sud de la voie lyonnaise n°3.
 
 ## Fil d'actu
 
-
 ### Concertation publique
 3 mars 2023 et 7 mars 2023
 
