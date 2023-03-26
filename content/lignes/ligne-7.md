@@ -20,7 +20,7 @@ caption: Prévisualisation de la voie lyonnaise n°7.
 ---
 ::
 
-À noter que le maire de caluire, Philippe Cochet, est un fervent opposant à ce projet de voie lyonnaise n°7. Il n'hésite pas à [user de désinformation](https://twitter.com/Fabien_Bagnon/status/1639676350498742274?s=20) pour tenter de bloquer le projet.
+À noter que le maire de caluire, Philippe Cochet, est un fervent opposant à ce projet de voie lyonnaise n°7. Il n'hésite pas à [user de désinformation](https://twitter.com/Fabien_Bagnon/status/1639676350498742274?s=20){:target="_blank"} pour tenter de bloquer le projet.
 
 ## Budget prévisionnel
 
