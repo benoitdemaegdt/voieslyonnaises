@@ -4,7 +4,7 @@ color: "#DC8953"
 from: Lissieu
 to: Villeurbanne
 distance: 22000
-description: Lorem ipsum dolor sit amet.
+description: La voie lyonnaise n°4 promet de pouvoir traverser la métropole lyonnaise du Nord-Ouest à l'Est en passant par Limonest, les Monts d'Or, Vaise, le 6ème et Villeurbanne. Certains tronçons de son parcours sont extrêmement ambitieux (Lyon 6 et Villeurbanne en particulier) et devraient complètement transformer la pratique cyclable dans ces secteurs. 
 trafic: 18k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018201/voieslyonnaises/ligne4/cover-vl4_grabsv.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg

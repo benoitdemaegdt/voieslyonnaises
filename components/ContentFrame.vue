@@ -99,7 +99,7 @@
           >{{ title }}
           </span>
         </h1>
-        <p class="mt-8 text-xl text-gray-500 leading-8">
+        <p class="mt-8 text-xl text-gray-500 leading-8 text-justify">
           {{ description }}
         </p>
       </div>
