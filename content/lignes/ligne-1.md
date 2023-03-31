@@ -13,7 +13,18 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voiesl
 ## Les sections (du Sud au Nord)
 
 ### Section sud, de Gerland au Pont Gallieni
-À ma connaissance, il n'y a pas encore d'informations disponibles sur cette section.
+Il n'y a pour l'instant pas d'information ni de dossier de concertation disponible sur cette section.
+[Quelques visualisations](https://twitter.com/vlungenstrass/status/1640964506301132801) ont néanmoins été partagées par Valentin Lungenstrass sur son compte twitter.
+
+::image
+---
+imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1680269708/voieslyonnaises/ligne1/ligne-1-gerland_ejniyh.jpg
+alt: Visualisation de la voie lyonnaise n°1 vers Gerland.
+caption: Visualisation de la voie lyonnaise n°1 vers Gerland.
+---
+::
+
+[Voir toutes les images]
 
 ### Section centrale, du Pont Gallieni au parc de la Tête d'Or
 

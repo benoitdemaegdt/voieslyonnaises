@@ -4,6 +4,21 @@
   "imageUrl": "https://source.unsplash.com/KQJpAe6UabU",
   "events": [
     {
+      "date": "2023/03/29",
+      "news": [
+        {
+          "title": "Fin de la discontinuité cyclable quai de la pêcherie",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/lyonavelo/status/1641033387744935940"
+        },
+        {
+          "title": "Les premières visualisations de la voie lyonnaise n°1 sur le secteur Gerland ?",
+          "link": "voir le tweet",
+          "tweet": "https://twitter.com/vlungenstrass/status/1640964506301132801"
+        }
+      ]
+    },
+    {
       "date": "2023/03/16",
       "news": [
         {
