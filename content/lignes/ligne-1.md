@@ -28,7 +28,7 @@ caption: Visualisation de la voie lyonnaise n°1 vers Gerland.
 
 ### Section centrale, du Pont Gallieni au parc de la Tête d'Or
 
-#### Sous-section, du Pont Gallieni à la piscine du Rhône
+#### Sous-section, du Pont Gallieni au Pont de la Guillotière
 Cette section est terminée. Elle a été inaugurée le 8 juillet 2022.
 
 ::image
@@ -39,10 +39,16 @@ caption: Photo du 1er tronçon de la voie lyonnaise n°1.
 ---
 ::
 
-#### Sous-section, de la piscine du Rhône au Pont Morand
+#### Sous-section, du Pont de la Guillotière au Pont Lafayette
 Cette section devrait être réaménagée car les installations cyclables en place sont en dessous des standards d'une voie lyonnaise.
 
 On ne connait pas encore les détails des travaux à venir.
+
+#### Sous-section, du Pont Lafayette au Pont Morand (Quai Sarrail)
+Cette section est actuellement en travaux (printemps 2023).
+
+[Voir le tweet](https://twitter.com/Fabien_Bagnon/status/1647504858025537536)
+
 
 #### Sous-section, du Pont Morand au parc de la Tête d'Or
 Cette section est terminée. Le marquage final a été réalisée le 28 Février 2023.
@@ -56,7 +62,6 @@ alt: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Têt
 caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Tête d'Or.
 ---
 ::
-
 
 ### Section nord, du parc de la Tête d'Or à Vaulx-en-Velin
 Cette section est en cours d'étude et de concertation.
@@ -72,7 +77,6 @@ alt: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le boule
 caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le boulevard du 11 novembre.
 ---
 ::
-
 
 
 ## Calendrier prévisionnel
