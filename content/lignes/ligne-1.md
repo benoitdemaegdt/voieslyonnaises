@@ -24,8 +24,6 @@ caption: Visualisation de la voie lyonnaise n°1 vers Gerland.
 ---
 ::
 
-[Voir toutes les images]
-
 ### Section centrale, du Pont Gallieni au parc de la Tête d'Or
 
 #### Sous-section, du Pont Gallieni au Pont de la Guillotière
@@ -106,6 +104,13 @@ caption: Calendrier prévisionnel de la section nord de la  de la voie lyonnaise
 
 
 ## Fil d'actu
+
+### Début des travaux du 3ème tronçon
+17 Avril 2023
+
+Début des travaux du 3ème tronçon, entre le Pont Lafayette et le Pont Morand.
+
+[Voir le tweet](https://twitter.com/Fabien_Bagnon/status/1647504858025537536)
 
 ### Fin des travaux du 2ème tronçon
 28 Février 2023
