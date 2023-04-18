@@ -88,6 +88,9 @@ caption: Calendrier prévisionnel de la voie lyonnaise n°12
 ## Fil d'actu
 
 ### Réunion de concertation
+Lundi 17 Avril 2023 à l'Hôtel de Ville de Bron.
+
+### Réunion de concertation
 Mercredi 29 Mars 2023, réunion de concertation au musée Lugdunum.
 
 #### Dossier de concertation
