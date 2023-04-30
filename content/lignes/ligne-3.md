@@ -50,7 +50,7 @@ caption: tronçon (terminé le 25/01/2023) de la voie lyonnaise n°3 à Couzon.
 #### Sous-section, entre l'île barbe et le Pont Robert Schuman
 Il y a pour l'instant un coronapiste qui sera transformée en piste cyclable bidirectionnelle au standard d'une voie lyonnaise.
 
-À l'approche du Pont Rober Schuman, la piste cyclable est déjà de qualitée.
+À l'approche du Pont Rober Schuman, la piste cyclable est déjà de bonne qualité. Ce petit tronçon ne sera pas modifié (excepté peinture au sol).
 
 ::image
 ---
@@ -63,7 +63,7 @@ caption: Voie lyonnaise n°3 déjà bien aménagée au nord du Pont Robert Schum
 #### Sous-section, entre le Pont Robert Schuman et Pont Koenig
 Cette section est globalement déjà bien aménagée pour les cyclistes. Les travaux consisteront à élargir ponctuellement la piste cyclable bidirectionnelle déjà en place.
 
-Une exception : le tronçon  située entre le le pont Clémenceau et le pont Koenig. Celui ci n'est pas aménagé et une piste bidirectionnelle de 2,80m (rampe du Pont Clémenceau) à 4m (vers le Pont Koenig) devrait y être installée en retirant une voie de circulation automobile.
+Une exception : le tronçon  située entre le le pont Clémenceau et le pont Koenig. Celui ci n'est pas du tout aménagé et une piste bidirectionnelle de 2,80m (rampe du Pont Clémenceau) à 4m (vers le Pont Koenig) devrait y être installée en retirant une voie de circulation automobile.
 
 ::image
 ---
