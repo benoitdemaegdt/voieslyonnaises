@@ -13,9 +13,24 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voiesl
 ## Les sections (du Nord-Ouest à l'Est)
 
 ### Section Nord, de Limonest à Vaise
+
+#### Sous-section, entre Lissieu et Limonest
+[voir le dossier de concertation de cette section](https://jeparticipe.grandlyon.com/media/default/0001/01/a234c28f80d78dcb4a790ef86f0f61b9440073d2.pdf)
+
+Depuis le [giratoire de la chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la voie lyonnaise n°4 prend la direction du Sud-Est en suivant la D306.
+
+::image
+---
+imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682892050/voieslyonnaises/ligne4/vl4-porte-de-lyon_fzme3r.png
+alt: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon – Dardilly
+caption: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon – Dardilly
+---
+::
+
+#### Sous-section, entre Limonest et Vaise
 [voir le dossier de concertation de cette section](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
 
-Depuis le [giratoire de la porte de lyon](https://www.google.com/maps/search/45.821406,+4.766743), la voie lyonnaise n°4 va suivre la D306 en direction de Vaise. Elle prendra la forme d'une piste cyclable bidirectionnelle située au nord de la route.
+Depuis le [giratoire de la porte de lyon](https://www.google.com/maps/search/45.821406,+4.766743), la voie lyonnaise n°4 continue de suivre la D306 en direction de Vaise. Elle prendra la forme d'une piste cyclable bidirectionnelle située au nord de la route.
 
 À noter, un point de complexité au niveau de la traversée de Champagne-au-Mont-d'Or sur l'Av. de Lanessan. La métropole envisage plusieurs possibilités (voir p13 du dossier de concertation).
 
@@ -68,7 +83,11 @@ caption: visualisation de la voie lyonnaise n°4 à Villeurbanne, rue Francis de
 ---
 ::
 
+## Budget prévisionnel
 
+La métropole prévoit un budget prévisionnel de **20.4 M€** pour la voie lyonnaise n°4 entre Lissieu et Villeurbanne.
+
+_source: [dernière page de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/a234c28f80d78dcb4a790ef86f0f61b9440073d2.pdf){target=_blank}._
 ## Calendrier prévisionnel
 
 ::image
