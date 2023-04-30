@@ -14,15 +14,8 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voiesl
 
 ### Section sud, de Gerland au Pont Gallieni
 Il n'y a pour l'instant pas d'information ni de dossier de concertation disponible sur cette section.
-[Quelques visualisations](https://twitter.com/vlungenstrass/status/1640964506301132801) ont néanmoins été partagées par Valentin Lungenstrass sur son compte twitter.
 
-::image
----
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1680269708/voieslyonnaises/ligne1/ligne-1-gerland_ejniyh.jpg
-alt: Visualisation de la voie lyonnaise n°1 vers Gerland.
-caption: Visualisation de la voie lyonnaise n°1 vers Gerland.
----
-::
+La voie lyonnaise n°1 devrait cependant démarrer au niveau de l'arrêt de métro "Stade de Gerland" et monter vers le nord en suivant l'Avenue Tony Garnier puis l'Avenue Leclerc.
 
 ### Section centrale, du Pont Gallieni au parc de la Tête d'Or
 
@@ -49,7 +42,7 @@ Cette section est actuellement en travaux (printemps 2023).
 
 
 #### Sous-section, du Pont Morand au parc de la Tête d'Or
-Cette section est terminée. Le marquage final a été réalisée le 28 Février 2023.
+Cette section est terminée. Le marquage final a été réalisé le 28 Février 2023.
 
 [Voir l'annonce sur twitter](https://twitter.com/fabien_bagnon/status/1630616108561580041)
 
@@ -75,6 +68,10 @@ alt: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le boule
 caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le boulevard du 11 novembre.
 ---
 ::
+
+Concernant la section située dans Vaulx-en-Velin, la voie lyonnaise n°1 devrait suivre l'itinéraire du futur tram T9.
+
+[Voir la présentation du projet du tram T9.](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}
 
 
 ## Calendrier prévisionnel
