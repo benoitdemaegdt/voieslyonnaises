@@ -38,6 +38,8 @@ Cette section devrait être aménagée entre 2026 et 2030. Il n'y a pas d'inform
 ### Section Sud-Ouest, de Saint-Fons à Francheville
 Cette section devrait être aménagée avant 2026. Pour l'instant, il n'y a pas d'information disponible ni de dossier de concertation à son sujet.
 
+À noter que le dossier de concertation devrait bientôt être disponible.
+
 ### Section Nord-Ouest, de Francheville à Vaise
 Cette section devrait être aménagée avant 2026. Pour l'instant, il n'y a pas d'information disponible ni de dossier de concertation à son sujet.
 
