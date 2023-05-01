@@ -28,11 +28,11 @@ caption: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon �
 ::
 
 #### Sous-section, entre Limonest et Vaise
-[voir le dossier de concertation de cette section](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
+[voir le dossier de concertation de cette section](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf){:target="_blank"}.
 
 Depuis le [giratoire de la porte de lyon](https://www.google.com/maps/search/45.821406,+4.766743), la voie lyonnaise n°4 continue de suivre la D306 en direction de Vaise. Elle prendra la forme d'une piste cyclable bidirectionnelle située au nord de la route.
 
-À noter, un point de complexité au niveau de la traversée de Champagne-au-Mont-d'Or sur l'Av. de Lanessan. La métropole envisage plusieurs possibilités (voir p13 du dossier de concertation).
+À noter, un point de complexité au niveau de la traversée de Champagne-au-Mont-d'Or. Plusieurs variantes étaient proposées par la métropole qui souhaitait privilégier une traversée directe de Chaampagne-au-Mont-d'Or via l'Av Lannessan. Suite à la concertation, la voie lyonnaise fera finalement un "crochet" par le Bd de la Républiquye et ne passera donc pas pas le centre de Champagne-au-Mont-d'Or.
 
 ::image
 ---
@@ -52,6 +52,8 @@ caption: visualisation de la voie lyonnaise n°4 à Champagne au mont d’or (Bd
 
 Après le passage de Champagne-au-Mont-d'Or, la voie lyonnaise n°4 reprendra la D306 sur l'avenue du 25ème Régiment des
 Tirailleurs Sénégalais (piste bidirectionnelle de 3m60 de large au nord de la route). Elle se poursuivra ensuite jusqu'au giratoire de la porte de Vaise.
+
+De là, on ne sait pas trop comment elle va rejoindre Vaise et le Pont Clémenceau. Le tracé le plus évident (Rue de Bourgogne et Rue Marieton) présente à priori plusieurs complexités et il n'est pas certain que la voie lyonnaise n°4 l'emprunte.
 
 ### Section centrale, de Vaise à la rue Duquesnes
 La plus grande partie de cette section est située dans le tunnel de la croix-rousse, qui est déjà au niveau de qualité d'une voie lyonnaise.
