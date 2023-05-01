@@ -11,14 +11,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voiesl
 ---
 
 ## Les sections
-
-::image
----
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg
-alt: Prévisualisation de la voie lyonnaise n°8.
-caption: Prévisualisation de la voie lyonnaise n°8.
----
-::
+Cette page est en cours de construction.
 
 ## Budget prévisionnel
 

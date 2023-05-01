@@ -11,6 +11,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018264/voiesl
 ---
 
 ## Les sections
+Cette page est en cours de construction.
 
 ## Calendrier prévisionnel
 

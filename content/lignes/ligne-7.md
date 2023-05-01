@@ -11,16 +11,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349477/voiesl
 ---
 
 ## Les sections (du Nord au Sud)
-
-::image
----
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349477/voieslyonnaises/ligne7/ligne7_bsseok.jpg
-alt: Prévisualisation de la voie lyonnaise n°7.
-caption: Prévisualisation de la voie lyonnaise n°7.
----
-::
-
-À noter que le maire de caluire, Philippe Cochet, est un fervent opposant à ce projet de voie lyonnaise n°7. Il n'hésite pas à [user de désinformation](https://twitter.com/Fabien_Bagnon/status/1639676350498742274?s=20){:target="_blank"} pour tenter de bloquer le projet.
+Cette page est en cours de construction.
 
 ## Budget prévisionnel
 
