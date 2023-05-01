@@ -235,7 +235,7 @@
         "color": "#3B7B64",
         "name": "Laborde - Pont Schuman",
         "distance": 644,
-        "status": "done"
+        "status": "not-started"
       },
       "geometry": {
         "type": "LineString",
