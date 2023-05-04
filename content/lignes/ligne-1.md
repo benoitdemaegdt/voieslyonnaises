@@ -57,7 +57,9 @@ caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la 
 ### Section nord, du parc de la Tête d'Or à Vaulx-en-Velin
 Cette section est en cours d'étude et de concertation.
 
-La métropole semble pour le moment privilégier l'insertion d'une piste cyclable à double sens au nord du Boulevard du 11 novembre et de l'Av. Albert Einstein.
+#### Sous-section, Villeurbanne et campus de la Doua
+
+La métropole semble pour le moment privilégier l'insertion d'une piste cyclable à double sens au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein.
 
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)
 
@@ -69,9 +71,18 @@ caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le b
 ---
 ::
 
+#### Sous-section, Vaulx-en-Velin
 Concernant la section située dans Vaulx-en-Velin, la voie lyonnaise n°1 devrait suivre l'itinéraire du futur tram T9.
 
 [Voir la présentation du projet du tram T9.](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}
+
+::image
+---
+imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
+alt: Visualisation de ce que pourrait donner la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.
+caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.
+---
+::
 
 
 ## Calendrier prévisionnel
