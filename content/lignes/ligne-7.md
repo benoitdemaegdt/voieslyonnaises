@@ -34,6 +34,14 @@ caption: la voie lyonnaise n°7 - voie verte de la Dombes.
 ---
 ::
 
+::image
+---
+imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947385/voieslyonnaises/ligne7/vl7-caluire-et-cuire_oxruqc.png
+alt: la voie lyonnaise n°7 - Route du Mas Rillier - Caluire et Cuire.
+caption: la voie lyonnaise n°7 - Route du Mas Rillier - Caluire et Cuire.
+---
+::
+
 ## Budget prévisionnel
 
 ## Calendrier prévisionnel
