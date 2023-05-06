@@ -14,7 +14,7 @@
         </a>
       </div>
       <p class="mt-8 text-center text-base text-gray-400">
-        &copy; 2022 Voies Lyonnaises.
+        &copy; {{ year }} Cyclopolis
       </p>
     </div>
   </footer>
@@ -40,4 +40,6 @@ const navigation = {
     }
   ]
 }
+
+const year = new Date().getFullYear()
 </script>
