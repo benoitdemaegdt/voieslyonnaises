@@ -46,13 +46,12 @@
 
 <script setup>
 const { path } = useRoute()
-const { withoutTrailingSlash } = useUrl()
 
 const { voie } = defineProps({ voie: Object })
 
 const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
-  return queryContent()
-    .where({ _type: 'json', _path: { $contains: withoutTrailingSlash(path) } })
+  return queryContent('voies-lyonnaises')
+    .where({ _type: 'json', _path: voie._path })
     .findOne()
 })
 

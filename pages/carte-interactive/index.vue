@@ -18,7 +18,7 @@ definePageMeta({
 const { getTooltipHtml } = useTooltip()
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('lignes').where({ _type: 'json' }).find()
+  return queryContent('voies-lyonnaises').where({ _type: 'json' }).find()
 })
 
 const sections = voies.value
