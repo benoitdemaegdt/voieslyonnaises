@@ -9,7 +9,7 @@
             Avancement par ligne
           </h2>
           <p class="text-xl text-gray-500">
-            Choisissez l'une des 12 voies lyonnaises pour voir son niveau d'avancement.
+            Choisissez une voie lyonnaise pour étudier le projet et voir son niveau d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />

@@ -1,7 +1,7 @@
 <template>
   <ContentFrame
-    header="Voie lyonnaise"
-    :title="`Ligne ${voie.line}`"
+    header="piste cyclable"
+    :title="`voie lyonnaise ${voie.line}`"
     :description="voie.description"
     :image-url="voie.cover"
   >
