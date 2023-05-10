@@ -20,14 +20,6 @@ caption: Visualisation de la voie lyonnaise n°9.
 ---
 ::
 
-::image
----
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voieslyonnaises/ligne9/ligne9_yz31hs.jpg
-alt: Visualisation de la voie lyonnaise n°9.
-caption: Visualisation de la voie lyonnaise n°9.
----
-::
-
 ## Budget prévisionnel
 
 ## Calendrier prévisionnel
