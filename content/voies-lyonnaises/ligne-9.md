@@ -4,14 +4,16 @@ color: "#EAAB50"
 from: Jonage
 to: Saint-Genis-Laval
 distance: 37000
-description: Lorem ipsum.
+description: Page en cours de construction.
 trafic: 14k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018252/voieslyonnaises/ligne9/cover-vl9_wsmubu.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voieslyonnaises/ligne9/ligne9_yz31hs.jpg
 ---
 
 ## Les sections
-Cette page est en cours de construction.
+
+### Section Nord-Est, Vaulx-en-Velin, Meyzieu et Jonage
+
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg
@@ -20,7 +22,14 @@ caption: Visualisation de la voie lyonnaise n°9.
 ---
 ::
 
+### Section centrale, Villeurbanne, Lyon 6 et Lyon 7
+Info à venir ...
+
+### Section Sud-Ouest, Oullins et Saint-Genis-Laval
+Info à venir ...
+
 ## Budget prévisionnel
+Non communiqué.
 
 ## Calendrier prévisionnel
 
