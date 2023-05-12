@@ -13,25 +13,47 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voiesl
 ## Les sections
 
 ### Section Nord-Est, Vaulx-en-Velin, Meyzieu et Jonage
+À son extrémité Nord-Est, la voie lyonnaise n°9 va se confondre avec la ViaRhona et suivre le canal de Jonage puis l'A42 en direction de Lyon.
+Ce tronçon se termine au niveau de la porte de Croix-Luizet à Villeurbanne.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg
-alt: Visualisation de la voie lyonnaise n°9.
-caption: Visualisation de la voie lyonnaise n°9.
+alt: Voie lyonnaise n°9 le long de l'A42.
+caption: Voie lyonnaise le long de l'A42.
 ---
 ::
 
 ### Section centrale, Villeurbanne, Lyon 6 et Lyon 7
-Info à venir ...
+La section centrale de la voie lyonnaise n°9 emprunte le même itinéraire que plusieurs autres voies lyonnaises.
+
+- Elle suivra la voie lyonnaise n°1 sur Villeurbanne (Av. Albert Einstein, Bd du 11 novembre).
+- Toujours à Villeurbanne, la voie lyonnaise n°2 sur le Bd Stalingrad vers le sud.
+- Dans le 6ème, elle sera similaire à la voie lyonnaise n°4 (Av. de Verguin, Bd. des Belges, rue Duquesnes).
+- Passée dans le 7ème arrondissement, elle aura un tronçon commun avec la voie lyonnaise n°7 le long de la rue Garibaldi puis avec la voie lyonnaise n°8 sur l'Av. Marc Bloch.
+
+Enfin, elle suivra l'Av. Jean Jaures dans le 7ème arrondissement jusqu'au parc de Gerland.
+Elle traversera le Rhône grace à la nouvelle passerelle "mode doux" qui sera construite d'ici 2028.
+
+[Lire le dossier de concertation à propos de cette passerelle](https://jeparticipe.grandlyon.com/media/default/0001/01/04919aa7c24cd845169b1c0ad56825d88e4b6c11.pdf){:target="_blank"}
 
 ### Section Sud-Ouest, Oullins et Saint-Genis-Laval
-Info à venir ...
+On ne sait pas encore grand chose sur l'itinéraire de la voie lyonnaise n°9 à Oullins.
+
+À priori, elle devrait avoir un tronçon commun avec la voie lyonnaise n°3, le long de l'Yzeron. 
 
 ## Budget prévisionnel
 Non communiqué.
 
 ## Calendrier prévisionnel
+
+::image
+---
+imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683831050/voieslyonnaises/ligne9/vl9-calendrier_qmweyk.png
+alt: voie lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
+caption: voie lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
+---
+::
 
 ## Fil d'actu
 
