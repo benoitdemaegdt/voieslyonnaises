@@ -25,12 +25,16 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voiesl
 _À venir_
 
 ### Section Sud, Bron - Saint-Priest
-_À venir_
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf){:target="_blank"}
 
 ## Budget prévisionnel
-- 3.2M€ pour le tronçon situé sur Lyon 9
+- 3.2M€ pour le tronçon situé sur Tassin et Lyon 5.
 
 _source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
+
+- 1.3M€ pour le tronçon situé entre Lyon 8 et St Priest.
+
+_source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf)_
  
 ## Calendrier prévisionnel
 
