@@ -40,7 +40,7 @@ onMounted(() => {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: sections.filter(({ properties }) => properties.status === 'done')
+        features: sections.filter(({ properties }) => properties.isDone === true)
       }
     })
     map.addLayer({
@@ -53,35 +53,17 @@ onMounted(() => {
       }
     })
 
-    map.addSource('in-progress-sections', {
+    map.addSource('not-done-sections', {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: sections.filter(({ properties }) => properties.status === 'in-progress')
+        features: sections.filter(({ properties }) => properties.isDone === false)
       }
     })
     map.addLayer({
-      id: 'in-progress-sections',
+      id: 'not-done-sections',
       type: 'line',
-      source: 'in-progress-sections',
-      paint: {
-        'line-width': 3,
-        'line-color': ['get', 'color'],
-        'line-dasharray': [0.8, 0.8]
-      }
-    })
-
-    map.addSource('not-started-sections', {
-      type: 'geojson',
-      data: {
-        type: 'FeatureCollection',
-        features: sections.filter(({ properties }) => properties.status === 'not-started')
-      }
-    })
-    map.addLayer({
-      id: 'not-started-sections',
-      type: 'line',
-      source: 'not-started-sections',
+      source: 'not-done-sections',
       paint: {
         'line-width': 3,
         'line-color': ['get', 'color'],
@@ -102,13 +84,7 @@ onMounted(() => {
         .setHTML(getTooltipHtml(e.features[0].properties))
         .addTo(map)
     })
-    map.on('click', 'in-progress-sections', (e) => {
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
-        .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(e.features[0].properties))
-        .addTo(map)
-    })
-    map.on('click', 'not-started-sections', (e) => {
+    map.on('click', 'not-done-sections', (e) => {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(getTooltipHtml(e.features[0].properties))
@@ -117,10 +93,8 @@ onMounted(() => {
 
     map.on('mouseenter', 'done-sections', () => map.getCanvas().style.cursor = 'pointer')
     map.on('mouseleave', 'done-sections', () => map.getCanvas().style.cursor = '')
-    map.on('mouseenter', 'in-progress-sections', () => map.getCanvas().style.cursor = 'pointer')
-    map.on('mouseleave', 'in-progress-sections', () => map.getCanvas().style.cursor = '')
-    map.on('mouseenter', 'not-started-sections', () => map.getCanvas().style.cursor = 'pointer')
-    map.on('mouseleave', 'not-started-sections', () => map.getCanvas().style.cursor = '')
+    map.on('mouseenter', 'not-done-sections', () => map.getCanvas().style.cursor = 'pointer')
+    map.on('mouseleave', 'not-done-sections', () => map.getCanvas().style.cursor = '')
   })
 })
 </script>

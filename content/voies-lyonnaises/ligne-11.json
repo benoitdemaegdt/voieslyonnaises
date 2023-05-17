@@ -8,7 +8,7 @@
         "color": "#4DADC9",
         "name": "Point-du-jour - Lyon 5",
         "distance": 4300,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -113,7 +113,7 @@
         "color": "#4DADC9",
         "name": "Presqu'île",
         "distance": 2213,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -174,7 +174,7 @@
         "color": "#4DADC9",
         "name": "Rive gauche du Rhône - part Dieu",
         "distance": 2394,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -221,7 +221,7 @@
         "color": "#4DADC9",
         "name": "Chassieu",
         "distance": 2840,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -276,7 +276,7 @@
         "color": "#4DADC9",
         "name": "Bron",
         "distance": 2178,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -331,7 +331,7 @@
         "color": "#4DADC9",
         "name": "Part-Dieu - Bron (partie 1)",
         "distance": 200,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -348,7 +348,7 @@
         "color": "#4DADC9",
         "name": "Part-Dieu - Bron (partie 2)",
         "distance": 3061,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

@@ -8,7 +8,7 @@
         "color": "#7E6D98",
         "name": "La Tour de Salvagny",
         "distance": 3679,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -104,7 +104,7 @@
         "color": "#7E6D98",
         "name": "Charbonnières-les-Bains",
         "distance": 2449,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -155,7 +155,7 @@
         "color": "#7E6D98",
         "name": "Tassin-la-Demi-Lune",
         "distance": 2797,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -255,7 +255,7 @@
         "color": "#7E6D98",
         "name": "Lyon 9 et Lyon 5",
         "distance": 6124,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -495,7 +495,7 @@
         "color": "#7E6D98",
         "name": "2ème, 7ème et 8ème arrondissements",
         "distance": 4700,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -620,7 +620,7 @@
         "color": "#7E6D98",
         "name": "Bron",
         "distance": 2475,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -717,7 +717,7 @@
         "color": "#7E6D98",
         "name": "Campus Parilly",
         "distance": 286,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -746,7 +746,7 @@
         "color": "#7E6D98",
         "name": "St Priest",
         "distance": 1528,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

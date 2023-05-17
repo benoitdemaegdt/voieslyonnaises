@@ -1,19 +1,13 @@
 type Properties = {
-  line: string,
-  color: string,
-  name: string,
-  distance: number,
-  status: 'not-started' | 'in-progress' | 'done'
-}
+  line: string;
+  color: string;
+  name: string;
+  distance: number;
+  isDone: boolean;
+};
 
 export const useTooltip = () => {
-  const statusText = {
-    'not-started': 'tronçon en étude 🔎',
-    'in-progress': 'tronçon en travaux 🚧',
-    done: 'tronçon terminé et pratiquable'
-  }
-
-  function getTooltipHtml (properties: Properties) {
+  function getTooltipHtml(properties: Properties) {
     return `
       <div class="flex items-center text-base font-extrabold tracking-tight text-gray-900">
         <div>Ligne</div>
@@ -25,9 +19,9 @@ export const useTooltip = () => {
         </div>
       </div>
       <div class="text-sm font-semibold text-gray-800">${properties.name}</div>
-      <p>${statusText[properties.status]}</p>
-    `
+      <p>${properties.isDone ? 'tronçon terminé' : 'tronçon non terminé'}</p>
+    `;
   }
 
-  return { getTooltipHtml }
-}
+  return { getTooltipHtml };
+};

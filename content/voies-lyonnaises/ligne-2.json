@@ -8,7 +8,7 @@
         "color": "#AC4D35",
         "name": "Stalingrad - Vivier Merle - Tchécoslovaques",
         "distance": 5820,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -72,7 +72,7 @@
         "color": "#AC4D35",
         "name": "Boulevard des États-Unis",
         "distance": 3507,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -101,7 +101,7 @@
         "color": "#AC4D35",
         "name": "Parilly - Saint-Priest",
         "distance": 4896,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

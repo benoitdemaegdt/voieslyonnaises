@@ -7,7 +7,7 @@
         "color": "#3B7B64",
         "name": "Quincieux - Neuville-sur-Saône",
         "distance": 6914,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -58,7 +58,7 @@
         "color": "#3B7B64",
         "name": "Genay - Neuville-sur-Saône",
         "distance": 3616,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -99,7 +99,7 @@
         "color": "#3B7B64",
         "name": "Couzon - Neuville-sur-Saône",
         "distance": 2523,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +131,7 @@
         "color": "#3B7B64",
         "name": "Chemin des Carrières - Av. G. De Gaulle",
         "distance": 850,
-        "status": "done"
+        "isDone": true
       },
       "geometry": {
         "type": "LineString",
@@ -154,7 +154,7 @@
         "color": "#3B7B64",
         "name": "Couzon - Île barbe",
         "distance": 7247,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -209,7 +209,7 @@
         "color": "#3B7B64",
         "name": "Île Barbe - Laborde",
         "distance": 1944,
-        "status": "in-progress"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -235,7 +235,7 @@
         "color": "#3B7B64",
         "name": "Laborde - Pont Schuman",
         "distance": 644,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -256,7 +256,7 @@
         "color": "#3B7B64",
         "name": "Pont Schuman - Pont Georges Clemenceau",
         "distance": 644,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -282,7 +282,7 @@
         "color": "#3B7B64",
         "name": "Pont Clemenceau - Pont Koenig",
         "distance": 652,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -305,7 +305,7 @@
         "color": "#3B7B64",
         "name": "Pont Koenig - Pont Marchand",
         "distance": 3317,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -352,7 +352,7 @@
         "color": "#3B7B64",
         "name": "Pont Marchand - Pont de la Mulatière",
         "distance": 2818,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -384,7 +384,7 @@
         "color": "#3B7B64",
         "name": "Pont de la Mulatière - Pierre Bénite",
         "distance": 5513,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

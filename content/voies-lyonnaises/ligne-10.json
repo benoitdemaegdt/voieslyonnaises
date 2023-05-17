@@ -8,7 +8,7 @@
         "color": "#9A8A4B",
         "name": "Vaise - Tassin",
         "distance": 2357,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -65,7 +65,7 @@
         "color": "#9A8A4B",
         "name": "Lyon 6",
         "distance": 5452,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -163,7 +163,7 @@
         "color": "#9A8A4B",
         "name": "Décine-Charpieu - Meyzieu",
         "distance": 11581,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -380,7 +380,7 @@
         "color": "#9A8A4B",
         "name": "Lyon 3",
         "distance": 3702,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

@@ -8,7 +8,7 @@
         "color": "#AF7392",
         "name": "Saint-Fons",
         "distance": 2139,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -62,7 +62,7 @@
         "color": "#AF7392",
         "name": "Oullins - Pierre-Bénite",
         "distance": 5232,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -151,7 +151,7 @@
         "color": "#AF7392",
         "name": "Tassin - Oullins",
         "distance": 3288,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -203,7 +203,7 @@
         "color": "#AF7392",
         "name": "Vaise - Tassin",
         "distance": 1337,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -226,7 +226,7 @@
         "color": "#AF7392",
         "name": "Vaise - Tête d'Or",
         "distance": 4702,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -281,7 +281,7 @@
         "color": "#AF7392",
         "name": "Villeurbanne - Doua",
         "distance": 3675,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -346,7 +346,7 @@
         "color": "#AF7392",
         "name": "Vaulx-en-Velin - Bron",
         "distance": 9620,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

@@ -8,7 +8,7 @@
         "color": "#396083",
         "name": "Presqu'île",
         "distance": 10694,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -143,7 +143,7 @@
         "color": "#396083",
         "name": "Quai Perrache - Oullins",
         "distance": 3941,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",

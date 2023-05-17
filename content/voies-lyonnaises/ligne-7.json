@@ -8,7 +8,7 @@
         "color": "#75BCAE",
         "name": "Rillieux-la-Pape",
         "distance": 2940,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -113,7 +113,7 @@
         "color": "#75BCAE",
         "name": "Caluire",
         "distance": 3183,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -202,7 +202,7 @@
         "color": "#75BCAE",
         "name": "Voie de la Dombes",
         "distance": 3237,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -251,7 +251,7 @@
         "color": "#75BCAE",
         "name": "Hôpital de la Croix-Rousse",
         "distance": 1363,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -290,7 +290,7 @@
         "color": "#75BCAE",
         "name": "Montée de la Boucle",
         "distance": 996,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -350,7 +350,7 @@
         "color": "#75BCAE",
         "name": "Pont Churchill - Lyon 6",
         "distance": 1987,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -404,7 +404,7 @@
         "color": "#75BCAE",
         "name": "Rue Garibaldi",
         "distance": 2648,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -466,7 +466,7 @@
         "color": "#75BCAE",
         "name": "Lyon7 - Route de vienne",
         "distance": 3756,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
@@ -543,7 +543,7 @@
         "color": "#75BCAE",
         "name": "Saint-Fons - Feyzin",
         "distance": 3428,
-        "status": "not-started"
+        "isDone": false
       },
       "geometry": {
         "type": "LineString",
