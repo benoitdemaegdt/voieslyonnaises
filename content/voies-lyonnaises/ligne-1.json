@@ -153,7 +153,8 @@
         "color": "#60A75B",
         "name": "Pont Morand - Tête d'or",
         "distance": 966,
-        "isDone": true
+        "isDone": true,
+        "doneAt": "28/03/2023"
       },
       "geometry": {
         "type": "LineString",
@@ -212,7 +213,8 @@
         "color": "#60A75B",
         "name": "Pont Gallieni - Pont de la Guillotière",
         "distance": 1056,
-        "isDone": true
+        "isDone": true,
+        "doneAt": "08/07/2022"
       },
       "geometry": {
         "type": "LineString",

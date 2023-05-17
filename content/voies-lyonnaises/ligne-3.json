@@ -131,7 +131,8 @@
         "color": "#3B7B64",
         "name": "Chemin des Carrières - Av. G. De Gaulle",
         "distance": 850,
-        "isDone": true
+        "isDone": true,
+        "doneAt": "25/01/2023"
       },
       "geometry": {
         "type": "LineString",
