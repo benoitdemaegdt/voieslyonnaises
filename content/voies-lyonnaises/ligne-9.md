@@ -4,7 +4,7 @@ color: "#EAAB50"
 from: Jonage
 to: Saint-Genis-Laval
 distance: 37000
-description: Page en cours de construction.
+description: La voie lyonnaise n°9 permettra de relier la commune d'Oullins à Jonage en pssant par le 7ème, le 3ème le 6ème arrondissement de Lyon ainsi que par Villeurbanne et Vaulx-en-Velin.
 trafic: 14k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018252/voieslyonnaises/ligne9/cover-vl9_wsmubu.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voieslyonnaises/ligne9/ligne9_yz31hs.jpg
