@@ -22,7 +22,6 @@ Sur ce tronçon, la voie lyonnaise n°3 devrait longer la Saône sur le D51 jusq
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-quincieux_cjq56r.png
-alt: Visualisation de la voie lyonnaise n°3 entre Quincieux et l'île barbe.
 caption: Visualisation de la voie lyonnaise n°3 entre Quincieux et l'île barbe.
 ---
 ::
@@ -39,7 +38,6 @@ Sans grande surprise, la voie lyonnaise n°3 va longer la Saône sur la D51 et p
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-3_dk3bzw.jpg
-alt: tronçon (terminé le 25/01/2023) de la voie lyonnaise n°3 à Couzon.
 caption: tronçon (terminé le 25/01/2023) de la voie lyonnaise n°3 à Couzon.
 ---
 ::
@@ -55,7 +53,6 @@ Il y a pour l'instant un coronapiste qui sera transformée en piste cyclable bid
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-4_ioqvpb.png
-alt: Voie lyonnaise n°3 déjà bien aménagée au nord du Pont Robert Schuman.
 caption: Voie lyonnaise n°3 déjà bien aménagée au nord du Pont Robert Schuman.
 ---
 ::
@@ -68,7 +65,6 @@ Une exception : le tronçon  située entre le le pont Clémenceau et le pont Koe
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg
-alt: Visuel de la voie lyonnaise n°3 au niveau du Quai Arloing.
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Arloing.
 ---
 ::
@@ -79,7 +75,6 @@ Sur cette section, les aménagements cyclables sont déjà bons et seront améli
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
-alt: Visuel de la voie lyonnaise n°3 au niveau du Quai Fulchiron.
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Fulchiron.
 ---
 ::
@@ -96,7 +91,6 @@ L'aménagement de ces 2 quais fait débat. La proposition de la métropole est d
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679684083/voieslyonnaises/ligne3/vl-3-quai-jean-jacques-rousseau_th9mnw.png
-alt: Visuel de la voie lyonnaise n°3 au niveau du Quai Jean-Jacques Rousseau.
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Jean-Jacques Rousseau.
 ---
 ::
@@ -113,7 +107,6 @@ La voie lyonnaise n°3 devrait ici prendre la forme de 2 pistes cyclables sépar
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679732989/voieslyonnaises/ligne3/vl-3-bd-europe_jpmfzo.png
-alt: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Europe (Pierre-Bénite).
 caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Europe (Pierre-Bénite).
 ---
 ::
@@ -129,7 +122,6 @@ caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Eur
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-calendrier_zbqnre.png
-alt: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°3.
 caption: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°3.
 ---
 ::
@@ -137,7 +129,6 @@ caption: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°3.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668746/voieslyonnaises/ligne3/calendrier-vl-3-centrale_sj8mtt.png
-alt: calendrier prévisionnel du tronçon central de la voie lyonnaise n°3.
 caption: calendrier prévisionnel du tronçon central de la voie lyonnaise n°3.
 ---
 ::
@@ -145,7 +136,6 @@ caption: calendrier prévisionnel du tronçon central de la voie lyonnaise n°3.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668747/voieslyonnaises/ligne3/calendrier-vl-3-sud_xbxrwr.png
-alt: calendrier prévisionnel du tronçon sud de la voie lyonnaise n°3.
 caption: calendrier prévisionnel du tronçon sud de la voie lyonnaise n°3.
 ---
 ::

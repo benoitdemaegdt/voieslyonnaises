@@ -24,7 +24,6 @@ Ce tronçon devrait permettre, depuis la croix-rousse, de rejoindre facilement l
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682969076/voieslyonnaises/ligne7/vl-7-db-des-canuts_jars89.png
-alt: la voie lyonnaise n°7 - boulevard des Canuts.
 caption: la voie lyonnaise n°7 - boulevard des Canuts.
 ---
 ::
@@ -32,7 +31,6 @@ caption: la voie lyonnaise n°7 - boulevard des Canuts.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947381/voieslyonnaises/ligne7/vl7-voie-verte-des-dombes_iefy0d.png
-alt: la voie lyonnaise n°7 - voie verte de la Dombes.
 caption: la voie lyonnaise n°7 - voie verte de la Dombes.
 ---
 ::
@@ -42,7 +40,6 @@ caption: la voie lyonnaise n°7 - voie verte de la Dombes.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947385/voieslyonnaises/ligne7/vl7-caluire-et-cuire_oxruqc.png
-alt: la voie lyonnaise n°7 - Route du Mas Rillier - Rillieux-la-Pape.
 caption: la voie lyonnaise n°7 - Route du Mas Rillier - Rillieux-la-Pape.
 ---
 ::
@@ -62,7 +59,6 @@ Cette section est très ambitieuse et devrait complètement métamorphoser le pa
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384110/voieslyonnaises/ligne7/vl7-rue-garibaldi_iw5qyx.png
-alt: la voie lyonnaise n°7 - Rue Garibaldi - Lyon 7.
 caption: la voie lyonnaise n°7 - Rue Garibaldi - Lyon 7.
 ---
 ::
@@ -70,7 +66,6 @@ caption: la voie lyonnaise n°7 - Rue Garibaldi - Lyon 7.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384108/voieslyonnaises/ligne7/vl7-route-de-vienne_qfesfp.png
-alt: la voie lyonnaise n°7 - Route de Vienne - Lyon 8.
 caption: la voie lyonnaise n°7 - Route de Vienne - Lyon 8.
 ---
 ::
@@ -78,7 +73,6 @@ caption: la voie lyonnaise n°7 - Route de Vienne - Lyon 8.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384114/voieslyonnaises/ligne7/vl7-av-jean-jaures-saint-fons_xgoxqk.png
-alt: la voie lyonnaise n°7 - Avenue Jean Jaures - Saint-Fons.
 caption: la voie lyonnaise n°7 - Avenue Jean Jaures - Saint-Fons.
 ---
 ::
@@ -102,7 +96,6 @@ _source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.c
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947378/voieslyonnaises/ligne7/calendrier-nord_krczid.png
-alt: voie lyonnaise n°7 - calendrier prévisionnel de la section nord.
 caption: voie lyonnaise n°7 - calendrier prévisionnel de la section nord.
 ---
 ::
@@ -110,7 +103,6 @@ caption: voie lyonnaise n°7 - calendrier prévisionnel de la section nord.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683385145/voieslyonnaises/ligne7/vl-7-calendrier-sud_gbnrtd.png
-alt: voie lyonnaise n°7 - calendrier prévisionnel de la section sud.
 caption: voie lyonnaise n°7 - calendrier prévisionnel de la section sud.
 ---
 ::

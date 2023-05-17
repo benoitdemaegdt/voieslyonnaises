@@ -3,7 +3,7 @@
     <img
       class="w-full rounded-lg"
       :src="imageUrl"
-      :alt="alt"
+      :alt="caption"
       width="1310"
       height="873"
     >
@@ -14,7 +14,6 @@
 <script setup>
 defineProps({
   imageUrl: { type: String, required: true },
-  caption: { type: String, required: false },
-  alt: { type: String, required: false }
+  caption: { type: String, required: false }
 })
 </script>

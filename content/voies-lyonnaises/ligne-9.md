@@ -19,7 +19,6 @@ Ce tronçon se termine au niveau de la porte de Croix-Luizet à Villeurbanne.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg
-alt: Voie lyonnaise n°9 le long de l'A42.
 caption: Voie lyonnaise le long de l'A42.
 ---
 ::
@@ -50,7 +49,6 @@ Non communiqué.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683831050/voieslyonnaises/ligne9/vl9-calendrier_qmweyk.png
-alt: voie lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 caption: voie lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 ---
 ::

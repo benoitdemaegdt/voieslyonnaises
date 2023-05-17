@@ -18,7 +18,6 @@ Un dossier de concertation devrait néanmoins bientôt sortir.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682932320/voieslyonnaises/ligne6/vl-6-hotel-dieu_hyqebw.png
-alt: Rive droite du Rhône devant l'Hôtel Dieu. La voie lyonnaise n°6 est sur la droite.
 caption: Rive droite du Rhône devant l'Hôtel Dieu. La voie lyonnaise n°6 est sur la droite.
 ---
 ::

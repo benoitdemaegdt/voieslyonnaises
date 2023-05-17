@@ -18,7 +18,6 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voiesl
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest_dpbj92.png
-alt: Voie lyonnaise n°12 dans le 9ème arrondissement, rue du Sergent Berthet.
 caption: Voie lyonnaise n°12 (9ème arrondissement), rue du Sergent Berthet.
 ---
 ::
@@ -26,7 +25,6 @@ caption: Voie lyonnaise n°12 (9ème arrondissement), rue du Sergent Berthet.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest-2_faecvm.png
-alt: Voie lyonnaise n°12 dans le 5ème arrondissement
 caption: Voie lyonnaise n°12 (5ème arrondissement), vélorue rue Trion (vue vers la place Varillon).
 ---
 ::
@@ -38,7 +36,6 @@ caption: Voie lyonnaise n°12 (5ème arrondissement), vélorue rue Trion (vue ve
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png
-alt: Voie lyonnaise n°12 de 4m de large qui longe la place Bellecour.
 caption: Voie lyonnaise n°12 de 4m de large qui longe la place Bellecour.
 ---
 ::
@@ -49,7 +46,6 @@ caption: Voie lyonnaise n°12 de 4m de large qui longe la place Bellecour.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png
-alt: Voie lyonnaise n°12, Cours Gambetta vu depuis la place Gabriel Péri.
 caption: Voie lyonnaise n°12, Cours Gambetta vu depuis la place Gabriel Péri.
 ---
 ::
@@ -57,7 +53,6 @@ caption: Voie lyonnaise n°12, Cours Gambetta vu depuis la place Gabriel Péri.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
-alt: Voie lyonnaise n°12 Cours Gambetta (3ème et 7ème arrondissements).
 caption: Voie lyonnaise n°12 Cours Gambetta (3ème et 7ème arrondissements).
 ---
 ::
@@ -65,7 +60,6 @@ caption: Voie lyonnaise n°12 Cours Gambetta (3ème et 7ème arrondissements).
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png
-alt: Voie Lyonnaise n°12 sur l'Av. Rockefeller, au nord du tram.
 caption: Voie Lyonnaise n°12 sur l'Av. Rockefeller, au nord du tram.
 ---
 ::
@@ -75,7 +69,6 @@ caption: Voie Lyonnaise n°12 sur l'Av. Rockefeller, au nord du tram.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/timeline_mgbxa6.png
-alt: Calendrier prévisionnel de la voie lyonnaise n°12
 caption: Calendrier prévisionnel de la voie lyonnaise n°12
 ---
 ::

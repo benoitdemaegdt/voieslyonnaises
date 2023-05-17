@@ -64,7 +64,6 @@ _source: [page 20 de ce dossier de concertation](https://jeparticipe.grandlyon.c
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683454180/voieslyonnaises/ligne11/vl11-calendrier_egssz1.png
-alt: voie lyonnaise n°11 - calendrier prévisionnel de la section Est.
 caption: voie lyonnaise n°11 - calendrier prévisionnel de la section Est.
 ---
 ::

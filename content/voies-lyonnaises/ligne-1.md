@@ -25,7 +25,6 @@ Cette section est terminée. Elle a été inaugurée le 8 juillet 2022.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-3_njb0up.jpg
-alt: Photo du 1er tronçon de la voie lyonnaise n°1.
 caption: Photo du 1er tronçon de la voie lyonnaise n°1.
 ---
 ::
@@ -49,7 +48,6 @@ Cette section est terminée. Le marquage final a été réalisé le 28 Février 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679230537/voieslyonnaises/ligne1/vl-1-tassigny-tete-or_ub6hzm.png
-alt: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Tête d'Or.
 caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Tête d'Or.
 ---
 ::
@@ -66,7 +64,6 @@ La métropole semble pour le moment privilégier l'insertion d'une piste cyclabl
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png
-alt: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le boulevard du 11 novembre.
 caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le boulevard du 11 novembre.
 ---
 ::
@@ -79,7 +76,6 @@ Concernant la section située dans Vaulx-en-Velin, la voie lyonnaise n°1 devrai
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
-alt: Visualisation de ce que pourrait donner la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.
 caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.
 ---
 ::
@@ -89,7 +85,6 @@ caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 le long 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679220321/voieslyonnaises/ligne1/budget-vl-1_qaj2rz.png
-alt: Calendrier prévisionnel de la voie lyonnaise n°1.
 caption: Calendrier prévisionnel de la voie lyonnaise n°1.
 ---
 ::
@@ -97,7 +92,6 @@ caption: Calendrier prévisionnel de la voie lyonnaise n°1.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679229641/voieslyonnaises/ligne1/calendrier-vl-1-nord_p7rfml.png
-alt: Calendrier prévisionnel de la section nord de la voie lyonnaise n°1.
 caption: Calendrier prévisionnel de la section nord de la  de la voie lyonnaise n°1.
 ---
 ::

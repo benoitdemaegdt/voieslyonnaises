@@ -22,7 +22,6 @@ Depuis le [giratoire de la chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682892050/voieslyonnaises/ligne4/vl4-porte-de-lyon_fzme3r.png
-alt: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon – Dardilly
 caption: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon – Dardilly
 ---
 ::
@@ -37,7 +36,6 @@ Depuis le [giratoire de la porte de lyon](https://www.google.com/maps/search/45.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-3_zbyqwq.jpg
-alt: visualisation de la voie lyonnaise n°4 à Champagne-au-Mont-d’Or (intersection Lanessan - Montlouis, variante 1).
 caption: visualisation de la voie lyonnaise n°4 à Champagne-au-mont-d’Or (intersection Lanessan - Montlouis, variante 1).
 ---
 ::
@@ -45,7 +43,6 @@ caption: visualisation de la voie lyonnaise n°4 à Champagne-au-mont-d’Or (in
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-4_mms9pp.jpg
-alt: visualisation de la voie lyonnaise n°4 à Champagne au mont d’or (Bd de la République, variante 2B).
 caption: visualisation de la voie lyonnaise n°4 à Champagne au mont d’or (Bd de la République, variante 2B).
 ---
 ::
@@ -69,7 +66,6 @@ Ce tronçon débute sur l'Av. de Verguin, juste au sud de parc de la Tête d'Or.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg
-alt: visualisation de la voie lyonnaise n°4, Av. de Verguin (Lyon 6).
 caption: visualisation de la voie lyonnaise n°4, Av. de Verguin (Lyon 6).
 ---
 ::
@@ -80,7 +76,6 @@ La voie lyonnaise n°4 va ensuite se prolonger sous la même forme (bidirectionn
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-1_ypzsvx.jpg
-alt: visualisation de la voie lyonnaise n°4 à Villeurbanne, rue Francis de Pressensé.
 caption: visualisation de la voie lyonnaise n°4 à Villeurbanne, rue Francis de Pressensé.
 ---
 ::
@@ -95,7 +90,6 @@ _source: [dernière page de ce dossier de concertation](https://jeparticipe.gran
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679817967/voieslyonnaises/ligne4/calendrier-vl-4_d5vnd8.png
-alt: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°4.
 caption: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°4.
 ---
 ::
@@ -103,7 +97,6 @@ caption: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°4.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679819904/voieslyonnaises/ligne4/calendrier-vl4-est_ltomdg.png
-alt: calendrier prévisionnel du tronçon est de la voie lyonnaise n°4.
 caption: calendrier prévisionnel du tronçon est de la voie lyonnaise n°4.
 ---
 ::

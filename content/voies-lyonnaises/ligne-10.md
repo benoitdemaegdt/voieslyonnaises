@@ -33,7 +33,6 @@ Une grande partie de ce tronçon est déjà aménagé en piste cyclable bidirect
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486678/voieslyonnaises/ligne10/vl10-calendrier_r81lt4.png
-alt: voie lyonnaise n°10 - calendrier prévisionnel du tronçon est.
 caption: voie lyonnaise n°10 - calendrier prévisionnel du tronçon est.
 ---
 ::

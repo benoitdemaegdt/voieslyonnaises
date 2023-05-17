@@ -23,7 +23,6 @@ La voie lyonnaise n°2 va prendre la place de l'allée de stationnement le long 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1676877656/voieslyonnaises/ligne2/ligne2-5_gik0d1.png
-alt: Expérimentation de revêtement sur l'emplacement de la voie lyonnaise n°2 boulevard Stalingrad.
 caption: Expérimentation de revêtement sur l'emplacement de la voie lyonnaise n°2 boulevard Stalingrad.
 ---
 ::
@@ -33,7 +32,6 @@ La voie lyonnaise n°2 empruntera le tunnel Vivier Merle et passera donc sous la
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
-alt: Visualisation de la voie lyonnaise n°2 sur le boulevard Vivier Merle.
 caption: Visualisation de la voie lyonnaise n°2 sur le boulevard Vivier Merle.
 ---
 ::
@@ -47,7 +45,6 @@ Sur l’avenue Viviani, la voie lyonnaise n°2 serait insérée au Nord-Est de l
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-2_u9cgbp.jpg
-alt: Visualisation de la voie lyonnaise n°2 sur le boulevard des États-Unis.
 caption: Visualisation de la voie lyonnaise n°2 sur le boulevard des États-Unis.
 ---
 ::
@@ -55,7 +52,6 @@ caption: Visualisation de la voie lyonnaise n°2 sur le boulevard des États-Uni
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-4_qnsgd6.jpg
-alt: Visualisation de la voie lyonnaise n°2 sur l'avenue Viviani.
 caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Viviani.
 ---
 ::
@@ -66,7 +62,6 @@ caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Viviani.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-3_xmdmwx.jpg
-alt: Visualisation de la voie lyonnaise n°2 sur l'avenue Charles de Gaulle à Vénissieux.
 caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Charles de Gaulle à Vénissieux.
 ---
 ::
@@ -76,7 +71,6 @@ caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Charles de Gaulle 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679314283/voieslyonnaises/ligne2/calendrier-vl-2_u5dzms.png
-alt: Calendrier prévisionnel du tronçon central de la voie lyonnaise n°2.
 caption: Calendrier prévisionnel du tronçon central de la voie lyonnaise n°2.
 ---
 ::
@@ -84,7 +78,6 @@ caption: Calendrier prévisionnel du tronçon central de la voie lyonnaise n°2.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679383346/voieslyonnaises/ligne2/calendrier-vl-2-2_wvppbv.png
-alt: Calendrier prévisionnel du tronçon sud de la voie lyonnaise n°2.
 caption: Calendrier prévisionnel du tronçon sud de la voie lyonnaise n°2.
 ---
 ::

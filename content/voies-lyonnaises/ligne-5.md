@@ -19,7 +19,6 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voiesl
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-3_yvdsow.png
-alt: schéma de prévisualisation de la ligne 5 des voies lyonnaises.
 caption: schéma de prévisualisation de la ligne 5 des voies lyonnaises.
 ---
 ::
@@ -27,7 +26,6 @@ caption: schéma de prévisualisation de la ligne 5 des voies lyonnaises.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
-alt: schéma de prévisualisation de la ligne 5 des voies lyonnaises.
 caption: schéma de prévisualisation de la ligne 5 des voies lyonnaises.
 ---
 ::
@@ -51,7 +49,6 @@ Non communiqué.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679854142/voieslyonnaises/ligne5/calendrier-vl5_piryym.png
-alt: calendrier prévisionnel de la voie lyonnaise n°5 (tronçon Villeurbanne - Bron).
 caption: calendrier prévisionnel de la voie lyonnaise n°5 (tronçon Villeurbanne - Bron).
 ---
 ::
