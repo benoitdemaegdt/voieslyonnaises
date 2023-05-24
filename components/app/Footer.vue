@@ -1,6 +1,13 @@
 <template>
   <footer class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-7xl bg-white border-t border-gray-200">
     <div class="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
+      <nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
+        <div v-for="item in navigation.main" :key="item.name" class="px-5 py-2">
+          <NuxtLink :to="item.path" class="text-base text-gray-500 hover:text-gray-900">
+            {{ item.name }}
+          </NuxtLink>
+        </div>
+      </nav>
       <div class="mt-8 flex justify-center space-x-6">
         <a
           v-for="item in navigation.social"
@@ -22,6 +29,9 @@
 
 <script setup>
 const navigation = {
+  main: [
+    { name: 'Mentions légales', path: '/mentions-legales' }
+  ],
   social: [
     {
       name: 'Twitter',
