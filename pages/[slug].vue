@@ -5,7 +5,7 @@
     :description="voie.description"
     :image-url="voie.cover"
   >
-    <h2>Aperçu de la voie lyonnaise n°{{ voie.line }}</h2>
+    <h2>Aperçu</h2>
     <Overview :voie="voie" />
     <ContentRenderer :value="voie" />
   </ContentFrame>
