@@ -23,12 +23,10 @@
         </div>
         <PopoverGroup as="nav" class="hidden md:flex space-x-10">
           <NuxtLink
-            v-for="navItem in navItems"
-            :key="navItem.name"
-            :to="navItem.path"
+            to="/carte-interactive"
             class="text-base font-medium text-gray-500 hover:text-gray-900"
           >
-            {{ navItem.name }}
+            Carte interactive
           </NuxtLink>
 
           <Popover v-slot="{ open }" class="relative">
@@ -62,6 +60,19 @@
               </PopoverPanel>
             </transition>
           </Popover>
+
+          <NuxtLink
+            to="/plan-officiel"
+            class="text-base font-medium text-gray-500 hover:text-gray-900"
+          >
+            Plan officiel
+          </NuxtLink>
+          <NuxtLink
+            to="/compteurs"
+            class="text-base font-medium text-gray-500 hover:text-gray-900"
+          >
+            Compteurs
+          </NuxtLink>
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
@@ -156,8 +167,8 @@
 import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue'
 
 const navItems = [
-  { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Carte interactive', path: '/carte-interactive' },
+  { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Compteurs', path: '/compteurs' }
 ]
 
