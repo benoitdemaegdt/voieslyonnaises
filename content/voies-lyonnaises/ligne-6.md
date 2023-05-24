@@ -10,7 +10,7 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018222/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349341/voieslyonnaises/ligne6/ligne6_ny0mgr.jpg
 ---
 
-## Les sections (du Nord au Sud)
+## Les tronçons (du Nord au Sud)
 Il n'y a pas encore d'information disponible sur la future voie lyonnaise n°6.
 
 Un dossier de concertation devrait néanmoins bientôt sortir.

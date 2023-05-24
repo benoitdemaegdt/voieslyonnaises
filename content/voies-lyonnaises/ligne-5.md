@@ -10,9 +10,9 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018212/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
 ---
 
-## Les sections (dans le sens horaire)
+## Les tronçons (dans le sens horaire)
 
-### Section Nord-Est, du Pont Poincaré à Bron
+### Tronçon Nord-Est, du Pont Poincaré à Bron
 
 [voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
 
@@ -30,15 +30,15 @@ caption: schéma de prévisualisation de la ligne 5 des voies lyonnaises.
 ---
 ::
 
-### Section Sud-Est, de Bron à Saint-Fons
+### Tronçon Sud-Est, de Bron à Saint-Fons
 Cette section devrait être aménagée entre 2026 et 2030. Il n'y a pas d'information disponible sur son itinéraire précis.
 
-### Section Sud-Ouest, de Saint-Fons à Francheville
+### Tronçon Sud-Ouest, de Saint-Fons à Francheville
 Cette section devrait être aménagée avant 2026. Pour l'instant, il n'y a pas d'information disponible ni de dossier de concertation à son sujet.
 
 À noter que le dossier de concertation devrait bientôt être disponible.
 
-### Section Nord-Ouest, de Francheville à Vaise
+### Tronçon Nord-Ouest, de Francheville à Vaise
 Cette section devrait être aménagée avant 2026. Pour l'instant, il n'y a pas d'information disponible ni de dossier de concertation à son sujet.
 
 ## Budget prévisionnel

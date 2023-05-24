@@ -10,21 +10,21 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018243/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg
 ---
 
-## Les sections
+## Les tronçons
 
-### Section Nord, La Tour-de-Salvagny - Tassin
+### Tronçon Nord, La Tour-de-Salvagny - Tassin
 
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220902_voieslyonnaises_ligne8_dossier.pdf){:target="_blank"}
 
 
-### Sous-section, Tassin - Lyon 5
+### Sous-tronçon, Tassin - Lyon 5
 
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf){:target="_blank"}
 
-### Section centrale, Lyon 2 - 7 et 8ème
+### Tronçon centrale, Lyon 2 - 7 et 8ème
 _À venir_
 
-### Section Sud, Bron - Saint-Priest
+### Tronçon Sud, Bron - Saint-Priest
 
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf){:target="_blank"}
 

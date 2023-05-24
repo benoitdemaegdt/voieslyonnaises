@@ -11,9 +11,9 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018279/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
 ---
 
-## Les sections (d'Est en Ouest)
+## Les tronçons (d'Est en Ouest)
 
-### Section Ouest (9ème et 5ème arrondissements)
+### Tronçon Ouest (9ème et 5ème arrondissements)
 
 ::image
 ---
@@ -31,7 +31,7 @@ caption: Voie lyonnaise n°12 (5ème arrondissement), vélorue rue Trion (vue ve
 
 À noter que le projet de vélorue dans le 5ème arrondissement, et en particulier rue Trion, est sujet à [de nombreux débats](https://www.leprogres.fr/economie/2023/03/20/voie-lyonnaise-12-a-fourviere-un-collectif-s-oppose-au-projet-de-la-rue-de-trion-en-sens-unique){:target="_blank"}.
 
-### Section Presqu'île (2ème arrondissement)
+### Tronçon Presqu'île (2ème arrondissement)
 
 ::image
 ---
@@ -41,7 +41,7 @@ caption: Voie lyonnaise n°12 de 4m de large qui longe la place Bellecour.
 ::
 
 
-### Section Est (3ème, 7ème et 8ème arrondissements)
+### Tronçon Est (3ème, 7ème et 8ème arrondissements)
 
 ::image
 ---

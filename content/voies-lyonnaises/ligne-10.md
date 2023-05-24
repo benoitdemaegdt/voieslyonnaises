@@ -10,12 +10,12 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018264/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486680/voieslyonnaises/ligne10/vl10-meyzieu_g5nusy.png
 ---
 
-## Les sections
+## Les tronçons
 
-### Section Ouest
+### Tronçon Ouest
 Il n'y a pas encore d'information disponible sur cette section.
 
-### Section centrale, Lyon 4 et Lyon 6
+### Tronçon centrale, Lyon 4 et Lyon 6
 Sur ce tronçon, la voie lyonnaise n°10 sera commune avec d'autres voies lyonnaises.
 
 - la 4 sur le tunnel de la croix-rousse et la rue Duquesnes.
@@ -23,7 +23,7 @@ Sur ce tronçon, la voie lyonnaise n°10 sera commune avec d'autres voies lyonna
 
 Elle traversera ensuite sous les rails de la Part Dieu au niveau de l'avenue Georges Pompidou.
 
-### Section Est, de Part Dieu à Meyzieu
+### Tronçon Est, de Part Dieu à Meyzieu
 Le parcours de la voie lyonnaise n°10 est plutôt cimple à décrire puisqu'il suivra le tracé du Tram T3 de Lyon 3 jusqu'à Meyzieu.
 
 Une grande partie de ce tronçon est déjà aménagé en piste cyclable bidirectionnelle. Certains points seront ajustés pour garantir le niveau de qualité d'une voie lyonnaise.

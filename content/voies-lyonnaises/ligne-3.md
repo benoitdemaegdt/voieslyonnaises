@@ -10,12 +10,12 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017953/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
 ---
 
-## Les sections (du Nord au Sud)
+## Les tronçons (du Nord au Sud)
 
-### Section nord (de Quincieux/Genay à l'île barbe)
+### Tronçon nord (de Quincieux/Genay à l'île barbe)
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
 
-#### Sous-section, de Neuville-sur-Saône à Quincieux
+#### Sous-tronçon, de Neuville-sur-Saône à Quincieux
 
 Sur ce tronçon, la voie lyonnaise n°3 devrait longer la Saône sur le D51 jusqu'au giratoir de Quincieux.
 
@@ -26,12 +26,12 @@ caption: Visualisation de la voie lyonnaise n°3 entre Quincieux et l'île barbe
 ---
 ::
 
-#### Sous-section, Neuville-sur-Saône à Genay
+#### Sous-tronçon, Neuville-sur-Saône à Genay
 
 Sur ce tronçon, la voie lyonnaise n°3 devrait emprunter le pont de Neuville-sur-Saône puis les quais bas de Saône avant de rejoindre l'avenue Carnot en passant par la rue Barrée.
 Elle rejoindra ensuite Genay en remontant l'avenue Carnot.
 
-#### Sous-section, de Neuville-sur-Saône à l'île barbe
+#### Sous-tronçon, de Neuville-sur-Saône à l'île barbe
 
 Sans grande surprise, la voie lyonnaise n°3 va longer la Saône sur la D51 et passer par les communes de Collonges-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Couzon-au-Mont-d'Or avant de rejoindre Neuville-sur-Saône.
 
@@ -42,10 +42,10 @@ caption: tronçon (terminé le 25/01/2023) de la voie lyonnaise n°3 à Couzon.
 ---
 ::
 
-### Section centrale (de l'île barbe à Pont Kitchener Marchand)
+### Tronçon central (de l'île barbe à Pont Kitchener Marchand)
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf)
 
-#### Sous-section, entre l'île barbe et le Pont Robert Schuman
+#### Sous-tronçon, entre l'île barbe et le Pont Robert Schuman
 Il y a pour l'instant un coronapiste qui sera transformée en piste cyclable bidirectionnelle au standard d'une voie lyonnaise.
 
 À l'approche du Pont Rober Schuman, la piste cyclable est déjà de bonne qualité. Ce petit tronçon ne sera pas modifié (excepté peinture au sol).
@@ -57,7 +57,7 @@ caption: Voie lyonnaise n°3 déjà bien aménagée au nord du Pont Robert Schum
 ---
 ::
 
-#### Sous-section, entre le Pont Robert Schuman et Pont Koenig
+#### Sous-tronçon, entre le Pont Robert Schuman et Pont Koenig
 Cette section est globalement déjà bien aménagée pour les cyclistes. Les travaux consisteront à élargir ponctuellement la piste cyclable bidirectionnelle déjà en place.
 
 Une exception : le tronçon  située entre le le pont Clémenceau et le pont Koenig. Celui ci n'est pas du tout aménagé et une piste bidirectionnelle de 2,80m (rampe du Pont Clémenceau) à 4m (vers le Pont Koenig) devrait y être installée en retirant une voie de circulation automobile.
@@ -69,7 +69,7 @@ caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Arloing.
 ---
 ::
 
-#### Sous-section, entre le Pont Koenig et le Pont Kitchener Marchand
+#### Sous-tronçon, entre le Pont Koenig et le Pont Kitchener Marchand
 Sur cette section, les aménagements cyclables sont déjà bons et seront améliorés ponctuellement.
 
 ::image
@@ -80,10 +80,10 @@ caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Fulchiron.
 ::
 
 
-### Section sud (de Pont Kitchener Marchand à Givors)
+### Tronçon sud (de Pont Kitchener Marchand à Givors)
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-sud_dossier.pdf)
 
-#### Sous-section, quai Jean-Jacques Rousseau et Quai des Etroits
+#### Sous-tronçon, quai Jean-Jacques Rousseau et Quai des Etroits
 [voir le dossier de concertation dédié](https://jeparticipe.grandlyon.com/project/reamenagement-quai-des-etroits-et-quai-jean-jacques-rousseau/presentation/la-demarche)
 
 L'aménagement de ces 2 quais fait débat. La proposition de la métropole est de le mettre à sens unique pour pouvoir y insérer une piste cyclable bidirectionnelle. Il est difficile de dire si cette solution sera finalement adoptée.
@@ -95,13 +95,13 @@ caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Jean-Jacques Roussea
 ---
 ::
 
-#### Sous-section, du Pont de la mulatière au Pont de l'Yzeron
+#### Sous-tronçon, du Pont de la mulatière au Pont de l'Yzeron
 Sur ce tronçon, la métropole propose de conserver et d'améliorer la voie verte existante (de l'autre côté de la route par rapport à la Saône).
 
-#### Sous-section, Pont de l'Yzeron au Boulevrad de l'Europe
+#### Sous-tronçon, Pont de l'Yzeron au Boulevrad de l'Europe
 Là encore, la voie lyonnnaire n°3 devrait emprunter la voie verte en place et être ajustée aux niveaux des "points durs".
 
-#### Sous-section, Boulevrad de l'Europe au Chemin du Barrage
+#### Sous-tronçon, Boulevrad de l'Europe au Chemin du Barrage
 La voie lyonnaise n°3 devrait ici prendre la forme de 2 pistes cyclables séparée par une rangée végétalisée.
 
 ::image

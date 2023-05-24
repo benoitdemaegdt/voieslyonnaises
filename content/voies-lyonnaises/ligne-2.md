@@ -10,14 +10,14 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017928/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
 ---
 
-## Les sections (du Nord au Sud)
+## Les tronçons (du Nord au Sud)
 
-### Section nord (de Cailloux-sur-Fontaines au Pont Poincaré)
+### Tronçon nord (de Cailloux-sur-Fontaines au Pont Poincaré)
 À ma connaissance, il n'y a pas encore d'information disponible sur ce tronçon.
 
-### Section centrale (du pont Poincaré à l'Av. Berthrlot)
+### Tronçon central (du pont Poincaré à l'Av. Berthrlot)
 
-#### Sous-section, boulevard Stalingrad
+#### Sous-tronçon, boulevard Stalingrad
 La voie lyonnaise n°2 va prendre la place de l'allée de stationnement le long du parc de la Tête d'Or.
 
 ::image
@@ -27,7 +27,7 @@ caption: Expérimentation de revêtement sur l'emplacement de la voie lyonnaise 
 ---
 ::
 
-#### Sous-section, boulevard Vivier Merle
+#### Sous-tronçon, boulevard Vivier Merle
 La voie lyonnaise n°2 empruntera le tunnel Vivier Merle et passera donc sous la Part-Dieu. Elle prendra ensuite la forme d'une piste cyclable bidirectionnelle située à l'ouest du boulevard.
 ::image
 ---
@@ -36,9 +36,9 @@ caption: Visualisation de la voie lyonnaise n°2 sur le boulevard Vivier Merle.
 ---
 ::
 
-### Section sud (de l'Av. Berthelot à Saint-Priest)
+### Tronçon sud (de l'Av. Berthelot à Saint-Priest)
 
-#### Sous-section, boulevard des États-Unis et Avenue Viviani
+#### Sous-tronçon, boulevard des États-Unis et Avenue Viviani
 Sur cette section, la métropole envisage d'insérer une piste cyclable bidirectionnelle côté Sud-Ouest du boulevard.
 Sur l’avenue Viviani, la voie lyonnaise n°2 serait insérée au Nord-Est de la route.
 
@@ -56,7 +56,7 @@ caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Viviani.
 ---
 ::
 
-#### Sous-section, de Parilly à Saint-Priest
+#### Sous-tronçon, de Parilly à Saint-Priest
 À Parilly, la voie lyonnaise n°2 emprunterait l'Av. Jules Guesdes, l'Av. Charles de Gaulle puis la Route de Lyon.
 
 ::image

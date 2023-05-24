@@ -10,16 +10,16 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017830/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg
 ---
 
-## Les sections (du Sud au Nord)
+## Les tronçons (du Sud au Nord)
 
-### Section sud, de Gerland au Pont Gallieni
+### Tronçon sud, de Gerland au Pont Gallieni
 Il n'y a pour l'instant pas d'information ni de dossier de concertation disponible sur cette section.
 
 La voie lyonnaise n°1 devrait cependant démarrer au niveau de l'arrêt de métro "Stade de Gerland" et monter vers le nord en suivant l'Avenue Tony Garnier puis l'Avenue Leclerc.
 
-### Section centrale, du Pont Gallieni au parc de la Tête d'Or
+### Tronçon central, du Pont Gallieni au parc de la Tête d'Or
 
-#### Sous-section, du Pont Gallieni au Pont de la Guillotière
+#### Sous-tronçon, du Pont Gallieni au Pont de la Guillotière
 Cette section est terminée. Elle a été inaugurée le 8 juillet 2022.
 
 ::image
@@ -29,18 +29,18 @@ caption: Photo du 1er tronçon de la voie lyonnaise n°1.
 ---
 ::
 
-#### Sous-section, du Pont de la Guillotière au Pont Lafayette
+#### Sous-tronçon, du Pont de la Guillotière au Pont Lafayette
 Cette section devrait être réaménagée car les installations cyclables en place sont en dessous des standards d'une voie lyonnaise.
 
 On ne connait pas encore les détails des travaux à venir.
 
-#### Sous-section, du Pont Lafayette au Pont Morand (Quai Sarrail)
+#### Sous-tronçon, du Pont Lafayette au Pont Morand (Quai Sarrail)
 Cette section est actuellement en travaux (printemps 2023).
 
 [Voir le tweet](https://twitter.com/Fabien_Bagnon/status/1647504858025537536)
 
 
-#### Sous-section, du Pont Morand au parc de la Tête d'Or
+#### Sous-tronçon, du Pont Morand au parc de la Tête d'Or
 Cette section est terminée. Le marquage final a été réalisé le 28 Février 2023.
 
 [Voir l'annonce sur twitter](https://twitter.com/fabien_bagnon/status/1630616108561580041)
@@ -52,10 +52,10 @@ caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la 
 ---
 ::
 
-### Section nord, du parc de la Tête d'Or à Vaulx-en-Velin
+### Tronçon nord, du parc de la Tête d'Or à Vaulx-en-Velin
 Cette section est en cours d'étude et de concertation.
 
-#### Sous-section, Villeurbanne et campus de la Doua
+#### Sous-tronçon, Villeurbanne et campus de la Doua
 
 La métropole semble pour le moment privilégier l'insertion d'une piste cyclable à double sens au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein.
 
@@ -68,7 +68,7 @@ caption: Visualisation de ce que pourrait donner la voie lyonnaise n°1 sur le b
 ---
 ::
 
-#### Sous-section, Vaulx-en-Velin
+#### Sous-tronçon, Vaulx-en-Velin
 Concernant la section située dans Vaulx-en-Velin, la voie lyonnaise n°1 devrait suivre l'itinéraire du futur tram T9.
 
 [Voir la présentation du projet du tram T9.](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}

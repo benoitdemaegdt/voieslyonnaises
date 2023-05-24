@@ -10,13 +10,13 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018233/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349477/voieslyonnaises/ligne7/ligne7_bsseok.jpg
 ---
 
-## Les sections (du Nord au Sud)
+## Les tronçons (du Nord au Sud)
 
-### Section Nord, de Lyon 4 à Rillieux-la-Pape
+### Tronçon Nord, de Lyon 4 à Rillieux-la-Pape
 
 [voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
 
-#### Sous-section, Lyon 4 – Caluire-et-Cuire
+#### Sous-tronçon, Lyon 4 – Caluire-et-Cuire
 Ce tronçon devrait permettre, depuis la croix-rousse, de rejoindre facilement la voie verte de la Dombes qui traverse Caluire.
 
 À noter que cette concertation a suscité de nombreux débats ainsi qu'une opposition forte du maire de caluire, Philippe Cochet.
@@ -35,7 +35,7 @@ caption: la voie lyonnaise n°7 - voie verte de la Dombes.
 ---
 ::
 
-#### Sous-section, Rillieux-la-Pape
+#### Sous-tronçon, Rillieux-la-Pape
 
 ::image
 ---
@@ -44,14 +44,14 @@ caption: la voie lyonnaise n°7 - Route du Mas Rillier - Rillieux-la-Pape.
 ---
 ::
 
-### Section centrale, Lyon 6 et Lyon 7
+### Tronçon central, Lyon 6 et Lyon 7
 La voie lyonnaise n°7 va traverser le Rhône en empruntant le Pont Winston Churchill (piste cyclable bidirectionnelle déjà existante), puis le boulevard des Belges. Elle traversera ensuite Lyon 6 et Lyon 7 sur un axe nord-sud en suivant la rue Garibaldi.
 
 Il n'y a pas encore eu de dossier de concertation pour cette section.
 
-### Section sud, de Lyon 7 à Feyzin
+### Tronçon sud, de Lyon 7 à Feyzin
 
-#### Sous-section, de Lyon 7 à Saint-Fons
+#### Sous-tronçon, de Lyon 7 à Saint-Fons
 Cette section est très ambitieuse et devrait complètement métamorphoser le paysage urbain autour de la rue Garibaldi et de la route de vienne.
 
 [voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
@@ -77,7 +77,7 @@ caption: la voie lyonnaise n°7 - Avenue Jean Jaures - Saint-Fons.
 ---
 ::
 
-#### Sous-section, de Saint-Fons à Feyzin
+#### Sous-tronçon, de Saint-Fons à Feyzin
 De Saint-Fons à Feyzin, la voie lyonnaise n°7 suit le boulevard Yves Farges. Sa création rentre dans le cadre de la requalification de ce boulevard.
 
 Les travaux devraient s'étendre de fin 2023 à fin 2025.

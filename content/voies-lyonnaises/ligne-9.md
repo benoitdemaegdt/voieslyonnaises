@@ -10,9 +10,9 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018252/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voieslyonnaises/ligne9/ligne9_yz31hs.jpg
 ---
 
-## Les sections
+## Les tronçons
 
-### Section Nord-Est, Vaulx-en-Velin, Meyzieu et Jonage
+### Tronçon Nord-Est, Vaulx-en-Velin, Meyzieu et Jonage
 À son extrémité Nord-Est, la voie lyonnaise n°9 va se confondre avec la ViaRhona et suivre le canal de Jonage puis l'A42 en direction de Lyon.
 Ce tronçon se termine au niveau de la porte de Croix-Luizet à Villeurbanne.
 
@@ -23,7 +23,7 @@ caption: Voie lyonnaise le long de l'A42.
 ---
 ::
 
-### Section centrale, Villeurbanne, Lyon 6 et Lyon 7
+### Tronçon central, Villeurbanne, Lyon 6 et Lyon 7
 La section centrale de la voie lyonnaise n°9 emprunte le même itinéraire que plusieurs autres voies lyonnaises.
 
 - Elle suivra la voie lyonnaise n°1 sur Villeurbanne (Av. Albert Einstein, Bd du 11 novembre).
@@ -36,7 +36,7 @@ Elle traversera le Rhône grace à la nouvelle passerelle "mode doux" qui sera c
 
 [Lire le dossier de concertation à propos de cette passerelle](https://jeparticipe.grandlyon.com/media/default/0001/01/04919aa7c24cd845169b1c0ad56825d88e4b6c11.pdf){:target="_blank"}
 
-### Section Sud-Ouest, Oullins et Saint-Genis-Laval
+### Tronçon Sud-Ouest, Oullins et Saint-Genis-Laval
 On ne sait pas encore grand chose sur l'itinéraire de la voie lyonnaise n°9 à Oullins.
 
 À priori, elle devrait avoir un tronçon commun avec la voie lyonnaise n°3, le long de l'Yzeron. 

@@ -10,11 +10,11 @@ logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018201/voiesly
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg
 ---
 
-## Les sections (du Nord-Ouest à l'Est)
+## Les tronçons (du Nord-Ouest à l'Est)
 
-### Section Nord, de Limonest à Vaise
+### Tronçon Nord, de Limonest à Vaise
 
-#### Sous-section, entre Lissieu et Limonest
+#### Sous-tronçon, entre Lissieu et Limonest
 [voir le dossier de concertation de cette section](https://jeparticipe.grandlyon.com/media/default/0001/01/a234c28f80d78dcb4a790ef86f0f61b9440073d2.pdf)
 
 Depuis le [giratoire de la chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la voie lyonnaise n°4 prend la direction du Sud-Est en suivant la D306.
@@ -26,7 +26,7 @@ caption: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon �
 ---
 ::
 
-#### Sous-section, entre Limonest et Vaise
+#### Sous-tronçon, entre Limonest et Vaise
 [voir le dossier de concertation de cette section](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf){:target="_blank"}.
 
 Depuis le [giratoire de la porte de lyon](https://www.google.com/maps/search/45.821406,+4.766743), la voie lyonnaise n°4 continue de suivre la D306 en direction de Vaise. Elle prendra la forme d'une piste cyclable bidirectionnelle située au nord de la route.
@@ -52,12 +52,12 @@ Tirailleurs Sénégalais (piste bidirectionnelle de 3m60 de large au nord de la 
 
 De là, on ne sait pas trop comment elle va rejoindre Vaise et le Pont Clémenceau. Le tracé le plus évident (Rue de Bourgogne et Rue Marieton) présente à priori plusieurs complexités et il n'est pas certain que la voie lyonnaise n°4 l'emprunte.
 
-### Section centrale, de Vaise à la rue Duquesnes
+### Tronçon central, de Vaise à la rue Duquesnes
 La plus grande partie de cette section est située dans le tunnel de la croix-rousse, qui est déjà au niveau de qualité d'une voie lyonnaise.
 
 Il n'y a pas encore d'information disponible pour la section dans Vaise et la section rue Duquesnes.
 
-### Section Est, Lyon 6 et Villeurbanne
+### Tronçon Est, Lyon 6 et Villeurbanne
 [voir le dossier de concertation de cette section](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
 
 L'incertitude majeure de cette section est de savoir si la voie lyonnaise n°4 va être insérée au nord ou au sud des différentes rues empruntées.
