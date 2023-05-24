@@ -1,7 +1,7 @@
 ---
 line: 10
 color: "#9A8A4B"
-from: Marcy-L'Étoile
+from: Tassin
 to: Meyzieu
 distance: 31000
 description: La voie lyonnaise n°10 permettra de rejoindre Meyzieu depuis Marcy-L'Étoile en passant par Charbonnières-les-Bains, Tassin-la-Demi-Lune, Lyon 5, Lyon 4, Lyon 6, Villeurbanne et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon sur un axe Est-Ouest sur plus de 30km.

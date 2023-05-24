@@ -2,7 +2,7 @@
 line: 1
 color: "#60A75B"
 from: Vaulx-en-Velin
-to: Saint-Fons
+to: Gerland
 distance: 21000
 description: La ligne 1 des voies lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua et les quais hauts de la rive gauche du Rhône (Av. de Grande-Bretagne, Quai de Serbie, Quai Général Sarrail, Quai Augagneur et Quai Claude Bernard). Cette nouvelle ligne répondra à l'augmentation exceptionnelle de la fréquentation cycliste sur cet axe.
 trafic: 28k vélos/j

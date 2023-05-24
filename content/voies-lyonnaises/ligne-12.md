@@ -1,8 +1,8 @@
 ---
 line: 12
 color: "#DBABB7"
-from: Lyon
-to: Saint-Priest
+from: Valmy
+to: Bron
 distance: 20000
 description: La Voie Lyonnaise n°12 doit permettre aux cyclistes de traverser Lyon d'Ouest en Est en passant le 9ème, le 5ème, le 2ème, le 3ème, le 7ème et le 8ème arrondissement avant de rejoindre Saint-Priest. Elle passera par des lieux emblématiques de Lyon comme la place Bellecour, le Pont Bonaparte et le Pont de la Guillotière. Ce projet est très ambitieux, car il vise à aménager des lieux très denses où les aménagements cyclables sont rudimentaires voir inexistants.
 trafic: 24k vélos / jour

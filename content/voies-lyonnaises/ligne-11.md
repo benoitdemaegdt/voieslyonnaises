@@ -1,7 +1,7 @@
 ---
 line: 11
 color: "#4DADC9"
-from: Craponne
+from: Point-du-Jour
 to: Chassieu
 distance: 25000
 description: La voie lyonnaise n°11 permettra de traverser la métropole lyonnaise sur un axe est-ouest. À l'Ouest, elle partira de Craponne pour desservir Tassin, Point du Jour et Saint Just. Elle traversera la presqu'île au niveau du quartier Perrache, puis continuera à l'est par la Part Dieu, le nord de Bron et enfin Chassieu.

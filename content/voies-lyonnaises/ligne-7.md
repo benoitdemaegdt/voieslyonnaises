@@ -2,7 +2,7 @@
 line: 7
 color: "#75BCAE"
 from: Rilleux
-to: Solaize
+to: Feyzin
 distance: 34000
 description: La voie lyonnaise n°7 permettra de traverser la métropole de lyon en suivant un axe nord-sud. Au nord, elle s'étendra jusqu'à Rillieux-la-Pape puis traversera les 6, 7 et 8ème arrondissements avant de rejoindre Saint-Fons puis Feyzin. Ce projet est très ambitieux et devrait métamorphoser le paysage urbain tout en révolutionnant la mobilité de nombreux habitants.
 trafic: 18k vélos / jour
