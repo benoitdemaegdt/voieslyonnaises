@@ -34,7 +34,7 @@ Depuis le Pont Kichener-Marchand, la voie lyonnaise n°11 s'engage sur le Cours 
 Elle a alors un tronçon commun avec la voie lyonnaise n°6 et remonte vers le nord jusqu'au Pont Wilson.
 
 #### Sous-tronçon - Part-Dieu
-Depuis le Pont Wilson, la voie lyonnaise n°11 descend légèrement vers le sud (tronçon commun avec la voie lyonnaise n°1) puis prend plein Est sur la rue de la part dieu.
+Depuis le Pont Wilson, la voie lyonnaise n°11 remonte légèrement vers le nord (tronçon commun avec la voie lyonnaise n°1) puis prend plein Est sur la rue de Bonnel.
 
 Elle traverse le quartier Part-Dieu par les rues Garibaldi, Paul Bert et le boulevard Vivier-Merle.
 
