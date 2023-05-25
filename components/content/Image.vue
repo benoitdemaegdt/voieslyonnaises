@@ -4,6 +4,7 @@
       class="w-full rounded-lg"
       :src="imageUrl"
       :alt="caption"
+      loading="lazy"
       width="1310"
       height="873"
     >
