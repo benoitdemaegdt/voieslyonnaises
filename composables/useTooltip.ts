@@ -9,17 +9,25 @@ type Properties = {
 export const useTooltip = () => {
   function getTooltipHtml(properties: Properties) {
     return `
-      <div class="flex items-center text-base font-extrabold tracking-tight text-gray-900">
-        <div>Ligne</div>
-        <div
-          class="ml-1 h-5 w-5 rounded-full flex items-center justify-center text-white font-bold"
-          style="background-color: ${properties.color}"
-        >
-          ${properties.line}
+      <div class="h-10 flex items-center" style="background-color: ${properties.color}">
+        <div class="p-2">
+          <div class='text-white font-bold text-lg'>Voie Lyonnaise ${properties.line}</div>
         </div>
       </div>
-      <div class="text-sm font-semibold text-gray-800">${properties.name}</div>
-      <p>${properties.isDone ? 'tronçon terminé' : 'tronçon non terminé'}</p>
+      <div class='p-2 divide-y'> 
+        <div>
+          <div class='text-sm font-bold'>Tronçon</div>
+          <div>${properties.name}</div>
+        </div>
+         <div>
+          <div class='text-sm font-bold'>Distance</div>
+          <div>${properties.distance}m</div>
+        </div>
+         <div>
+          <div class='text-sm font-bold'>statut</div>
+          <div>${properties.isDone ? 'terminé' : 'non terminé'}</div>
+        </div>
+      </div>
     `;
   }
 

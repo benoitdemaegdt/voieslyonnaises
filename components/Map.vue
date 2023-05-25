@@ -90,3 +90,9 @@ onMounted(() => {
   })
 })
 </script>
+
+<style>
+.maplibregl-popup-content {
+    @apply p-0;
+}
+</style>
