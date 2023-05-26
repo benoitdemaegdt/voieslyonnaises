@@ -27,7 +27,7 @@ const { data: voie } = await useAsyncData(`${path}`, () => {
   return queryContent('voies-lyonnaises').where({ _type: 'markdown', line: Number(line) }).findOne()
 })
 
-const description = `Découvrez la voie lyonnaise n°${voie.value.line}. Carte, itinéraire rue par rue, photos du projet, débats et dossiers de concertation.`
+const description = `Découvrez la voie lyonnaise n°${voie.value.line}. Carte, itinéraire rue par rue, calendrier des travaux, photos du projet et dossiers de concertation.`
 const coverImage = voie.value.cover
 useHead({
   title: `Voie Lyonnaise n°${voie.value.line}`,
