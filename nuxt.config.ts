@@ -1,7 +1,9 @@
-const TITLE = 'Cyclopolis'
-const DESCRIPTION = 'Suivi des aménagmenets cyclables lyonnais'
-const BASE_URL = 'https://cyclopolis.fr'
-const COVER_IMAGE_URL = 'https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png'
+const TITLE = 'Cyclopolis - La plateforme de suivi des voies lyonnaises';
+const DESCRIPTION =
+  'Plateforme citoyenne et associative de suivi des voies lyonnaises. Actualité, cartes précises et à jour des itinéraires, travaux : suivez en temps réel le développement des pistes cyclables lyonnaises';
+const BASE_URL = 'https://cyclopolis.fr';
+const COVER_IMAGE_URL =
+  'https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png';
 
 export default defineNuxtConfig({
   app: {
@@ -58,4 +60,4 @@ export default defineNuxtConfig({
   build: {
     transpile: ['@headlessui/vue']
   }
-})
+});
