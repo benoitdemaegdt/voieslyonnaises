@@ -38,7 +38,7 @@ onMounted(() => {
       type: 'line',
       source: 'done-sections',
       paint: {
-        'line-width': 3,
+        'line-width': 4,
         'line-color': ['get', 'color']
       }
     })
@@ -55,7 +55,7 @@ onMounted(() => {
       type: 'line',
       source: 'not-done-sections',
       paint: {
-        'line-width': 3,
+        'line-width': 4,
         'line-color': ['get', 'color'],
         'line-dasharray': [1.5, 1.5]
       }
