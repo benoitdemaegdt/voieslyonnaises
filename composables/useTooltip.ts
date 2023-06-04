@@ -20,10 +20,6 @@ export const useTooltip = () => {
           <div>${properties.name}</div>
         </div>
          <div>
-          <div class='text-sm font-bold'>Distance</div>
-          <div>${properties.distance}m</div>
-        </div>
-         <div>
           <div class='text-sm font-bold'>statut</div>
           <div>${properties.isDone ? 'terminé' : 'non terminé'}</div>
         </div>

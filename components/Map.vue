@@ -11,7 +11,7 @@ const { geojson } = defineProps({
   geojson: { type: Object, required: true }
 })
 
-const { getTooltipHtml } = useTooltip()
+const { plotDoneSections, plotNotDoneSections, fitBounds } = useMap()
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -26,67 +26,10 @@ onMounted(() => {
   map.addControl(new maplibregl.AttributionControl({ compact: true }))
 
   map.on('load', () => {
-    map.addSource('done-sections', {
-      type: 'geojson',
-      data: {
-        type: 'FeatureCollection',
-        features: geojson.features.filter(({ properties }) => properties.isDone === true)
-      }
-    })
-    map.addLayer({
-      id: 'done-sections',
-      type: 'line',
-      source: 'done-sections',
-      paint: {
-        'line-width': 4,
-        'line-color': ['get', 'color']
-      }
-    })
+    plotDoneSections({ map, features: geojson.features })
+    plotNotDoneSections({ map, features: geojson.features })
 
-    map.addSource('not-done-sections', {
-      type: 'geojson',
-      data: {
-        type: 'FeatureCollection',
-        features: geojson.features.filter(({ properties }) => properties.isDone === false)
-      }
-    })
-    map.addLayer({
-      id: 'not-done-sections',
-      type: 'line',
-      source: 'not-done-sections',
-      paint: {
-        'line-width': 4,
-        'line-color': ['get', 'color'],
-        'line-dasharray': [1.5, 1.5]
-      }
-    })
-
-    const allCoordinates = geojson.features
-      .map(feature => feature.geometry.coordinates)
-      .flat()
-    const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0])
-    for (const coord of allCoordinates) {
-      bounds.extend(coord)
-    }
-    map.fitBounds(bounds, { padding: 20 })
-
-    map.on('click', 'done-sections', (e) => {
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
-        .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(e.features[0].properties))
-        .addTo(map)
-    })
-    map.on('click', 'not-done-sections', (e) => {
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
-        .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(e.features[0].properties))
-        .addTo(map)
-    })
-
-    map.on('mouseenter', 'done-sections', () => map.getCanvas().style.cursor = 'pointer')
-    map.on('mouseleave', 'done-sections', () => map.getCanvas().style.cursor = '')
-    map.on('mouseenter', 'not-done-sections', () => map.getCanvas().style.cursor = 'pointer')
-    map.on('mouseleave', 'not-done-sections', () => map.getCanvas().style.cursor = '')
+    fitBounds({ map, features: geojson.features })
   })
 })
 </script>
