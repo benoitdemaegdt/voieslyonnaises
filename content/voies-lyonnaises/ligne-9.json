@@ -8,7 +8,7 @@
         "color": "#EAAB50",
         "name": "Le long de l'A42",
         "distance": 4123,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -91,7 +91,7 @@
         "color": "#EAAB50",
         "name": "Parc de Miribel",
         "distance": 6143,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -204,7 +204,7 @@
         "color": "#EAAB50",
         "name": "Canal de Jonage – Itinéraire Nord",
         "distance": 4840,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -280,7 +280,7 @@
         "color": "#EAAB50",
         "name": "Canal de Jonage – Itinéraire Sud",
         "distance": 6764,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -366,7 +366,7 @@
         "color": "#EAAB50",
         "name": "Villeurbanne - Doua",
         "distance": 3884,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -455,7 +455,7 @@
         "color": "#EAAB50",
         "name": "Lyon 6",
         "distance": 1793,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -511,7 +511,7 @@
         "color": "#EAAB50",
         "name": "Lyon 3",
         "distance": 1353,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -563,7 +563,7 @@
         "color": "#EAAB50",
         "name": "Lyon 7",
         "distance": 5172,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -667,7 +667,7 @@
         "color": "#EAAB50",
         "name": "Oullins",
         "distance": 510,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",

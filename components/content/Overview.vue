@@ -56,7 +56,7 @@ const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
 })
 
 const avancement = Math.round(geojson.value.features
-  .filter(feature => feature.properties.isDone === true)
+  .filter(feature => feature.properties.status === 'done')
   .map(feature => feature.properties.distance || 0)
   .reduce((acc, current) => acc + current, 0) * 100 / voie.distance)
 </script>

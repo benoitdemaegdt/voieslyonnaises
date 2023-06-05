@@ -8,7 +8,7 @@
         "color": "#AC4D35",
         "name": "Île barbe - Pont Leclerc",
         "distance": 4704,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -79,7 +79,7 @@
         "color": "#AC4D35",
         "name": "Stalingrad - Vivier Merle - Tchécoslovaques",
         "distance": 5820,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -143,7 +143,7 @@
         "color": "#AC4D35",
         "name": "Boulevard des États-Unis",
         "distance": 3507,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -172,7 +172,7 @@
         "color": "#AC4D35",
         "name": "Parilly - Saint-Priest",
         "distance": 4896,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",

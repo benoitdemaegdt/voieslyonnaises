@@ -8,7 +8,7 @@
         "color": "#DBABB7",
         "name": "9ème et 5ème arrondissements",
         "distance": 3953,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -62,7 +62,7 @@
         "color": "#DBABB7",
         "name": "Presqu'île",
         "distance": 770,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -82,7 +82,7 @@
         "color": "#DBABB7",
         "name": "Pont de la guillotière - Cours Gambetta",
         "distance": 1933,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -106,7 +106,7 @@
         "color": "#DBABB7",
         "name": "Cours Albert Thomas, Av. Rockefeller et Av. Franklin Roosevelt",
         "distance": 3927,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",

@@ -8,7 +8,7 @@
         "color": "#DC8953",
         "name": "Pont Georges Clemenceau",
         "distance": 163,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -26,7 +26,7 @@
         "color": "#DC8953",
         "name": "Tunnel de la croix-rousse",
         "distance": 2353,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -52,7 +52,7 @@
         "color": "#DC8953",
         "name": "Lyon 6 - Villeurbanne",
         "distance": 3839,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -93,7 +93,7 @@
         "color": "#DC8953",
         "name": "Limonest - Mont d'Or",
         "distance": 6172,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -169,7 +169,7 @@
         "color": "#DC8953",
         "name": "Lissieu - Limonest",
         "distance": 3910,
-        "isDone": false
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",

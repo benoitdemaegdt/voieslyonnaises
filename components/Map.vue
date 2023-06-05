@@ -11,7 +11,7 @@ const { geojson } = defineProps({
   geojson: { type: Object, required: true }
 })
 
-const { plotDoneSections, plotNotDoneSections, fitBounds } = useMap()
+const { plotDoneSections, plotWipSections, plotPlannedSections, fitBounds } = useMap()
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -27,7 +27,8 @@ onMounted(() => {
 
   map.on('load', () => {
     plotDoneSections({ map, features: geojson.features })
-    plotNotDoneSections({ map, features: geojson.features })
+    plotPlannedSections({ map, features: geojson.features })
+    plotWipSections({ map, features: geojson.features })
 
     fitBounds({ map, features: geojson.features })
   })

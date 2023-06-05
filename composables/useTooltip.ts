@@ -3,7 +3,7 @@ type Properties = {
   color: string;
   name: string;
   distance: number;
-  isDone: boolean;
+  status: string;
 };
 
 export const useTooltip = () => {
@@ -21,7 +21,7 @@ export const useTooltip = () => {
         </div>
          <div>
           <div class='text-sm font-bold'>statut</div>
-          <div>${properties.isDone ? 'terminé' : 'non terminé'}</div>
+          <div>${properties.status === 'done' ? 'terminé' : 'non terminé'}</div>
         </div>
       </div>
     `;
