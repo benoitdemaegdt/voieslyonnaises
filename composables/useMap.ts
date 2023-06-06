@@ -41,31 +41,24 @@ export const useMap = () => {
       paint: {
         'line-width': 4,
         'line-color': ['get', 'color'],
-        'line-dasharray': [0, 4, 3]
+        'line-dasharray': [0, 1.5, 1.5]
       }
     });
 
     const dashArraySequence = [
-      [0, 4, 3],
-      [0.5, 4, 2.5],
-      [1, 4, 2],
-      [1.5, 4, 1.5],
-      [2, 4, 1],
-      [2.5, 4, 0.5],
-      [3, 4, 0],
-      [0, 0.5, 3, 3.5],
-      [0, 1, 3, 3],
-      [0, 1.5, 3, 2.5],
-      [0, 2, 3, 2],
-      [0, 2.5, 3, 1.5],
-      [0, 3, 3, 1],
-      [0, 3.5, 3, 0.5]
+      [0, 1.5, 1.5],
+      [0.5, 1.5, 1],
+      [1, 1.5, 0.5],
+      [1.5, 1.5, 0],
+      [0, 0.5, 1.5, 1],
+      [0, 1, 1.5, 0.5],
+      [0, 1.5, 1.5, 0]
     ];
     let step = 0;
     function animateDashArray(timestamp) {
       // Update line-dasharray using the next value in dashArraySequence. The
       // divisor in the expression `timestamp / 50` controls the animation speed.
-      const newStep = parseInt((timestamp / 50) % dashArraySequence.length);
+      const newStep = parseInt((timestamp / 70) % dashArraySequence.length);
 
       if (newStep !== step) {
         map.setPaintProperty('wip-sections', 'line-dasharray', dashArraySequence[step]);
@@ -76,6 +69,9 @@ export const useMap = () => {
       requestAnimationFrame(animateDashArray);
     }
     animateDashArray(0);
+
+    map.on('mouseenter', 'wip-sections', () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', 'wip-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
   function plotPlannedSections({ map, features }) {
