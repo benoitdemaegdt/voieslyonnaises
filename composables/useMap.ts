@@ -41,24 +41,25 @@ export const useMap = () => {
       paint: {
         'line-width': 4,
         'line-color': ['get', 'color'],
-        'line-dasharray': [0, 1.5, 1.5]
+        'line-dasharray': [0, 2, 2]
       }
     });
 
     const dashArraySequence = [
-      [0, 1.5, 1.5],
-      [0.5, 1.5, 1],
-      [1, 1.5, 0.5],
-      [1.5, 1.5, 0],
-      [0, 0.5, 1.5, 1],
-      [0, 1, 1.5, 0.5],
-      [0, 1.5, 1.5, 0]
+      [0, 2, 2],
+      [0.5, 2, 1.5],
+      [1, 2, 1],
+      [1.5, 2, 0.5],
+      [2, 2, 0],
+      [0, 0.5, 2, 1.5],
+      [0, 1, 2, 1],
+      [0, 1.5, 2, 0.5]
     ];
     let step = 0;
     function animateDashArray(timestamp) {
       // Update line-dasharray using the next value in dashArraySequence. The
       // divisor in the expression `timestamp / 50` controls the animation speed.
-      const newStep = parseInt((timestamp / 70) % dashArraySequence.length);
+      const newStep = parseInt((timestamp / 45) % dashArraySequence.length);
 
       if (newStep !== step) {
         map.setPaintProperty('wip-sections', 'line-dasharray', dashArraySequence[step]);
@@ -87,7 +88,7 @@ export const useMap = () => {
       paint: {
         'line-width': 4,
         'line-color': ['get', 'color'],
-        'line-dasharray': [1.5, 1.5]
+        'line-dasharray': [2, 2]
       }
     });
 
