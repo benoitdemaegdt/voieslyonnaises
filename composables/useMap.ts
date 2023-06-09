@@ -4,6 +4,9 @@ const { getTooltipHtml } = useTooltip();
 export const useMap = () => {
   function plotDoneSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'done');
+    if (sections.length === 0) {
+      return;
+    }
     map.addSource('done-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
@@ -30,6 +33,9 @@ export const useMap = () => {
 
   function plotWipSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'wip');
+    if (sections.length === 0) {
+      return;
+    }
     map.addSource('wip-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
@@ -77,6 +83,9 @@ export const useMap = () => {
 
   function plotPlannedSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'planned');
+    if (sections.length === 0) {
+      return;
+    }
     map.addSource('not-done-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
@@ -105,6 +114,9 @@ export const useMap = () => {
 
   function plotUnknownSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'unknown');
+    if (sections.length === 0) {
+      return;
+    }
     map.addSource('unknown-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
@@ -129,7 +141,7 @@ export const useMap = () => {
       layout: {
         'symbol-placement': 'line-center',
         'text-font': ['Open Sans Regular'],
-        'text-field': 'tracé exact inconnu',
+        'text-field': 'tracé à définir',
         'text-size': 14
       }
     });
