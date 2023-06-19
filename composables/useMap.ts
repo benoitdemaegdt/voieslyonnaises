@@ -129,7 +129,18 @@ export const useMap = () => {
         'line-width': 4,
         'line-color': ['get', 'color'],
         'line-dasharray': [2, 2],
-        'line-opacity': 0.5
+        'line-opacity': 0.4
+      }
+    });
+    map.addLayer({
+      id: 'variante-symbols',
+      type: 'symbol',
+      source: 'variante-sections',
+      layout: {
+        'symbol-placement': 'line-center',
+        'text-font': ['Open Sans Regular'],
+        'text-field': 'VARIANTE',
+        'text-size': 15
       }
     });
   }
@@ -157,7 +168,7 @@ export const useMap = () => {
       }
     });
     map.addLayer({
-      id: 'symbols',
+      id: 'unknown-symbols',
       type: 'symbol',
       source: 'unknown-sections',
       layout: {
