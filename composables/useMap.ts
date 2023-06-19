@@ -112,6 +112,28 @@ export const useMap = () => {
     map.on('mouseleave', 'not-done-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
+  function plotVarianteSections({ map, features }) {
+    const sections = features.filter(feature => feature.properties.status === 'variante');
+    if (sections.length === 0) {
+      return;
+    }
+    map.addSource('variante-sections', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: sections }
+    });
+    map.addLayer({
+      id: 'variante-sections',
+      type: 'line',
+      source: 'variante-sections',
+      paint: {
+        'line-width': 4,
+        'line-color': ['get', 'color'],
+        'line-dasharray': [2, 2],
+        'line-opacity': 0.5
+      }
+    });
+  }
+
   function plotUnknownSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'unknown');
     if (sections.length === 0) {
@@ -147,6 +169,12 @@ export const useMap = () => {
     });
   }
 
+  function plotAbandonedSections({ map, features }) {
+    const sections = features.filter(feature => feature.properties.status === 'abandoned');
+    if (sections.length === 0) {
+    }
+  }
+
   function fitBounds({ map, features }) {
     const allCoordinates = features.map(feature => feature.geometry.coordinates).flat();
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
@@ -156,5 +184,13 @@ export const useMap = () => {
     map.fitBounds(bounds, { padding: 20 });
   }
 
-  return { plotDoneSections, plotWipSections, plotPlannedSections, plotUnknownSections, fitBounds };
+  return {
+    plotDoneSections,
+    plotWipSections,
+    plotPlannedSections,
+    plotVarianteSections,
+    plotUnknownSections,
+    plotAbandonedSections,
+    fitBounds
+  };
 };
