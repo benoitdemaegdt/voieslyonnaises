@@ -129,18 +129,22 @@ export const useMap = () => {
         'line-width': 4,
         'line-color': ['get', 'color'],
         'line-dasharray': [2, 2],
-        'line-opacity': 0.4
+        'line-opacity': 0.5
       }
     });
     map.addLayer({
       id: 'variante-symbols',
       type: 'symbol',
       source: 'variante-sections',
+      paint: {
+        'text-halo-color': '#fff',
+        'text-halo-width': 4
+      },
       layout: {
         'symbol-placement': 'line-center',
         'text-font': ['Open Sans Regular'],
-        'text-field': 'VARIANTE',
-        'text-size': 15
+        'text-field': 'variante',
+        'text-size': 14
       }
     });
   }
