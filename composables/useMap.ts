@@ -141,9 +141,10 @@ export const useMap = () => {
         'text-halo-width': 4
       },
       layout: {
-        'symbol-placement': 'line-center',
+        'symbol-placement': 'line',
+        'symbol-spacing': 120,
         'text-font': ['Open Sans Regular'],
-        'text-field': 'variante',
+        'text-field': ['coalesce', ['get', 'text'], 'variante'],
         'text-size': 14
       }
     });
