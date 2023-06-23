@@ -32,11 +32,15 @@ caption: La voie lyonnaise n°6 sur la rive droite su Rhône.
 ::
 
 ### Tronçon sud (La Mulatière, Oullins, Saint-Genis-Laval)
-Au sud, la voie lyonnaise 6 passera le Pont de la Mulatière puis rejoindra la rue Stéphane Déchant pour rejoindre Oullins.
+Au sud, la voie lyonnaise 6 passera le Pont de la Mulatière.
+
+On ne sait pas encore quelle rue elle empruntera ensuite pour rejoindre la commune d'Oullins.
 
 La traversée d'Oullins est un sujet en cours de concertation. Deux scénarios sont à l'étude.
 
 [voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf){:target="_blank"}
+
+Enfin, à la sortie d'Oullins, la voie lyonnaise n°6 empruntera la D486 (Grande rue d'Oullins puis Av. Georges Clemenceau) jusqu'à Saint-Genis-Laval. Elle se termine au croisement avec l'Av. de Gadagne.
 
 #### Calendrier prévisionnel
 ::image

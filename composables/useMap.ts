@@ -167,7 +167,15 @@ export const useMap = () => {
         'line-cap': 'round'
       },
       paint: {
-        'line-width': 20,
+        'line-width': [
+          'interpolate',
+          ['linear'],
+          ['zoom'],
+          11,
+          4, // width 4 at low zoom
+          14,
+          25 // progressively reach width 25 at high zoom
+        ],
         'line-color': ['get', 'color'],
         'line-opacity': 0.2
       }
@@ -176,8 +184,13 @@ export const useMap = () => {
       id: 'unknown-symbols',
       type: 'symbol',
       source: 'unknown-sections',
+      paint: {
+        'text-halo-color': '#fff',
+        'text-halo-width': 3
+      },
       layout: {
-        'symbol-placement': 'line-center',
+        'symbol-placement': 'line',
+        'symbol-spacing': 120,
         'text-font': ['Open Sans Regular'],
         'text-field': 'tracé à définir',
         'text-size': 14
