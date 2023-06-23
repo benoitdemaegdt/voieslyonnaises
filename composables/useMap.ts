@@ -182,9 +182,9 @@ export const useMap = () => {
           ['linear'],
           ['zoom'],
           11,
-          0.4, // opacity 0.4 at low zoom
+          0.5, // opacity 0.4 at low zoom
           14,
-          0.25 // opacity 0.25 at high zoom
+          0.35 // opacity 0.35 at high zoom
         ]
       }
     });
