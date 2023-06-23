@@ -177,7 +177,15 @@ export const useMap = () => {
           25 // progressively reach width 25 at high zoom
         ],
         'line-color': ['get', 'color'],
-        'line-opacity': 0.2
+        'line-opacity': [
+          'interpolate',
+          ['linear'],
+          ['zoom'],
+          11,
+          0.4, // opacity 0.4 at low zoom
+          14,
+          0.25 // opacity 0.25 at high zoom
+        ]
       }
     });
     map.addLayer({
