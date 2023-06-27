@@ -209,7 +209,38 @@ export const useMap = () => {
   function plotAbandonedSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'abandoned');
     if (sections.length === 0) {
+      return;
     }
+    map.addSource('abandoned-sections', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: sections }
+    });
+    map.addLayer({
+      id: 'abandoned-sections',
+      type: 'line',
+      source: 'abandoned-sections',
+      paint: {
+        'line-width': 4,
+        'line-opacity': 0.5,
+        'line-color': ['get', 'color']
+      }
+    });
+    map.addLayer({
+      id: 'abandoned-symbols',
+      type: 'symbol',
+      source: 'abandoned-sections',
+      paint: {
+        'text-halo-color': '#fff',
+        'text-halo-width': 3
+      },
+      layout: {
+        'symbol-placement': 'line',
+        'symbol-spacing': 120,
+        'text-font': ['Open Sans Regular'],
+        'text-field': 'abandonné',
+        'text-size': 14
+      }
+    });
   }
 
   function fitBounds({ map, features }) {
