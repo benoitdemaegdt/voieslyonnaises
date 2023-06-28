@@ -1,6 +1,31 @@
 import maplibregl from 'maplibre-gl';
 const { getTooltipHtml } = useTooltip();
 
+function getCrossIconUrl(color: string): string {
+  const canvas = document.createElement('canvas');
+  canvas.width = 8; // Set the desired width of your icon
+  canvas.height = 8; // Set the desired height of your icon
+  const context = canvas.getContext('2d');
+
+  // Draw the first diagonal line of the "X"
+  context.beginPath();
+  context.moveTo(0, 0);
+  context.lineTo(canvas.width, canvas.height);
+  context.lineWidth = 2;
+  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.stroke();
+
+  // Draw the second diagonal line of the "X"
+  context.beginPath();
+  context.moveTo(0, canvas.height);
+  context.lineTo(canvas.width, 0);
+  context.lineWidth = 2;
+  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.stroke();
+
+  return canvas.toDataURL();
+}
+
 export const useMap = () => {
   function plotDoneSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'done');
@@ -216,40 +241,14 @@ export const useMap = () => {
       data: { type: 'FeatureCollection', features: sections }
     });
 
-    const canvas = document.createElement('canvas');
-    canvas.width = 8; // Set the desired width of your icon
-    canvas.height = 8; // Set the desired height of your icon
-    const context = canvas.getContext('2d');
-    const iconColor = '#396083'; // Set the desired color for your icon
-    // Draw the horizontal bar of the cross
-    // context.fillRect(0, canvas.height / 2 - 1, canvas.width, 2);
-    // // Draw the vertical bar of the cross
-    // context.fillRect(canvas.width / 2 - 1, 0, 2, canvas.height);
-
-    // Draw the first diagonal line of the "X"
-    context.beginPath();
-    context.moveTo(0, 0);
-    context.lineTo(canvas.width, canvas.height);
-    context.lineWidth = 2;
-    context.strokeStyle = iconColor; // Set the strokeStyle to apply the color
-
-    context.stroke();
-
-    // Draw the second diagonal line of the "X"
-    context.beginPath();
-    context.moveTo(0, canvas.height);
-    context.lineTo(canvas.width, 0);
-    context.lineWidth = 2;
-    context.strokeStyle = iconColor; // Set the strokeStyle to apply the color
-
-    context.stroke();
-    const iconUrl = canvas.toDataURL();
-
+    // TODO: create one layer for each VL and loop to generate icons
+    const color = sections[0].properties.color;
+    const iconUrl = getCrossIconUrl(color);
     map.loadImage(iconUrl, (error, image) => {
       if (error) {
         throw error;
       }
-      map.addImage('custom-icon', image);
+      map.addImage('cross', image);
 
       map.addLayer({
         id: 'abandoned-symbols',
@@ -258,22 +257,10 @@ export const useMap = () => {
         layout: {
           'symbol-placement': 'line',
           'symbol-spacing': 1,
-          'icon-image': 'custom-icon',
+          'icon-image': 'cross',
           'icon-size': 1
         }
       });
-
-      // paint: {
-      //   'text-halo-color': '#fff',
-      //   'text-halo-width': 3
-      // },
-      // layout: {
-      //   'symbol-placement': 'line',
-      //   'symbol-spacing': 1,
-      //   'text-font': ['Open Sans Regular'],
-      //   'text-field': 'xxxxx',
-      //   'text-size': 14
-      // }
     });
   }
 
