@@ -15,7 +15,7 @@ definePageMeta({
   layout: 'fullscreen'
 })
 
-const { plotDoneSections, plotWipSections, plotPlannedSections, plotVarianteSections, plotUnknownSections, fitBounds } = useMap()
+const { plotDoneSections, plotWipSections, plotPlannedSections, plotVarianteSections, plotUnknownSections, plotAbandonedSections, fitBounds } = useMap()
 
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-lyonnaises').where({ _type: 'json' }).find()
@@ -39,6 +39,7 @@ onMounted(() => {
     plotVarianteSections({ map, features })
     plotWipSections({ map, features })
     plotUnknownSections({ map, features })
+    plotAbandonedSections({ map, features })
 
     fitBounds({ map, features })
   })

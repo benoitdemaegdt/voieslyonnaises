@@ -1,6 +1,31 @@
 import maplibregl from 'maplibre-gl';
 const { getTooltipHtml } = useTooltip();
 
+function getCrossIconUrl(color: string): string {
+  const canvas = document.createElement('canvas');
+  canvas.width = 8; // Set the desired width of your icon
+  canvas.height = 8; // Set the desired height of your icon
+  const context = canvas.getContext('2d');
+
+  // Draw the first diagonal line of the "X"
+  context.beginPath();
+  context.moveTo(0, 0);
+  context.lineTo(canvas.width, canvas.height);
+  context.lineWidth = 2;
+  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.stroke();
+
+  // Draw the second diagonal line of the "X"
+  context.beginPath();
+  context.moveTo(0, canvas.height);
+  context.lineTo(canvas.width, 0);
+  context.lineWidth = 2;
+  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.stroke();
+
+  return canvas.toDataURL();
+}
+
 export const useMap = () => {
   function plotDoneSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'done');
@@ -215,31 +240,27 @@ export const useMap = () => {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
     });
-    map.addLayer({
-      id: 'abandoned-sections',
-      type: 'line',
-      source: 'abandoned-sections',
-      paint: {
-        'line-width': 4,
-        'line-opacity': 0.5,
-        'line-color': ['get', 'color']
+
+    // TODO: create one layer for each VL and loop to generate icons
+    const color = sections[0].properties.color;
+    const iconUrl = getCrossIconUrl(color);
+    map.loadImage(iconUrl, (error, image) => {
+      if (error) {
+        throw error;
       }
-    });
-    map.addLayer({
-      id: 'abandoned-symbols',
-      type: 'symbol',
-      source: 'abandoned-sections',
-      paint: {
-        'text-halo-color': '#fff',
-        'text-halo-width': 3
-      },
-      layout: {
-        'symbol-placement': 'line',
-        'symbol-spacing': 120,
-        'text-font': ['Open Sans Regular'],
-        'text-field': 'abandonné',
-        'text-size': 14
-      }
+      map.addImage('cross', image);
+
+      map.addLayer({
+        id: 'abandoned-symbols',
+        type: 'symbol',
+        source: 'abandoned-sections',
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 1,
+          'icon-image': 'cross',
+          'icon-size': 1
+        }
+      });
     });
   }
 
