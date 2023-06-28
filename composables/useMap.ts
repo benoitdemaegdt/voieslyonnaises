@@ -215,31 +215,65 @@ export const useMap = () => {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
     });
-    map.addLayer({
-      id: 'abandoned-sections',
-      type: 'line',
-      source: 'abandoned-sections',
-      paint: {
-        'line-width': 4,
-        'line-opacity': 0.5,
-        'line-color': ['get', 'color']
+
+    const canvas = document.createElement('canvas');
+    canvas.width = 8; // Set the desired width of your icon
+    canvas.height = 8; // Set the desired height of your icon
+    const context = canvas.getContext('2d');
+    const iconColor = '#396083'; // Set the desired color for your icon
+    // Draw the horizontal bar of the cross
+    // context.fillRect(0, canvas.height / 2 - 1, canvas.width, 2);
+    // // Draw the vertical bar of the cross
+    // context.fillRect(canvas.width / 2 - 1, 0, 2, canvas.height);
+
+    // Draw the first diagonal line of the "X"
+    context.beginPath();
+    context.moveTo(0, 0);
+    context.lineTo(canvas.width, canvas.height);
+    context.lineWidth = 2;
+    context.strokeStyle = iconColor; // Set the strokeStyle to apply the color
+
+    context.stroke();
+
+    // Draw the second diagonal line of the "X"
+    context.beginPath();
+    context.moveTo(0, canvas.height);
+    context.lineTo(canvas.width, 0);
+    context.lineWidth = 2;
+    context.strokeStyle = iconColor; // Set the strokeStyle to apply the color
+
+    context.stroke();
+    const iconUrl = canvas.toDataURL();
+
+    map.loadImage(iconUrl, (error, image) => {
+      if (error) {
+        throw error;
       }
-    });
-    map.addLayer({
-      id: 'abandoned-symbols',
-      type: 'symbol',
-      source: 'abandoned-sections',
-      paint: {
-        'text-halo-color': '#fff',
-        'text-halo-width': 3
-      },
-      layout: {
-        'symbol-placement': 'line',
-        'symbol-spacing': 120,
-        'text-font': ['Open Sans Regular'],
-        'text-field': 'abandonné',
-        'text-size': 14
-      }
+      map.addImage('custom-icon', image);
+
+      map.addLayer({
+        id: 'abandoned-symbols',
+        type: 'symbol',
+        source: 'abandoned-sections',
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 1,
+          'icon-image': 'custom-icon',
+          'icon-size': 1
+        }
+      });
+
+      // paint: {
+      //   'text-halo-color': '#fff',
+      //   'text-halo-width': 3
+      // },
+      // layout: {
+      //   'symbol-placement': 'line',
+      //   'symbol-spacing': 1,
+      //   'text-font': ['Open Sans Regular'],
+      //   'text-field': 'xxxxx',
+      //   'text-size': 14
+      // }
     });
   }
 
