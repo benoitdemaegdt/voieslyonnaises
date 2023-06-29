@@ -77,6 +77,26 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
+        "name": "Caluire-et-Cuire",
+        "distance": 3044,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8304758429806895, 45.79797576420478],
+          [4.831795544871056, 45.79602553322215],
+          [4.846034035228541, 45.79925458507378],
+          [4.857000291870861, 45.797407633508726],
+          [4.860733082561865, 45.79100591639346]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
         "name": "Stalingrad - Vivier Merle - Tchécoslovaques",
         "distance": 5820,
         "status": "planned"
