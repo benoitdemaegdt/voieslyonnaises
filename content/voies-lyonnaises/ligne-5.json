@@ -304,6 +304,24 @@
       "properties": {
         "line": 5,
         "color": "#AF7392",
+        "name": "Valmy",
+        "distance": 1371,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.792457791949317, 45.77349201634064],
+          [4.796647608095242, 45.77601552906998],
+          [4.80870683039123, 45.77503664993603]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "color": "#AF7392",
         "name": "Vaise - Tête d'Or",
         "distance": 4702,
         "status": "planned"
