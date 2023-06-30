@@ -541,6 +541,22 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
+        "name": "Saint-Fons",
+        "distance": 731,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8550693832802665, 45.71208221224575],
+          [4.856284421138838, 45.7055599337377]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
         "name": "Saint-Fons - Feyzin",
         "distance": 3428,
         "status": "planned"
@@ -605,6 +621,22 @@
           [4.86110419972087, 45.67862484263364],
           [4.860987059869757, 45.677040038101865],
           [4.860867246121302, 45.67610833118937]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "name": "Feyzin",
+        "distance": 347,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.86086739153518, 45.67610806890974],
+          [4.860241782515885, 45.67302240224541]
         ]
       }
     }
