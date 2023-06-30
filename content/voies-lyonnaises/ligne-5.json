@@ -736,6 +736,29 @@
       "properties": {
         "line": 5,
         "color": "#AF7392",
+        "name": "Traversée de Tassin",
+        "distance": 1750,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.770965878592818,
+            45.75210810283451
+          ],
+          [
+            4.781463495430273,
+            45.763961553731576
+          ]
+        ]
+      }
+    },   
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "color": "#AF7392",
         "name": "Vaise - Tassin",
         "distance": 1337,
         "status": "planned"
