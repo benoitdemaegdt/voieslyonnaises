@@ -9,6 +9,7 @@ type Properties = {
     name: string;
     distance: number;
     status: number;
+    doneAt?: string;
   };
   geometry: {
     type: 'LineString';
