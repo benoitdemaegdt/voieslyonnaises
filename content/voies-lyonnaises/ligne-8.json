@@ -339,9 +339,9 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "Lyon 9 et Lyon 5",
-        "distance": 2726,
-        "status": "planned"
+        "name": "Tassin - Av Victor Hugo",
+        "distance": 124,
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -352,7 +352,22 @@
           [4.786933600151997, 45.76871663760903],
           [4.786868846395379, 45.76865910588438],
           [4.786603377569037, 45.768424072129164],
-          [4.786460406746869, 45.768298855678836],
+          [4.786261272189137, 45.768118375309314]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Lyon 9 et Lyon 5",
+        "distance": 2602,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.786261344997513, 45.768118230611066],
           [4.786388599831383, 45.76797334115912],
           [4.786338524539303, 45.76780271482514],
