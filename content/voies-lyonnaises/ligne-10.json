@@ -63,6 +63,24 @@
       "properties": {
         "line": 10,
         "color": "#9A8A4B",
+        "name": "Valmy",
+        "distance": 5452,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.792457338060871, 45.77349147713025],
+          [4.796560854026268, 45.774380416703934],
+          [4.808645094365261, 45.775042509251676]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "color": "#9A8A4B",
         "name": "Lyon 6",
         "distance": 5452,
         "status": "planned"
