@@ -2,7 +2,7 @@
 line: 3
 color: "#3B7B64"
 from: Quincieux
-to: Pierre-Bénite
+to: Givors
 distance: 57000
 description: La voie lyonnaise n°3 longera la Saône et permettra de relier Givors depuis Genay ou Qincieux. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
 trafic: 11k vélos / jour
