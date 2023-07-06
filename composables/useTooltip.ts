@@ -1,10 +1,23 @@
+type Status = 'done' | 'wip' | 'planned' | 'abandoned' | 'variante';
+
 type Properties = {
   line: string;
   color: string;
   name: string;
   distance: number;
-  status: string;
+  status: Status;
 };
+
+function getStatusText(status: Status): string {
+  const statusText = {
+    done: 'Terminé',
+    wip: 'En travaux',
+    planned: 'Prévu',
+    abandoned: 'Abandonné',
+    variante: 'Variante'
+  };
+  return statusText[status];
+}
 
 export const useTooltip = () => {
   function getTooltipHtml(properties: Properties) {
@@ -21,7 +34,7 @@ export const useTooltip = () => {
         </div>
          <div>
           <div class='text-sm font-bold'>statut</div>
-          <div>${properties.status === 'done' ? 'terminé' : 'non terminé'}</div>
+          <div>${getStatusText(properties.status)}</div>
         </div>
       </div>
     `;

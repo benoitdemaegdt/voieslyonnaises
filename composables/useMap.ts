@@ -308,6 +308,15 @@ export const useMap = () => {
             'text-size': 14
           }
         });
+        map.on('mouseenter', `abandoned-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
+        map.on('mouseleave', `abandoned-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
+
+        map.on('click', `abandoned-symbols-${color}`, e => {
+          new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+            .setLngLat(e.lngLat)
+            .setHTML(getTooltipHtml(e.features[0].properties))
+            .addTo(map);
+        });
       });
     }
   }
