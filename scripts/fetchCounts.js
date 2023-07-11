@@ -1,4 +1,4 @@
-import { formatCounts } from './helpers.js';
+import { formatCounts } from './helpers.mjs';
 /**
  * Ce script permet de récupérer les données d'un compteur vélo de lyon
  * https://data.eco-counter.com/ParcPublic/?id=3902#

@@ -1,27 +1,26 @@
 import fs from 'fs';
 import path from 'path';
-import { formatCounts } from './helpers.js';
+import { formatCounts } from './helpers.mjs';
 
 /**
  * Ce script permet de maj les données des compteurs vélo suivis
  * https://data.eco-counter.com/ParcPublic/?id=3902#
  *
  * required : NodeJS >= 18
- * run : node ./scripts/updateCounters.js
+ * run : node ./scripts/updateCounters.mjs
  */
 
 const directoryPath = './content/compteurs';
 
 (async () => {
   const counters = getCounters();
-  for (const counter of counters) {
+  for (const { file, counter } of counters) {
     console.log(' ');
     console.log(`<<<<<<< ${counter.name} >>>>>>>`);
     const newCounts = await getCounts(counter.idPdc, counter.flowIds);
     const counts = mergeCounts({ currentCounts: counter.counts, newCounts });
-    updateCounter({ file: counter.file, counter: { ...counter, counts } });
+    updateCounter({ file, counter: { ...counter, counts } });
   }
-  // console.log(JSON.stringify(formatCounters(counters), null, 2));
 })();
 
 // Get all tracked counters.
@@ -32,10 +31,7 @@ function getCounters() {
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     return {
       file,
-      name: data.name,
-      idPdc: data.idPdc,
-      flowIds: data.flowIds,
-      counts: data.counts
+      counter: data
     };
   });
 }
