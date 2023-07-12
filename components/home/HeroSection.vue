@@ -46,7 +46,7 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Projet citoyen de suivi des aménagements cyclables et de l'actu vélo de la métropole lyonnaise.
+              Une initiative de l'association La Ville à Vélo pour suivre le développement du réseau express vélo Lyonnais.
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
