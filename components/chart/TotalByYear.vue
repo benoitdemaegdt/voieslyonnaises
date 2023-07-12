@@ -15,11 +15,17 @@ const chartOptions = {
   chart: { type: 'column' },
   title: { text: 'Total des passages par année' },
   credits: { enabled: false },
+  legend: { enabled: false },
   xAxis: { categories: years },
   yAxis: { min: 0, title: { text: 'Passages' } },
-  legend: { layout: 'vertical', align: 'right', verticalAlign: 'middle' },
   plotOptions: {
-    column: { pointPadding: 0.2, borderWidth: 0 }
+    column: { pointPadding: 0.2, borderWidth: 0 },
+    series: {
+      dataLabels: {
+        enabled: true,
+        style: { color: '#64748b' }
+      }
+    }
   },
   series: [{
     name: 'passages',

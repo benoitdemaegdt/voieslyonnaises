@@ -10,6 +10,10 @@
     <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur vélo chaque année.</p>
     <ChartTotalByYear :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
+    <h2>Comparaison des passages pour un mois donné</h2>
+    <p>Choisissez un mois dans le menu déroulant ci-dessous pour visualiser l'évolution de la fréquentation cyclable pour le même mois de chaque année.</p>
+    <ChartMonthComparison :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+
     <h2>Total des passages par mois</h2>
     <p>On regarde ici pour chaque année le nombre total de passages par mois. Pour bien comprendre les courbes des années 2020 et 2021, il faut avoir en tête les dates des 3 confinements en France :</p>
     <ul>
