@@ -3,8 +3,22 @@
     <div class="hidden lg:block lg:absolute lg:inset-0" aria-hidden="true">
       <svg class="absolute top-0 left-1/2 transform translate-x-64 -translate-y-8" width="640" height="784" fill="none" viewBox="0 0 640 784">
         <defs>
-          <pattern id="9ebea6f4-a1f5-4d96-8c4e-4c2abf658047" x="118" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-            <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+          <pattern
+            id="9ebea6f4-a1f5-4d96-8c4e-4c2abf658047"
+            x="118"
+            y="0"
+            width="20"
+            height="20"
+            patternUnits="userSpaceOnUse"
+          >
+            <rect
+              x="0"
+              y="0"
+              width="4"
+              height="4"
+              class="text-gray-200"
+              fill="currentColor"
+            />
           </pattern>
         </defs>
         <rect y="72" width="640" height="640" class="text-gray-50" fill="currentColor" />
@@ -21,8 +35,7 @@
             <h1>
               <span
                 class="block text-sm font-semibold uppercase tracking-wide text-gray-500 sm:text-base lg:text-sm xl:text-base"
-                >Pistes Cyclables</span
-              >
+              >Plateforme de suivi</span>
               <span
                 class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl"
               >
@@ -38,10 +51,14 @@
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
             >
-            <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
-              <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-official hover:bg-green-700 sm:px-8"> Plan officiel </NuxtLink>
-              <NuxtLink to="/carte-interactive" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-green-700 bg-white hover:bg-green-50 sm:px-8"> Carte interactive </NuxtLink>
-            </div>
+              <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
+                <NuxtLink to="/carte-interactive" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-official hover:bg-green-700 sm:px-8">
+                  Carte interactive
+                </NuxtLink>
+                <NuxtLink to="/plan-officiel" class="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-green-700 bg-white bg-green-50 hover:bg-green-100 sm:px-8">
+                  Plan officiel
+                </NuxtLink>
+              </div>
             </div>
           </div>
           <div
@@ -53,7 +70,7 @@
               <div
                 class="relative block w-full bg-white rounded-lg overflow-hidden"
               >
-                <img class="w-full" src="~/assets/voies-lyonnaises.jpeg" alt="illustration voies lyonnaises" />
+                <img class="w-full" src="~/assets/voies-lyonnaises.jpeg" alt="illustration voies lyonnaises">
               </div>
             </div>
           </div>
