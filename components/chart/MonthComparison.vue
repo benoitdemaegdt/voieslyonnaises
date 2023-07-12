@@ -81,7 +81,10 @@ const months = [
 
 ]
 
-const selectedMonth = ref(months[0])
+const lastRecord = props.data.counts[props.data.counts.length - 1]
+const lastRecordMonth = new Date(lastRecord.month).getMonth()
+
+const selectedMonth = ref(months.find(month => month.value === lastRecordMonth))
 
 const counts = computed(() => {
   return props.data.counts.filter((count) => {
