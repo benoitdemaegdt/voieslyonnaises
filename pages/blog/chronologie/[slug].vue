@@ -16,7 +16,7 @@
           <div v-for="news of event.news" :key="news.title" class="mt-4 first:mt-2 p-2 rounded-lg hover:bg-gray-50">
             <NuxtLink :to="news.tweet" target="_blank">
               <h4>{{ news.title }}</h4>
-              <div class="text-official">
+              <div class="text-lvv-blue-600">
                 <span class="text-base">{{ news.link }}</span>
                 <Icon name="mdi:chevron-right" class="h-5 w-5" aria-hidden="true" />
               </div>

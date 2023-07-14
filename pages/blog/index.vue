@@ -13,7 +13,7 @@
         <div v-for="article in articles" :key="article.title" class="p-4 rounded-lg hover:bg-gray-50">
           <div>
             <div class="inline-block">
-              <span class="bg-green-100 text-green-800 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium">
+              <span class="bg-lvv-blue-200 text-lvv-blue-600 inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium">
                 article
               </span>
             </div>

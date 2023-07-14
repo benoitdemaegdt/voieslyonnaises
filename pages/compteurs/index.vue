@@ -19,7 +19,7 @@
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
-              <p class="text-sm font-medium text-official">
+              <p class="text-sm font-medium text-lvv-blue-600">
                 {{ counter.arrondissement }}
               </p>
               <div class="block mt-2">

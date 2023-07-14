@@ -111,7 +111,7 @@
           >Mentions légales</span>
         </h1>
       </div>
-      <div class="mt-6 prose prose-emerald prose-lg text-gray-500 mx-auto">
+      <div class="mt-6 prose prose-lg text-gray-500 mx-auto">
         <h2>Hébergement</h2>
         <p>
           Ce site web est hébergé par

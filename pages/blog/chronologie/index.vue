@@ -15,7 +15,7 @@
           <div class="rounded-lg hover:bg-gray-50 p-2 mt-2">
             <NuxtLink :to="article._path">
               <h4>{{ article.description }}</h4>
-              <div class="text-official">
+              <div class="text-lvv-blue-600">
                 <span class="text-base">détails</span>
                 <Icon name="mdi:chevron-right" class="h-5 w-5" aria-hidden="true" />
               </div>

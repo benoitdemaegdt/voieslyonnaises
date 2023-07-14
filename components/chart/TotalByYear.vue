@@ -23,10 +23,11 @@ const chartOptions = {
     series: {
       dataLabels: {
         enabled: true,
-        style: { color: '#64748b' }
+        style: { color: '#152B68' }
       }
     }
   },
+  colors: ['#152B68'],
   series: [{
     name: 'passages',
     data: years.map((year) => {

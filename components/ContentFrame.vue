@@ -91,7 +91,7 @@
     <div class="relative px-4 sm:px-6 lg:px-8">
       <div class="text-lg max-w-prose mx-auto">
         <span
-          class="block text-base text-center text-emerald-600 font-semibold tracking-wide uppercase"
+          class="block text-base text-center text-lvv-blue-600 font-semibold tracking-wide uppercase"
         >{{ header }}</span>
         <h1 class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
           {{ title }}
@@ -100,7 +100,7 @@
           {{ description }}
         </p>
       </div>
-      <div class="mt-6 prose prose-emerald prose-lg text-gray-500 mx-auto">
+      <div class="mt-6 prose prose-lg text-gray-500 mx-auto">
         <img class="w-full rounded-lg" :src="imageUrl" width="1310" height="873">
         <slot />
       </div>

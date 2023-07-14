@@ -4,7 +4,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        official: '#019438',
         'lvv-blue-600': '#152B68',
         'lvv-blue-500': '#433E61',
         'lvv-blue-400': '#665E7B',
@@ -13,6 +12,13 @@ module.exports = {
         'lvv-blue-100': '#EFEDF1',
         'lvv-pink': '#C84271',
         'lvv-green': '#83C0B7'
+      },
+      typography: {
+        DEFAULT: {
+          css: {
+            a: { color: '#152B68' }
+          }
+        }
       }
     }
   },
