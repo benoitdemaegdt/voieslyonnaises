@@ -11,11 +11,11 @@
               alt="logo voies lyonnaises"
             >
           </NuxtLink>
-          <span class="ml-2 text-2xl sm:hidden font-extrabold text-official">Cyclopolis</span>
+          <span class="ml-2 text-2xl sm:hidden font-extrabold text-lvv-blue-600">Cyclopolis</span>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
-            class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500"
+            class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-lvv-blue-600"
           >
             <span class="sr-only">Ouvrir menu</span>
             <Icon name="mdi:menu" class="h-6 w-6" aria-hidden="true" />
@@ -24,13 +24,13 @@
         <PopoverGroup as="nav" class="hidden md:flex space-x-10">
           <NuxtLink
             to="/carte-interactive"
-            class="text-base font-medium text-gray-500 hover:text-gray-900"
+            class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
             Carte interactive
           </NuxtLink>
 
           <Popover v-slot="{ open }" class="relative">
-            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2']">
+            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
               <span>Lignes</span>
               <Icon name="mdi:chevron-down" :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
             </PopoverButton>
@@ -63,13 +63,13 @@
 
           <NuxtLink
             to="/plan-officiel"
-            class="text-base font-medium text-gray-500 hover:text-gray-900"
+            class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
             Plan officiel
           </NuxtLink>
           <NuxtLink
             to="/compteurs"
-            class="text-base font-medium text-gray-500 hover:text-gray-900"
+            class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
             Compteurs
           </NuxtLink>
@@ -77,7 +77,7 @@
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
             to="/blog"
-            class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-official hover:bg-green-700"
+            class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lvv-blue-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
           >
             Blog
           </NuxtLink>
@@ -108,7 +108,7 @@
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
-                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500"
+                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-lvv-blue-600"
                 >
                   <span class="sr-only">Fermer menu</span>
                   <Icon name="mdi:close" class="h-6 w-6" aria-hidden="true" />
