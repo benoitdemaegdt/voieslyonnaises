@@ -6,6 +6,7 @@
 import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import style from '@/assets/style.json'
+import LegendControl from '@/maplibre/LegendControl'
 
 const { geojson } = defineProps({
   geojson: { type: Object, required: true }
@@ -24,6 +25,8 @@ onMounted(() => {
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
   map.addControl(new maplibregl.FullscreenControl(), 'top-right')
   map.addControl(new maplibregl.AttributionControl({ compact: true }))
+  const legendControl = new LegendControl()
+  map.addControl(legendControl, 'top-right')
 
   map.on('load', () => {
     plotDoneSections({ map, features: geojson.features })
@@ -41,5 +44,13 @@ onMounted(() => {
 <style>
 .maplibregl-popup-content {
     @apply p-0;
+}
+
+.maplibregl-info {
+    background-repeat: no-repeat;
+    background-position: center;
+    pointer-events: auto;
+    background-image: url('~/maplibre/info.svg');
+    background-size: 85%;
 }
 </style>
