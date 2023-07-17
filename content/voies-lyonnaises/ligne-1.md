@@ -12,8 +12,8 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voiesl
 
 ## Les tronçons (du Nord au Sud)
 
-### Du centre de Vaulx-en-Velin à la Doua (Croix-Luizet),
-#### *via Villeurbanne St-Jean*
+### Du centre de Vaulx-en-Velin à la Doua (Croix-Luizet),  
+*via Villeurbanne St-Jean*
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 La concertation préalable sur ce projet a eu lieu du 23/08 23/10/2021.  
@@ -101,8 +101,8 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220311_voieslyonnaises_ligne1_dossier-concertation.pdf)
 
 
-### Halle Tony Garnier à St-Fons centre
-#### *via Gerland et le nord de la vallée de la Chimie*
+### Halle Tony Garnier à St-Fons centre  
+*via Gerland et le nord de la vallée de la Chimie*
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T10.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
