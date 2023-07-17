@@ -12,8 +12,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voiesl
 
 ## Les tronçons (du Nord au Sud)
 
-### Du centre de Vaulx-en-Velin à la Doua (Croix-Luizet),  
-*via Villeurbanne St-Jean*
+### Du centre de Vaulx-en-Velin à la Doua (Croix-Luizet)<br>*via Villeurbanne St-Jean*
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 La concertation préalable sur ce projet a eu lieu du 23/08 23/10/2021.  
@@ -54,8 +53,7 @@ Cette section est en tronçon commun avec la Voie Lyonnaise 2.
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2){:target="_blank"} pour davantage d'informations.
 
 
-### Cité Internationale à Halle Tony Garnier
-#### "via Quais du Rhône rive gauche"
+### Cité Internationale à Halle Tony Garnier<br>*via Quais du Rhône rive gauche*
 #### Allée Achille Lignon
 Une piste cyclable bidirectionnelle sera créé pour desservir la Cité Internationale, entre le site propre bus et la voie verte actuelle qui sera rendue aux piétons.  
 Aucune information sur le calendrier des travaux n'a été rendue publique.
@@ -99,8 +97,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220311_voieslyonnaises_ligne1_dossier-concertation.pdf)
 
 
-### Halle Tony Garnier à St-Fons centre  
-*via Gerland et le nord de la vallée de la Chimie*
+### Halle Tony Garnier à St-Fons centre<br>*via Gerland et le nord de la vallée de la Chimie*
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T10.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
