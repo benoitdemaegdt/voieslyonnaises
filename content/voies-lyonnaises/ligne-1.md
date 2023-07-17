@@ -15,7 +15,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voiesl
 ### Du centre de Vaulx-en-Velin à la Doua (Croix-Luizet)<br>*via Villeurbanne St-Jean*
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-La concertation préalable sur ce projet a eu lieu du 23/08 23/10/2021.  
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
 L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}  
@@ -24,17 +24,16 @@ Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
-caption: Aperçu de la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin. Image SYTRAL Mobilités.
+caption: Aperçu de la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.<br>Image SYTRAL Mobilités.
 ---
 ::
 
 
-### Sud du campus de la Doua, 
-#### *sur avenue Einstein et Boulevard du 11 Novembre*
+### Sud du campus de la Doua<br>*sur avenue Einstein et Boulevard du 11 Novembre*
 Une nouvelle piste cyclable bidirectionnelle sera crée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
 Le trottoir actuellement partagé avec les vélo pourra alors être rendu aux seuls piétons.
 
-#### Spécificités de ce tronçon
+#### *Spécificités de ce tronçon*
 Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.  
 De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 
@@ -44,7 +43,7 @@ La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png
-caption: Illustration de la voie lyonnaise n°1 sur le boulevard du 11 novembre. Image Passagers des Villes / Métropole de Lyon.
+caption: Illustration de la voie lyonnaise n°1 sur le boulevard du 11 novembre.<br>Image Passagers des Villes / Métropole de Lyon.
 ---
 ::
 
@@ -101,7 +100,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T10.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-Une concertation préalable sur ce projet a eu lieu entre le 23/08 et le 23/10/2021.  
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
 L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
 [Voir la présentation du projet du tram T10](https://destinations2026-sytral.fr/processes/t10){:target="_blank"}  
@@ -110,7 +109,7 @@ Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaine
 ::image
 ---
 imageUrl: https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large
-caption: Aperçu de la voie lyonnaise n°1 le long du tram T10 à Saint-Fons. Image Ilex - SYTRAL Mobilité.
+caption: Aperçu de la voie lyonnaise n°1 le long du tram T10 à Saint-Fons.<br>Image Ilex - SYTRAL Mobilité.
 ---
 ::
 
