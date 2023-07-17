@@ -1,28 +1,18 @@
 export default class LegendControl {
   _btn: HTMLButtonElement;
   _container: HTMLDivElement;
+  _onClick: Function;
 
-  constructor() {}
+  constructor({ onClick }: { onClick: Function }) {
+    this._onClick = onClick;
+  }
 
   onAdd() {
     this._btn = document.createElement('button');
     this._btn.className = 'maplibregl-info maplibregl-ctrl-icon';
     this._btn.type = 'button';
     this._btn.title = 'Légende';
-    this._btn.onclick = () => {
-      window.alert('la légende arrive bientôt !');
-      // const legend = document.getElementById('legend');
-      // if (!legend) {
-      //   return;
-      // }
-      // const classList = Array.from(legend.classList);
-      // const isLegendHidden = classList.includes('hidden');
-      // if (isLegendHidden) {
-      //   legend.classList.remove('hidden');
-      // } else {
-      //   legend.classList.add('hidden');
-      // }
-    };
+    this._btn.onclick = () => this._onClick();
 
     this._container = document.createElement('div');
     this._container.className = 'maplibregl-ctrl-group mapbox-ctrl-group maplibregl-ctrl mapboxgl-ctrl';
