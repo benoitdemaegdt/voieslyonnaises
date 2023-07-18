@@ -24,7 +24,8 @@ Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
-caption: Aperçu de la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin. Image SYTRAL Mobilités.
+caption: Aperçu de la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.
+credit: SYTRAL Mobilités
 ---
 ::
 
@@ -43,7 +44,8 @@ La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png
-caption: Illustration de la voie lyonnaise n°1 sur le boulevard du 11 novembre. Image Passagers des Villes / Métropole de Lyon.
+caption: Illustration de la voie lyonnaise n°1 sur le boulevard du 11 novembre.
+credit: Passagers des Villes / Métropole de Lyon.
 ---
 ::
 
@@ -109,7 +111,8 @@ Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaine
 ::image
 ---
 imageUrl: https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large
-caption: Aperçu de la voie lyonnaise n°1 le long du tram T10 à Saint-Fons. Image Ilex / SYTRAL Mobilité.
+caption: Aperçu de la voie lyonnaise n°1 le long du tram T10 à Saint-Fons.
+credit: Ilex / SYTRAL Mobilité
 ---
 ::
 

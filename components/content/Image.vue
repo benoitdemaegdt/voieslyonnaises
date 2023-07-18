@@ -9,12 +9,16 @@
       height="873"
     >
     <figcaption>{{ caption }}</figcaption>
+    <div v-if="credit" class="text-base italic">
+      Crédit image : {{ credit }}
+    </div>
   </figure>
 </template>
 
 <script setup>
 defineProps({
   imageUrl: { type: String, required: true },
-  caption: { type: String, required: false }
+  caption: { type: String, required: false },
+  credit: { type: String, required: false }
 })
 </script>
