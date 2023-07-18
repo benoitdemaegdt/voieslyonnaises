@@ -4,7 +4,7 @@ color: "#AC4D35"
 from: Fontaines s/ Saône
 to: Saint-Priest
 distance: 32000
-description: La voie lyonnaise n°2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Après avoir longé la Saône juqu'à l'Île Barbe, elle traversera le plateau Nord en desservant le centre de Caluire, puis redescendra vers Lyon via le pont Poincaré. Elle transformera ensuite plusieurs autoroutes urbaines majeures puisqu'elle passera par le boulevard Stalingrad, le boulevard Vivier Merle ainsi que le boulevard des Tchécoslovaques. Après le carrefour de Jet d'Eau, elle empruntera l'avenue des Etats-Unis puis l'avenue Viviani en direction du nouveau quartier de Parilly. Elle terminera son parcours le long de la route de Lyon, aux portes du centre-ville de Saint-Priest.
+description: La voie lyonnaise n°2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Après avoir longé la Saône jusqu'à l'Île Barbe, elle traversera le plateau Nord en desservant le centre de Caluire, puis redescendra vers Lyon via le pont Poincaré. Elle transformera ensuite plusieurs autoroutes urbaines majeures sur le boulevard Stalingrad, le boulevard Vivier-Merle et le boulevard des Tchécoslovaques. Après le carrefour de Jet d'Eau, elle empruntera l'avenue des Etats-Unis puis l'avenue Viviani en direction du quartier de Parilly. Elle terminera son parcours le long de la route de Lyon, aux portes du centre-ville de Saint-Priest.
 trafic: 21k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017928/voieslyonnaises/ligne2/cover-vl2_litbbi.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
@@ -41,6 +41,7 @@ La voie lyonnaise n°2 va prendre la place de l'ancienne contre-allée de statio
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1676877656/voieslyonnaises/ligne2/ligne2-5_gik0d1.png
 caption: Expérimentation de revêtement sur l'emplacement de la voie lyonnaise n°2 boulevard Stalingrad.
+credit: Métropole de Lyon
 ---
 ::
 
@@ -58,7 +59,7 @@ Les deux voies de circulation générale actuelles seront réduites à une voie 
 *La modification du marquage au sol est prévue en parallèle des travaux du tronçon précédent, au début du printemps 2024.*
 
 #### Tunnel Vivier-Merle
-La voie lyonnaise passera dans le nouveau tunnel sous le pole multimodal de la gare de la Part-Dieu et qui a ouvert en 2020. Une des deux voies de circulation actuelle, côté Ouest, sera transformée en piste cyclable bidirectionnelle.  
+La voie lyonnaise passera dans le nouveau tunnel sous le pole multimodal de la gare de la Part-Dieu qui a ouvert en 2020. Une des deux voies de circulation actuelle, côté Ouest, sera transformée en piste cyclable bidirectionnelle.  
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré début 2023 et qui comporte de très larges voies de bus partagées avec les cyclistes.  
 
 *L'aménagement d'un tunnel routier nécessite des autorisations spécifiques de l'Etat, et les travaux seront décalés par rapport au reste de la ligne, avec une échéance probable courant 2025.*
@@ -70,6 +71,7 @@ La voie lyonnaise n°2 prendra la forme d'une très large piste cyclable bidirec
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
 caption: Visualisation de la voie lyonnaise n°2 sur le boulevard Vivier Merle.
+credit: Métropole de Lyon
 ---
 ::
 
@@ -84,7 +86,7 @@ La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
 
 ### Avenue Berthelot à Saint-Priest<br/>*via blvd des Etats-Unis, Viviani, Parilly et route de Lyon*
 
-#### Avenue Berthelot<br/>entre blvd des Tchécoslovaques et blvd des Etats-Unis
+#### Avenue Berthelot<br/>*entre blvd des Tchécoslovaques et blvd des Etats-Unis*
 La voie lyonnaise empruntera l'avenue Berthelot sur 300m en y aménageant une piste cyclable bidirectionnelle côté Sud, en lieu et place d'une des trois voies de circulation.
 
 *Les travaux sur cette section auront probablement lieu à l'été 2024.*
@@ -97,24 +99,26 @@ Côté Est, l'ensemble de la voirie actuelle ne sera pas modifiée.
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-2_u9cgbp.jpg
 caption: Visualisation de la voie lyonnaise n°2 sur le boulevard des États-Unis.
+credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux de ce tronçon pourraient avoir lieu entre l'automne 2024 et l'été 2025.*
+*Les travaux de ce tronçon devraient avoir lieu entre l'automne 2024 et l'été 2025.*
 
 #### Avenue Viviani
-Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle à la place de la voie de circulation actuelle au Nord. Le stationnement neutralisé au Nord ferait l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud serait réqualifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
+Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera réqualifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-4_qnsgd6.jpg
 caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Viviani.
+credit: Métropole de Lyon
 ---
 ::
 
 *Les travaux de ce tronçon pourraient avoir lieu au second semestre 2025.*
 
-####  Quartier de Parilly<br/>de Viviani à la Plaine des Sports
+####  Quartier de Parilly<br/>*de Viviani à la Plaine des Sports*
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès Métro D) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
 #### Avenue Charles de Gaulle
@@ -124,11 +128,12 @@ La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisé
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-3_xmdmwx.jpg
 caption: Visualisation de la voie lyonnaise n°2 sur l'avenue Charles de Gaulle à Vénissieux.
+credit: Métropole de Lyon
 ---
 ::
 
-#### Route de Lyon puis avenue Aristide Briand<br/>*jusqu'à rue Diderot*
-Cette portion verra la création d'une piste cyclable bidirectionnelle côté Nord, en lieu et place d'une des deux voies de circulation. Elle prendra fin au niveau de la rue Diderot qui permettra ensuite de rejoindre le centre-ville de Saint-Priest.
+#### Route de Lyon et Avenue Aristide Briand
+Cette portion verra la création d'une piste cyclable bidirectionnelle côté Nord, en lieu et place d'une des deux voies de circulation. Elle prendra fin au niveau de la rue Diderot qui permettra de rejoindre le centre-ville de Saint-Priest.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
