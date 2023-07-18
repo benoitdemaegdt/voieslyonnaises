@@ -37,12 +37,43 @@
                   Légende
                 </DialogTitle>
                 <div class="mt-2">
-                  <ul class="text-sm text-gray-500">
-                    <li>trait plein : tronçon terminé</li>
-                    <li>trait pointillés : tronçon prévu</li>
-                    <li>trait pointillés qui bougent : tronçon en travaux</li>
-                    <li>croix : tronçon abandonné (ne sera pas réalisé d'ici 2026)</li>
-                  </ul>
+                  <div class="flex items-center gap-x-6">
+                    <div class="w-16">
+                      <div class="relative">
+                        <div class="h-1" />
+                        <div class="dashed-line-static" />
+                      </div>
+                    </div>
+                    <div>tronçon prévu d'ici 2026</div>
+                  </div>
+
+                  <div class="flex items-center gap-x-6">
+                    <div class="w-16">
+                      <div class="h-1 bg-black" />
+                    </div>
+                    <div>tronçon terminé</div>
+                  </div>
+
+                  <div class="flex items-center gap-x-6">
+                    <div class="w-16">
+                      <div class="relative">
+                        <div class="h-1" />
+                        <div class="absolute inset-0">
+                          <div class="dashed-line" />
+                        </div>
+                      </div>
+                    </div>
+                    <div>tronçon en travaux</div>
+                  </div>
+
+                  <div class="flex items-center gap-x-6">
+                    <div class="w-16">
+                      <div class="text-black font-extrabold">
+                        x x x x x
+                      </div>
+                    </div>
+                    <div>tronçon abandonné</div>
+                  </div>
                 </div>
 
                 <div class="mt-4">
@@ -126,5 +157,39 @@ onMounted(() => {
     pointer-events: auto;
     background-image: url('~/maplibre/info.svg');
     background-size: 85%;
+}
+
+.dashed-line::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background-image: linear-gradient(to right, transparent 50%, currentColor 50%);
+    background-size: 20px 1px;
+    background-position: 0 0;
+    animation: dashed-line 1.5s linear infinite;
+}
+
+.dashed-line-static::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background-image: linear-gradient(to right, transparent 50%, currentColor 50%);
+    background-size: 20px 1px;
+    background-position: 0 0;
+}
+
+@keyframes dashed-line {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 100% 0;
+    }
 }
 </style>
