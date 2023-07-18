@@ -39,40 +39,40 @@
                 <div class="mt-2">
                   <div class="flex items-center gap-x-6">
                     <div class="w-16">
-                      <div class="relative">
-                        <div class="h-1" />
-                        <div class="dashed-line-static" />
-                      </div>
-                    </div>
-                    <div>tronçon prévu d'ici 2026</div>
-                  </div>
-
-                  <div class="flex items-center gap-x-6">
-                    <div class="w-16">
-                      <div class="h-1 bg-black" />
-                    </div>
-                    <div>tronçon terminé</div>
-                  </div>
-
-                  <div class="flex items-center gap-x-6">
-                    <div class="w-16">
-                      <div class="relative">
-                        <div class="h-1" />
-                        <div class="absolute inset-0">
-                          <div class="dashed-line" />
+                      <div class="h-1 relative">
+                        <div class="absolute h-full w-full">
+                          <div class="h-full bg-lvv-blue-600 dashed-line" />
                         </div>
                       </div>
                     </div>
-                    <div>tronçon en travaux</div>
+                    <div>prévu pour 2026</div>
                   </div>
 
                   <div class="flex items-center gap-x-6">
                     <div class="w-16">
-                      <div class="text-black font-extrabold">
+                      <div class="h-1 bg-lvv-blue-600" />
+                    </div>
+                    <div>terminé</div>
+                  </div>
+
+                  <div class="flex items-center gap-x-6">
+                    <div class="w-16">
+                      <div class="h-1 relative">
+                        <div class="absolute h-full w-full">
+                          <div class="h-full bg-lvv-blue-600 dashed-line animated-dashes" />
+                        </div>
+                      </div>
+                    </div>
+                    <div>en travaux</div>
+                  </div>
+
+                  <div class="flex items-center gap-x-6">
+                    <div class="w-16">
+                      <div class="text-lvv-blue-600 font-extrabold">
                         x x x x x
                       </div>
                     </div>
-                    <div>tronçon abandonné</div>
+                    <div>abandonné pour 2026</div>
                   </div>
                 </div>
 
@@ -159,37 +159,24 @@ onMounted(() => {
     background-size: 85%;
 }
 
-.dashed-line::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    background-image: linear-gradient(to right, transparent 50%, currentColor 50%);
-    background-size: 20px 1px;
+.dashed-line {
+    background-image: linear-gradient(to right, transparent 50%, white 50%);
     background-position: 0 0;
-    animation: dashed-line 1.5s linear infinite;
+    background-repeat: repeat-x;
+    background-size: 12px 0.25rem;
 }
 
-.dashed-line-static::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    background-image: linear-gradient(to right, transparent 50%, currentColor 50%);
-    background-size: 20px 1px;
-    background-position: 0 0;
+.animated-dashes {
+    animation: dash-animation 0.5s linear infinite;
 }
 
-@keyframes dashed-line {
+@keyframes dash-animation {
     0% {
         background-position: 0 0;
     }
     100% {
-        background-position: 100% 0;
+        background-position: 12px 0;
     }
 }
+
 </style>
