@@ -140,12 +140,22 @@ La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220929_voieslyonnaises_ligne2-sud_dossier.pdf)
 
 
+## Budget prévisionnel
+- près de **20 000 000 € HT** au total dont :
+
+  - **6 850 000 € HT** pour le tronçon central (Saint-Clair à Berthelot)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278901/d1647389357312980_847.pdf)*
+
+  - **11 625 000 € HT** pour le tronçon sud (Berthelot à Saint-Priest)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278905/d367323763432507_7038.pdf)*
+
+
 ## Calendrier prévisionnel
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679314283/voieslyonnaises/ligne2/calendrier-vl-2_u5dzms.png
-caption: Calendrier prévisionnel du tronçon central de la voie lyonnaise n°2, de Stalingrad à Berthelot.
+caption: Calendrier prévisionnel du tronçon central de la voie lyonnaise n°2, de St-Clair à Berthelot.
 ---
 ::
 
