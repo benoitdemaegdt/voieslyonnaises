@@ -106,7 +106,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire. La décision finale de la Métropole est attendue à l'automne 2023.
 
 *La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/project/reamenagement-quai-des-etroits-et-quai-jean-jacques-rousseau/presentation/la-demarche)
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)
 
 ::image
 ---
@@ -161,10 +161,24 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 
 
 ## Budget prévisionnel
+- **32 200 000 € HT** au total dont :
 
-- **19,8 M€** pour la section nord
+  - **19 800 000 € HT** pour le tronçon nord (Quincieux/Genay à Île Barbe)
 <br>_source: [dossier de concertation, dernière page](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)_.
 
+  - **5 000 000 € HT** pour le tronçon centre (Île Barbe à Pont Kitchener)
+<br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363221706113788_6291.pdf)
+
+  -  **7 400 000 € HT** pour le tronçon sud (Pont Mulatière à Pierre-Bénite)
+<br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542712884455125_6070.pdf)
+
+- **17 800 000 € HT** additionnel dont :
+  
+  - environ **10 000 000 € HT** pour le quai des Etroits et Jean-Jacques Rousseau
+<br>_source: [dossier de concertation, page 44 et 45](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)
+
+  - **7 800 000 € HT** pour la ViaRhôna Pierre-Bénite / Givors
+<br>_source: [dossier de concertation, page 5](https://res-3.cloudinary.com/civocracy/image/upload/v1559552200/section/attachment/bfh05r8p6clhgkweqgaf.pdf)
 
 ## Calendrier prévisionnel
 
