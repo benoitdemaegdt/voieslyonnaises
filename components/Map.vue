@@ -1,96 +1,63 @@
 <template>
   <div>
-    <TransitionRoot appear :show="isOpen" as="template">
-      <Dialog as="div" class="relative z-10" @close="closeModal">
-        <TransitionChild
-          as="template"
-          enter="duration-300 ease-out"
-          enter-from="opacity-0"
-          enter-to="opacity-100"
-          leave="duration-200 ease-in"
-          leave-from="opacity-100"
-          leave-to="opacity-0"
-        >
-          <div class="fixed inset-0 bg-black bg-opacity-25" />
-        </TransitionChild>
+    <Dialog :open="isOpen" class="relative z-50" @close="closeModal">
+      <!-- backdrop-->
+      <div class="fixed inset-0 bg-black/30" aria-hidden="true" />
 
-        <div class="fixed inset-0 overflow-y-auto">
-          <div
-            class="flex min-h-full items-center justify-center p-4 text-center"
+      <!-- dialog itself-->
+      <div class="fixed inset-0 flex items-center justify-center p-4">
+        <DialogPanel class="relative p-4 w-full max-w-sm rounded bg-white">
+          <button
+            type="button"
+            class="absolute top-1 right-1 bg-white rounded-md p-1 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100"
+            @click="closeModal"
           >
-            <TransitionChild
-              as="template"
-              enter="duration-300 ease-out"
-              enter-from="opacity-0 scale-95"
-              enter-to="opacity-100 scale-100"
-              leave="duration-200 ease-in"
-              leave-from="opacity-100 scale-100"
-              leave-to="opacity-0 scale-95"
-            >
-              <DialogPanel
-                class="w-full max-w-md transform overflow-hidden rounded-2xl bg-white p-6 text-left align-middle shadow-xl transition-all"
-              >
-                <DialogTitle
-                  as="h3"
-                  class="text-lg font-medium leading-6 text-gray-900"
-                >
-                  Légende
-                </DialogTitle>
-                <div class="mt-2">
-                  <div class="flex items-center gap-x-6">
-                    <div class="w-16">
-                      <div class="h-1 relative">
-                        <div class="absolute h-full w-full">
-                          <div class="h-full bg-lvv-blue-600 dashed-line" />
-                        </div>
-                      </div>
-                    </div>
-                    <div>prévu pour 2026</div>
-                  </div>
-
-                  <div class="flex items-center gap-x-6">
-                    <div class="w-16">
-                      <div class="h-1 bg-lvv-blue-600" />
-                    </div>
-                    <div>terminé</div>
-                  </div>
-
-                  <div class="flex items-center gap-x-6">
-                    <div class="w-16">
-                      <div class="h-1 relative">
-                        <div class="absolute h-full w-full">
-                          <div class="h-full bg-lvv-blue-600 dashed-line animated-dashes" />
-                        </div>
-                      </div>
-                    </div>
-                    <div>en travaux</div>
-                  </div>
-
-                  <div class="flex items-center gap-x-6">
-                    <div class="w-16">
-                      <div class="text-lvv-blue-600 font-extrabold">
-                        x x x x x
-                      </div>
-                    </div>
-                    <div>abandonné pour 2026</div>
+            <Icon name="mdi:close" class="h-6 w-6" aria-hidden="true" />
+          </button>
+          <DialogTitle class="text-lg font-medium leading-6 text-gray-900">
+            Légende
+          </DialogTitle>
+          <div class="mt-2">
+            <div class="grid grid-cols-[64px_1fr] gap-x-4">
+              <div class="my-auto">
+                <div class="h-1 relative">
+                  <div class="absolute h-full w-full">
+                    <div class="h-full bg-lvv-blue-600 dashed-line" />
                   </div>
                 </div>
+              </div>
+              <div>prévu pour 2026</div>
 
-                <div class="mt-4">
-                  <button
-                    type="button"
-                    class="inline-flex justify-center rounded-md border border-lvv-blue-600 hover:shadow-lg px-4 py-2 text-sm font-medium shadow-sm text-lvv-blue-600 transition duration-300 transform hover:scale-105"
-                    @click="closeModal"
-                  >
-                    Fermer
-                  </button>
+              <div class="my-auto">
+                <div class="h-1 bg-lvv-blue-600" />
+              </div>
+              <div>terminé</div>
+
+              <div class="my-auto">
+                <div class="h-1 relative">
+                  <div class="absolute h-full w-full">
+                    <div class="h-full bg-lvv-blue-600 dashed-line animated-dashes" />
+                  </div>
                 </div>
-              </DialogPanel>
-            </TransitionChild>
+              </div>
+              <div>en travaux</div>
+
+              <div class="my-auto">
+                <div class="h-2 bg-lvv-blue-600 opacity-30" />
+              </div>
+              <div>linéaire inconnu</div>
+
+              <div class="my-auto">
+                <div class="text-lvv-blue-600 font-bold">
+                  x x x x x
+                </div>
+              </div>
+              <div>abandonné pour 2026</div>
+            </div>
           </div>
-        </div>
-      </Dialog>
-    </TransitionRoot>
+        </DialogPanel>
+      </div>
+    </Dialog>
     <div id="map" class="rounded-lg" style="height: 40vh" />
   </div>
 </template>
@@ -98,7 +65,7 @@
 <script setup>
 import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
-import { Dialog, DialogPanel, DialogTitle, TransitionChild, TransitionRoot } from '@headlessui/vue'
+import { Dialog, DialogTitle, DialogPanel } from '@headlessui/vue'
 import { ref } from 'vue'
 import style from '@/assets/style.json'
 import LegendControl from '@/maplibre/LegendControl'
