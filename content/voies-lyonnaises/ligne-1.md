@@ -134,10 +134,10 @@ caption: Calendrier prévisionnel de la voie lyonnaise n°1 sur le boulevard du 
 ## Budget prévisionnel
 - **14 000 000 € HT** au total dont :
 
-  - **1 700 000 € HT** pour le premier tronçon (entre le Pont Gallieni à la piscine du Rhône).
+  - **1 700 000 € HT** pour le premier tronçon (entre le Pont Gallieni et la piscine du Rhône).
 <br>_source: [communiqué de presse de la métropole](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/cp/2022/20220708_cp_inauguration-vl1.pdf)_.
 
-  -  **5 300 000 € HT** pour les aménagements de la voie lyonnaise n°1 sur le boulevard du 11 novembre et l’avenue Albert Einstein.
+  -  **5 300 000 € HT** pour le tronçon sur le boulevard du 11 novembre et l’avenue Albert Einstein.
 <br>_source: dernière page du [dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)_.
 
 
