@@ -1,5 +1,6 @@
 <template>
   <div class="h-full w-full">
+    <LegendModal ref="legendModalComponent" />
     <div id="map" class="h-full" />
   </div>
 </template>
@@ -8,6 +9,7 @@
 import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import style from '@/assets/style.json'
+import LegendControl from '~/maplibre/LegendControl'
 
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
@@ -21,6 +23,8 @@ const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-lyonnaises').where({ _type: 'json' }).find()
 })
 
+const legendModalComponent = ref(null)
+
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
@@ -30,6 +34,10 @@ onMounted(() => {
   })
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
   map.addControl(new maplibregl.FullscreenControl(), 'top-right')
+  const legendControl = new LegendControl({
+    onClick: () => legendModalComponent.value.openModal()
+  })
+  map.addControl(legendControl, 'top-right')
 
   map.on('load', () => {
     const features = voies.value.map(voie => voie.features).flat()
