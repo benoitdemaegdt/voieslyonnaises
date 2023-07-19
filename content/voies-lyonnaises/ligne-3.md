@@ -78,7 +78,7 @@ Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en se
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Arloing.
-crédit: Métropole de Lyon
+credit: Métropole de Lyon
 ---
 ::
 
@@ -132,7 +132,8 @@ Enfin, les cyclistes emprunteront la piste cyclable existante sur le Chemin du B
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679732989/voieslyonnaises/ligne3/vl-3-bd-europe_jpmfzo.png
-caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Europe (Pierre-Bénite).
+caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Europe (Pierre-Bénite)
+credit: Métropole de Lyon
 ---
 ::
 
@@ -199,7 +200,7 @@ Réunion de concertation pour le tronçon nord : Quincieux/Genay à l'île barbe
 
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
 
-### Inauguration du tronçon de Couzon de la voie lyonnaise n°3
+### Inauguration de la voie lyonnaise n°3 à Couzon
 25 janvier 2023
 
 Ce tronçon est situé sur la commune de Couzon-au-Mont d’Or.
