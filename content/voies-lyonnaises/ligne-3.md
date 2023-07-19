@@ -4,7 +4,7 @@ color: "#3B7B64"
 from: Quincieux
 to: Givors
 distance: 57000
-description: La voie lyonnaise n°3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Massieux et Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier en pleine reconversion de La Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle chemine le long des berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
+description: La voie lyonnaise n°3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier en pleine reconversion de La Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle chemine le long des berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
 trafic: 11k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017953/voieslyonnaises/ligne3/cover-vl3_bndsdf.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
@@ -13,21 +13,24 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voiesl
 ## Les tronçons (du Nord au Sud)
 
 ### Quincieux/Genay à l'Île Barbe
+*Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine (pont Général Leclerc)*
 
 #### Branches Nord<br/>*Quincieux à Neuville*
 Cette première branche débute au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône jusqu'au pont de Neuville.
 
-#### *Massieux à Neuville*
-Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagée en voie verte situé côté Ouest de la route départementale 433. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
-
-*La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement du pont actuel.*
-
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-quincieux_cjq56r.png
-caption: Visualisation de la voie lyonnaise n°3 entre Quincieux et l'île barbe.
+caption: Visualisation de la voie lyonnaise n°3 entre Quincieux et Neuville.
+credit: Métropole de Lyon
 ---
 ::
+
+#### *Massieux à Neuville*
+Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagée en voie verte situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
+
+*La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement du pont actuel.*
+
 
 #### Neuville-sur-Saône à Saint-Rambert
 La voie lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
@@ -35,22 +38,24 @@ La voie lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-3_dk3bzw.jpg
-caption: tronçon (terminé le 25/01/2023) de la voie lyonnaise n°3 à Couzon.
+caption: Illustration de la voie lyonnaise n°3 à Couzon.
+credit: Métropole de Lyon
 ---
 ::
 
 *La section sur la commune de Couzon est terminée, réalisée en deux phases : Sud du pont à l'automne 2019 et Nord du pont de juin à décembre 2022.  
-La section sur la commune de St-Romain est prévue d'ici l'été 2024.
+La section sur la commune de St-Romain est prévue d'ici l'été 2024.  
 Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire est aménagée depuis l'été 2020.*
 
 #### Saint-Rambert à pont de l'Île Barbe
 Cette section de 500m à l'inconvénient d'être particulièrement étroite et ne peut pas acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
-#### Concertation
+#### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
 
 ### Île Barbe au Pont Kitchener Marchand
+*Parcours commun avec la véloroute touristique "La Voie Bleue" qui est son terminus*
 
 #### Île Barbe à rue Antonin Laborde
 L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créé à l'été 2020 en aménagement pérenne au standard d'une voie lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
@@ -61,7 +66,7 @@ Une piste cyclable bidirectionnelle existe déjà sur ce tronçon, créée progr
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-4_ioqvpb.png
-caption: Voie lyonnaise n°3 déjà bien aménagée au nord du Pont Robert Schuman.
+caption: Voie lyonnaise n°3 déjà aménagée au nord du Pont Robert Schuman.
 ---
 ::
 
@@ -73,6 +78,7 @@ Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en se
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Arloing.
+crédit: Métropole de Lyon
 ---
 ::
 
@@ -87,33 +93,41 @@ Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Ful
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Fulchiron.
+credit: Métropole de Lyon
 ---
 ::
 
+#### *Concertation*
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf)
 
 ### Quai Jean-Jacques Rousseau et Quai des Etroits
 
 L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire. La décision finale de la Métropole est attendue à l'automne 2023.
 
-[voir le dossier de concertation dédié](https://jeparticipe.grandlyon.com/project/reamenagement-quai-des-etroits-et-quai-jean-jacques-rousseau/presentation/la-demarche)
+*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/project/reamenagement-quai-des-etroits-et-quai-jean-jacques-rousseau/presentation/la-demarche)
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679684083/voieslyonnaises/ligne3/vl-3-quai-jean-jacques-rousseau_th9mnw.png
 caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Jean-Jacques Rousseau.
+credit: Passagers des Villes / Métropole de Lyon
 ---
 ::
 
-### Pont de la Mulatière au Chemin du Barrage de Pierre-Bénite<br/>*via Oullins-La Saulaie et Pierre-Bénite Centre
-Sur ce tronçon, la métropole propose de conserver et d'améliorer la voie verte existante (de l'autre côté de la route par rapport à la Saône).
+### Pont de la Mulatière au Barrage de Pierre-Bénite<br/>*via Oullins-La Saulaie et Pierre-Bénite Centre*
+*Tronçon commun avec la véloroute touristique ViaRhôna*
 
+#### Quai Pierre Sémard
+Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur trottoir côté Ouest de la chaussée, créée entre 2019 et 2020. L'objectif est tout de même de l'améliorer ponctuellement en l'élargissant sur les sections les plus étroites et en améliorant certaines zones dangereuses avec une mauvaise visibilité et du conflit avec les piétons.
 
-#### Sous-tronçon, Pont de l'Yzeron au Boulevrad de l'Europe
-Là encore, la voie lyonnnaire n°3 devrait emprunter la voie verte en place et être ajustée aux niveaux des "points durs".
+#### Quartier de la Saulaie
+La voie lyonnnaire n°3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état.
 
-#### Sous-tronçon, Boulevrad de l'Europe au Chemin du Barrage
-La voie lyonnaise n°3 devrait ici prendre la forme de 2 pistes cyclables séparée par une rangée végétalisée.
+#### Traversée de Pierre-Bénite
+Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une piste cyclable bidirectionnelle axiale végétalisée au centre de la chaussée. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
+Enfin, les cyclistes emprunteront la piste cyclable existante sur le Chemin du Barrage, qui date de 2018 et restera en l'état.
 
 ::image
 ---
@@ -123,7 +137,27 @@ caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Eur
 ::
 
 #### *Concertation*
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-sud_dossier.pdf)
+
+
+### Irigny à Givors<br>*via Vernaison et Grigny*
+*Tronçon commun avec la véloroute touristique ViaRhôna*
+
+Ce long tronçon de 18km doit cheminer sur les berges du Rhône en rive droite et constitue l'un des derniers tronçons manquants de l'itinéraire de la ViaRhôna qui chemine le long du Rhône entre le lac Léman et la cote méditerranéenne. 
+
+Initialement porté par la Région Auvergne-Rhône-Alpes, il avait fait l'objet d'une large concertation en juin 2019 puis d'une enquête préalable à la déclaration d’utilité publique en octobre 2021. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En conséquence, la Région Auvergne-Rhône-Alpes annonce renoncer au projet en juillet 2022, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
+
+#### Pour en savoir plus
+La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.  
+[Voir le dossier de concertation](https://res-3.cloudinary.com/civocracy/image/upload/v1559552200/section/attachment/bfh05r8p6clhgkweqgaf.pdf)  
+[Voir le bilan de la concertation publique.](https://res-4.cloudinary.com/civocracy/image/upload/v1578583707/section/attachment/x7r6vc0vbhn5s6vbj9qh.pdf)
+
+L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.  
+[Voir le rapport de la commission de l'enquête publique](https://www.rhone.gouv.fr/contenu/telechargement/49248/271972/file/Rapport%20Viarhona%20D%C3%A9finitif%20ppdf.pdf)  
+[Voir la réponse de la Région au rapport de la commission d'enquête](https://www.rhone.gouv.fr/contenu/telechargement/49420/272958/file/M%c3%a9moire+en+r%c3%a9ponse+-CE+19+11+21.pdf)  
+[Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
+
 
 ## Budget prévisionnel
 
@@ -136,21 +170,21 @@ caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Eur
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-calendrier_zbqnre.png
-caption: calendrier prévisionnel du tronçon nord de la voie lyonnaise n°3.
+caption: Calendrier prévisionnel du tronçon Quincieux - Île Barbe de la voie lyonnaise n°3.
 ---
 ::
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668746/voieslyonnaises/ligne3/calendrier-vl-3-centrale_sj8mtt.png
-caption: calendrier prévisionnel du tronçon central de la voie lyonnaise n°3.
+caption: Calendrier prévisionnel du tronçon Île Barbe - Pont Kitchener de la voie lyonnaise n°3.
 ---
 ::
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668747/voieslyonnaises/ligne3/calendrier-vl-3-sud_xbxrwr.png
-caption: calendrier prévisionnel du tronçon sud de la voie lyonnaise n°3.
+caption: Calendrier prévisionnel du tronçon Pont de la Mulatière - Pierre-Bénite de la voie lyonnaise n°3.
 ---
 ::
 
@@ -165,17 +199,15 @@ Réunion de concertation pour le tronçon nord : Quincieux/Genay à l'île barbe
 
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
 
-### Inauguration du 1er tronçon de la voie lyonnaise n°3
+### Inauguration du tronçon de Couzon de la voie lyonnaise n°3
 25 janvier 2023
 
 Ce tronçon est situé sur la commune de Couzon-au-Mont d’Or.
 
-[Voir le tweet](https://twitter.com/fabien_bagnon/status/1618309992737812480)
-
 ### Concertation publique
 30 septembre 2022
 
-Réunion de concertation pour le tronçon central : île barbe - pont Kitchener Marchand
+Réunion de concertation pour le tronçon central : Île barbe - pont Kitchener Marchand
 
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf)
 
