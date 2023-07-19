@@ -8,8 +8,10 @@
       width="1310"
       height="873"
     >
-    <figcaption>{{ caption }}</figcaption>
-    <div v-if="credit" class="text-base italic">
+    <figcaption class="text-center">
+      {{ caption }}
+    </figcaption>
+    <div v-if="credit" class="text-base text-center italic">
       Crédit image : {{ credit }}
     </div>
   </figure>
