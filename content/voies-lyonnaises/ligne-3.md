@@ -58,7 +58,7 @@ La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.
 *Parcours commun avec la véloroute touristique "La Voie Bleue" qui est son terminus*
 
 #### Île Barbe à rue Antonin Laborde
-L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créé à l'été 2020 en aménagement pérenne au standard d'une voie lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
+L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne au standard d'une voie lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
 
 #### Rue Antonin Laborde au pont Clémenceau
 Une piste cyclable bidirectionnelle existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera ponctuellement élargie et améliorée. La concertation a fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon étudie actuellement la solution la plus pertinente pour améliorer ce point noir.
@@ -126,7 +126,7 @@ Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur 
 La voie lyonnnaire n°3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état.
 
 #### Traversée de Pierre-Bénite
-Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une piste cyclable bidirectionnelle axiale végétalisée au centre de la chaussée. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
+Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une piste cyclable bidirectionnelle axiale végétalisée au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
 Enfin, les cyclistes emprunteront la piste cyclable existante sur le Chemin du Barrage, qui date de 2018 et restera en l'état.
 
 ::image
@@ -147,7 +147,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 Ce long tronçon de 18km doit cheminer sur les berges du Rhône en rive droite et constitue l'un des derniers tronçons manquants de l'itinéraire de la ViaRhôna qui chemine le long du Rhône entre le lac Léman et la cote méditerranéenne. 
 
-Initialement porté par la Région Auvergne-Rhône-Alpes, il avait fait l'objet d'une large concertation en juin 2019 puis d'une enquête préalable à la déclaration d’utilité publique en octobre 2021. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En conséquence, la Région Auvergne-Rhône-Alpes annonce renoncer au projet en juillet 2022, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
+Initialement porté par la Région Auvergne-Rhône-Alpes, il avait fait l'objet d'une large concertation en juin 2019 dont le bilan a été dressé en décembre 2019. Après une pause de 18 mois liée à la crise sanitaire, le projet a pu reprendre en octobre 2021 avec l'enquête préalable à la déclaration d’utilité publique. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En juillet 2022, la Région Auvergne-Rhône-Alpes annonce finalement renoncer à son projet, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
 
 #### Pour en savoir plus
 La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.  
@@ -164,21 +164,21 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 - **32 200 000 € HT** au total dont :
 
   - **19 800 000 € HT** pour le tronçon nord (Quincieux/Genay à Île Barbe)
-<br>_source: [dossier de concertation, dernière page](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)_.
+<br>*source: [dossier de concertation, dernière page](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)*
 
   - **5 000 000 € HT** pour le tronçon centre (Île Barbe à Pont Kitchener)
-<br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363221706113788_6291.pdf)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363221706113788_6291.pdf)*
 
   -  **7 400 000 € HT** pour le tronçon sud (Pont Mulatière à Pierre-Bénite)
-<br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542712884455125_6070.pdf)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542712884455125_6070.pdf)*
 
-- **17 800 000 € HT** additionnel dont :
+- **17 800 000 € HT** hors budget Voies Lyonnaises dont :
   
   - environ **10 000 000 € HT** pour le quai des Etroits et Jean-Jacques Rousseau
-<br>_source: [dossier de concertation, page 44 et 45](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)
+<br>*source: [dossier de concertation, page 44 et 45](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)*
 
   - **7 800 000 € HT** pour la ViaRhôna Pierre-Bénite / Givors
-<br>_source: [dossier de concertation, page 5](https://res-3.cloudinary.com/civocracy/image/upload/v1559552200/section/attachment/bfh05r8p6clhgkweqgaf.pdf)
+<br>*source: [dossier de concertation, page 5](https://res-3.cloudinary.com/civocracy/image/upload/v1559552200/section/attachment/bfh05r8p6clhgkweqgaf.pdf)*
 
 ## Calendrier prévisionnel
 
