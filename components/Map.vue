@@ -17,7 +17,16 @@ const { geojson } = defineProps({
 
 const legendModalComponent = ref(null)
 
-const { plotDoneSections, plotWipSections, plotPlannedSections, plotVarianteSections, plotUnknownSections, plotAbandonedSections, fitBounds } = useMap()
+const {
+  plotDoneSections,
+  plotWipSections,
+  plotPlannedSections,
+  plotVarianteSections,
+  plotUnknownSections,
+  plotAbandonedSections,
+  fitBounds,
+  isMapFullscreen
+} = useMap()
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -29,7 +38,12 @@ onMounted(() => {
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
   map.addControl(new maplibregl.FullscreenControl(), 'top-right')
   const legendControl = new LegendControl({
-    onClick: () => legendModalComponent.value.openModal()
+    onClick: () => {
+      if (isMapFullscreen()) {
+        document.exitFullscreen()
+      }
+      return legendModalComponent.value.openModal()
+    }
   })
   map.addControl(legendControl, 'top-right')
 

@@ -330,6 +330,15 @@ export const useMap = () => {
     map.fitBounds(bounds, { padding: 20 });
   }
 
+  function isMapFullscreen() {
+    return (
+      !!document.fullscreenElement ||
+      !!document.mozFullScreenElement ||
+      !!document.webkitFullscreenElement ||
+      !!document.msFullscreenElement
+    );
+  }
+
   return {
     plotDoneSections,
     plotWipSections,
@@ -337,6 +346,7 @@ export const useMap = () => {
     plotVarianteSections,
     plotUnknownSections,
     plotAbandonedSections,
-    fitBounds
+    fitBounds,
+    isMapFullscreen
   };
 };

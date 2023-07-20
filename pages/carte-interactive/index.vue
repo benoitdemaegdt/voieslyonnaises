@@ -17,7 +17,16 @@ definePageMeta({
   layout: 'fullscreen'
 })
 
-const { plotDoneSections, plotWipSections, plotPlannedSections, plotVarianteSections, plotUnknownSections, plotAbandonedSections, fitBounds } = useMap()
+const {
+  plotDoneSections,
+  plotWipSections,
+  plotPlannedSections,
+  plotVarianteSections,
+  plotUnknownSections,
+  plotAbandonedSections,
+  fitBounds,
+  isMapFullscreen
+} = useMap()
 
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-lyonnaises').where({ _type: 'json' }).find()
@@ -35,7 +44,12 @@ onMounted(() => {
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
   map.addControl(new maplibregl.FullscreenControl(), 'top-right')
   const legendControl = new LegendControl({
-    onClick: () => legendModalComponent.value.openModal()
+    onClick: () => {
+      if (isMapFullscreen()) {
+        document.exitFullscreen()
+      }
+      return legendModalComponent.value.openModal()
+    }
   })
   map.addControl(legendControl, 'top-right')
 
