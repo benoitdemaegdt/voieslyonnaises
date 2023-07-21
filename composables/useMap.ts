@@ -339,6 +339,10 @@ export const useMap = () => {
     );
   }
 
+  function exitFullscreen() {
+    return document.exitFullscreen || (document as any).webkitExitFullscreen;
+  }
+
   return {
     plotDoneSections,
     plotWipSections,
@@ -347,6 +351,7 @@ export const useMap = () => {
     plotUnknownSections,
     plotAbandonedSections,
     fitBounds,
-    isMapFullscreen
+    isMapFullscreen,
+    exitFullscreen
   };
 };

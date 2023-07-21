@@ -25,7 +25,8 @@ const {
   plotUnknownSections,
   plotAbandonedSections,
   fitBounds,
-  isMapFullscreen
+  isMapFullscreen,
+  exitFullscreen
 } = useMap()
 
 const { data: voies } = await useAsyncData(() => {
@@ -46,7 +47,7 @@ onMounted(() => {
   const legendControl = new LegendControl({
     onClick: () => {
       if (isMapFullscreen()) {
-        document.exitFullscreen()
+        exitFullscreen()
       }
       return legendModalComponent.value.openModal()
     }
