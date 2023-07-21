@@ -340,7 +340,11 @@ export const useMap = () => {
   }
 
   function exitFullscreen() {
-    return document.exitFullscreen || (document as any).webkitExitFullscreen;
+    const isUsingSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+    if (isUsingSafari) {
+      return (document as any).webkitExitFullscreen();
+    }
+    return document.exitFullscreen();
   }
 
   return {

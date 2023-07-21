@@ -88,4 +88,16 @@ useHead({
 .maplibregl-popup-content {
     @apply p-0;
 }
+
+.maplibregl-popup-content {
+    @apply p-0;
+}
+
+.maplibregl-info {
+    background-repeat: no-repeat;
+    background-position: center;
+    pointer-events: auto;
+    background-image: url('~/maplibre/info.svg');
+    background-size: 85%;
+}
 </style>
