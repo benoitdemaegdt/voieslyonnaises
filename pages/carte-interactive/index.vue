@@ -25,7 +25,6 @@ const {
   plotUnknownSections,
   plotAbandonedSections,
   fitBounds,
-  isMapFullscreen,
   exitFullscreen
 } = useMap()
 
@@ -46,9 +45,7 @@ onMounted(() => {
   map.addControl(new maplibregl.FullscreenControl(), 'top-right')
   const legendControl = new LegendControl({
     onClick: () => {
-      if (isMapFullscreen()) {
-        exitFullscreen()
-      }
+      exitFullscreen()
       return legendModalComponent.value.openModal()
     }
   })

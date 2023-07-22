@@ -330,17 +330,11 @@ export const useMap = () => {
     map.fitBounds(bounds, { padding: 20 });
   }
 
-  function isMapFullscreen() {
-    return (
-      !!document.fullscreenElement ||
-      !!document.mozFullScreenElement ||
-      !!document.webkitFullscreenElement ||
-      !!document.msFullscreenElement
-    );
-  }
-
   function exitFullscreen() {
     const exitFullscreenButton = document.querySelector('.maplibregl-ctrl-shrink') as HTMLElement;
+    if (!exitFullscreenButton) {
+      return;
+    }
     return exitFullscreenButton.click();
   }
 
@@ -352,7 +346,6 @@ export const useMap = () => {
     plotUnknownSections,
     plotAbandonedSections,
     fitBounds,
-    isMapFullscreen,
     exitFullscreen
   };
 };
