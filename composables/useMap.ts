@@ -340,11 +340,8 @@ export const useMap = () => {
   }
 
   function exitFullscreen() {
-    const isUsingSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-    if (isUsingSafari) {
-      return (document as any).webkitExitFullscreen();
-    }
-    return document.exitFullscreen();
+    const exitFullscreenButton = document.querySelector('.maplibregl-ctrl-shrink') as HTMLElement;
+    return exitFullscreenButton.click();
   }
 
   return {
