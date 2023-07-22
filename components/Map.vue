@@ -33,10 +33,12 @@ onMounted(() => {
     container: 'map',
     style,
     center: [4.8312188, 45.757198],
-    zoom: 13
+    zoom: 13,
+    attributionControl: false
   })
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
   map.addControl(new maplibregl.FullscreenControl(), 'top-right')
+  map.addControl(new maplibregl.AttributionControl(), 'bottom-left')
   const legendControl = new LegendControl({
     onClick: () => {
       exitFullscreen()
