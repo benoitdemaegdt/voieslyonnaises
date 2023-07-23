@@ -24,12 +24,13 @@ A partir du giratoire de la Maison Carrée, la voie lyonnaise devient une piste 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682892050/voieslyonnaises/ligne4/vl4-porte-de-lyon_fzme3r.png
-caption: visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon – Dardilly
+caption: Visualisation de la voie lyonnaise n°4 - Avenue de la Porte de Lyon – Dardilly
+credit: Noémie Gratien / Métropole de Lyon
 ---
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.
+La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.  
 [voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/a234c28f80d78dcb4a790ef86f0f61b9440073d2.pdf)
 
 
@@ -41,7 +42,7 @@ Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-3_zbyqwq.jpg
-caption: Illustration de la voie lyonnaise n°4 à Champagne-au-Mont-d’Or sur avenue Lanessan
+caption: Illustration de la voie lyonnaise n°4 à Champagne-au-Mont-d’Or sur l'avenue Lanessan
 credit: Passagers des Villes / Métropole de Lyon
 ---
 ::
@@ -58,7 +59,7 @@ Finalement, le choix de la Métropole s'est porté sur la variante Réublique et
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-4_mms9pp.jpg
-caption: visualisation de la voie lyonnaise n°4 à Champagne sur le Bd de la République.
+caption: Visualisation de la voie lyonnaise n°4 à Champagne sur le Bd de la République.
 credit: Passagers des Villes / Métropole de Lyon
 ---
 ::
@@ -70,8 +71,8 @@ Sur cette section, la voie lyonnaise n°4 empruntera l'avenue Lanessan sous la f
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidrectionnelle sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise qui sera sécurisé.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf){:target="_blank"}.
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
+[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf){:target="_blank"}
 
 ### Traversée de Vaise
 Aucune information publique n'existe à ce jour sur ce tronçon.
@@ -81,14 +82,14 @@ Plusieurs variantes sont en cours d'étude par les services de la Métropole de 
 Cette portion sera totalement réaménagée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Après la pérénisation des voies bus ouvertes aux vélos sur l'avenue Duquesne et l'amélioration du pont Clémenceau en 2022, on peut s'attendre à quelques améliorations ponctuelles provisoires d'ici 2026. Cependant, aucune information publique n'existe à ce jour sur ce tronçon.
 
-### Avenue Verguin à rue Flachet<br/>*via Crs André Philip et rue Pressensé à Villeurbanne
-Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or. La voie lyonnaise n°4 devrait prendre la forme de 2 pistes cyclables unidirectionnelles de part et d'autre de l'alignement d'arbre. Ces deux pistes unidirectionnelles se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle avant d'arriver sur le rond-point des Charpennes. La voie lyonnaise n°4 se prolonge enseuite sous la forme d'une piste bidirectionnelle d'environ 4m de large dans Villeurbanne sur la rue Francis de Pressensé. Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera sécurisés, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.  
+### Avenue Verguin à rue Flachet<br/>*via Crs André Philip et rue Pressensé à Villeurbanne*
+Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or. La voie lyonnaise n°4 devrait prendre la forme de deux pistes cyclables unidirectionnelles de part et d'autre de l'alignement d'arbre. Ces deux pistes unidirectionnelles se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle avant d'arriver sur le rond-point des Charpennes. La voie lyonnaise n°4 se prolonge enseuite sous la forme d'une piste bidirectionnelle d'environ 4m de large dans Villeurbanne sur la rue Francis de Pressensé. Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera sécurisés, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.  
 Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de rue Francis de Pressensé. Le sens de ciruclation définitif n'est pas encore connu à ce jour.
 
 Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. A ce jour, le choix définitif de la Métropole n'est toujours pas connu.
 
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*
-[voir le dossier de concertation]https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
+[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
 
 ::image
 ---
@@ -112,13 +113,13 @@ credit: Passagers des Villes / Métropole de Lyon
 - au moins **22 752 000 € HT** connus dont :
 
   - **9 200 000 € HT** pour le tronçon Lissieu à Parc Relais - Porte de Vaise
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)*
 
   - **9 252 000 € HT** pour le tronçon du Parc Relais - Porte de Lyon à Mouillard - Porte de Vaise
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)*
 
   -  **4 300 000 € HT** pour le tronçon est (avenue Verguin à rue Flachet via Pressensé)
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)*
 
 
 
@@ -127,7 +128,7 @@ credit: Passagers des Villes / Métropole de Lyon
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679817967/voieslyonnaises/ligne4/calendrier-vl-4_d5vnd8.png
-caption: Calendrier prévisionnel du tronçon Porte de Lyon - Porte de Vaise de la voie lyonnaise n°4.
+caption: Calendrier prévisionnel du tronçon La Garde - Porte de Vaise de la voie lyonnaise n°4.
 credit: Dossier de concertation - Métropole de Lyon
 ---
 ::
