@@ -38,7 +38,7 @@
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>
-        <Map :geojson="geojson" />
+        <Map :features="features" style="height: 40vh" />
       </ClientOnly>
     </section>
   </div>
@@ -55,7 +55,9 @@ const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
     .findOne()
 })
 
-const avancement = Math.round(geojson.value.features
+const features = geojson.value.features
+
+const avancement = Math.round(features
   .filter(feature => feature.properties.status === 'done')
   .map(feature => feature.properties.distance || 0)
   .reduce((acc, current) => acc + current, 0) * 100 / voie.distance)

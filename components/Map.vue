@@ -1,7 +1,7 @@
 <template>
   <div>
     <LegendModal ref="legendModalComponent" />
-    <div id="map" class="rounded-lg" style="height: 40vh" />
+    <div id="map" class="rounded-lg h-full w-full" />
   </div>
 </template>
 
@@ -11,8 +11,8 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 import style from '@/assets/style.json'
 import LegendControl from '@/maplibre/LegendControl'
 
-const { geojson } = defineProps({
-  geojson: { type: Object, required: true }
+const { features } = defineProps({
+  features: { type: Array, required: true }
 })
 
 const legendModalComponent = ref(null)
@@ -33,7 +33,7 @@ onMounted(() => {
     container: 'map',
     style,
     center: [4.8312188, 45.757198],
-    zoom: 13,
+    zoom: 12,
     attributionControl: false
   })
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
@@ -48,14 +48,14 @@ onMounted(() => {
   map.addControl(legendControl, 'top-right')
 
   map.on('load', () => {
-    plotDoneSections({ map, features: geojson.features })
-    plotPlannedSections({ map, features: geojson.features })
-    plotVarianteSections({ map, features: geojson.features })
-    plotWipSections({ map, features: geojson.features })
-    plotUnknownSections({ map, features: geojson.features })
-    plotAbandonedSections({ map, features: geojson.features })
+    plotDoneSections({ map, features })
+    plotPlannedSections({ map, features })
+    plotVarianteSections({ map, features })
+    plotWipSections({ map, features })
+    plotUnknownSections({ map, features })
+    plotAbandonedSections({ map, features })
 
-    fitBounds({ map, features: geojson.features })
+    fitBounds({ map, features })
   })
 })
 </script>
