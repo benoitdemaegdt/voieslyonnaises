@@ -38,7 +38,7 @@
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>
-        <Map :features="features" style="height: 40vh" />
+        <Map :features="features" :options="{ fullscreen: true}" style="height: 40vh" />
       </ClientOnly>
     </section>
   </div>

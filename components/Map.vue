@@ -11,8 +11,15 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 import style from '@/assets/style.json'
 import LegendControl from '@/maplibre/LegendControl'
 
-const { features } = defineProps({
-  features: { type: Array, required: true }
+const { features, options } = defineProps({
+  features: { type: Array, required: true },
+  options: {
+    type: Object,
+    required: false,
+    default: () => ({
+      fullscreen: false
+    })
+  }
 })
 
 const legendModalComponent = ref(null)
@@ -37,8 +44,10 @@ onMounted(() => {
     attributionControl: false
   })
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
-  map.addControl(new maplibregl.FullscreenControl(), 'top-right')
   map.addControl(new maplibregl.AttributionControl(), 'bottom-left')
+  if (options.fullscreen) {
+    map.addControl(new maplibregl.FullscreenControl(), 'top-right')
+  }
   const legendControl = new LegendControl({
     onClick: () => {
       exitFullscreen()
