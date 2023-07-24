@@ -330,14 +330,6 @@ export const useMap = () => {
     map.fitBounds(bounds, { padding: 20 });
   }
 
-  function exitFullscreen() {
-    const exitFullscreenButton = document.querySelector('.maplibregl-ctrl-shrink') as HTMLElement;
-    if (!exitFullscreenButton) {
-      return;
-    }
-    return exitFullscreenButton.click();
-  }
-
   return {
     plotDoneSections,
     plotWipSections,
@@ -345,7 +337,6 @@ export const useMap = () => {
     plotVarianteSections,
     plotUnknownSections,
     plotAbandonedSections,
-    fitBounds,
-    exitFullscreen
+    fitBounds
   };
 };

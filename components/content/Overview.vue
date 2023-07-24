@@ -38,7 +38,7 @@
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>
-        <Map :features="features" :options="{ fullscreen: true}" style="height: 40vh" />
+        <Map :features="features" :options="mapOptions" style="height: 40vh" />
       </ClientOnly>
     </section>
   </div>
@@ -48,6 +48,14 @@
 const { path } = useRoute()
 
 const { voie } = defineProps({ voie: Object })
+
+const mapOptions = {
+  fullscreen: true,
+  onFullscreenControlClick: () => {
+    const route = useRoute()
+    return navigateTo({ path: `${route.params._slug}/carte` })
+  }
+}
 
 const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
   return queryContent('voies-lyonnaises')
