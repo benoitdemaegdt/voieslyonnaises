@@ -25,15 +25,11 @@ const mapOptions = {
   }
 }
 
-console.log('line >>', line)
-
 const { data: voie } = await useAsyncData(() => {
   return queryContent('voies-lyonnaises')
     .where({ _type: 'json', _path: `/voies-lyonnaises/ligne-${line}` })
     .findOne()
 })
-
-console.log('voie.value >>', voie.value)
 
 const features = voie.value.features
 
