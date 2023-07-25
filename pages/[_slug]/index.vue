@@ -1,11 +1,19 @@
 <template>
   <ContentFrame
-    header="piste cyclable"
-    :title="`voie lyonnaise ${voie.line}`"
     :description="voie.description"
     :image-url="voie.cover"
   >
-    <h2>Aperçu</h2>
+    <template #header>
+      <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+        Voie lyonnaise
+        <div
+          class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
+          :style="`background-color: ${voie.color}`"
+        >
+          {{ voie.line }}
+        </div>
+      </h1>
+    </template><h2>Aperçu</h2>
     <Overview :voie="voie" />
     <ContentRenderer :value="voie" />
   </ContentFrame>
