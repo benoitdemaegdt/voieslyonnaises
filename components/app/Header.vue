@@ -1,8 +1,8 @@
 <template>
   <Popover class="relative z-50 bg-white shadow">
     <div class="max-w-7xl mx-auto px-4 sm:px-6">
-      <div class="flex justify-between items-center py-6 md:justify-start md:space-x-10">
-        <div class="flex justify-start lg:w-0 lg:flex-1">
+      <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
+        <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/">
             <span class="sr-only">Cyclopolis</span>
             <img
@@ -11,7 +11,14 @@
               alt="logo voies lyonnaises"
             >
           </NuxtLink>
-          <span class="ml-2 text-2xl sm:hidden font-extrabold text-lvv-blue-600">Cyclopolis</span>
+          <div class="ml-4 sm:hidden">
+            <div class="text-2xl font-extrabold text-lvv-blue-600">
+              Cyclopolis
+            </div>
+            <div class="ml-14 text-sm">
+              par <span class="text-lvv-blue-600">la ville à vélo</span>
+            </div>
+          </div>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
