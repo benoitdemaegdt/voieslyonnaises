@@ -6,6 +6,18 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.837237041095932, 45.752294318387726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "color": "#60A75B",
         "name": "Vaulx-en-Velin",
         "distance": 2900,
         "status": "planned"

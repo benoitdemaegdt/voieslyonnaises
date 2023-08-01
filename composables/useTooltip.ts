@@ -8,13 +8,20 @@ type Properties = {
   status: Status;
 };
 
+type PoiProperties = {
+  line: string;
+  color: string;
+  imgUrl: string;
+};
+
 function getStatusText(status: Status): string {
   const statusText = {
     done: 'Terminé',
     wip: 'En travaux',
     planned: 'Prévu',
     abandoned: 'Abandonné',
-    variante: 'Variante'
+    variante: 'Variante',
+    unknown: 'Tracé à définir'
   };
   return statusText[status];
 }
@@ -40,5 +47,16 @@ export const useTooltip = () => {
     `;
   }
 
-  return { getTooltipHtml };
+  function getTooltipPoi(properties: PoiProperties) {
+    return `
+      <div class="h-10 flex items-center" style="background-color: ${properties.color}">
+        <div class="p-2">
+          <div class='text-white font-bold text-lg'>Voie Lyonnaise ${properties.line}</div>
+        </div>
+      </div>
+      <img src="${properties.imgUrl}" class='my-0'>
+    `;
+  }
+
+  return { getTooltipHtml, getTooltipPoi };
 };

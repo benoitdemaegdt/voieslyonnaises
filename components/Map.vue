@@ -36,8 +36,11 @@ const {
   plotVarianteSections,
   plotUnknownSections,
   plotAbandonedSections,
+  plotPois,
   fitBounds
 } = useMap()
+
+const { getTooltipHtml, getTooltipPoi } = useTooltip()
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -62,9 +65,7 @@ onMounted(() => {
     map.addControl(shrinkControl, 'top-right')
   }
   const legendControl = new LegendControl({
-    onClick: () => {
-      return legendModalComponent.value.openModal()
-    }
+    onClick: () => legendModalComponent.value.openModal()
   })
   map.addControl(legendControl, 'top-right')
 
@@ -75,8 +76,34 @@ onMounted(() => {
     plotWipSections({ map, features })
     plotUnknownSections({ map, features })
     plotAbandonedSections({ map, features })
+    plotPois({ map, features })
 
     fitBounds({ map, features })
+  })
+
+  // must do this to avoid multiple popups
+  map.on('click', (e) => {
+    const features = map
+      .queryRenderedFeatures(e.point)
+      .filter(({ layer }) => layer.source !== 'openmaptiles')
+
+    if (features.length === 0) {
+      return
+    }
+
+    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois')
+    if (isPoiLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'pois')
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(getTooltipPoi(feature.properties))
+        .addTo(map)
+    } else {
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(getTooltipHtml(features[0].properties))
+        .addTo(map)
+    }
   })
 })
 </script>

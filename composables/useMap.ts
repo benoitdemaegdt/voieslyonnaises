@@ -1,5 +1,4 @@
 import maplibregl from 'maplibre-gl';
-const { getTooltipHtml } = useTooltip();
 
 type Properties = {
   type: 'Feature';
@@ -76,12 +75,6 @@ export const useMap = () => {
       }
     });
 
-    map.on('click', 'done-sections', e => {
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
-        .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(e.features[0].properties))
-        .addTo(map);
-    });
     map.on('mouseenter', 'done-sections', () => (map.getCanvas().style.cursor = 'pointer'));
     map.on('mouseleave', 'done-sections', () => (map.getCanvas().style.cursor = ''));
   }
@@ -156,13 +149,6 @@ export const useMap = () => {
       }
     });
 
-    map.on('click', 'not-done-sections', e => {
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
-        .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(e.features[0].properties))
-        .addTo(map);
-    });
-
     map.on('mouseenter', 'not-done-sections', () => (map.getCanvas().style.cursor = 'pointer'));
     map.on('mouseleave', 'not-done-sections', () => (map.getCanvas().style.cursor = ''));
   }
@@ -203,6 +189,9 @@ export const useMap = () => {
         'text-size': 14
       }
     });
+
+    map.on('mouseenter', 'variante-sections', () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', 'variante-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
   function plotUnknownSections({ map, features }) {
@@ -259,6 +248,9 @@ export const useMap = () => {
         'text-size': 14
       }
     });
+
+    map.on('mouseenter', 'unknown-sections', () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', 'unknown-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
   function plotAbandonedSections({ map, features }) {
@@ -308,21 +300,41 @@ export const useMap = () => {
             'text-size': 14
           }
         });
+
         map.on('mouseenter', `abandoned-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
         map.on('mouseleave', `abandoned-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
-
-        map.on('click', `abandoned-symbols-${color}`, e => {
-          new maplibregl.Popup({ closeButton: false, closeOnClick: true })
-            .setLngLat(e.lngLat)
-            .setHTML(getTooltipHtml(e.features[0].properties))
-            .addTo(map);
-        });
       });
     }
   }
 
+  function plotPois({ map, features }) {
+    const pois = features.filter(feature => feature.geometry.type === 'Point');
+    if (pois.length === 0) {
+      return;
+    }
+    map.addSource('pois', {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: pois
+      }
+    });
+    map.addLayer({
+      id: 'pois',
+      type: 'circle',
+      source: 'pois',
+      paint: {
+        'circle-radius': 6,
+        'circle-color': ['get', 'color']
+      }
+    });
+  }
+
   function fitBounds({ map, features }) {
-    const allCoordinates = features.map(feature => feature.geometry.coordinates).flat();
+    const allCoordinates = features
+      .filter(feature => feature.geometry.type === 'LineString')
+      .map(feature => feature.geometry.coordinates)
+      .flat();
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
     for (const coord of allCoordinates) {
       bounds.extend(coord);
@@ -337,6 +349,7 @@ export const useMap = () => {
     plotVarianteSections,
     plotUnknownSections,
     plotAbandonedSections,
+    plotPois,
     fitBounds
   };
 };
