@@ -9,3 +9,29 @@ export function formatCounts(counts) {
     };
   });
 }
+
+export function getFirstDayOfYear() {
+  const currentDate = new Date();
+  const year = currentDate.getFullYear();
+
+  // Format the date as "dd/mm/yyyy"
+  return `01/01/${year}`;
+}
+
+export function getFirstDayOfCurrentMonth() {
+  const currentDate = new Date();
+  const year = currentDate.getFullYear();
+  const month = currentDate.getMonth();
+
+  // Create a new date object with the year and month, set day to 1
+  const firstDayOfMonth = new Date(year, month, 1);
+
+  // Format the date as "dd/mm/yyyy"
+  return (
+    firstDayOfMonth.getDate().toString().padStart(2, '0') +
+    '/' +
+    (firstDayOfMonth.getMonth() + 1).toString().padStart(2, '0') +
+    '/' +
+    firstDayOfMonth.getFullYear()
+  );
+}

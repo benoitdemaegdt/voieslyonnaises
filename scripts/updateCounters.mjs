@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { formatCounts } from './helpers.mjs';
+import { formatCounts, getFirstDayOfCurrentMonth, getFirstDayOfYear } from './helpers.mjs';
 
 /**
  * Ce script permet de maj les données des compteurs vélo suivis
@@ -83,32 +83,6 @@ function mergeCounts({ currentCounts, newCounts }) {
 function updateCounter({ file, counter }) {
   const filePath = path.join(directoryPath, file);
   fs.writeFileSync(filePath, JSON.stringify(counter, null, 2));
-}
-
-function getFirstDayOfCurrentMonth() {
-  const currentDate = new Date();
-  const year = currentDate.getFullYear();
-  const month = currentDate.getMonth();
-
-  // Create a new date object with the year and month, set day to 1
-  const firstDayOfMonth = new Date(year, month, 1);
-
-  // Format the date as "dd/mm/yyyy"
-  return (
-    firstDayOfMonth.getDate().toString().padStart(2, '0') +
-    '/' +
-    (firstDayOfMonth.getMonth() + 1).toString().padStart(2, '0') +
-    '/' +
-    firstDayOfMonth.getFullYear()
-  );
-}
-
-function getFirstDayOfYear() {
-  const currentDate = new Date();
-  const year = currentDate.getFullYear();
-
-  // Format the date as "dd/mm/yyyy"
-  return `01/01/${year}`;
 }
 
 function isNextMonthFn({ input, base }) {
