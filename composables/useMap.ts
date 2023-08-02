@@ -328,6 +328,15 @@ export const useMap = () => {
         'circle-color': ['get', 'color']
       }
     });
+    map.setLayoutProperty('pois', 'visibility', 'none');
+    map.on('zoom', () => {
+      const zoomLevel = map.getZoom();
+      if (zoomLevel > 14) {
+        map.setLayoutProperty('pois', 'visibility', 'visible');
+      } else {
+        map.setLayoutProperty('pois', 'visibility', 'none');
+      }
+    });
   }
 
   function fitBounds({ map, features }) {
