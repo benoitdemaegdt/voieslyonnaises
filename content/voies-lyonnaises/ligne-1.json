@@ -18,6 +18,18 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.862077627597955, 45.77940680177315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "color": "#60A75B",
         "name": "Vaulx-en-Velin",
         "distance": 2900,
         "status": "planned"

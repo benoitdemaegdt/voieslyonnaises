@@ -6,6 +6,18 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-2_u9cgbp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.868248348387141, 45.72832997526342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
         "name": "Île barbe - Pont Leclerc",
         "distance": 4704,
         "status": "planned"

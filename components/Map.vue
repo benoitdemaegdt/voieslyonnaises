@@ -83,6 +83,7 @@ onMounted(() => {
 
   // must do this to avoid multiple popups
   map.on('click', (e) => {
+    // console.log('e.lngLat >>', e.lngLat)
     const features = map
       .queryRenderedFeatures(e.point)
       .filter(({ layer }) => layer.source !== 'openmaptiles')
