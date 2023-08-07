@@ -319,23 +319,34 @@ export const useMap = () => {
         features: pois
       }
     });
-    map.addLayer({
-      id: 'pois',
-      type: 'circle',
-      source: 'pois',
-      paint: {
-        'circle-radius': 6,
-        'circle-color': ['get', 'color']
+
+    map.loadImage('/icons/camera.png', (error, image) => {
+      if (error) {
+        throw error;
       }
-    });
-    map.setLayoutProperty('pois', 'visibility', 'none');
-    map.on('zoom', () => {
-      const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
-        map.setLayoutProperty('pois', 'visibility', 'visible');
-      } else {
-        map.setLayoutProperty('pois', 'visibility', 'none');
-      }
+      map.addImage('camera-icon', image, { sdf: true });
+      map.addLayer({
+        id: 'pois',
+        source: 'pois',
+        type: 'symbol',
+        layout: {
+          'icon-image': 'camera-icon',
+          'icon-size': 0.5,
+          'icon-offset': [-25, -25]
+        },
+        paint: {
+          'icon-color': ['get', 'color']
+        }
+      });
+      map.setLayoutProperty('pois', 'visibility', 'none');
+      map.on('zoom', () => {
+        const zoomLevel = map.getZoom();
+        if (zoomLevel > 14) {
+          map.setLayoutProperty('pois', 'visibility', 'visible');
+        } else {
+          map.setLayoutProperty('pois', 'visibility', 'none');
+        }
+      });
     });
   }
 
