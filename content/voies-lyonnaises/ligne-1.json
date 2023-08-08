@@ -6,6 +6,18 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.898739136706951, 45.782609832751604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "color": "#60A75B",
         "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg"
       },
       "geometry": {
@@ -23,6 +35,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [4.862077627597955, 45.77940680177315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "color": "#60A75B",
+        "imgUrl": "https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.852309922091081, 45.7093372766968]
       }
     },
     {
