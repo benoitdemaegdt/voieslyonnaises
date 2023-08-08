@@ -6,6 +6,18 @@
       "properties": {
         "line": 11,
         "color": "#4DADC9",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349639/voieslyonnaises/ligne11/ligne11_lrgvh3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.954757833047239, 45.73930870356227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 11,
+        "color": "#4DADC9",
         "name": "Point-du-jour",
         "distance": 1096,
         "status": "planned"
