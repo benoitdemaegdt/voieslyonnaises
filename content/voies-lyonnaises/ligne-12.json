@@ -6,6 +6,78 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest_dpbj92.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.805506915574654, 45.77077148922314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest-2_faecvm.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.816707395201462, 45.75661932649396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.831856182087648, 45.75858079971593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.842996155232697, 45.755300442782925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8510876504495, 45.7525062628001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.881267232159075, 45.74233106586081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "color": "#DBABB7",
         "name": "Valmy - Gorge de Loup",
         "distance": 1039,
         "status": "planned"
