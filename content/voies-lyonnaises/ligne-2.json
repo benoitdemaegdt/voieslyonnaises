@@ -18,6 +18,42 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.859614606594789, 45.75188807727281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-4_qnsgd6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.875645220544442, 45.72323196150907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-3_xmdmwx.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.897507464585857, 45.71399349924738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
         "name": "Île barbe - Pont Leclerc",
         "distance": 4704,
         "status": "planned"
