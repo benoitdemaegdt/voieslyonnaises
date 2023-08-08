@@ -6,6 +6,18 @@
       "properties": {
         "line": 9,
         "color": "#EAAB50",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.916449546476599, 45.79295431256256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
+        "color": "#EAAB50",
         "name": "Le long de l'A42",
         "distance": 4123,
         "status": "planned"
