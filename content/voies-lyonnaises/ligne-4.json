@@ -6,6 +6,66 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682892050/voieslyonnaises/ligne4/vl4-porte-de-lyon_fzme3r.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.764483125569797, 45.82144972235338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-3_zbyqwq.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.794556710664239, 45.79321891038467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-4_mms9pp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.787465485492788, 45.796414393115356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.857415838506, 45.77274274512348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-1_ypzsvx.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.872844312488894, 45.771874762418406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
         "name": "Lissieu - Limonest",
         "distance": 3910,
         "status": "planned"
