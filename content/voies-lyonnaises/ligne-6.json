@@ -6,6 +6,30 @@
       "properties": {
         "line": 6,
         "color": "#396083",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349341/voieslyonnaises/ligne6/ligne6_ny0mgr.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.869312853077332, 45.78990588540054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "color": "#396083",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1687172757/voieslyonnaises/ligne6/vl6-tronc%CC%A7on-central_cwvtmg.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.838296963577932, 45.761442037383375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "color": "#396083",
         "name": "Presqu'île",
         "distance": 10694,
         "status": "planned"
