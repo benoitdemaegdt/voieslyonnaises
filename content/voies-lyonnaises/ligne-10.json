@@ -6,6 +6,18 @@
       "properties": {
         "line": 10,
         "color": "#9A8A4B",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683486680/voieslyonnaises/ligne10/vl10-meyzieu_g5nusy.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.877759095689356, 45.7527264710761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "color": "#9A8A4B",
         "name": "Vaise - Tassin",
         "distance": 2357,
         "status": "planned"
