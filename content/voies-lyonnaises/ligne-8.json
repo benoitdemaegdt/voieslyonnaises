@@ -2,6 +2,18 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.740326490171583, 45.80011552352207]
+      }
+    },
+    {
       "properties": {
         "line": 8,
         "color": "#7E6D98",
