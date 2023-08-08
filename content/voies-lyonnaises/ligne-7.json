@@ -6,6 +6,78 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682969076/voieslyonnaises/ligne7/vl-7-db-des-canuts_jars89.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.827490189913959, 45.78049990969353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682947381/voieslyonnaises/ligne7/vl7-voie-verte-des-dombes_iefy0d.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.837974383273206, 45.7890968923044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682947385/voieslyonnaises/ligne7/vl7-caluire-et-cuire_oxruqc.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.906534727248641, 45.82353947786942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683384110/voieslyonnaises/ligne7/vl7-rue-garibaldi_iw5qyx.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.852878332999893, 45.74856601998562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683384108/voieslyonnaises/ligne7/vl7-route-de-vienne_qfesfp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.852769870739849, 45.736776069018276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683384114/voieslyonnaises/ligne7/vl7-av-jean-jaures-saint-fons_xgoxqk.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.855050492324722, 45.71266575481579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
         "name": "Rillieux-la-Pape",
         "distance": 2940,
         "status": "planned"
