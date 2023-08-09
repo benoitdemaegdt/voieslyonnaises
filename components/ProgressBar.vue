@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="max-w-2xl mx-auto bg-lvv-blue-200 rounded-full">
+    <div class="max-w-2xl mx-auto bg-gray-200 rounded-full">
       <div class="bg-lvv-blue-600 text-xs font-medium text-white text-center p-1 leading-none rounded-full" :style="`width: ${percent}%`">
         {{ percent }}%
       </div>

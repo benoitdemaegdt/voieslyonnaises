@@ -2,7 +2,7 @@
   <div>
     <HomeHeroSection />
     <HomeStatSection />
-    <div class="max-w-7xl mx-auto pt-12 px-4 sm:px-6 lg:px-8 lg:pt-24">
+    <div class="max-w-7xl mx-auto pt-14 px-4 sm:px-6 lg:px-8 lg:pt-24">
       <div class="space-y-8 sm:space-y-12">
         <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">
@@ -11,11 +11,11 @@
           <p class="text-xl text-gray-500">
             Après une phase de d'étude et de concertation initiée fin 2021, le projet entre en phase de réalisation avec des travaux qui vont se multiplier en 2024 et 2025.
           </p>
-          <ProgressBar :voies="voies" class="mt-12 sm:mt-12" />
         </div>
       </div>
+      <ProgressBar :voies="voies" class="mt-8 md:mt-10" />
     </div>
-    <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8 lg:py-24">
+    <div class="max-w-7xl mx-auto py-14 px-4 sm:px-6 lg:px-8 lg:py-24">
       <div class="space-y-8 sm:space-y-12">
         <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">
