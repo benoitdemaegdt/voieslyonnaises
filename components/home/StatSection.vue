@@ -3,14 +3,14 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-          Un projet cyclable ambitieux
+          Les Voies Lyonnaises, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          Des pistes larges (3 à 4m), bidirectionnelles et sécurisées, un maillage dense, de la végétalisation : le projet des voies lyonnaises compte parmi les projets cyclables les plus ambitieux de France.
+          C'est le nom donné au projet d'aménagements cyclables porté par la Métropole de Lyon. Concrètement, une Voie Lyonnaise est une piste cyclable large (3 à 4m), bidirectionnelle et séparée des voitures. L'ensemble de ces pistes doit créer un maillage cyclable dense qui connecte les différents quartiers de la métropole.
         </p>
       </div>
     </div>
-    <div class="mt-10 pb-12 bg-white sm:pb-16">
+    <div class="mt-10 bg-white">
       <div class="relative">
         <div class="absolute inset-0 h-1/2 bg-white" />
         <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
