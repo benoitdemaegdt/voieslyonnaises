@@ -14,6 +14,7 @@
       }
     },
     {
+      "type": "Feature",
       "properties": {
         "line": 8,
         "color": "#7E6D98",

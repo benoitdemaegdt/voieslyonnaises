@@ -550,6 +550,7 @@
       }
     },
     {
+      "type": "Feature",
       "properties": {
         "line": 5,
         "color": "#AF7392",
@@ -615,6 +616,7 @@
       }
     },
     {
+      "type": "Feature",
       "properties": {
         "line": 5,
         "color": "#AF7392",
