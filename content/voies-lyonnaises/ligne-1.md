@@ -12,8 +12,10 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voiesl
 
 ## Les tronçons (du Nord au Sud)
 
-### Du centre de Vaulx-en-Velin à la Doua (Croix-Luizet)<br>*via Villeurbanne St-Jean*
+### Vaulx-en-Velin Centre (Gabriel Péri) à la Doua (Croix-Luizet)<br>*via Villeurbanne St-Jean*
 Sur cette section, la voie lyonnaise n°1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+
+Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, située juste au Sud du pont actuel de Croix-Luizet.
 
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
