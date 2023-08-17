@@ -118,6 +118,10 @@ Ce tronçon fait l'objet de deux variantes d'itinéraires :
   - au Nord, en voie verte, par la traversée du Parc Chabrières-Arles jusqu'à la piscine municipale, puis 50m côté Ouest de la Grande Rue pour rejoindre la rue du Président Herriot et les berges Nord de l'Yzeron
   - au Sud, en voie verte sur le trottoir Nord du boulevard Emile Zola puis en piste cyclable bidirectionnelle sur la rue Pierre Sémard mise à sens unique et sur l'avenue du Rhône
 
+#### Concertation
+La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
+[voir le dossier de concertation (p.56 à p.80)](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
+
 ### Gare d'Oullins à Pierre-Bénite Barrage
 Cette section est en tronçon commun avec la Voie Lyonnaise 3.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-3) pour davantage d'informations.
