@@ -45,7 +45,7 @@ credit: Métropole de Lyon
 
 ### Pont Gallieni à Pont d'Oullins<br/>*via Confluence, Pont et bas quartiers de la Mulatière*
 #### Quai Perrache
-Après être passée sous la M7 dans des modalités à définir, la Voie Lyonnaise 6 empruntera le quai Perrache via une piste cyclable bidirectionnelle située le long des façades.
+Après être passée sous la M7 dans des modalités qui restent à définir, la Voie Lyonnaise 6 empruntera le quai Perrache via une piste cyclable bidirectionnelle située le long des façades.
 
 La section rue du Belier - rue Casimir Périer a été réalisée à l'été 2021.  
 La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.  
@@ -102,7 +102,7 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 
 
 ## Budget prévisionnel
-- **35 000 000 € HT** au total
+- **17 300 000 € HT** au total
 
 
 ## Calendrier prévisionnel
@@ -115,7 +115,7 @@ caption: Calendrier prévisionnel du tronçon Sud traversant Oullins.
 
 ## Fil d'actu
 
-### Débat entre élus concernant le tracé de la ligne 6 à Oullins
+### Réunion publique - tronçon Sud
 22 mai 2023
 
 Réunion publique au sujet du tronçon Sud traversant Oullins.
