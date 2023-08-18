@@ -14,7 +14,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349477/voiesl
 
 ### Rillieux-la-Pape à Lyon 4
 #### Route du Mas Rillier à Chemin Petit
-**Osterode**
+***Osterode***  
 La Voie Lyonnaise 7 débute de la ZAC de Sermenaz et traverse l'A46 à travers deux giratoires autoroutiers qui ne seront pas modifiés malgré leur dangerosité marquée.
 
 Elle rejoint ensuite la route du Mas Rillier sous la forme de deux pistes cyclables bilatérales. Les pistes actuelles de 2m de large aménagées en 2009 seront élargies à 3m. A partir du chemin de la Croix, l'aménagement bascule en piste bidirectionnelle côté Sud. La piste de 3m datant de 2010 sera élargie à 3.20m avec amélioration du cheminement piéton.
@@ -22,18 +22,19 @@ Elle rejoint ensuite la route du Mas Rillier sous la forme de deux pistes cyclab
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947385/voieslyonnaises/ligne7/vl7-caluire-et-cuire_oxruqc.png
-caption: la voie lyonnaise n°7 - Route du Mas Rillier - Rillieux-la-Pape.
+caption: Aperçu de la Voie Lyonnaise 7 - Route du Mas Rillier - Rillieux-la-Pape
+credit: Métropole de Lyon
 ---
 ::
 
-**Rillieux-Centre**
+***Rillieux-Centre***  
 Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyonnaise emprunte ensuite le parc linéaire Est sur une piste de 3m de large qui sera conservée en l'état. Elle continue sur la rue Ampère qui verra sa piste bidirectionnelle actuelle de 2.30m de large être élargie à 4m, puis traverse le parc linéaire Ouest où la piste cyclable bidirectionnelle actuelle de 2.70m de large sera élargie à 4m.
 
-**Giratoire Général de Gaulle**
+***Giratoire Général de Gaulle***  
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.  
 *Les travaux de réalisation de ce giratoire sont prévus à l'automne 2023.*
 
-**Avenue de l'Hippodrome et Chemin Petit**
+***Avenue de l'Hippodrome et Chemin Petit***  
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidrectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 
@@ -42,9 +43,11 @@ Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménageme
 *Le projet de Voie Lyonnaise 7 permettra de minimiser les conflits avec les piétons, en élargissant la voie verte actuelle ou en séparant les flux piétons et vélos sur des axes dédiés. Il prévoit aussi de modifier le revêtement pour proposer un sol clair, lisse, confortable et drainant.*
 
 Entre chemin Petit et chemin de Cachepieu, l'objectif est d'élargir la voie verte actuelle de 3.50m à 5m de large.  
+
 Entre chemin de Cachepieu et avenue Jean Monnet, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 5m
- - Création d'un piste cyclable bidirectionnelle de 4m de large sur avenue Marc Sangnier et rue de l'Avenir Croix-Roussien, par une mise à sens unique.  
+ - Création d'un piste cyclable bidirectionnelle de 4m de large sur avenue Marc Sangnier et rue de l'Avenir Croix-Roussien, par une mise à sens unique.
+
 Entre avenue Jean Monnet et chemin du Penthod, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 6m
  - Création d'un piste cyclable bidirectionnelle de 3m de large séparé d'un chemin piéton de 3m de large
@@ -54,26 +57,40 @@ Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protesta
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947381/voieslyonnaises/ligne7/vl7-voie-verte-des-dombes_iefy0d.png
-caption: la voie lyonnaise n°7 - voie verte de la Dombes.
+caption: Aperçu de la Voie Lyonnaise n°7 - Voie verte de la Dombe.
+credit: Métropole de Lyon
 ---
 ::
 
 #### Métro Cuire et Montée de la Boucle
 La Voie Lyonnaise 7 passera place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du métro C.
 
-Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune.
+Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
-Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Nord, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réamanégée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
+Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réamanégée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
 *Ajouter une photo*
 
 #### Croix-Rousse
+Au nord du boulevard des Canuts, dans la continuité de ce qui sera fait au nord de la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir sera réaménagée de chaque côté de l'alignement d'arbre existant avec deux pistes unidirectionnelles de 2 à 2.50m de large.
 
+Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste bidirectionnelle fera près de 4m de large.
+
+Entre la rue Denfert-Rochereau et la rue Pelletier, le point dur du mur des Canuts pourra être franchi de 2 manières :
+ - par un passage sous le porche du mur des Canuts, obligeant à une traversée du boulevard
+ - par la création d'un alternat routier au niveau du mur pour insérer la piste bidirectionnelle
+
+Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
+ - par le boulevard des Canuts, sur une piste bidirectionnelle de près de 3m de large côté Ouest à la place de la bande de stationnement
+ - par la rue Pelletier puis la rue de Cuire transformée en vélorue via une action sur le plan de circulation pour diminuer le fluc automobile.
+
+Entre la place des Tapis et le boulevard de la Croix-Rousse, la voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682969076/voieslyonnaises/ligne7/vl-7-db-des-canuts_jars89.png
-caption: la voie lyonnaise n°7 - boulevard des Canuts.
+caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts.
+credit: Métropole de Lyon
 ---
 ::
 
