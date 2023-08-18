@@ -127,12 +127,12 @@ credit: Métropole de Lyon
 ::
 
 #### Rue Paul Duvivier
-La piste cyclable bidirectonnelle existante de 3m de large sera conservée en l'état.
+La piste cyclable bidirectonnelle existante de 3m de large sera conservée.
 
 #### Route de Vienne
-Sur cette longue séquence aujourd'hui partiellement aménagée avec des bandes cyclables ou des couloirs bus ouverts aux vélos, il est prévu la création d'une piste cyclable bidirectionnelle de 2.5 à 4m de large côté Ouest de la chaussée, en lieu et place de la bande stationnement actuelle.
+Sur cette longue séquence aujourd'hui partiellement aménagée avec des bandes cyclables ou des couloirs bus ouverts aux vélos, il est prévu la création d'une piste cyclable bidirectionnelle de 2.5 à 4m de large côté Ouest de la chaussée, en lieu et place de la bande de stationnement actuelle.
 
-La traversée du périphérique sera reprise et sécurisée pour les cyclistes avec la suppression des voies de shunt d'insertion et de sortie et la création de carrefours à feux orhtogonalisés.
+La traversée du périphérique sera reprise et sécurisée pour les cyclistes avec la suppression des voies de shunt d'insertion et de sortie et la création de carrefours à feux orthogonalisés.
 
 ::image
 ---
@@ -143,7 +143,7 @@ credit: Métropole de Lyon
 ::
 
 #### Avenue Jean Jaurès
-Sur cette section , le pont SNCF et la voirie actuelle seront réaménagés avec la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Ouest, en lieu et place de la bande stationnement actuelle.
+Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Ouest, en lieu et place de la bande de stationnement actuelle.
 
 ::image
 ---
@@ -177,9 +177,9 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 - **26 200 000 € HT** au total dont :
 
   - **15 500 000 € HT** pour le tronçon Nord (Croix-Rousse à Rillieux)  
-<br/>source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}._
+  source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}._
   - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)  
-  <br/>source: [page 32 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5aa817ab7872d91f4036e1fb022f22f872ec0912.pdf){:target="_blank"}._
+  source: [page 32 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5aa817ab7872d91f4036e1fb022f22f872ec0912.pdf){:target="_blank"}._
 
 A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
  - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3
