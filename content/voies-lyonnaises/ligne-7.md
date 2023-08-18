@@ -46,11 +46,11 @@ Entre chemin Petit et chemin de Cachepieu, l'objectif est d'élargir la voie ver
 
 Entre chemin de Cachepieu et avenue Jean Monnet, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 5m
- - Création d'un piste cyclable bidirectionnelle de 4m de large sur avenue Marc Sangnier et rue de l'Avenir Croix-Roussien, par une mise à sens unique.
+ - Création d'une piste cyclable bidirectionnelle de 4m de large sur avenue Sangnier et rue de l'Avenir Croix-Roussien, par une mise à sens unique.
 
 Entre avenue Jean Monnet et chemin du Penthod, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 6m
- - Création d'un piste cyclable bidirectionnelle de 3m de large séparé d'un chemin piéton de 3m de large
+ - Création d'une piste cyclable bidirectionnelle de 3m de large séparée d'un chemin piéton de 3m de large
 
 Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
 
@@ -74,7 +74,7 @@ Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large c
 #### Croix-Rousse
 Au nord du boulevard des Canuts, dans la continuité de ce qui sera fait au nord de la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir sera réaménagée de chaque côté de l'alignement d'arbre existant avec deux pistes unidirectionnelles de 2 à 2.50m de large.
 
-Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste bidirectionnelle fera près de 4m de large.
+Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste cyclable bidirectionnelle fera près de 4m de large.
 
 Entre la rue Denfert-Rochereau et la rue Pelletier, le point dur du mur des Canuts pourra être franchi de 2 manières :
  - par un passage sous le porche du mur des Canuts, obligeant à une traversée du boulevard
@@ -84,7 +84,7 @@ Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
  - par le boulevard des Canuts, sur une piste bidirectionnelle de près de 3m de large côté Ouest à la place de la bande de stationnement
  - par la rue Pelletier puis la rue de Cuire transformée en vélorue via une action sur le plan de circulation pour diminuer le fluc automobile.
 
-Entre la place des Tapis et le boulevard de la Croix-Rousse, la voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
+Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
 ::image
 ---
@@ -99,72 +99,107 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 [voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
 
 ### Pont Churchill à Garibaldi - Arménie
-La voie lyonnaise n°7 va traverser le Rhône en empruntant le Pont Winston Churchill (piste cyclable bidirectionnelle déjà existante), puis le boulevard des Belges. Elle traversera ensuite Lyon 6 et Lyon 7 sur un axe nord-sud en suivant la rue Garibaldi.
+La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchill sur une piste cyclable bidirectionnelle côté Sud créée en 2018. Elle continuera sur le boulevard des Belges puis bifurquera plein Sud sur la rue Garibaldi qui a fait l'objet de la création d'un couloir bus vers le Sud en 2020 jusqu'à la rue Vauban, puis d'un réaménagement complet au Sud avec une piste cyclable bidirectionnelle de 3m (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie).
 
-Il n'y a pas encore eu de dossier de concertation pour cette section.
+*Aucune information publique n'existe à ce jour sur les détails d'aménagements de ce tronçon dans le cadre du projet des Voies Lyonnaises.*
 
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
+Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
 
+*ajouter une image d'illustration*
+
+La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
+[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220610_lyon3-lyon7_garibaldi-dossier-concertation.pdf)
 
 ### Garibaldi Sud à St-Fons - République
 
-#### Sous-tronçon, de Lyon 7 à Saint-Fons
-Cette section est très ambitieuse et devrait complètement métamorphoser le paysage urbain autour de la rue Garibaldi et de la route de vienne.
+#### Garibaldi Gde Rue de la Guillotière - Berthelot
+Entre la Grande Rue de la Guillotière et la route de Vienne, il est prévu une piste cyclable bidriectionnelle de 4m de large côté Ouest de la chaussée, en supprimant une voie de circulation et une bande de stationnement.
 
-[voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
+Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la piste cyclable bidirectionnelle existante de 3m de large le long du trottoir Ouest.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384110/voieslyonnaises/ligne7/vl7-rue-garibaldi_iw5qyx.png
-caption: la voie lyonnaise n°7 - Rue Garibaldi - Lyon 7.
+caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud - Lyon 7
+credit: Métropole de Lyon
 ---
 ::
+
+#### Rue Paul Duvivier
+La piste cyclable bidirectonnelle existante de 3m de large sera conservée en l'état.
+
+#### Route de Vienne
+Sur cette longue séquence aujourd'hui partiellement aménagée avec des bandes cyclables ou des couloirs bus ouverts aux vélos, il est prévu la création d'une piste cyclable bidirectionnelle de 2.5 à 4m de large côté Ouest de la chaussée, en lieu et place de la bande stationnement actuelle.
+
+La traversée du périphérique sera reprise et sécurisée pour les cyclistes avec la suppression des voies de shunt d'insertion et de sortie et la création de carrefours à feux orhtogonalisés.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384108/voieslyonnaises/ligne7/vl7-route-de-vienne_qfesfp.png
-caption: la voie lyonnaise n°7 - Route de Vienne - Lyon 8.
+caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne - Lyon 8
+credit: Métropole de Lyon
 ---
 ::
+
+#### Avenue Jean Jaurès
+Sur cette section , le pont SNCF et la voirie actuelle seront réaménagés avec la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Ouest, en lieu et place de la bande stationnement actuelle.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384114/voieslyonnaises/ligne7/vl7-av-jean-jaures-saint-fons_xgoxqk.png
-caption: la voie lyonnaise n°7 - Avenue Jean Jaures - Saint-Fons.
+caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaures - Saint-Fons
+credit: Métropole de Lyon
 ---
 ::
 
+#### Concertation
+La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.  
+[voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
+
 ### Saint-Fons Centre
+Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 ### Boulevard Yves Farge, de Saint-Fons à Feyzin
-De Saint-Fons à Feyzin, la voie lyonnaise n°7 suit le boulevard Yves Farges. Sa création rentre dans le cadre de la requalification de ce boulevard.
+De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
-Les travaux devraient s'étendre de fin 2023 à fin 2025.
+*Les travaux devraient s'étendre entre 2024 et fin 2025.*
 
+*ajouter illustration*
+
+La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}
 
 ### Traversée de Feyzin
+Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 ## Budget prévisionnel
-- La métropole annonce un budget de **15.5M€** pour l'ensemble de la voie lyonnaise n°7.
-_source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}._
+- **26 200 000 € HT** au total dont :
 
-- un budget de **8.3M€** est alloué au tronçon situé entre la rue garibaldi (Lyon 7) et avenue Jean Jaures (Saint-Fons).
-  _source: [page 32 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5aa817ab7872d91f4036e1fb022f22f872ec0912.pdf){:target="_blank"}._
+  - **15 500 000 € HT** pour le tronçon Nord (Croix-Rousse à Rillieux)  
+<br/>source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}._
+  - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)  
+  <br/>source: [page 32 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5aa817ab7872d91f4036e1fb022f22f872ec0912.pdf){:target="_blank"}._
+
+A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
+ - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3
+   source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278913/d544878399221610_6983.pdf)
+ - **11 622 000 € HT** pour le réaménagement du boulevard Yves Farge  
+   source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264253/d202745001254081_24218.pdf)
 
 ## Calendrier prévisionnel
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947378/voieslyonnaises/ligne7/calendrier-nord_krczid.png
-caption: voie lyonnaise n°7 - calendrier prévisionnel de la section nord.
+caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Nord.
 ---
 ::
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683385145/voieslyonnaises/ligne7/vl-7-calendrier-sud_gbnrtd.png
-caption: voie lyonnaise n°7 - calendrier prévisionnel de la section sud.
+caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Sud.
 ---
 ::
 
