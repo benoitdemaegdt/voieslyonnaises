@@ -18,7 +18,7 @@ Le projet initial prévoyait de traverser l'ensemble de la commune depuis la rou
 Les cyclistes de la commune qui y circulent continueront donc à le faire sans aucune sécurité.
 
 #### La-Tour-de-Salvagny - Est à Dardilly - Montcourand
-Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement, avec notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour ne pas interrompre la voie verte.
+Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
 #### RD307 (Ancienne Route Nationale 7)
 Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre à abaissée à 50km/h sur certains tronçons accidentogènes.
@@ -30,20 +30,20 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et le chemin du Siroux, l'aménagement sera réalisé en transitoire d'ici 2026, et le réaménagement définitif prévu ultérieurement
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
-*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*
+*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*  
 [voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20210825_dossier_concertation-routedeparis.pdf)
 
 #### Tassin - Montcelard à Valvert
-Sur le tronçon Route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissements des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
+Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissements des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
 
 *Ajouter illustration*
 
-La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'avenue Roosevelt, cette portion sans aménagements cyclables verra la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Est et des trottoirs plus confortables tout en conservant les 4 voies de circulation actuelles.
+La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'avenue Roosevelt, cette portion sans aménagements cyclables verra la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Est et l'aménagement de trottoirs plus confortables tout en conservant les 4 voies de circulation actuelles.
 
 Sur la suite du boulevard du Valvert, le projet prévoit de conforter la piste cyclable bidirectionnelle actuelle côté Sud, en l'élargissant jusqu'à 4.00m de large, et en la séparant mieux de la voirie automobile avec un séparateur béton de grande taille.
 
 #### Tassin - Valvert à Victor Hugo
-Sur le chemin de la Vernique, le projet prévoit la création d'une piste cyclable bidirectionnelle de 4m côté Sud, avec la suppression du trottoir Nord mais la conservation de l'accès au square de la Vernique.
+Sur le chemin de la Vernique, le projet prévoit la création d'une piste cyclable bidirectionnelle de 4m côté Sud, avec la suppression du trottoir Nord mais le maintien de l'accès au square de la Vernique.
 
 Sur le chemin du Vallon, deux variantes ont été proposées :
  - la création d'une voie verte de 3.50 à 4.50m de large sur le trottoir Sud
@@ -58,11 +58,11 @@ La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'e
 
 ### Sous-tronçon, Tassin - Lyon 5
 #### Tassin Victor Hugo à République - Hespérides
-Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la piste cyclable bidirectionnelle de l'avenue Victor Hugo pour rejoindre l'avenue Vincent Serre Sud. Pour cela, 2 variantes sont proposées :
+Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la piste cyclable bidirectionnelle de l'avenue Victor Hugo pour rejoindre l'avenue Vincent Serre. Pour cela, 2 variantes sont proposées :
  - par Avenue Vincent Serre Nord, avec la création d'une piste cyclable bidirectionnelle de 3m de large côté Est, l'élargissement du trottoir Est, la suppression de la bande de stationnement et la mise en sens unique montant de la rue.
  - par la rue de la Pépinière, aménagée en vélorue compte-tenu du faible trafic automobile, avec la suppression du stationnement et l'élargissement des trottoirs.
 
-Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour traverser le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
+Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour continuer à travers le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
 
 *Ajouter illustration*
 
@@ -77,11 +77,24 @@ La Voie Lyonnaise 8 sera donc déviée par l'avenue Apollinaire, avec la créati
 *Ajouter illustration*
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf){:target="_blank"}
 
-### Rue Pierre Audry et traversée St-just
-_À venir_
+### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
+Cette section est en tronçon commun avec la Voie Lyonnaise 12.
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
+
+### Traversée de la Presqu'Île de Lyon
+Le projet initialement annoncé devait faire un détour par Perrache, via le quai Fulchiron et le pont Kitchener-Marchand. Il devait traverser le pôle d'échange de Perrache puis remonter sur la rive droite du Rhône.
+
+Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé d'abandonné ce tracé à l'horizon 2026.
+
+Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour. Elle descendra ensuite la rive droite du Rhône jusqu'au pont de l'Université en tronc commun avec la ligne 6.
+
+### Pont Université à Mermoz-Pinel
+Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire prévu est cependant connu est passera par les rues suivantes :
+#### Pont de l'Université
+#### Rue de l'Université et rue Marc Bloch
 
 ### Tronçon Sud, Bron - Saint-Priest
 
