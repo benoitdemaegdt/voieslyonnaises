@@ -4,7 +4,7 @@ color: "#7E6D98"
 from: La Tour-de-Salvagny
 to: Bron
 distance: 28000
-description: La Voie Lyonnaise 8 traversera la Métropole de Lyon d'Ouest en Est, de La-Tour-de-Salvagny au Parc Technologique à Saint-Priest. Elle traversera de nombreuses localités aujourd'hui hostiles au vélo, comme Charbonnières, Tassin, Champvert, Jean Macé, Blandan, Bachut, Mermoz et Bron Université. Ce projet ambitieux transformera les espaces publics traversés au bénéfice des modes actifs.
+description: La Voie Lyonnaise 8 traversera la Métropole de Lyon d'Ouest en Est, de La-Tour-de-Salvagny à la Porte des Alpes à Saint-Priest. Elle traversera de nombreuses localités aujourd'hui hostiles au vélo, comme Charbonnières, Tassin, Champvert, Jean Macé, Blandan, Bachut, Mermoz et Bron Université. Ce projet ambitieux transformera les espaces publics traversés au bénéfice des modes actifs.
 trafic: 19k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018243/voieslyonnaises/ligne8/cover-vl8_ivz4ds.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg
@@ -91,27 +91,76 @@ Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de 
 
 Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour. Elle descendra ensuite la rive droite du Rhône jusqu'au pont de l'Université en tronc commun avec la ligne 6.
 
+
 ### Pont Université à Mermoz-Pinel
 Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire prévu est cependant connu est passera par les rues suivantes :
 #### Pont de l'Université
 #### Rue de l'Université et rue Marc Bloch
+#### Rue Camille Roy
+#### Rue et Pont de l'Epargne
+Cette section fera l'objet d'un vaste projet de requalification avec une concertation et un budget dédié.
+#### Rue Marius Berliet
+#### Avenue Jean Mermoz
 
-### Tronçon Sud, Bron - Saint-Priest
+### Mermoz-Pinel à Saint-Priest - Porte des Alpes
+#### Avenue Mermoz - Pinel à Lionel Terray
+La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011 suite à la démolition de l'autopont et au réaménagement de l'A43 en boulevard urbain, sera conservée en l'état.
 
+#### Rue Lionel Terray
+Ce tronçon fera l'objet d'un vaste projet de requalification avec une concertation et un budget dédié dans le cadre de la ZAC Bron-Parilly. On sait que l'aménagement consistera en une piste cyclable bidirectionnelle de 3.50m de large côté Sud et qu'une des deux voies de circulation restantes sera dédiée aux bus.
+
+#### Branche vers Campus Sud
+Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 3.50m de large :
+ - côté Ouest, à la place d'une voie de circulation et de la bande cyclable *VARIANTE VALIDEE*
+ - côté Est, après le trottoir existant sur le terrain du campus
+
+*Ajouter illustration*
+
+#### Boulevard de l'Université
+Sur ce boulevard très routier, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 4m de large côté Sud :
+ - sur la voirie, en lieu et place d'une voie de circulation *VARIANTE VALIDEE*
+ - sur l'espace vert dans le bas côté
+
+*Ajouter illustration*
+
+#### Rue Paul Langevin
+La Voie Lyonnaise évitera le boulevard André Boulloche en faiant un détour par cette rue en transformant le trottoir Ouest en voie verte de 3.75m de large.
+
+*Ajouter illustration*
+
+#### Impasse de l'Hippodrome
+L'itinéraire de la Voie Lyonnaise longera le tramway côté Nord. Une voie verte de 4m de large sera créée côté Sud sur la large voirie de l'impasse de l'Hippodrome jusqu'à l'entrée du parking, tandis que la moitié Est sera totalement fermée à la circulation avec la création d'une voie verte de 5m de large. Enfin, une piste cyclable bidirectionnelle de 3m de large sera créée le long de la plateforme tramway.
+
+#### Cours du Professeur Jean Bernard
+Il est prévu de rejoindre la très large piste existante de 5.50m le long de l'arrêt "Porte des Alpes", puis de transformer les bandes cyclables bilatérales existantes de 1.50m en deux pistes cyclables axiales bilatérales de 2m le long de la plateforme tramway.
+
+*Ajouter illustration*
+
+#### *Concertation*
+La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf){:target="_blank"}
 
 ## Budget prévisionnel
-- 3.2M€ pour le tronçon situé sur Tassin et Lyon 5.
-
+ - **25 600 000 € HT** au total dont :
+   - **3 200 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
 _source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
-
-- 1.3M€ pour le tronçon situé entre Lyon 8 et St Priest.
-
+   - **1 300 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
 _source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf)_
+
+A ce budget se rajoutent :
+ - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières
+_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
+
+ - 
  
 ## Calendrier prévisionnel
 
 ## Fil d'actu
+
+### Réunion de concertation
+6 et 18 avril 2023
+
+Réunions de concertation sur la section Tassin-Victor Hugo à Pierre Audry
 
 ### Réunion de concertation
 24 février 2023
