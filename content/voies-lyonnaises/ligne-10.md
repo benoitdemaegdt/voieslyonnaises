@@ -34,26 +34,26 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) po
 Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.  
 Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée.  
 *Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.  
-Les travaux entre Bonnel et Pompidou, ainssi que l'aménagement de l'avenue Pompidou sous les voies ferrées sera réalisée entre fin 2023 et l'été 2024.*
+Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées sera réalisée entre fin 2023 et l'été 2024.*
 
 ### Part Dieu à Meyzieu
 #### Rue de la Villette - Pompidou à Paul Bert
-La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la chaussée et datant de 2006, serait globalement conservée en l'état.
+La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la chaussée et datant de 2006, sera globalement conservée en l'état.
 
 #### Avenue Lacassagne - Paul Bert à Dauphiné
 Sur ce tronçon, une piste cyclable bidirectionnelle de 3.50 à 4.00m de large sera créée côté nord de l'avenue (sauf pincements à 2.50m au droit des arrêts de bus). Ce nouvel aménagement se fera au détriment de places de stationnement ou d'une voie bus vers le Sud.
 
-#### le long du tramway T3
+#### Le long du tramway T3
 Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise.
 
 ***Lyon 3***
  - la chicane inconfortable avant l'avenue Lacassagne sera totalement reprise avec des virages doux
- - la voie actuelle sera élargie jusqu'à la rue de l'Est pour séparer piétons et cyclistes
+ - la voie sera élargie jusqu'à la rue de l'Est pour séparer piétons et cyclistes
 
 ***Villeurbanne***
- - le franchissement de la station Reconnaissance-Balzac est proposé avec une variante de détour par Richard Vitton et Antonin Perrin de manière à éviter l'arrêt de tramway en conflit avec les piétons.
+ - le franchissement de la station Reconnaissance-Balzac est proposé avec une variante de détour par Richard Vitton et Antonin Perrin de manière à éviter l'arrêt de tramway en conflit avec les piétons
  - entre le prolongement de la rue De Wett et la rue Decorps, la section sera élargie pour séparer piétons et cyclistes
- - entre la rue Decorps et la rue Cyprian, la rue de la Ligne de l'Est serait aménagée en vélorue via l'inversion du sens de circulation de la portion Est
+ - entre la rue Decorps et la rue Cyprian, la rue de la Ligne de l'Est deviendra vélorue via l'inversion du sens de circulation de la portion Est
  - entre la rue Cyprian et la rue Frédéric Fays, la rue de la ligne de l'Est sera réaménagée via la suppression du stationnement et l'élargissement du trottoir Sud
  - entre l'avenue de Bel Air et la rue Legay, la section sera élargie pour séparer piétons et cyclistes
 
@@ -69,7 +69,7 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
 
 ***Meyzieu***
  - entre l'avenue du Carreau et l'avenue de la Libération, la voie sera ponctuellement élargie pour séparer piétons et cyclistes
- - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire traverser 2 fois les voies du tram et la Voie Lyonnaise empruntera le nouveau cheminement modes actifs qui dessert le nouveau groupe scolaire
+ - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire de traverser 2 fois les voies du tram grâce à la création d'un cheminement modes actifs qui dessert le nouveau groupe scolaire
  - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionelle
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
@@ -79,7 +79,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.
 
 ## Budget prévisionnel
 
-Plus de **10 000 000 € HT** sont prévus pour l'aménagement de la Voie Lyonnaise 10.
+Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.
 _source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf){target=_blank}_
 
 
@@ -88,7 +88,7 @@ _source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.c
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486678/voieslyonnaises/ligne10/vl10-calendrier_r81lt4.png
-caption: voie lyonnaise n°10 - calendrier prévisionnel du tronçon est.
+caption: Voie Lyonnaise 10 - Calendrier prévisionnel du tronçon Est.
 ---
 ::
 
