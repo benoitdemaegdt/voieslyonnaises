@@ -4,7 +4,7 @@ color: "#9A8A4B"
 from: Tassin
 to: Meyzieu
 distance: 31000
-description: La voie lyonnaise n°10 permettra de rejoindre Meyzieu depuis Marcy-L'Étoile en passant par Charbonnières-les-Bains, Tassin-la-Demi-Lune, Lyon 5, Lyon 4, Lyon 6, Villeurbanne et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon sur un axe Est-Ouest sur plus de 30km.
+description: La Voie Lyonnaise 10 permettra de rejoindre Meyzieu depuis Tassin en passant par Vaise, Lyon 6, la Part-Dieu, Dauphiné-Lacassagne, Grandclément, La Soie, et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon sur un axe Est-Ouest sur plus de 20km.
 trafic: 24k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018264/voieslyonnaises/ligne10/cover-vl10_kwsoup.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486680/voieslyonnaises/ligne10/vl10-meyzieu_g5nusy.png
@@ -12,21 +12,76 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486680/voiesl
 
 ## Les tronçons
 
-### Tronçon Ouest
-Il n'y a pas encore d'information disponible sur cette section.
+### Tassin - Valvert à Tête d'Or - Verguin
+Sur toute la moitié Ouest de son itinéraire, la Voie Lyonnaise 10 est en tronçon commun avec d'autres Voies Lyonnaises :
+ - [Voie Lyonnaise 8](https://cyclopolis.fr/voie-lyonnaise-8) du boulevard du Valvert à l'avenue Victor Hugo
+ - [Voie Lyonnaise 5](https://cyclopolis.fr/voie-lyonnaise-5) pour la traversée de Vaise
+ - [Voie Lyonnaise 4](https://cyclopolis.fr/voie-lyonnaise-4) du pont Clémenceau à l'avenue Verguin
 
-### Tronçon centrale, Lyon 4 et Lyon 6
-Sur ce tronçon, la voie lyonnaise n°10 sera commune avec d'autres voies lyonnaises.
+Se référer à la page de chaque ligne pour davantage d'informations.
 
-- la 4 sur le tunnel de la croix-rousse et la rue Duquesnes.
-- la 2 le long du boulevard vivier merle.
+### Boulevard des Belges - de Verguin à Waldeck Rousseau
+Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
+Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours.
 
-Elle traversera ensuite sous les rails de la Part Dieu au niveau de l'avenue Georges Pompidou.
+*La concertation publique sur ce tronçon s'est tenue du XX/09 au XX/10/2023.*
 
-### Tronçon Est, de Part Dieu à Meyzieu
-Le parcours de la voie lyonnaise n°10 est plutôt cimple à décrire puisqu'il suivra le tracé du Tram T3 de Lyon 3 jusqu'à Meyzieu.
+### Boulevard des Belges - de Waldeck Rousseau à Lafayette
+Cette section est en tronçon commun avec la Voie Lyonnaise 2.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) pour davantage d'informations.
 
-Une grande partie de ce tronçon est déjà aménagé en piste cyclable bidirectionnelle. Certains points seront ajustés pour garantir le niveau de qualité d'une voie lyonnaise.
+### Pôle d'échange Part-Dieu
+Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.  
+Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée.  
+*Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.  
+Les travaux entre Bonnel et Pompidou, ainssi que l'aménagement de l'avenue Pompidou sous les voies ferrées sera réalisée entre fin 2023 et l'été 2024.*
+
+### Part Dieu à Meyzieu
+#### Rue de la Villette - Pompidou à Paul Bert
+La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la chaussée et datant de 2006, serait globalement conservée en l'état.
+
+#### Avenue Lacassagne - Paul Bert à Dauphiné
+Sur ce tronçon, une piste cyclable bidirectionnelle de 3.50 à 4.00m de large sera créée côté nord de l'avenue (sauf pincements à 2.50m au droit des arrêts de bus). Ce nouvel aménagement se fera au détriment de places de stationnement ou d'une voie bus vers le Sud.
+
+#### le long du tramway T3
+Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise.
+
+***Lyon 3***
+ - la chicane inconfortable avant l'avenue Lacassagne sera totalement reprise avec des virages doux
+ - la voie actuelle sera élargie jusqu'à la rue de l'Est pour séparer piétons et cyclistes
+
+***Villeurbanne***
+ - le franchissement de la station Reconnaissance-Balzac est proposé avec une variante de détour par Richard Vitton et Antonin Perrin de manière à éviter l'arrêt de tramway en conflit avec les piétons.
+ - entre le prolongement de la rue De Wett et la rue Decorps, la section sera élargie pour séparer piétons et cyclistes
+ - entre la rue Decorps et la rue Cyprian, la rue de la Ligne de l'Est serait aménagée en vélorue via l'inversion du sens de circulation de la portion Est
+ - entre la rue Cyprian et la rue Frédéric Fays, la rue de la ligne de l'Est sera réaménagée via la suppression du stationnement et l'élargissement du trottoir Sud
+ - entre l'avenue de Bel Air et la rue Legay, la section sera élargie pour séparer piétons et cyclistes
+
+***Vaulx-La Soie***
+ - le long du terminus du métro A, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du tram T9 dans le secteur
+ - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet T9 qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
+
+***Décines-Charpieu***
+ - le long du projet D-Side, entre l'avenue Rossevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
+ - entre l'avenue Jean Jaurès et la rue de la Fraternité, la rue Emile Bertrand sera mise en sens unique pour mettre fin au fort rétrécissement et aux conflits marqués avec les piétons au niveau de l'arrêt Décines-Centre
+ - entre la rue Ferrer et la route de Jonage, la voie sera élargie pour séparer piétons et cyclistes dans un secteur à fort potentiel de conflit avec la proximité du Groupama Stadium et de la LDLC Arena
+ - la dangereuse traversée de la route de Jonage sans covisibilité satisfaisante sera malheureusement conservée en l'état
+
+***Meyzieu***
+ - entre l'avenue du Carreau et l'avenue de la Libération, la voie sera ponctuellement élargie pour séparer piétons et cyclistes
+ - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire traverser 2 fois les voies du tram et la Voie Lyonnaise empruntera le nouveau cheminement modes actifs qui dessert le nouveau groupe scolaire
+ - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionelle
+ - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
+
+#### *Concertation*
+La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.  
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf)
+
+## Budget prévisionnel
+
+Plus de **10 000 000 € HT** sont prévus pour l'aménagement de la Voie Lyonnaise 10.
+_source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf){target=_blank}_
+
 
 ## Calendrier prévisionnel
 
@@ -37,11 +92,6 @@ caption: voie lyonnaise n°10 - calendrier prévisionnel du tronçon est.
 ---
 ::
 
-## Budget prévisionnel
-
-Plus de **10M€** sont prévus par la métropole de Lyon pour l'aménagement de la Voie Lyonnaise n°10.
-
-_source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf){target=_blank}_
 
 ## Fil d'actu
 
