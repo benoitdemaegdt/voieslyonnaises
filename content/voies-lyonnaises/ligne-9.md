@@ -19,11 +19,11 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-5) po
 ### Franchissement du Rhône
 La Voie Lyonnaise 9 passera des berges de l'Yzeron au parc de Gerland via une nouvelle passerelle mode actifs qui traversera la M7 et le Rhône. Elle fera 7m de large, avec une piste cyclable bidirectionnelle de 4m de large pour les cyclistes et un cheminement de 3m pour les piétons. Plusieurs scénarios de raccordement aux berges ont été proposés à la concertation, avec des rampes de 4 à 6% de pente.
 
-Dans le parc de Gerland, la piste cyclable bidreictionnelle de 4m de large passera au Sud de l'aire de jeux pour enfant avant de rejoindre l'avenue Jean Jaurès.
+Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passera au Sud de l'aire de jeux pour enfant avant de rejoindre l'avenue Jean Jaurès.
 
-Un tel ouvrage d'art nécesite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
+Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
-*La concertation publique préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*
+*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*  
 [voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/04919aa7c24cd845169b1c0ad56825d88e4b6c11.pdf)
 
 *La suite de la concertation publique est attendue courant 2024.*  
@@ -48,15 +48,16 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
 #### Rue du Canal
-Sur cette route faisant office de voie de sortie du parking des Puces du Canal, il est prévu un élarigissement de la piste cyclable bidirectionnelle existante le long du canal, passant de 2.50 à 4.00m de large.
+Sur cette route faisant office de voie de sortie du parking des Puces du Canal, il est prévu un élargissement de la piste cyclable bidirectionnelle existante le long du canal, passant de 2.50 à 4.00m de large.
 
 #### Promenade le long de l'A42
-Sur ce tronçon, il est prévu d'élargir la voie verte existante qui fait 2.50m à 3.00m de large. La Voie Lyonnaise 9 cheminerait donc à travers une voie verte de 4m de large, qui serait mieux masquée de l'autoroute grace à de nouvelle plantes grimpantes sur les clotures de la digue du canal.
+Sur ce tronçon, il est prévu d'élargir la voie verte existante qui fait 2.50m à 3.00m de large. La Voie Lyonnaise 9 cheminerait donc à travers une voie verte de 4m de large, qui serait mieux masquée de l'autoroute grace à de nouvelles plantes grimpantes sur les clotures de la digue du canal.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg
-caption: Voie lyonnaise le long de l'A42.
+caption: Aperçu de la Voie Lyonnaise 9 le long de l'A42.
+credit: Métropole de Lyon
 ---
 ::
 
@@ -66,9 +67,9 @@ Une fois entré à l'intérieur du parc de Miribel-Jonage, le projet prévoit de
 *Ajouter illustration*
 
 #### Allée de la Plage
-Dans cette impasse qui dessert uniquement le parking du Fontanil, la Voie Lyonnaise 9 viendra élargir la voie verte existante de 3m de large à :
+Dans cette impasse qui dessert uniquement le parking du Fontanil, le projet viendra élargir la voie verte existante de 3m de large avec 2 variantes :
  - 5.50m de large en supprimant la file de stationnement
- - 8.50m de large en supprimant toute circulation automobile au-delà de l'accès parking
+ - 8.50m de large en supprimant la circulation automobile après l'accès parking
 
 #### Promenade des Îles
 Sur cette section à enjeu environnemental plus marqué, la voie verte existante de 3m de large sera conservée en l'état.
@@ -82,7 +83,7 @@ Sur ce tronçon, deux variantes d'itinéraires sont proposées :
  - par le Sud du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante présente davantage de conflits avec les piétons, mais a l'avantage d'être ombragée, bien reliée à Meyzieu et traverse la canal sur le pont d'Herbens réservé aux modes actifs.
 
 #### Jonage - Chemin de Halage
-Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse plus confortable.
+Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
@@ -93,14 +94,14 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
  - **7 300 000 € HT** au total
 
 Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland  
-*source : [délibération de la Métropole de Lyon]*(https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363338398542783_6291.pdf)
+*source : [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363338398542783_6291.pdf)*
 
 ## Calendrier prévisionnel
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683831050/voieslyonnaises/ligne9/vl9-calendrier_qmweyk.png
-caption: voie lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
+caption: Voie Lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 ---
 ::
 
@@ -109,6 +110,6 @@ caption: voie lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 ### Concertation publique
 17 octobre 2022
 
-Réunion de concertation sur la section nord de la voie lyonnaise n°9 à la salle des fêtes de Meyzieu.
+Réunion de concertation sur la section nord-est de la voie lyonnaise n°9 à la salle des fêtes de Meyzieu.
 
 [voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne9_dossier.pdf)
