@@ -56,7 +56,7 @@ La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'e
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220902_voieslyonnaises_ligne8_dossier.pdf){:target="_blank"}
 
 
-### Sous-tronçon, Tassin - Lyon 5
+### Tassin Nord à Barthélémy Buyer
 #### Tassin Victor Hugo à République - Hespérides
 Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la piste cyclable bidirectionnelle de l'avenue Victor Hugo pour rejoindre l'avenue Vincent Serre. Pour cela, 2 variantes sont proposées :
  - par Avenue Vincent Serre Nord, avec la création d'une piste cyclable bidirectionnelle de 3m de large côté Est, l'élargissement du trottoir Est, la suppression de la bande de stationnement et la mise en sens unique montant de la rue.
@@ -89,12 +89,13 @@ Le projet initialement annoncé devait faire un détour par Perrache, via le qua
 
 Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé d'abandonné ce tracé à l'horizon 2026.
 
-Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour. Elle descendra ensuite la rive droite du Rhône jusqu'au pont de l'Université en tronc commun avec la ligne 6.
-
+Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
 
 ### Pont Université à Mermoz-Pinel
-Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire prévu est cependant connu est passera par les rues suivantes :
+Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire prévu est cependant connu est passera par les rues suivantes.
 #### Pont de l'Université
+Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la ligne 6, puis traversera le pont de l'Université.
 #### Rue de l'Université et rue Marc Bloch
 #### Rue Camille Roy
 #### Rue et Pont de l'Epargne
