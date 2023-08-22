@@ -4,7 +4,7 @@ color: "#AF7392"
 from: Saint-Fons
 to: Bron
 distance: 46000
-description: La voie lyonnaise n°5 sera la seule ligne en rocade du réseau des Voies Lyonnaises. Cette ligne circulaire constituera le périphérique cyclable de la métropole de Lyon à l'horizon 2030. Il ne sera cependant pas bouclé en 2026 et reliera Bron à Feyzin en passant par le Nord et l'Ouest via Vaulx-en-Velin, le campus de la Doua, Vaise, Tassin-la-Demi-Lune, Francheville, Oullins, Pierre-Bénite et la vallée de la Chimie.
+description: La Voie Lyonnaise 5 sera la seule ligne en rocade du réseau des Voies Lyonnaises. Cette ligne circulaire constituera le périphérique cyclable de la métropole de Lyon à l'horizon 2030. Il ne sera cependant pas bouclé en 2026 et reliera Bron à Feyzin en passant par le Nord et l'Ouest via Vaulx-en-Velin, le campus de la Doua, Vaise, Tassin-la-Demi-Lune, Francheville, Oullins, Pierre-Bénite et la vallée de la Chimie.
 trafic: 15k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018212/voieslyonnaises/ligne5/cover-vl5_bf9kkx.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
@@ -45,7 +45,7 @@ Sur ce boulevard créé en 2015, une piste cyclable de 3m de large et un trottoi
 *Les travaux pourraient avoir lieu au premier trimestre 2024.*
 
 #### Rue Auguste Brunel prolongée à Vaulx-en-Velin - Gabriel Péri
-Sur cette section, la voie lyonnaise n°5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette section, la Voie Lyonnaise 5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Entre la rue Brunel et l'avenue Marcellin, il s'agira d'une piste cyclable bidirectionnelle de 4m de large située à l'ouest de la plateforme tramway.  
 Au Sud de l'avenue Mercellin, la piste de 4m traversera les rails pour se retrouver à l'Est du tram.  
