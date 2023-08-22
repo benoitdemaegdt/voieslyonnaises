@@ -13,13 +13,13 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voiesl
 ## Les tronçons (d'Ouest en Est)
 ### Traversée d'Oullins
 Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est.   
-Cette section est en tronçon commun avec la Voie Lyonnaise 5.
+Cette section est en tronçon commun avec la Voie Lyonnaise 5.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-5) pour davantage d'informations.
 
 ### Franchissement du Rhône
 La Voie Lyonnaise 9 passera des berges de l'Yzeron au parc de Gerland via une nouvelle passerelle mode actifs qui traversera la M7 et le Rhône. Elle fera 7m de large, avec une piste cyclable bidirectionnelle de 4m de large pour les cyclistes et un cheminement de 3m pour les piétons. Plusieurs scénarios de raccordement aux berges ont été proposés à la concertation, avec des rampes de 4 à 6% de pente.
 
-Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passera au Sud de l'aire de jeux pour enfant avant de rejoindre l'avenue Jean Jaurès.
+Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passera au Sud de l'aire de jeux avant de rejoindre l'avenue Jean Jaurès.
 
 Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
@@ -44,7 +44,7 @@ L'itinéraire est en tronçon commun avec d'autres Voies Lyonnaises :
 
 Se référer à la page de chaque ligne pour davantage d'informations.
 
-### Villeurbanne St-Jean à Jonage<br/>*via parc de Miribel-Jonage et Meyzieu - Nord*
+### Villeurbanne St-Jean à Jonage<br/>*via parc de Miribel-Jonage*
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
 #### Rue du Canal
@@ -69,13 +69,14 @@ Une fois entré à l'intérieur du parc de Miribel-Jonage, le projet prévoit de
 #### Allée de la Plage
 Dans cette impasse qui dessert uniquement le parking du Fontanil, le projet viendra élargir la voie verte existante de 3m de large avec 2 variantes :
  - 5.50m de large en supprimant la file de stationnement
- - 8.50m de large en supprimant la circulation automobile après l'accès parking
+ - 8.50m de large en otant la circulation automobile après l'accès parking
 
 #### Promenade des Îles
 Sur cette section à enjeu environnemental plus marqué, la voie verte existante de 3m de large sera conservée en l'état.
 
 #### Digue EDF le long du Grand Large
-La voie verte existante de 3m de large sera élargie à 4m compte-tenu de la convergence des accès au parc de Miribel-Jonage sur cette section. En outre, le revêtement en sable stabilisé sera remplacé par un enrobé lisse plus confortable.
+La voie verte existante de 3m de large sera élargie à 4m compte-tenu de la convergence des accès au parc de Miribel-Jonage sur cette section.  
+En outre, le revêtement en sable stabilisé sera remplacé par un enrobé lisse plus confortable.
 
 #### Pont d'Herbens à Pont de Jonage
 Sur ce tronçon, deux variantes d'itinéraires sont proposées :
