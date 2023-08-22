@@ -4,7 +4,7 @@ color: "#4DADC9"
 from: Point-du-Jour
 to: Chassieu
 distance: 25000
-description: La voie lyonnaise n°11 permettra de traverser la métropole lyonnaise sur un axe est-ouest. À l'Ouest, elle partira de Craponne pour desservir Tassin, Point du Jour et Saint Just. Elle traversera la presqu'île au niveau du quartier Perrache, puis continuera à l'est par la Part Dieu, le nord de Bron et enfin Chassieu.
+description: La Voie Lyonnaise 11 permettra de traverser la métropole lyonnaise sur un axe ouest-est. À l'Ouest, elle partira du quartier du Point du Jour à Lyon5 pour desservir la Favorite et Saint-Just. Elle traversera la Presqu'Île avant de remonter rue de Bonnel, puis continuera vers l'Est par la Part Dieu, Maisons-Neuves, Montchat Nord avant de poursuivre sur la route de Genas vers les Sept Chemins puis Chassieu.
 trafic: 25k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018272/voieslyonnaises/ligne11/cover-vl11_odsz6c.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349639/voieslyonnaises/ligne11/ligne11_lrgvh3.jpg
@@ -12,48 +12,105 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349639/voiesl
 
 ## Les tronçon
 
-### Tronçon Ouest, Craponne - Lyon 5
+### Point du Jour - Favorite (Lyon 5è)
+La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du Point du Jour et poursuivra vers l'Est pour transformer les bandes cyclables datant de 2019 en aménagement sécurisé. Elle continuera sur la rue de la Favorite aujourd'hui non aménagée et très dangereuse. Entre la rue Appian et la place de Trion, plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
-#### Sous-tronçon - Craponne - Point du Jour
-Il n'y a pas encore d'information disponible sur ce tronçon.
+*Aucune information publique n'existe à ce jour sur ce tronçon.*
 
-#### Sous-tronçon - Point du Jour - Presqu'île
-La voie lyonnaise n°11 empruntera l'avenue du Point du Jour, puis la rue de la Favorite.
+### Traversée de Saint-Just<br/>Traversée de Saint-Jean
+Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
 
-Au niveau de Saint-Just, elle rejoint la voie lyonnaise n°5 (rue de Trion, rue des Farges, montée du Chemin Neuf, rue Tramassac).
+### Traversée de la Presqu'Île de Lyon
+Cette section est en tronçon commun avec la Voie Lyonnaise 8.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-8) pour davantage d'informations.
 
-En rive droite de la Saône, elle a une une section commune avec la voie lyonnaise n°3.
+### Pont Wilson
+Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagée avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
 
-Elle prend finalement le Pont Kichener-Marchand pour rejoindre la Presqu'île.
+### Rue de Bonnel
+Cette large rue est aujourd'hui qualifiée d'autoroute urbaine avec ses 4 voies de circulation, dont une a été convertie en couloir bus ouvert aux vélos à l'été 2020. 
 
-### Tronçon central, Presqu'île et Part-Dieu
+Le projet prévoit un réaménagement ambitieux avec : 
+ - côté Nord : l'élargissement du trottoir et la création d'une piste cyclable bidirectionnelle de 3m séparée de la chaussée par une bande technique qui accueillera les livraisons et de la végétalisation
+ - côté Sud : le maintien d'une unique voie de circulation et une voie bus, en conservant le trottoir existant
 
-#### Sous-tronçon - Presqu'île
-Depuis le Pont Kichener-Marchand, la voie lyonnaise n°11 s'engage sur le Cours de Verdun puis contourne la place Carnot pour rejoindre la rive droite du Rhône.
+*Ajouter illustration*
 
-Elle a alors un tronçon commun avec la voie lyonnaise n°6 et remonte vers le nord jusqu'au Pont Wilson.
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
+[Voir le dossier de concertation (p.13 à p.19)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
 
-#### Sous-tronçon - Part-Dieu
-Depuis le Pont Wilson, la voie lyonnaise n°11 remonte légèrement vers le nord (tronçon commun avec la voie lyonnaise n°1) puis prend plein Est sur la rue de Bonnel.
+### Rue Garibaldi - *Bonnel à Paul Bert*
+Cette section est en tronçon commun avec la Voie Lyonnaise 7.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-7) pour davantage d'informations.
 
-Elle traverse le quartier Part-Dieu par les rues Garibaldi, Paul Bert et le boulevard Vivier-Merle.
+### Rue Paul Bert - *Garibaldi à Vivier-Merle*
+Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marqué sur le trottoir Nord à l'été 2018, puis supprimée à l'été 2021 au profit de deux bandes cyclables bilatérales sur la chaussée à la place d'une voie de circulation.
 
-Elle s'engage ensuite sur l'avenue Felix Faure et passe ainsi sous les rails.
+Le projet vise à transformer les bandes cyclables en une piste cyclable bidirectionnelle de 3 à 4m de large côté Nord. En parallèle, l'étroit trottoir Sud sera agrandi.
 
-Enfin, elle suit le tracé du tram T3 jusqu'à rejoindre la route de Genas, qu'elle suivra ensuite vers l'est.
+*Ajouter illustration*
 
-### Tronçon Est, Bron - Chassieu
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
+[Voir le dossier de concertation (p.20 à p.24)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
 
-#### Sous-tronçon - Bron
-La voie lyonnaise n°11 suit simplement la route de Genas jusqu'au giratoire des sept chemins.
+### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
+Cette section est en tronçon commun avec la Voie Lyonnaise 2.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) pour davantage d'informations.
 
-#### Sous-tronçon - Chassieu
+### Avenue Félix Faure - *Vivier Merle à Esplanade Mandela*
+Sur cette section, la voie lyonnaise n°11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
 
+Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située au Sud de la plateforme BHNS.
+
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
+La concertation continue se déroule de avril 2022 à décembre 2023.  
+L'enquête publique aura lieu fin 2023.  
+[Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/621-bhns.htm)  
+Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+
+### Esplanade Mandela à Dauphiné - Lacassagne
+Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frain majeur à l'usage du vélo dans ce secteur.
+
+Le projet prevoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
+
+*Ajouter illustration*
+
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
+[Voir le dossier de concertation (p.25 à p.31)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+
+### Dauphiné - Lacassagne à Reconnaissance - Balzac
+Cette section est en tronçon commun avec la Voie Lyonnaise 10.  
+Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-10) pour davantage d'informations.
+
+### Reconnaissance - Balzac à Bron - Sept Chemins
+Sur cette section, la voie lyonnaise n°11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins sur la route de Genas. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
+
+Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le grand giratoire des Sept Chemins à travers le quartier des Brosses.
+
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
+La concertation continue se déroule de avril 2022 à décembre 2023.  
+L'enquête publique aura lieu fin 2023.  
+[Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/621-bhns.htm)  
+Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+
+### Bron - Sept Chemins à Boulevard Urbain Est
+Sur cette section, la voie lyonnaise n°11 partagera son itinéraire avec la future Ligne de l'Est Lyonnais  (LEL) entre La Soie et l'aéroport Saint-Exupéry sur l'avenue Mermoz. Sa réalisation sera traitée en même temps que les travaux de cette ligne de bus, sous maitrise d'ouvrage SYTRAL Mobilités.
+
+Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud sur cette avenue qui sera
+
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
+La concertation continue se déroule de avril 2022 à décembre 2023.  
+L'enquête publique aura lieu fin 2023.  
+[Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/621-bhns.htm)  
+Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+
+### Boulevard Urbain Est à Chassieu - Dauphiné
+
+
+*La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.*  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}
 
-La voie lyonnaise n°11 empruntera successivement la rue J. Mermoz, la route de Lyon puis l'avenue du Dauphiné.
-
-Une grande partie de ce tronçon sera en qualifiée en voie verte.
 
 ## Budget prévisionnel
 - **2 M€** pour l'aménagement de la voie lyonnaise n°11 à Chassieu
