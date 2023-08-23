@@ -21,7 +21,7 @@ Le projet consiste en un confortement de la piste cyclable existante située à 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-3_yvdsow.png
-caption: Schéma de prévisualisation de la ligne 5 des voies lyonnaises le long du parc du Chêne.
+caption: Aperçu de la Voie Lyonnaise 5 - le long du Parc du Chêne (Bron)
 credit: Métropole de Lyon
 ---
 ::
@@ -34,7 +34,7 @@ Sur cette section du BUE inaugurée entre 1988 et 1990, l'aménagement actuel es
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
-caption: Schéma de prévisualisation de la ligne 5 entre Roosevelt et Elisée Reclus.
+caption: Aperçu de la Voie Lyonnaise 5 - entre avenue Roosevelt et rue Elisée Reclus (Décines)
 credit: Métropole de Lyon
 ---
 ::
@@ -63,11 +63,11 @@ Cette section est en tronçon commun avec la Voie Lyonnaise 1.
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-1) pour davantage d'informations.
 
 #### Traversée du campus de la Doua
-La voie lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante en stabilisé au Sud du rond-point de la Feyssine, qui sera recouverte d'un enrobé lisse pour le projet. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle sera créée sur une des 3 voies de circulation côté Sud.
+La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante en stabilisé au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
 
 #### *Concertation*
 La concertation sur ce tronçon (hors tram T9) s'est tenue du 19/09 au 21/10/2022.  
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
 Cette section est en tronçon commun avec la Voie Lyonnaise 1.  
@@ -97,8 +97,8 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 
 ### Alaï à Beaunant (RD342)<br/>*via Francheville-le-Bas*
 Au nord du Chemin de Chantegrillet, aucun aménagement cyclable.  
-Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérénisés et améliorés au second semestre 2021.  
-Entre l'avenue de Limburg et l'avenue de l'Aqueduc de Beaunant, des pistes cyclables bilatérales de 1.70m de large ont été créées au premier semestre 2021.
+Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérénisés, étendus et améliorés au second semestre 2021.  
+Entre l'avenue de Limburg et l'avenue de l'Aqueduc de Beaunant, des pistes cyclables bilatérales de 1.70m  ont été créées au premier semestre 2021.
 
 Aucune information publique n'existe à ce jour sur le réaménagement total de ce tronçon pour le projet des Voies Lyonnaises. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
@@ -110,17 +110,21 @@ La Voie Lyonnaise 5 empruntera :
   - le parc naturel de l'Yzeron sous une voie verte de 2 à 3m de large,
   - le côté sud du boulevard Emile Zola, à partir de l'Intermarché jusqu'au pont Blanc, sous la forme d'une voie verte de 3 à 5m de large *(sauf point dur à moins de 2.5m sur 60m)*.
 
+*Ajouter illustration*
+
 #### Boulevard de l'Yzeron
 Une voie verte de 3 à 4m de large y a été aménagée en 2018 côté Nord. Le projet prévoit de conserver l'aménagement existant, en améliorant le débouché Ouest avec le déplacement de la station Velo'V.
 
 #### Boulevard de l'Yzeron à Gare d'Oullins
 Ce tronçon fait l'objet de deux variantes d'itinéraires :
   - au Nord, en voie verte, par la traversée du Parc Chabrières-Arles jusqu'à la piscine municipale, puis 50m côté Ouest de la Grande Rue pour rejoindre la rue du Président Herriot et les berges Nord de l'Yzeron
-  - au Sud, en voie verte sur le trottoir Nord du boulevard Emile Zola puis en piste cyclable bidirectionnelle sur la rue Pierre Sémard mise à sens unique et sur l'avenue du Rhône
+  - au Sud, en voie verte sur le trottoir Nord du boulevard Emile Zola puis en piste cyclable bidirectionnelle sur la rue Pierre Sémard mise à sens unique avant de continuer sur l'avenue du Rhône
+
+*Ajouter illustration*
 
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[voir le dossier de concertation (p.56 à p.80)](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
+[Voir le dossier de concertation (p.56 à p.80)](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
 
 ### Gare d'Oullins à Pierre-Bénite Barrage
 Cette section est en tronçon commun avec la Voie Lyonnaise 3.  
@@ -138,7 +142,7 @@ La Voie Lyonnaise 5 empruntera :
 - **35 000 000 € HT** au total dont :
 
   - **2 500 000 € HT** pour le tronçon Est (campus Doua et BUE, hors T9)  
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278905/d367329446747948_7038.pdf)
+*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278905/d367329446747948_7038.pdf)
 
 
 ## Calendrier prévisionnel
@@ -146,7 +150,7 @@ La Voie Lyonnaise 5 empruntera :
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679854142/voieslyonnaises/ligne5/calendrier-vl5_piryym.png
-caption: calendrier prévisionnel de la voie lyonnaise n°5 (tronçon Est).
+caption: calendrier prévisionnel de la Voie Lyonnaise 5 (tronçon Est).
 ---
 ::
 
@@ -158,4 +162,4 @@ caption: calendrier prévisionnel de la voie lyonnaise n°5 (tronçon Est).
 
 Réunion de concertation sur le tronçon Villeurbanne - Vaulx-en-Velin - Bron.
 
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
