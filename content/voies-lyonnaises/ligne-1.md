@@ -23,10 +23,12 @@ L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}  
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
+*Ajouter [visuel](https://cdn-s-www.leprogres.fr/images/0fca5416-6e05-417e-8a96-80c01f35cf86/NW_listA_M/le-franchissement-du-canal-de-jonage-au-niveau-du-quartier-saint-jean-a-villeurbanne-(images-non-contractuelles)-visuel-sytral-lavigne-cheron-1676832212.jpg) franchissement canal Jonage*
+
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
-caption: Aperçu de la voie lyonnaise n°1 le long du tram T9 à Vaulx-en-Velin.
+caption: Aperçu de la Voie Lyonnaise 1 le long du tram T9 avenue Einstein - Villeurbanne
 credit: SYTRAL Mobilités
 ---
 ::
@@ -34,7 +36,7 @@ credit: SYTRAL Mobilités
 
 ### Sud du campus de la Doua<br>*sur avenue Einstein et Boulevard du 11 Novembre*
 Une nouvelle piste cyclable bidirectionnelle sera crée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
-Le trottoir actuellement partagé avec les vélos pourra être rendu aux seuls piétons.
+Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
 #### *Spécificités de ce tronçon*
 Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.  
@@ -58,24 +60,24 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2){:t
 
 ### Cité Internationale à Halle Tony Garnier<br>*via Quais du Rhône rive gauche*
 #### Allée Achille Lignon
-Une piste cyclable bidirectionnelle sera créé pour desservir le quartier de la Cité Internationale, entre le site propre bus et la voie verte actuelle qui sera rendue aux piétons.  
-Aucune information sur le calendrier des travaux n'a été rendue publique.
+Une piste cyclable bidirectionnelle sera créé pour desservir le quartier de la Cité Internationale, entre le site propre bus et la voie verte actuelle en sable stabilisé qui sera rendue aux piétons.  
+*Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
 #### Quai de Grande-Bretagne et Quai de Serbie *(Tête d'Or <> Pont Morand)*
 Une piste cyclable a été créé sur une des voies de circulation du quai et l'allée cavalière a été rendue  aux piétons, avec d'importants travaux de végétalisation.  
-Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et Le marquage au sol a été réalisé le 28 Février 2023.  
-Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion entre les rampes vers les berges et la Voie Lyonnaise.
+Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et Le marquage au sol a été réalisé fin février 2023.  
+Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion avec les rampes vers les berges du Rhône.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679230537/voieslyonnaises/ligne1/vl-1-tassigny-tete-or_ub6hzm.png
-caption: Photo du tronçon de la voie lyonnaise n°1 entre le Pont Morand et la Tête d'Or.
+caption: Photo du tronçon de la Voie Lyonnaise 1 entre le Pont Morand et la Tête d'Or
 ---
 ::
 
 #### Quai Sarrail et Quai Augagneur *(Pont Morand <> Pont de la Guillotière)*
 Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.  
-Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement sont attendus entre l'automne 2023 et l'été 2024.
+*Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement sont attendus entre l'automne 2023 et l'été 2024.*
 
 #### Quai Claude Bernard *(Pont de la Guillotière <> Pont Gallieni)*
 La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.  
@@ -86,14 +88,14 @@ Elle a été inaugurée le 8 juillet 2022.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-3_njb0up.jpg
-caption: Photo du 1er tronçon de la voie lyonnaise n°1.
+caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard.
 ---
 ::
 
 #### Avenue Général Leclerc
 Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.  
 A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence.  
-Aucune information sur le calendrier des travaux n'a été rendue publique.
+*Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.  
@@ -103,6 +105,9 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 ### Halle Tony Garnier à St-Fons centre<br>*via Gerland et le nord de la vallée de la Chimie*
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T10.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+
+Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.  
+Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée. Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
 
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
