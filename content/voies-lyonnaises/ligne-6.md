@@ -4,7 +4,7 @@ color: "#396083"
 from: Rilleux la Pape
 to: Saint-Genis-Laval
 distance: 20000
-description: La Voie Lyonnaise n°6 permettra de longer le Rhône du nord au sud de la Métropole, depuis les bas quartiers de Crépieux-la-Pape jusqu'à Saint-Genis-Laval, via Saint-Clair, Lyon Rive Droite, les bas quartiers de La Mulatière et Oullins. Elle s'inscrit dans le projet d'apaisement du centre-ville d'Oullins et le grand projet de réaménagement de la rive droite du Rhône.
+description: La Voie Lyonnaise 6 permettra de longer le Rhône du nord au sud de la Métropole, depuis les bas quartiers de Crépieux-la-Pape jusqu'à Saint-Genis-Laval, via Saint-Clair, Lyon Rive Droite, les bas quartiers de la Mulatière et Oullins. Elle s'inscrit dans le projet d'apaisement du centre-ville d'Oullins et le grand projet de réaménagement de la rive droite du Rhône.
 trafic: 11k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018222/voieslyonnaises/ligne6/cover-vl6_phmit6.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349341/voieslyonnaises/ligne6/ligne6_ny0mgr.jpg
@@ -25,20 +25,20 @@ Néanmoins, l'itinéraire est déjà connu. Il empruntera :
 Ce tronçon de la Voie Lyonnaise 6 s'inscrit dans le grand projet de réaménagement de la Rive Droite du Rhône porté par la ville de Lyon.
 
 Le projet consiste en l'aménagement d'une piste cyclable bidirectionnelle au centre de la chaussée actuelle au sein du double alignement arboré de platanes qui sert aujourd'hui de stationnement automobile.  
-A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera réaménagée. A cette date, le reste du linéaire sera toute de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
+A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera requalifiée. Le reste du linéaire sera toute de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
 
 La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.  
-[voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6ead4ed3f90ee1bc2e3a0c6a6c542dc84b009b56.pdf)
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6ead4ed3f90ee1bc2e3a0c6a6c542dc84b009b56.pdf)
 
 Le projet définitif a été présenté début juin 2023.  
-[voir le dossier de presse détaillé](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/dp/2023/20230607_dp_rive-droite.pdf)
+[Voir le dossier de presse détaillé](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/dp/2023/20230607_dp_rive-droite.pdf)
 
 Les travaux devraient démarrer début 2025.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1687172757/voieslyonnaises/ligne6/vl6-tronc%CC%A7on-central_cwvtmg.png
-caption: La voie lyonnaise n°6 sur la rive droite su Rhône.
+caption: Aperçu de la Voie Lyonnaise 6 - Quai Jules Courmont (Lyon 2)
 credit: Métropole de Lyon
 ---
 ::
@@ -83,20 +83,20 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
 *Ajouter illustration Bertholey +  Gde rue*
   
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[voir le dossier de concertation (p.14 à p.55)
+[Voir le dossier de concertation (p.14 à p.55)
 ](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
 
 #### Rue de la Camille à Giratoire Gadagne
-Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidriectionnelle de 3m de large côté Ouest de la chaussée.
+Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
 
 *Ajouter illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[voir le dossier de concertation (p.81 à p.90)
+[Voir le dossier de concertation (p.81 à p.90)
 ](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
 
 #### Giratoire Gadagne à Chemin des Barolles
-Pour rejoindre Brignais et traverser la commune de St-Genis-Laval, la Voie Lyonnaise devait passer par l'avenue de Gadagne ou l'avenue Clémenceau/Foch. Après études plus poussées, les deux scénarios ont été rejetés par les élus locaux.
+Pour rejoindre Brignais et traverser la commune de St-Genis-Laval, la Voie Lyonnaise 6 devait passer par l'avenue de Gadagne ou l'avenue Clémenceau/Foch. Après études plus poussées, les deux scénarios ont été rejetés par les élus locaux.
 
 Cette portion sans aménagements cyclables continus, pourtant annoncée pour 2026, ne sera donc pas réalisée.
 
