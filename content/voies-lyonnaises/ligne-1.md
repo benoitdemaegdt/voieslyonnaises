@@ -112,7 +112,7 @@ Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphér
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
 L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
-[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)
+[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)  
 Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 *Ajouter [illustration](https://static.actu.fr/uploads/2023/03/tram-t10-lyon-960x640.png) Tony Garnier*
@@ -122,7 +122,7 @@ Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaine
 ::image
 ---
 imageUrl: https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large
-caption: Aperçu de la voie lyonnaise n°1 le long du tram T10 à Saint-Fons.
+caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 rue Charles Plasse - Saint-Fons
 credit: Ilex / SYTRAL Mobilité
 ---
 ::
@@ -131,14 +131,14 @@ credit: Ilex / SYTRAL Mobilité
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679220321/voieslyonnaises/ligne1/budget-vl-1_qaj2rz.png
-caption: Calendrier prévisionnel de la voie lyonnaise n°1 entre la Cité Internationale et la Halle Tony Garnier à Lyon.
+caption: Calendrier prévisionnel de la Voie Lyonnaise 1 entre la Cité Internationale et la Halle Tony Garnier à Lyon.
 ---
 ::
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679229641/voieslyonnaises/ligne1/calendrier-vl-1-nord_p7rfml.png
-caption: Calendrier prévisionnel de la voie lyonnaise n°1 sur le boulevard du 11 Novembre et l'avenue Einstein à Villeurbanne.
+caption: Calendrier prévisionnel de la Voie Lyonnaise 1 sur le boulevard du 11 Novembre et l'avenue Einstein à Villeurbanne.
 ---
 ::
 
