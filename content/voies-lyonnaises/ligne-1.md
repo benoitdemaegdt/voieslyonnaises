@@ -112,8 +112,12 @@ Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphér
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
 L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
-[Voir la présentation du projet du tram T10](https://destinations2026-sytral.fr/processes/t10){:target="_blank"}  
+[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)
 Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+
+*Ajouter [illustration](https://static.actu.fr/uploads/2023/03/tram-t10-lyon-960x640.png) Tony Garnier*
+
+*Ajouter [illustration](https://static.actu.fr/uploads/2023/03/tram-t10-grand-lyon-960x619.png) boulevard Sampaix*
 
 ::image
 ---
@@ -147,6 +151,9 @@ caption: Calendrier prévisionnel de la voie lyonnaise n°1 sur le boulevard du 
   -  **5 300 000 € HT** pour le tronçon sur le boulevard du 11 novembre et l’avenue Albert Einstein.
 <br>_source: dernière page du [dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)_.
 
+Pour mémoire, les budgets totaux des projets SYTRAL sont :
+ - **224 000 000 € HT** pour le tram T9
+ - **230 000 000 € HT** pour le tram T10
 
 ## Fil d'actu
 
