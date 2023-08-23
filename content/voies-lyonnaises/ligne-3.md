@@ -4,7 +4,7 @@ color: "#3B7B64"
 from: Quincieux
 to: Givors
 distance: 57000
-description: La voie lyonnaise n°3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier en pleine reconversion de La Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle chemine le long des berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
+description: La Voie Lyonnaise 3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier de la Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle rejoint les berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
 trafic: 11k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017953/voieslyonnaises/ligne3/cover-vl3_bndsdf.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
@@ -13,32 +13,32 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voiesl
 ## Les tronçons (du Nord au Sud)
 
 ### Quincieux/Genay à l'Île Barbe
-*Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine (pont Général Leclerc)*
+*Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine-sur-Saône (pont Général Leclerc)*
 
 #### Branches Nord<br/>*Quincieux à Neuville*
-Cette première branche débute au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône jusqu'au pont de Neuville.
+Cette première branche débute au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-quincieux_cjq56r.png
-caption: Visualisation de la voie lyonnaise n°3 entre Quincieux et Neuville.
+caption: Aperçu de la Voie Lyonnaise 3 entre St-Germain-au-Mont-d'Or et Neuville
 credit: Métropole de Lyon
 ---
 ::
 
 #### *Massieux à Neuville*
-Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagée en voie verte situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
+Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagée en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
-*La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement du pont actuel.*
+*La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement en encorbellements du pont actuel.*
 
 
 #### Neuville-sur-Saône à Saint-Rambert
-La voie lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
+La voie lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-3_dk3bzw.jpg
-caption: Illustration de la voie lyonnaise n°3 à Couzon.
+caption: Aperçu de la Voie Lyonnaise 3 - Couzon-au-Mont-d'Or
 credit: Métropole de Lyon
 ---
 ::
@@ -48,51 +48,51 @@ La section sur la commune de St-Romain est prévue d'ici l'été 2024.
 Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire est aménagée depuis l'été 2020.*
 
 #### Saint-Rambert à pont de l'Île Barbe
-Cette section de 500m à l'inconvénient d'être particulièrement étroite et ne peut pas acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
+Cette section de 500m à l'inconvénient d'être particulièrement étroite et de ne peut pas acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
 
 ### Île Barbe au Pont Kitchener Marchand
-*Parcours commun avec la véloroute touristique "La Voie Bleue" qui est son terminus*
+*Parcours commun avec la véloroute touristique "La Voie Bleue"*
 
 #### Île Barbe à rue Antonin Laborde
-L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne au standard d'une voie lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
+L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
 
 #### Rue Antonin Laborde au pont Clémenceau
-Une piste cyclable bidirectionnelle existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera ponctuellement élargie et améliorée. La concertation a fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon étudie actuellement la solution la plus pertinente pour améliorer ce point noir.
+Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera ponctuellement élargie et améliorée. La concertation a fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon étudie actuellement la solution la plus pertinente pour améliorer ce point noir.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-4_ioqvpb.png
-caption: Voie lyonnaise n°3 déjà aménagée au nord du Pont Robert Schuman.
+caption: Photo de la Voie Lyonnaise 3 - Quai du Commerce (Lyon 9)
 ---
 ::
 
 #### Pont Clémenceau au pont Koenig
-Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en sens unique Sud-Nord du quai, qui permettra de créer une piste cyclable bidirectionnelle le long de la Saône.
+Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en sens unique Sud-Nord du quai, qui permettra de créer une piste cyclable bidirectionnelle de 3.50m de large le long de la Saône.
 
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg
-caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Arloing.
+caption: Aperçu de la Voie Lyonnaise 3 - Quai Arloing (Lyon 9)
 credit: Métropole de Lyon
 ---
 ::
 
 #### Pont Koenig au pont Kitchener Marchand
-Entre le pont Koenig et le pont La Feuillée, la piste bidirectionnelle existante est l'une des premières de Lyon, aménagée en 2005. Elle sera globalement conservée en l'état à l'exception des arrêts de bus qui seront tous repris pour mettre fin à l'effet chicane actuel qui provoque de nombreux conflits avec les piétons.
+Entre le pont Koenig et le pont La Feuillée, la piste bidirectionnelle existante de 3m de large est l'une des premières de Lyon, aménagée en 2005. Elle sera globalement conservée en l'état à l'exception des arrêts de bus qui seront tous repris pour mettre fin à l'effet chicane actuel qui provoque de nombreux conflits avec les piétons.
 
-Entre le pont La Feuillée et le pont Bonaparte, la piste bidirectionnelle qui date de 2013 et 2016 sera élargie en grande partie, avec un revêtement très abimé qui sera refait.
+Entre le pont La Feuillée et le pont Bonaparte, la piste bidirectionnelle de 2.20 à 2.80m de large qui date de 2013 et 2016 sera élargie en grande partie, avec un revêtement très abimé qui sera refait.
 
 Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Fulchiron qui date de 2019 sera conservé dans son état actuel.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
-caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Fulchiron.
+caption: Aperçu de la Voie Lyonnaise 3 - Quai Fulchiron (Lyon 5)
 credit: Métropole de Lyon
 ---
 ::
@@ -103,7 +103,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 ### Quai Jean-Jacques Rousseau et Quai des Etroits
 
-L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire. La décision finale de la Métropole est attendue à l'automne 2023.
+L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire. La décision finale de la Métropole est attendue à l'automne 2023.
 
 *La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)
@@ -111,7 +111,7 @@ L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens u
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679684083/voieslyonnaises/ligne3/vl-3-quai-jean-jacques-rousseau_th9mnw.png
-caption: Visuel de la voie lyonnaise n°3 au niveau du Quai Jean-Jacques Rousseau.
+caption: Aperçu de la Voie Lyonnaise 3 - Quai Jean-Jacques Rousseau (La Mulatière)
 credit: Passagers des Villes / Métropole de Lyon
 ---
 ::
@@ -120,19 +120,19 @@ credit: Passagers des Villes / Métropole de Lyon
 *Tronçon commun avec la véloroute touristique ViaRhôna*
 
 #### Quai Pierre Sémard
-Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur trottoir côté Ouest de la chaussée, créée entre 2019 et 2020. L'objectif est tout de même de l'améliorer ponctuellement en l'élargissant sur les sections les plus étroites et en améliorant certaines zones dangereuses avec une mauvaise visibilité et du conflit avec les piétons.
+Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur trottoir de 3m de large côté Ouest de la chaussée, créée entre 2019 et 2020. L'objectif est tout de même de l'améliorer ponctuellement en l'élargissant sur les sections les plus étroites et en améliorant certaines zones dangereuses avec une mauvaise visibilité et du conflit avec les piétons.
 
 #### Quartier de la Saulaie
-La voie lyonnnaire n°3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état.
+La voie lyonnnaire n°3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 
 #### Traversée de Pierre-Bénite
-Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une piste cyclable bidirectionnelle axiale végétalisée au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
-Enfin, les cyclistes emprunteront la piste cyclable existante sur le Chemin du Barrage, qui date de 2018 et restera en l'état.
+Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
+Enfin, les cyclistes emprunteront la voie verte existante de 3m de large sur le Chemin du Barrage, qui date de 2018 et restera en l'état.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679732989/voieslyonnaises/ligne3/vl-3-bd-europe_jpmfzo.png
-caption: Perspective de la voie lyonnaise n°3 au niveau du Boulevard de l’Europe (Pierre-Bénite)
+caption: Aperçu de la Voie Lyonnaise 3 - Boulevard de l’Europe (Pierre-Bénite)
 credit: Métropole de Lyon
 ---
 ::
@@ -185,21 +185,21 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-calendrier_zbqnre.png
-caption: Calendrier prévisionnel du tronçon Quincieux - Île Barbe de la voie lyonnaise n°3.
+caption: Calendrier prévisionnel du tronçon Quincieux - Île Barbe de la Voie Lyonnaise 3.
 ---
 ::
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668746/voieslyonnaises/ligne3/calendrier-vl-3-centrale_sj8mtt.png
-caption: Calendrier prévisionnel du tronçon Île Barbe - Pont Kitchener de la voie lyonnaise n°3.
+caption: Calendrier prévisionnel du tronçon Île Barbe - Pont Kitchener de la Voie Lyonnaise 3.
 ---
 ::
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668747/voieslyonnaises/ligne3/calendrier-vl-3-sud_xbxrwr.png
-caption: Calendrier prévisionnel du tronçon Pont de la Mulatière - Pierre-Bénite de la voie lyonnaise n°3.
+caption: Calendrier prévisionnel du tronçon Pont de la Mulatière - Pierre-Bénite de la Voie Lyonnaise 3.
 ---
 ::
 
