@@ -28,14 +28,14 @@ Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
-caption: Aperçu de la Voie Lyonnaise 1 le long du tram T9 avenue Einstein - Villeurbanne
+caption: Aperçu de la Voie Lyonnaise 1 le long du tram T9 - avenue Einstein (Villeurbanne)
 credit: SYTRAL Mobilités
 ---
 ::
 
 
 ### Sud du campus de la Doua<br>*sur avenue Einstein et Boulevard du 11 Novembre*
-Une nouvelle piste cyclable bidirectionnelle sera crée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
+Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
 #### *Spécificités de ce tronçon*
@@ -48,7 +48,7 @@ La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png
-caption: Illustration de la voie lyonnaise n°1 sur le boulevard du 11 novembre.
+caption: Aperçu de la Voie Lyonnaise 1 - boulevard du 11 Novembre 1918 (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon.
 ---
 ::
@@ -60,18 +60,19 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2){:t
 
 ### Cité Internationale à Halle Tony Garnier<br>*via Quais du Rhône rive gauche*
 #### Allée Achille Lignon
-Une piste cyclable bidirectionnelle sera créé pour desservir le quartier de la Cité Internationale, entre le site propre bus et la voie verte actuelle en sable stabilisé qui sera rendue aux piétons.  
+Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.  
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
 #### Quai de Grande-Bretagne et Quai de Serbie *(Tête d'Or <> Pont Morand)*
-Une piste cyclable a été créé sur une des voies de circulation du quai et l'allée cavalière a été rendue  aux piétons, avec d'importants travaux de végétalisation.  
-Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et Le marquage au sol a été réalisé fin février 2023.  
-Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion avec les rampes vers les berges du Rhône.
+Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.  
+Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et Le marquage au sol a été réalisé fin février 2023. 
+
+*Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion avec les rampes vers les berges du Rhône.*
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679230537/voieslyonnaises/ligne1/vl-1-tassigny-tete-or_ub6hzm.png
-caption: Photo du tronçon de la Voie Lyonnaise 1 entre le Pont Morand et la Tête d'Or
+caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
 ---
 ::
 
@@ -81,14 +82,14 @@ Cette section, qui concentre le trafic vélo le plus important de la Métropole 
 
 #### Quai Claude Bernard *(Pont de la Guillotière <> Pont Gallieni)*
 La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.  
-Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.  
+Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.  
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.  
-Elle a été inaugurée le 8 juillet 2022.
+Elle a été inaugurée début juillet 2022.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-3_njb0up.jpg
-caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard.
+caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
 ---
 ::
 
@@ -122,7 +123,7 @@ Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaine
 ::image
 ---
 imageUrl: https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large
-caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 rue Charles Plasse - Saint-Fons
+caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - rue Charles Plasse (Saint-Fons)
 credit: Ilex / SYTRAL Mobilité
 ---
 ::
