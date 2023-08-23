@@ -67,7 +67,7 @@ La Voie Lyonnaise 7 passera place Jules Ferry, qui sera traversée par une piste
 
 Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
-Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réamanégée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
+Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
 *Ajouter une photo*
 
@@ -78,11 +78,11 @@ Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur tro
 
 Entre la rue Denfert-Rochereau et la rue Pelletier, le point dur du mur des Canuts pourra être franchi de 2 manières :
  - par un passage sous le porche du mur des Canuts, obligeant à une traversée du boulevard
- - par la création d'un alternat routier au niveau du mur pour insérer la piste bidirectionnelle
+ - par la création d'un alternat routier au niveau du mur des Canuts pour insérer la piste cyclable bidirectionnelle
 
 Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
  - par le boulevard des Canuts, sur une piste bidirectionnelle de près de 3m de large côté Ouest à la place de la bande de stationnement
- - par la rue Pelletier puis la rue de Cuire transformée en vélorue via une action sur le plan de circulation pour diminuer le fluc automobile.
+ - par la rue Pelletier puis la rue de Cuire transformée en vélorue via une action sur le plan de circulation pour diminuer le flux automobile.
 
 Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
@@ -96,7 +96,7 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
-[voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
 
 ### Pont Churchill à Garibaldi - Arménie
 La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchill sur une piste cyclable bidirectionnelle côté Sud créée en 2018. Elle continuera sur le boulevard des Belges puis bifurquera plein Sud sur la rue Garibaldi qui a fait l'objet de la création d'un couloir bus vers le Sud en 2020 jusqu'à la rue Vauban, puis d'un réaménagement complet au Sud avec une piste cyclable bidirectionnelle de 3m (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie).
@@ -106,10 +106,10 @@ La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchi
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
 Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
 
-*ajouter une image d'illustration*
+*ajouter [une image](https://static.actu.fr/uploads/2023/07/ilex-garibaldi-4-placestalingrad-960x640.jpg) d'illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220610_lyon3-lyon7_garibaldi-dossier-concertation.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220610_lyon3-lyon7_garibaldi-dossier-concertation.pdf)
 
 ### Garibaldi Sud à St-Fons - République
 
@@ -155,7 +155,7 @@ credit: Métropole de Lyon
 
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.  
-[voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
 
 ### Saint-Fons Centre
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
