@@ -78,23 +78,15 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 Aucune information publique n'existe à ce jour sur ce tronçon.
 Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
-### Pont Clémenceau à Avenue Verguin<br/>*via Tunnel mode doux et avenue Duquesne*
+### Pont Clémenceau à Boulevard des Belges<br/>*via Tunnel mode doux et avenue Duquesne*
 Cette portion sera totalement réaménagée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Après la pérénisation des voies bus ouvertes aux vélos sur l'avenue Duquesne et l'amélioration du pont Clémenceau en 2022, on peut s'attendre à quelques améliorations ponctuelles provisoires d'ici 2026. 
 
 *Aucune information publique n'existe à ce jour sur ce tronçon.*
 
-### Avenue Verguin à rue Flachet<br/>*via Crs André Philip et rue Pressensé à Villeurbanne*
-Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or. La Voie Lyonnaise 4 devrait prendre la forme de deux pistes cyclables unidirectionnelles de part et d'autre de l'alignement d'arbre, de 2 à 2.50m de large chacune. Ces deux pistes unidirectionnelles se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large avant d'arriver sur le rond-point des Charpennes. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle d'environ 4m de large dans Villeurbanne sur la rue Francis de Pressensé. 
-
-Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.  
-
-Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de rue Francis de Pressensé. Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.
-
-Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. Le choix définitif de la Métropole s'est porté sur le côté Sud.
-
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+### Boulevard des Belges à rue Flachet
+#### Avenue Verguin
+Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or. La Voie Lyonnaise 4 devrait prendre la forme de deux pistes cyclables unidirectionnelles de part et d'autre de l'alignement d'arbre, de 2 à 2.50m de large chacune. Le stationnement sera maintenu du côté opposé à la piste cyclable, tandis que l'avenue sera réduite à 3 voies de circulation automobile au lieu de 4 actuellement.
 
 ::image
 ---
@@ -103,6 +95,20 @@ caption: Aperçu de la Voie Lyonnaise 4 - avenue de Verguin (Lyon 6)
 credit: Passagers des Villes / Métropole de Lyon
 ---
 ::
+
+#### Cours André Philip et rue Francis de Pressensé
+Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large avant d'arriver sur le rond-point des Charpennes. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle d'environ 4m de large sur la rue Francis de Pressensé. 
+
+Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.  
+
+Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.
+
+#### *Concertation*
+Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. Le choix définitif de la Métropole s'est porté sur le côté Sud.
+
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+
 
 ::image
 ---
