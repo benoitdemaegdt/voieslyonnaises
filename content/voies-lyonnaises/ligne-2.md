@@ -46,7 +46,7 @@ Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle 
 
 #### Boulevard des Belges<br/>*entre la rue Waldeck-Rousseau et le cours Lafayette*
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
-Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours.
+Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, cela ne change pas que ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
 *La modification du marquage au sol est prévue en parallèle des travaux du tronçon précédent, au début du printemps 2024.*
 
@@ -57,7 +57,9 @@ Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en 
 *L'aménagement d'un tunnel routier nécessite des autorisations spécifiques de l'Etat, et les travaux seront décalés par rapport au reste de la ligne, avec une échéance probable courant 2025.*
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
-La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 à 5m de large située à l'ouest du boulevard, en lieu et place de l'ancien couloir bus en contre-allée. Cette voie de bus sera repositionnée sur la large voirie routière qui sera redimensionnée pour éviter des vitesses élevées.
+La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 à 5m de large située à l'ouest du boulevard, en lieu et place de l'ancien couloir bus en contre-allée. Cette voie de bus sera repositionnée sur la large voirie routière qui sera redimensionnée pour éviter des vitesses élevées et parfois séparée de la piste cyclable avec une bande arborée et végétalisée.
+
+*A noter qu'entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.*
 
 ::image
 ---
