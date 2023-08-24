@@ -72,7 +72,7 @@ Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s
 ### Esplanade Mandela à Dauphiné - Lacassagne
 Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frein majeur à l'usage du vélo dans ce secteur.
 
-Le projet prevoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
+Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 
 *Ajouter illustration*
 
@@ -107,7 +107,7 @@ Les travaux auront lieu entre fin 2024 et 2025.
 
 ### Boulevard Urbain Est à Chassieu - Dauphiné
 #### Avenue Mermoz et Route de Lyon
-La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté Sud de la chaussée qui existant depuis 2004. Le projet consiste à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable deviendra prioritaire sur les voitures dans le giratoire René Cassin.
+La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet consiste à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable deviendra prioritaire sur les voitures dans le giratoire René Cassin.
 
 *Ajouter illustration*
 
@@ -124,8 +124,8 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
 
 ## Budget prévisionnel
  - plus de **10 000 000 € HT** au total dont :
-   - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne
-_source: [page 33 de ce dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+   - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne  
+*source: [page 33 de ce dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)*
    - **2 000 000 € HT** pour la section à Chassieu  
 _source: [page 20 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}_
 
