@@ -31,7 +31,7 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*  
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20210825_dossier_concertation-routedeparis.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20210825_dossier_concertation-routedeparis.pdf)
 
 #### Tassin - Montcelard à Valvert
 Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissements des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
@@ -81,7 +81,7 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf){:target="_blank"}
 
 ### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
-Cette section est en tronçon commun avec la Voie Lyonnaise 12.
+Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
 
 ### Traversée de la Presqu'Île de Lyon
@@ -102,7 +102,7 @@ Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhôn
 Cette section fera l'objet d'un vaste projet de requalification avec une concertation et un budget dédié.
 #### Rue Marius Berliet
 #### Avenue Jean Mermoz
-
+<br/><br/>
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
 #### Avenue Mermoz - Pinel à Lionel Terray
 La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011 suite à la démolition de l'autopont et au réaménagement de l'A43 en boulevard urbain, sera conservée en l'état.
@@ -149,12 +149,12 @@ _source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.c
 _source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf)_
 
 A ce budget se rajoutent :
- - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières
-_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
+ - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières  
+source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
 
- - 
  
 ## Calendrier prévisionnel
+*Ajouter les calendriers prévisionnels connus*
 
 ## Fil d'actu
 
