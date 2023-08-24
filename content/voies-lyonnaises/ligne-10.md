@@ -4,7 +4,7 @@ color: "#9A8A4B"
 from: Tassin
 to: Meyzieu
 distance: 31000
-description: La Voie Lyonnaise 10 permettra de rejoindre Meyzieu depuis Tassin en passant par Vaise, Lyon 6, la Part-Dieu, Dauphiné-Lacassagne, Grandclément, La Soie, et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon sur un axe Est-Ouest sur plus de 20km.
+description: La Voie Lyonnaise 10 permettra de rejoindre Meyzieu depuis Tassin en passant par Vaise, Lyon 6, la Part-Dieu, Dauphiné-Lacassagne, Grandclément, La Soie, et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon dans un axe Est-Ouest sur plus de 20km.
 trafic: 24k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018264/voieslyonnaises/ligne10/cover-vl10_kwsoup.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486680/voieslyonnaises/ligne10/vl10-meyzieu_g5nusy.png
@@ -22,7 +22,7 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 
 ### Boulevard des Belges - de Verguin à Waldeck Rousseau
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
-Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours.
+Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
 *La concertation publique sur ce tronçon s'est tenue du XX/09 au XX/10/2023.*
 
@@ -79,7 +79,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.
 
 ## Budget prévisionnel
 
-Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.
+Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.  
 _source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf){target=_blank}_
 
 
