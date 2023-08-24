@@ -22,13 +22,13 @@ Cet aménagement très attendu permettra d'enfin sécuriser les déplacements de
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest_dpbj92.png
-caption: Voie Lyonnaise 12 - rue du Sergent Berthet (Lyon 9)
+caption: Aperçu de la Voie Lyonnaise 12 - rue du Sergent Berthet (Lyon 9)
 credit: Métropole de Lyon
 ---
 ::
 
 #### Rue Pierre Audry
-Cette rue à fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine ocre, s'élargie aussi en voie bus dans les 150 derniers mètres.
+Cette rue à fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine beige, s'élargie aussi en voie bus dans les 150 derniers mètres.
 
 *Ajouter photo*
 
@@ -47,13 +47,13 @@ La montée du Chemin Neuf sera elle-même aménagée en vélorue avec un trafic 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest-2_faecvm.png
-caption: Voie Lyonnaise 12 - rue de Trion (Lyon 5)
+caption: Aperçu de la Voie Lyonnaise 12 - rue de Trion (Lyon 5)
 credit: Métropole de Lyon
 ---
 ::
 
 ### Traversée de Saint-Jean
-Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue Jean Carries. Profitant de la fermeture de Chemin Neuf et de la suppression de la majorité du stationnement, ces deux rues pourront être aménagées en vélorue avec un trafic automobile qui sera très faible.
+Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue Jean Carries. Profitant de la fermeture de Chemin Neuf et de la suppression de la majorité du stationnement, ces deux rues pourront être aménagées en vélorue et fortement végétalisées avec un trafic automobile qui sera très faible.
 
 En arrivant devant le métro Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
@@ -65,7 +65,7 @@ En plus de la création de cet aménagement cyclable sécurisé, le projet prév
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png
-caption: Voie Lyonnaise 12 - Place Bellecour.
+caption: Aperçu de la Voie Lyonnaise 12 - Place Bellecour (Lyon 2)
 credit: Métropole de Lyon
 ---
 ::
@@ -74,12 +74,12 @@ credit: Métropole de Lyon
 ### Pont de la Guillotière à Grange Blanche<br/>*via Cours Gambetta et Albert Thomas*
 L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle de 4m de large côté Nord de la chaussée, séparée de la circulation par une bande technique permettant d'acceuillir les livraisons, le stationnement et de la végétalisation. Les anciens stationnement côté Nord seront entièrement végétalisés, tandis que la voirie sera réduite à une voie bus vers l'Est et une voie générale vers l'Ouest.
 
-Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arson val) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
+Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png
-caption: Voie Lyonnaise 12 - place Gabriel Péri.
+caption: Aperçu de la Voie Lyonnaise 12 - place Gabriel Péri (Lyon 7)
 credit: Métropole de Lyon
 ---
 ::
@@ -87,20 +87,21 @@ credit: Métropole de Lyon
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
-caption: Voie Lyonnaise 12 - Cours Gambetta.
+caption: Aperçu de la Voie Lyonnaise 12 - Cours Gambetta (Lyon 7)
 credit: Métropole de Lyon
 ---
 ::
 
 ### Grange Blanche à Boulevard Pinel<br/>*via avenue Rockefeller*
-De Grange Blanche au boulevard Ambroise Paré, la Voie Lyonnaise 12 continuera à être aménagée sous la forme d'une piste cyclable bidirectionnelle de 4m de large côté Nord de la voirie. Les stationnements côté Nord seront végétalisés, tandis que les stationnements côté Sud seront supprimés pour élargir le trottoir Sud étroit.
+De Grange Blanche au boulevard Ambroise Paré, la Voie Lyonnaise 12 continuera à être aménagée sous la forme d'une piste cyclable bidirectionnelle de 4m de large côté Nord de la voirie. Les stationnements côté Nord seront végétalisés, tandis que les stationnements côté Sud seront supprimés pour élargir le trottoir Sud actuellement étroit.
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, l'avenue Rockefeller est plus étroite et l'insertion de la Voie Lyonnaise en piste bidirectionnelle au Nord ne peut se faire qu'en supprimant la voie de circulation vers l'Ouest, obligeant la circulation de transit à se reporter dans les rues plus au Nord. Les stationnements supprimés le long de la piste seront végétalisés.
 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png
-caption: Voie Lyonnaise n°12 sur l'Av. Rockefeller, au nord du tram.
+caption: Aperçu de la Voie Lyonnaise 12 - avenue Rockefeller (Lyon 3/Lyon 8)
+credit: Métropole de Lyon
 ---
 ::
 
