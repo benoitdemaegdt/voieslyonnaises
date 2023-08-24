@@ -4,7 +4,7 @@ color: "#75BCAE"
 from: Rilleux
 to: Feyzin
 distance: 34000
-description: La Voie Lyonnaise n°7 permettra de traverser la métropole de Lyon en suivant un axe nord-sud central. Elle traversera Rillieux-la-Pape depuis le nouveau quartier Osterode avant de rejoindre la voie verte des Dombes à travers Caluire-et-Cuire, en direction de la Croix-Rousse ou du parc de la Tête d'Or. Elle passera à travers Lyon sur la rue Garibaldi, puis la route de Vienne avant de rejoindre le centre-ville de Saint-Fons puis Feyzin. Ce projet très ambitieux devrait métamorphoser le paysage urbain tout en révolutionnant la mobilité de nombreux habitants.
+description: La Voie Lyonnaise 7 permettra de traverser la métropole de Lyon en suivant un axe nord-sud central. Elle traversera Rillieux-la-Pape depuis le nouveau quartier Osterode avant de rejoindre la voie verte des Dombes à travers Caluire-et-Cuire, en direction de la Croix-Rousse ou du parc de la Tête d'Or. Elle passera à travers Lyon sur la rue Garibaldi, puis la route de Vienne avant de rejoindre le centre-ville de Saint-Fons puis Feyzin. Ce projet très ambitieux devrait métamorphoser le paysage urbain tout en révolutionnant la mobilité de nombreux habitants.
 trafic: 18k vélos / jour
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018233/voieslyonnaises/ligne7/cover-vl7_edmjb7.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349477/voieslyonnaises/ligne7/ligne7_bsseok.jpg
@@ -57,7 +57,7 @@ Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protesta
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947381/voieslyonnaises/ligne7/vl7-voie-verte-des-dombes_iefy0d.png
-caption: Aperçu de la Voie Lyonnaise n°7 - Voie verte de la Dombe.
+caption: Aperçu de la Voie Lyonnaise 7 - Voie verte de la Dombe (Caluire-et-Cuire)
 credit: Métropole de Lyon
 ---
 ::
@@ -89,7 +89,7 @@ Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise c
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682969076/voieslyonnaises/ligne7/vl-7-db-des-canuts_jars89.png
-caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts.
+caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
 credit: Métropole de Lyon
 ---
 ::
@@ -121,7 +121,7 @@ Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la pi
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384110/voieslyonnaises/ligne7/vl7-rue-garibaldi_iw5qyx.png
-caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud - Lyon 7
+caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud (Lyon 7)
 credit: Métropole de Lyon
 ---
 ::
@@ -137,7 +137,7 @@ La traversée du périphérique sera reprise et sécurisée pour les cyclistes a
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384108/voieslyonnaises/ligne7/vl7-route-de-vienne_qfesfp.png
-caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne - Lyon 8
+caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne (Lyon 8)
 credit: Métropole de Lyon
 ---
 ::
@@ -148,7 +148,7 @@ Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec 
 ::image
 ---
 imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384114/voieslyonnaises/ligne7/vl7-av-jean-jaures-saint-fons_xgoxqk.png
-caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaures - Saint-Fons
+caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
 credit: Métropole de Lyon
 ---
 ::
@@ -168,7 +168,7 @@ De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa cr
 *ajouter illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}
 
 ### Traversée de Feyzin
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
