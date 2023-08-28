@@ -101,10 +101,10 @@ Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se 
 
 Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.  
 
-Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.
+Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. <!--Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.-->
 
 #### *Concertation*
-Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. Le choix définitif de la Métropole s'est porté sur le côté Sud.
+Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
 
 *La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
