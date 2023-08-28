@@ -83,7 +83,7 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 ### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
 Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
-
+<!--
 ### Traversée de la Presqu'Île de Lyon
 Le projet initialement annoncé devait faire un détour par Perrache, via le quai Fulchiron et le pont Kitchener-Marchand. Il devait traverser le pôle d'échange de Perrache puis remonter sur la rive droite du Rhône.
 
@@ -91,7 +91,7 @@ Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de 
 
 Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
-
+-->
 ### Pont Université à Mermoz-Pinel
 Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire prévu est cependant connu est passera par les rues suivantes.
 #### Pont de l'Université
