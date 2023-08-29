@@ -35,7 +35,13 @@ Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bir
 #### Boulevard Stalingrad Sud<br/>*entre boulevard du 11 Novembre 1918 et avenue Verguin*
 La Voie Lyonnaise 2 va prendre la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle sera réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
 
-*mettre [illustration](https://www.lyon.fr/sites/lyonfr/files/content/2023-06/stalingrad-perspective-p.jpg) Métropole*
+::image
+---
+imageUrl: https://www.lyon.fr/sites/lyonfr/files/content/2023-06/stalingrad-perspective-p.jpg
+caption: Aperçu de la Voie Lyonnaise 2 - Boulevard Stalingrad
+credit: Métropole de Lyon
+---
+::
 
 *Les travaux sur cette section ont commencé début juillet 2023 et s'étendront jusqu'en décembre 2023.*
 
@@ -76,7 +82,6 @@ Les travaux sur le boulevard des Tchécoslovaques débuteront en septembre 2023 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf)
-
 
 ### Avenue Berthelot à Saint-Priest<br/>*via blvd des Etats-Unis, Viviani, Parilly et route de Lyon*
 
