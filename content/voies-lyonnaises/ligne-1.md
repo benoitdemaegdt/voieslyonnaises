@@ -17,13 +17,18 @@ Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur t
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, située juste au Sud du pont actuel de Croix-Luizet.
 
+::image
+---
+imageUrl: https://cdn-s-www.leprogres.fr/images/0fca5416-6e05-417e-8a96-80c01f35cf86/NW_listA_M/le-franchissement-du-canal-de-jonage-au-niveau-du-quartier-saint-jean-a-villeurbanne-(images-non-contractuelles)-visuel-sytral-lavigne-cheron-1676832212.jpg
+caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage
+---
+::
+
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
 L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}  
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
-
-*Ajouter [visuel](https://cdn-s-www.leprogres.fr/images/0fca5416-6e05-417e-8a96-80c01f35cf86/NW_listA_M/le-franchissement-du-canal-de-jonage-au-niveau-du-quartier-saint-jean-a-villeurbanne-(images-non-contractuelles)-visuel-sytral-lavigne-cheron-1676832212.jpg) franchissement canal Jonage*
 
 ::image
 ---
@@ -107,19 +112,23 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T10.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.  
-Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée. Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
+Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
+::image
+---
+imageUrl: https://static.actu.fr/uploads/2023/03/tram-t10-lyon-960x640.png
+caption: Aperçu de la Voie Lyonnaise 1 sur l'avenue Tony Garnier.
+---
+::
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
-La concertation continue s'est déroulée de janvier 2022 à février 2023.  
-L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
-[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)  
-Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée.
+::image
+---
+imageUrl: https://static.actu.fr/uploads/2023/03/tram-t10-grand-lyon-960x619.png
+caption: Aperçu de la Voie Lyonnaise 1 sur le boulevard Sampaix.
+---
+::
 
-*Ajouter [illustration](https://static.actu.fr/uploads/2023/03/tram-t10-lyon-960x640.png) Tony Garnier*
-
-*Ajouter [illustration](https://static.actu.fr/uploads/2023/03/tram-t10-grand-lyon-960x619.png) boulevard Sampaix*
-
+Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
 ::image
 ---
 imageUrl: https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large
@@ -127,6 +136,12 @@ caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - rue Charles Plasse
 credit: Ilex / SYTRAL Mobilité
 ---
 ::
+
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
+La concertation continue s'est déroulée de janvier 2022 à février 2023.  
+L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
+[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)  
+Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 ## Calendriers prévisionnels
 ::image
