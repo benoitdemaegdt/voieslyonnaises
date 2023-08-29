@@ -51,7 +51,7 @@ La section rue du Belier - rue Casimir Périer a été réalisée à l'été 202
 La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.  
 La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et aucune information publique n'existe à ce jour sur ce tronçon.  
 
-*Ajouter photo Quai Perrache terminé*
+*TODO: Ajouter photo Quai Perrache terminé*
 
 #### Pont autoroutier de la Mulatière
 Ce pont autoroutier constitue l'unique point de passage entre les communes du Sud-Est lyonnais et la ville de Lyon. Il concentre tous les flux dans un environnement très inconfortable pour les modes actifs.
@@ -74,13 +74,13 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
      -  la rue de la Camille, sans aucun aménagement cyclable
      -  la rue Léon Bourgeois, avec un DSC en bande cyclable
   
-*Ajouter illustration République + Gde rue*
+*TODO: Ajouter illustration République + Gde rue*
 
  -  **Scénario 2 (métropole de Lyon) :**
      -  *Sens Nord/Sud*, par la rue Bertholey en vélorue jusqu'à la rue Marceau puis sur une piste cyclable ; par la rue Voltaire en vélorue puis la rue Victor Hugo en zone de rencontre, avant d'emprunter la rue de la Camille dans un couloir bus ouvert aux vélos.
      -  *Sens Sud/Nord*, par la Grande Rue dans un couloir bus-vélos
 
-*Ajouter illustration Bertholey +  Gde rue*
+*TODO: Ajouter illustration Bertholey +  Gde rue*
   
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
 [Voir le dossier de concertation (p.14 à p.55)
@@ -89,7 +89,7 @@ La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 #### Rue de la Camille à Giratoire Gadagne
 Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
 [Voir le dossier de concertation (p.81 à p.90)

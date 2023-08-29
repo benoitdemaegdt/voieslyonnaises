@@ -37,7 +37,6 @@ Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise
 ***Avenue de l'Hippodrome et Chemin Petit***  
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidrectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
-
 #### Voie de la Dombe
 Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.  
 *Le projet de Voie Lyonnaise 7 permettra de minimiser les conflits avec les piétons, en élargissant la voie verte actuelle ou en séparant les flux piétons et vélos sur des axes dédiés. Il prévoit aussi de modifier le revêtement pour proposer un sol clair, lisse, confortable et drainant.*
@@ -69,7 +68,7 @@ Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable b
 
 Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
-*Ajouter une photo*
+*TODO: Ajouter une photo*
 
 #### Croix-Rousse
 Au nord du boulevard des Canuts, dans la continuité de ce qui sera fait au nord de la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir sera réaménagée de chaque côté de l'alignement d'arbre existant avec deux pistes unidirectionnelles de 2 à 2.50m de large.
@@ -106,7 +105,7 @@ La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchi
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
 Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
 
-*ajouter [une image](https://static.actu.fr/uploads/2023/07/ilex-garibaldi-4-placestalingrad-960x640.jpg) d'illustration*
+*TODO: ajouter [une image](https://static.actu.fr/uploads/2023/07/ilex-garibaldi-4-placestalingrad-960x640.jpg) d'illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220610_lyon3-lyon7_garibaldi-dossier-concertation.pdf)
@@ -165,7 +164,7 @@ De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa cr
 
 *Les travaux devraient s'étendre entre 2024 et fin 2025.*
 
-*ajouter illustration*
+*TODO: ajouter illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}

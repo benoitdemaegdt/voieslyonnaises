@@ -110,7 +110,7 @@ La Voie Lyonnaise 5 empruntera :
   - le parc naturel de l'Yzeron sous une voie verte de 2 à 3m de large,
   - le côté sud du boulevard Emile Zola, à partir de l'Intermarché jusqu'au pont Blanc, sous la forme d'une voie verte de 3 à 5m de large *(sauf point dur à moins de 2.5m sur 60m)*.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### Boulevard de l'Yzeron
 Une voie verte de 3 à 4m de large y a été aménagée en 2018 côté Nord. Le projet prévoit de conserver l'aménagement existant, en améliorant le débouché Ouest avec le déplacement de la station Velo'V.
@@ -120,7 +120,7 @@ Ce tronçon fait l'objet de deux variantes d'itinéraires :
   - au Nord, en voie verte, par la traversée du Parc Chabrières-Arles jusqu'à la piscine municipale, puis 50m côté Ouest de la Grande Rue pour rejoindre la rue du Président Herriot et les berges Nord de l'Yzeron
   - au Sud, en voie verte sur le trottoir Nord du boulevard Emile Zola puis en piste cyclable bidirectionnelle sur la rue Pierre Sémard mise à sens unique avant de continuer sur l'avenue du Rhône
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
