@@ -218,6 +218,28 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
+        "name": "Variante Lanessan",
+        "distance": 747,
+        "status": "variante",
+        "text": "Variante Lanessan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.792812312337219, 45.79480353088516],
+          [4.792476063050373, 45.79513103345167],
+          [4.79158357806017, 45.79593517242506],
+          [4.7894823151976595, 45.7978380825422],
+          [4.787389950382703, 45.799740806442145],
+          [4.786995357644969, 45.800152396625634]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
         "name": "Valmy",
         "distance": 1140,
         "status": "unknown"
