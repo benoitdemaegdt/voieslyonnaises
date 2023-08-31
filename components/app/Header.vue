@@ -15,8 +15,8 @@
             <div class="text-2xl font-extrabold text-lvv-blue-600">
               Cyclopolis
             </div>
-            <div class="ml-14 text-sm">
-              par <span class="text-lvv-blue-600">la ville à vélo</span>
+            <div class="ml-14 -mt-1 text-sm">
+              par <span class="text-lvv-blue-600 font-semibold">la ville à vélo</span>
             </div>
           </div>
         </div>
