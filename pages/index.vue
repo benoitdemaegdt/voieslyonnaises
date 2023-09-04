@@ -9,7 +9,7 @@
             Où en est le projet ?
           </h2>
           <p class="text-xl text-gray-500">
-            Après une phase de d'étude et de concertation initiée fin 2021, le projet entre en phase de réalisation. Les travaux devraient se multiplier en 2024 et 2025.
+            Après une phase de d'étude et de concertation en 2022 et 2023, le projet entre en phase de réalisation.<br/> Les travaux devraient se multiplier en 2024 et 2025.
           </p>
         </div>
       </div>
@@ -22,7 +22,7 @@
             Avancement par ligne
           </h2>
           <p class="text-xl text-gray-500">
-            Choisissez une voie lyonnaise pour étudier le projet et voir son niveau d'avancement.
+            Choisissez une Voie Lyonnaise pour connaitre le détail du projet et voir son niveau d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />
