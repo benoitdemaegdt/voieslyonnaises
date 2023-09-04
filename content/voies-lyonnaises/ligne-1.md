@@ -3,7 +3,7 @@ line: 1
 color: "#60A75B"
 from: Vaulx-en-Velin
 to: Saint-Fons
-distance: 21000
+distance: 18000
 description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particuliarité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
 trafic: 28k vélos/j
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017830/voieslyonnaises/ligne1/cover-vl1_srrxyk.png
