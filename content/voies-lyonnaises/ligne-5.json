@@ -60,6 +60,23 @@
       "properties": {
         "line": 5,
         "color": "#AF7392",
+        "name": "Liaison VL7",
+        "distance": 431,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8555088352921985, 45.68439679945857],
+          [4.860771725740051, 45.68561795976015]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "color": "#AF7392",
         "name": "Oullins - Pierre-Bénite",
         "distance": 5232,
         "status": "planned"
