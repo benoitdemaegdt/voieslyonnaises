@@ -32,7 +32,7 @@ Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T9 - avenue Einstein (Villeurbanne)
 credit: SYTRAL Mobilités
 ---
