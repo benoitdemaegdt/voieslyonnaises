@@ -6,7 +6,7 @@
           Les Voies Lyonnaises, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le nom donné au projet de réseau cyclable porté par la Métropole de Lyon. Concrètement, une Voie Lyonnaise est une voie cyclable large (3 à 4m), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble de ces pistes doit créer un maillage cyclable sans discontinuités qui connecte les différents quartiers lyonnais aux communes de la périphérie de la métropole.
+          C'est le nom donné au projet de réseau cyclable porté par la Métropole de Lyon.<br/>Concrètement, une Voie Lyonnaise est une voie cyclable large (3 à 4m), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers lyonnais aux communes de la périphérie de la métropole.
         </p>
       </div>
     </div>

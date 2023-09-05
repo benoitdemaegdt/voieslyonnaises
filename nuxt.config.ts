@@ -1,6 +1,6 @@
-const TITLE = 'Cyclopolis - La plateforme de suivi des voies lyonnaises';
+const TITLE = 'Cyclopolis - La plateforme de suivi des Voies Lyonnaises';
 const DESCRIPTION =
-  'Plateforme citoyenne et associative de suivi des voies lyonnaises. Actualité, cartes précises et à jour des itinéraires, travaux : suivez en temps réel le développement des pistes cyclables lyonnaises';
+  'Plateforme citoyenne et associative de suivi des Voies Lyonnaises, par La Ville à Vélo. Cartes précises des itinéraires, détails, travaux : suivez en temps réel le développement du grand réseau cyclable lyonnais';
 const BASE_URL = 'https://cyclopolis.fr';
 const COVER_IMAGE_URL =
   'https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png';

@@ -5,7 +5,7 @@
   >
     <template #header>
       <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-        Voie lyonnaise
+        Voie Lyonnaise
         <div
           class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
           :style="`background-color: ${voie.color}`"
@@ -35,10 +35,10 @@ const { data: voie } = await useAsyncData(`${path}`, () => {
   return queryContent('voies-lyonnaises').where({ _type: 'markdown', line: Number(line) }).findOne()
 })
 
-const description = `Découvrez la voie lyonnaise n°${voie.value.line}. Carte, itinéraire rue par rue, calendrier des travaux, photos du projet et dossiers de concertation.`
+const description = `Découvrez la Voie Lyonnaise ${voie.value.line}. Carte, itinéraire rue par rue, calendrier des travaux, détails et photos du projet.`
 const coverImage = voie.value.cover
 useHead({
-  title: `Voie Lyonnaise n°${voie.value.line}`,
+  title: `Voie Lyonnaise ${voie.value.line}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
