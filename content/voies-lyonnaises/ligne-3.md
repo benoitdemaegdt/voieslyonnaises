@@ -15,7 +15,7 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voiesl
 ### Quincieux/Genay à l'Île Barbe
 
 #### Branches Nord<br/>*Quincieux à Neuville*
-Cette première branche devait commencer à la limite Ouest de Quincieux, au niveau de la traversée de l'A466, pour se connecter à un futur aménagement cyclable vers Anse. Cependant, compte-tenu de l'étroitesse de la voirie dans la traversée du bourg de Grand Veissieux, la Métropole a préféré conserver en l'état la voirie existante. En dehors de ce bourg sans aménagements cyclables, on conserve donc des bandes cyclables bilatérales et non sécurisées.
+Cette première branche devait commencer à la limite Ouest de Quincieux, au niveau de la traversée de l'A466, pour se connecter à un futur aménagement cyclable vers Anse. Cependant, compte-tenu de l'étroitesse de la voirie dans la traversée du bourg de Grand Veissieux, la Métropole a préféré conserver en l'état la voirie existante. En dehors de ce bourg sans aménagements cyclables, on conserve des bandes cyclables bilatérales et non sécurisées.
 
 La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
 
@@ -35,7 +35,7 @@ Ce tronçon débute à l'entrée de la commune de Massieux entre les deux girato
 
 #### Neuville-sur-Saône à Saint-Rambert
 *Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine-sur-Saône (pont Général Leclerc)*<br/>  
-La voie lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
+La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
 ::image
 ---
@@ -50,7 +50,7 @@ La section sur la commune de St-Romain est prévue d'ici l'été 2024.
 Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire est aménagée depuis l'été 2020.*
 
 #### Saint-Rambert à pont de l'Île Barbe
-Cette section de 500m à l'inconvénient d'être particulièrement étroite et de ne peut pas acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
+Cette section de 500m à l'inconvénient d'être particulièrement étroite et de ne pas pouvoir acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.  
@@ -125,7 +125,7 @@ credit: Passagers des Villes / Métropole de Lyon
 Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur trottoir de 3m de large côté Ouest de la chaussée, créée entre 2019 et 2020. L'objectif est tout de même de l'améliorer ponctuellement en l'élargissant sur les sections les plus étroites et en améliorant certaines zones dangereuses avec une mauvaise visibilité et du conflit avec les piétons.
 
 #### Quartier de la Saulaie
-La voie lyonnnaire n°3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
+La Voie Lyonnnaire 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 
 #### Traversée de Pierre-Bénite
 Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
