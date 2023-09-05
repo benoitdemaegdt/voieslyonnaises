@@ -5,7 +5,7 @@ from: Quincieux
 to: Givors
 distance: 57000
 description: La Voie Lyonnaise 3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier de la Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle rejoint les berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
-trafic: 11k vélos / jour
+trafic: 11k vélos/j
 logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017953/voieslyonnaises/ligne3/cover-vl3_bndsdf.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
 ---
@@ -13,10 +13,11 @@ cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voiesl
 ## Les tronçons (du Nord au Sud)
 
 ### Quincieux/Genay à l'Île Barbe
-*Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine-sur-Saône (pont Général Leclerc)*
 
 #### Branches Nord<br/>*Quincieux à Neuville*
-Cette première branche débute au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
+Cette première branche devait commencer à la limite Ouest de Quincieux, au niveau de la traversée de l'A466, pour se connecter à un futur aménagement cyclable vers Anse. Cependant, compte-tenu de l'étroitesse de la voirie dans la traversée du bourg de Grand Veissieux, la Métropole a préféré conserver en l'état la voirie existante. En dehors de ce bourg sans aménagements cyclables, on conserve donc des bandes cyclables bilatérales et non sécurisées.
+
+La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
 
 ::image
 ---
@@ -33,6 +34,7 @@ Ce tronçon débute à l'entrée de la commune de Massieux entre les deux girato
 
 
 #### Neuville-sur-Saône à Saint-Rambert
+*Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine-sur-Saône (pont Général Leclerc)*<br/>  
 La voie lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
 ::image

@@ -46,7 +46,7 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Une initiative de l'association La Ville à Vélo pour suivre le développement du réseau express vélo Lyonnais.
+              Une initiative de l'association <strong>La Ville à Vélo</strong> pour suivre le développement du nouveau réseau vélo sécurisé Lyonnais.
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
