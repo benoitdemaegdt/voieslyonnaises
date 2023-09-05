@@ -52,7 +52,7 @@ La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1-bd-11-novembre.png
 caption: Aperçu de la Voie Lyonnaise 1 - boulevard du 11 Novembre 1918 (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon.
 ---
