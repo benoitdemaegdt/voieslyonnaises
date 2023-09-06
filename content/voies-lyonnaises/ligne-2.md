@@ -6,7 +6,7 @@ to: Saint-Priest
 distance: 24000
 description: La Voie Lyonnaise 2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Après avoir longé la Saône jusqu'à l'Île Barbe, elle traversera le plateau Nord en desservant le centre de Caluire, puis redescendra vers Lyon via le pont Poincaré. Elle transformera ensuite plusieurs autoroutes urbaines majeures sur le boulevard Stalingrad, le boulevard Vivier-Merle et le boulevard des Tchécoslovaques. Après le carrefour de Jet d'Eau, elle empruntera l'avenue des Etats-Unis puis l'avenue Viviani en direction du quartier de Parilly. Elle terminera son parcours le long de la route de Lyon, aux portes du centre-ville de Saint-Priest.
 trafic: 21k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
@@ -68,7 +68,7 @@ La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard Vivier Merle (Lyon 3)
 credit: Métropole de Lyon
 ---
@@ -95,7 +95,7 @@ Côté Est, l'ensemble de la voirie actuelle ne sera pas modifiée.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-2_u9cgbp.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard des États-Unis (Lyon 8)
 credit: Métropole de Lyon
 ---
@@ -108,7 +108,7 @@ Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-4_qnsgd6.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/av-viviani.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - avenue Viviani (Lyon 8/Vénissieux)
 credit: Métropole de Lyon
 ---
@@ -124,7 +124,7 @@ La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisé
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-3_xmdmwx.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/av-charles-de-gaulle.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - avenue Charles de Gaulle (Vénissieux)
 credit: Métropole de Lyon
 ---
@@ -152,14 +152,14 @@ La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679314283/voieslyonnaises/ligne2/calendrier-vl-2_u5dzms.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/calendrier-central.png
 caption: Calendrier prévisionnel du tronçon central de la Voie Lyonnaise 2 de St-Clair à Berthelot.
 ---
 ::
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679383346/voieslyonnaises/ligne2/calendrier-vl-2-2_wvppbv.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/calendrier-sud.png
 caption: Calendrier prévisionnel du tronçon sud de la Voie Lyonnaise 2 de Berthelot à Saint-Priest.
 ---
 ::
