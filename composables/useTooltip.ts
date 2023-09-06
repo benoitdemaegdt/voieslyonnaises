@@ -21,6 +21,7 @@ function getStatusText(status: Status): string {
     planned: 'Prévu',
     postponed: 'Reporté après 2026',
     variante: 'Variante',
+    'variante-postponed': 'Variante reportée après 2026',
     unknown: 'Tracé à définir'
   };
   return statusText[status];

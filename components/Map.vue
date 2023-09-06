@@ -34,6 +34,7 @@ const {
   plotWipSections,
   plotPlannedSections,
   plotVarianteSections,
+  plotVariantePostponedSections,
   plotUnknownSections,
   plotPostponedSections,
   plotPois,
@@ -73,6 +74,7 @@ onMounted(() => {
     plotDoneSections({ map, features })
     plotPlannedSections({ map, features })
     plotVarianteSections({ map, features })
+    plotVariantePostponedSections({ map, features })
     plotWipSections({ map, features })
     plotUnknownSections({ map, features })
     plotPostponedSections({ map, features })

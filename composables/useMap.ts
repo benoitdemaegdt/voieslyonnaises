@@ -194,6 +194,47 @@ export const useMap = () => {
     map.on('mouseleave', 'variante-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
+  function plotVariantePostponedSections({ map, features }) {
+    const sections = features.filter(feature => feature.properties.status === 'variante-postponed');
+    if (sections.length === 0) {
+      return;
+    }
+    map.addSource('variante-postponed-sections', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: sections }
+    });
+    map.addLayer({
+      id: 'variante-postponed-sections',
+      type: 'line',
+      source: 'variante-postponed-sections',
+      paint: {
+        'line-width': 4,
+        'line-color': ['get', 'color'],
+        'line-dasharray': [2, 2],
+        'line-opacity': 0.5
+      }
+    });
+    map.addLayer({
+      id: 'variante-postponed-symbols',
+      type: 'symbol',
+      source: 'variante-postponed-sections',
+      paint: {
+        'text-halo-color': '#fff',
+        'text-halo-width': 4
+      },
+      layout: {
+        'symbol-placement': 'line',
+        'symbol-spacing': 120,
+        'text-font': ['Open Sans Regular'],
+        'text-field': ['coalesce', ['get', 'text'], 'variante reportée'],
+        'text-size': 14
+      }
+    });
+
+    map.on('mouseenter', 'variante-postponed-sections', () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', 'variante-postponed-sections', () => (map.getCanvas().style.cursor = ''));
+  }
+
   function plotUnknownSections({ map, features }) {
     const sections = features.filter(feature => feature.properties.status === 'unknown');
     if (sections.length === 0) {
@@ -367,6 +408,7 @@ export const useMap = () => {
     plotWipSections,
     plotPlannedSections,
     plotVarianteSections,
+    plotVariantePostponedSections,
     plotUnknownSections,
     plotPostponedSections,
     plotPois,

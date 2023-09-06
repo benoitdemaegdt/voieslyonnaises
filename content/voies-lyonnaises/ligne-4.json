@@ -220,8 +220,7 @@
         "color": "#DC8953",
         "name": "Variante Lanessan",
         "distance": 747,
-        "status": "variante",
-        "text": "Variante Lanessan"
+        "status": "variante-postponed"
       },
       "geometry": {
         "type": "LineString",
