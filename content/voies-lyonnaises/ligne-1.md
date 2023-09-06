@@ -6,8 +6,7 @@ to: Saint-Fons
 distance: 18000
 description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particuliarité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
 trafic: 28k vélos/j
-logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670017830/voieslyonnaises/ligne1/cover-vl1_srrxyk.png
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
@@ -52,7 +51,7 @@ La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
 
 ::image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl1-bd-11-novembre.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png
 caption: Aperçu de la Voie Lyonnaise 1 - boulevard du 11 Novembre 1918 (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon.
 ---
@@ -76,7 +75,7 @@ Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et L
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679230537/voieslyonnaises/ligne1/vl-1-tassigny-tete-or_ub6hzm.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png
 caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
 ---
 ::
@@ -93,7 +92,7 @@ Elle a été inaugurée début juillet 2022.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-3_njb0up.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg
 caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
 ---
 ::
@@ -146,14 +145,14 @@ Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaine
 ## Calendriers prévisionnels
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679220321/voieslyonnaises/ligne1/budget-vl-1_qaj2rz.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/calendrier-centre.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 1 entre la Cité Internationale et la Halle Tony Garnier à Lyon.
 ---
 ::
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679229641/voieslyonnaises/ligne1/calendrier-vl-1-nord_p7rfml.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/calendrier-nord.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 1 sur le boulevard du 11 Novembre et l'avenue Einstein à Villeurbanne.
 ---
 ::
