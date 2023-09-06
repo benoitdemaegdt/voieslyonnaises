@@ -130,14 +130,32 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
+        "name": "Pont de Neuville-sur-Saône",
+        "distance": 208,
+        "status": "postponed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8355811008772775, 45.87678084242725],
+          [4.835635060368276, 45.87678481654882],
+          [4.83813914577766, 45.87697821322175],
+          [4.838249739706839, 45.877002861354015]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "color": "#3B7B64",
         "name": "Genay - Neuville-sur-Saône",
-        "distance": 3616,
+        "distance": 3408,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.835582502443543, 45.87677630030319],
           [4.838249796365261, 45.87700276084317],
           [4.838269313149823, 45.87712051995911],
           [4.8365697867050415, 45.879164234730666],
