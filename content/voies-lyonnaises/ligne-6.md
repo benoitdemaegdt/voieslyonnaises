@@ -6,7 +6,6 @@ to: Saint-Genis-Laval
 distance: 20000
 description: La Voie Lyonnaise 6 permettra de longer le Rhône du nord au sud de la Métropole, depuis les bas quartiers de Crépieux-la-Pape jusqu'à Saint-Genis-Laval, via Saint-Clair, Lyon Rive Droite, les bas quartiers de la Mulatière et Oullins. Elle s'inscrit dans le projet d'apaisement du centre-ville d'Oullins et le grand projet de réaménagement de la rive droite du Rhône.
 trafic: 11k vélos/j
-logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018222/voieslyonnaises/ligne6/cover-vl6_phmit6.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349341/voieslyonnaises/ligne6/ligne6_ny0mgr.jpg
 ---
 

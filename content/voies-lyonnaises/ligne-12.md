@@ -7,7 +7,6 @@ distance: 11000
 description: La Voie Lyonnaise 12 doit permettre aux cyclistes de traverser Lyon d'Ouest en Est depuis Valmy dans le 9ème jusqu'à l'entrée de Bron au giratoire de la Boutasse. Elle passera par Gorge de Loup, les hauteurs de Saint-Just, Saint-Jean, Bellecour, la Guillotière, Garibaldi, Sans Souci, Montplaisir, Grange Blanche et le Vinatier. Ce projet très ambitieux vise à aménager des lieux très denses où les aménagements cyclables sont rudimentaires ou en mixité avec d'autres usages.
 trafic: 24k vélos/j
 avancement: 25%
-logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018279/voieslyonnaises/ligne12/cover-vl12_f9gc5x.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
 ---
 

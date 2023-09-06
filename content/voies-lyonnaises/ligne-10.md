@@ -6,7 +6,6 @@ to: Meyzieu
 distance: 25500
 description: La Voie Lyonnaise 10 permettra de rejoindre Meyzieu depuis Tassin en passant par Vaise, Lyon 6, la Part-Dieu, Dauphiné-Lacassagne, Grandclément, La Soie, et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon dans un axe Est-Ouest sur plus de 20km.
 trafic: 24k vélos/j
-logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018264/voieslyonnaises/ligne10/cover-vl10_kwsoup.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1683486680/voieslyonnaises/ligne10/vl10-meyzieu_g5nusy.png
 ---
 

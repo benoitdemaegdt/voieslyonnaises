@@ -6,7 +6,6 @@ to: Bron
 distance: 37500
 description: La Voie Lyonnaise 5 sera la seule ligne en rocade du réseau des Voies Lyonnaises. Cette ligne circulaire constituera le périphérique cyclable de la métropole de Lyon à l'horizon 2030. Il ne sera cependant pas bouclé en 2026 et reliera Bron à Feyzin en passant par le Nord et l'Ouest via Vaulx-en-Velin, le campus de la Doua, Vaise, Tassin-la-Demi-Lune, Francheville, Oullins, Pierre-Bénite et la vallée de la Chimie.
 trafic: 15k vélos/j
-logo: https://res.cloudinary.com/monpetitsommet/image/upload/v1670018212/voieslyonnaises/ligne5/cover-vl5_bf9kkx.png
 cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
 ---
 
