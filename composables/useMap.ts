@@ -253,15 +253,15 @@ export const useMap = () => {
     map.on('mouseleave', 'unknown-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotAbandonedSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'abandoned');
+  function plotPostponedSections({ map, features }) {
+    const sections = features.filter(feature => feature.properties.status === 'postponed');
     if (sections.length === 0) {
       return;
     }
 
     const featuresByColor = groupFeaturesByColor(sections);
     for (const [color, sameColorFeatures] of Object.entries(featuresByColor)) {
-      map.addSource(`abandoned-sections-${color}`, {
+      map.addSource(`postponed-sections-${color}`, {
         type: 'geojson',
         data: { type: 'FeatureCollection', features: sameColorFeatures }
       });
@@ -274,9 +274,9 @@ export const useMap = () => {
         map.addImage(`cross-${color}`, image);
 
         map.addLayer({
-          id: `abandoned-symbols-${color}`,
+          id: `postponed-symbols-${color}`,
           type: 'symbol',
-          source: `abandoned-sections-${color}`,
+          source: `postponed-sections-${color}`,
           layout: {
             'symbol-placement': 'line',
             'symbol-spacing': 1,
@@ -285,9 +285,9 @@ export const useMap = () => {
           }
         });
         map.addLayer({
-          id: `abandoned-text-${color}`,
+          id: `postponed-text-${color}`,
           type: 'symbol',
-          source: `abandoned-sections-${color}`,
+          source: `postponed-sections-${color}`,
           paint: {
             'text-halo-color': '#fff',
             'text-halo-width': 3
@@ -296,13 +296,13 @@ export const useMap = () => {
             'symbol-placement': 'line',
             'symbol-spacing': 150,
             'text-font': ['Open Sans Regular'],
-            'text-field': 'abandonné',
+            'text-field': 'reporté',
             'text-size': 14
           }
         });
 
-        map.on('mouseenter', `abandoned-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
-        map.on('mouseleave', `abandoned-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
+        map.on('mouseenter', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
+        map.on('mouseleave', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
       });
     }
   }
@@ -368,7 +368,7 @@ export const useMap = () => {
     plotPlannedSections,
     plotVarianteSections,
     plotUnknownSections,
-    plotAbandonedSections,
+    plotPostponedSections,
     plotPois,
     fitBounds
   };

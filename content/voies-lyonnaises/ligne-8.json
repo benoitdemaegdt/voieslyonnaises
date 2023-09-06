@@ -20,7 +20,7 @@
         "color": "#7E6D98",
         "name": "La Tour de Salvagny - Ouest",
         "distance": 1784,
-        "status": "abandoned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",

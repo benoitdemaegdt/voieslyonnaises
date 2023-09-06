@@ -18,7 +18,7 @@ const allSections = voies
   .flat()
   .filter((feature) => {
     return feature.geometry.type === 'LineString' &&
-      feature.properties.status !== 'abandoned'
+      feature.properties.status !== 'postponed'
   })
 
 // Not sure we want to compute it as it takes into account several same variants

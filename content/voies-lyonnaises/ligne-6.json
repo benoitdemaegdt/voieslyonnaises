@@ -414,7 +414,7 @@
         "color": "#396083",
         "name": "Saint-Genis-Laval",
         "distance": 2622,
-        "status": "abandoned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",

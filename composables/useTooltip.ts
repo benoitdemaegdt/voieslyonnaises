@@ -1,4 +1,4 @@
-type Status = 'done' | 'wip' | 'planned' | 'abandoned' | 'variante';
+type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
 
 type Properties = {
   line: string;
@@ -19,7 +19,7 @@ function getStatusText(status: Status): string {
     done: 'Terminé',
     wip: 'En travaux',
     planned: 'Prévu',
-    abandoned: 'Abandonné',
+    postponed: 'Reporté après 2026',
     variante: 'Variante',
     unknown: 'Tracé à définir'
   };

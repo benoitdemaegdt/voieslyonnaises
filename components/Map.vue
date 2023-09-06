@@ -35,7 +35,7 @@ const {
   plotPlannedSections,
   plotVarianteSections,
   plotUnknownSections,
-  plotAbandonedSections,
+  plotPostponedSections,
   plotPois,
   fitBounds
 } = useMap()
@@ -75,7 +75,7 @@ onMounted(() => {
     plotVarianteSections({ map, features })
     plotWipSections({ map, features })
     plotUnknownSections({ map, features })
-    plotAbandonedSections({ map, features })
+    plotPostponedSections({ map, features })
     plotPois({ map, features })
 
     fitBounds({ map, features })

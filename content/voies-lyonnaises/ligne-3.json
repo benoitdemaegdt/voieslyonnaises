@@ -601,7 +601,7 @@
         "color": "#3B7B64",
         "name": "Pierre bénite - Givors",
         "distance": 17250,
-        "status": "abandoned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
