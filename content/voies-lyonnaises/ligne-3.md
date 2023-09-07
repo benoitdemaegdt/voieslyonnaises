@@ -44,9 +44,9 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La section sur la commune de Couzon est terminée, réalisée en deux phases : Sud du pont à l'automne 2019 et Nord du pont de juin à décembre 2022.  
+*La section sur la commune de Couzon est terminée, réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.  
 La section sur la commune de St-Romain est en travaux entre septembre 2023 et mai 2024.  
-Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire est aménagée depuis l'été 2020.*
+Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée depuis l'été 2020.*
 
 #### Saint-Rambert à pont de l'Île Barbe
 Cette section de 500m à l'inconvénient d'être particulièrement étroite et de ne pas pouvoir acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
