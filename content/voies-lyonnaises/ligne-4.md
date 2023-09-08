@@ -6,7 +6,7 @@ to: Villeurbanne
 distance: 18000
 description: La Voie Lyonnaise 4 promet de pouvoir traverser la métropole lyonnaise du Nord-Ouest des Monts d'Or à Villeurbanne en passant par Limonest, Techlid, Champagne, Vaise et le 6ème arrondissement. Cette ligne prévoit d'aménager des secteurs aujourd'hui très peu pourvus en aménagements cyclables et peu sécurisés. Elle va transformer l'espace public des territoires traversés en faveur des modes actifs.
 trafic: 18k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 ---
 
 ## Les tronçons (d'Ouest en Est)
@@ -22,7 +22,7 @@ A partir du giratoire de la Maison Carrée, la Voie Lyonnaise devient une piste 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682892050/voieslyonnaises/ligne4/vl4-porte-de-lyon_fzme3r.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue de la Porte de Lyon (Dardilly)
 credit: Noémie Gratien / Métropole de Lyon
 ---
@@ -40,7 +40,7 @@ Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-3_zbyqwq.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue Lanessan (Champagne-au-Mont-d’Or)
 credit: Passagers des Villes / Métropole de Lyon
 ---
@@ -57,7 +57,7 @@ Finalement, le choix de la Métropole s'est porté sur la variante République e
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-4_mms9pp.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Boulevard de la République (Champagne)
 credit: Passagers des Villes / Métropole de Lyon
 ---
@@ -89,7 +89,7 @@ Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - avenue de Verguin (Lyon 6)
 credit: Passagers des Villes / Métropole de Lyon
 ---
@@ -111,7 +111,7 @@ Sur l'ensemble de cette section, la concertation laissait le choix de l'insertio
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-1_ypzsvx.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - rue Francis de Pressensé (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon
 ---
@@ -137,7 +137,7 @@ credit: Passagers des Villes / Métropole de Lyon
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679817967/voieslyonnaises/ligne4/calendrier-vl-4_d5vnd8.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-garde-porte-de-vaise.png
 caption: Calendrier prévisionnel du tronçon La Garde - Porte de Vaise de la Voie Lyonnaise 4.
 credit: Dossier de concertation - Métropole de Lyon
 ---
@@ -145,7 +145,7 @@ credit: Dossier de concertation - Métropole de Lyon
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679819904/voieslyonnaises/ligne4/calendrier-vl4-est_ltomdg.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-verguin-villeurbanne.png
 caption: Calendrier prévisionnel du tronçon Verguin - Villeurbanne de la Voie Lyonnaise 4.
 credit: Dossier de concertation - Métropole de Lyon
 ---
