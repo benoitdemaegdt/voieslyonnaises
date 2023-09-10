@@ -105,9 +105,9 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "La Tour de Salvagny",
-        "distance": 3679,
-        "status": "planned"
+        "name": "La Tour de Salvagny - Est",
+        "distance": 1850,
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -153,7 +153,22 @@
           [4.736024604216311, 45.80630153332521],
           [4.736897140110443, 45.805414598594865],
           [4.737107621887105, 45.80519801275952],
-          [4.737242689363228, 45.805213077644595],
+          [4.737242689363228, 45.805213077644595]
+        ]
+      }
+    },      
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Dardilly",
+        "distance": 1850,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.73760125925196, 45.804845416639694],
           [4.738015799534821, 45.8044122724761],
           [4.738463809789806, 45.803886962969074],
