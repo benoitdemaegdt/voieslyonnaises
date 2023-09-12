@@ -7,7 +7,7 @@ distance: 11000
 description: La Voie Lyonnaise 12 doit permettre aux cyclistes de traverser Lyon d'Ouest en Est depuis Valmy dans le 9ème jusqu'à l'entrée de Bron au giratoire de la Boutasse. Elle passera par Gorge de Loup, les hauteurs de Saint-Just, Saint-Jean, Bellecour, la Guillotière, Garibaldi, Sans Souci, Montplaisir, Grange Blanche et le Vinatier. Ce projet très ambitieux vise à aménager des lieux très denses où les aménagements cyclables sont rudimentaires ou en mixité avec d'autres usages.
 trafic: 24k vélos/j
 avancement: 25%
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
+cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
 ## Les tronçons (d'Ouest en Est)
@@ -20,7 +20,7 @@ Cet aménagement très attendu permettra d'enfin sécuriser les déplacements de
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest_dpbj92.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue du Sergent Berthet (Lyon 9)
 credit: Métropole de Lyon
 ---
@@ -45,7 +45,7 @@ La montée du Chemin Neuf sera elle-même aménagée en vélorue avec un trafic 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest-2_faecvm.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue de Trion (Lyon 5)
 credit: Métropole de Lyon
 ---
@@ -63,7 +63,7 @@ En plus de la création de cet aménagement cyclable sécurisé, le projet prév
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png
 caption: Aperçu de la Voie Lyonnaise 12 - Place Bellecour (Lyon 2)
 credit: Métropole de Lyon
 ---
@@ -77,7 +77,7 @@ Les différents carrefours majeurs de la section (place Gabriel Péri, Manufactu
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png
 caption: Aperçu de la Voie Lyonnaise 12 - place Gabriel Péri (Lyon 7)
 credit: Métropole de Lyon
 ---
@@ -85,7 +85,7 @@ credit: Métropole de Lyon
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 caption: Aperçu de la Voie Lyonnaise 12 - Cours Gambetta (Lyon 7)
 credit: Métropole de Lyon
 ---
@@ -98,7 +98,7 @@ Entre le boulevard Ambroise Paré et le boulevard Pinel, l'avenue Rockefeller es
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Rockefeller (Lyon 3/Lyon 8)
 credit: Métropole de Lyon
 ---
@@ -121,7 +121,7 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/timeline_mgbxa6.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/calendrier.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 12
 ---
 ::
