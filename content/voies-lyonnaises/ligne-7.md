@@ -6,7 +6,7 @@ to: Feyzin
 distance: 25000
 description: La Voie Lyonnaise 7 permettra de traverser la métropole de Lyon en suivant un axe nord-sud central. Elle traversera Rillieux-la-Pape depuis le nouveau quartier Osterode avant de rejoindre la voie verte des Dombes à travers Caluire-et-Cuire, en direction de la Croix-Rousse ou du parc de la Tête d'Or. Elle passera à travers Lyon sur la rue Garibaldi, puis la route de Vienne avant de rejoindre le centre-ville de Saint-Fons puis Feyzin. Ce projet très ambitieux devrait métamorphoser le paysage urbain tout en révolutionnant la mobilité de nombreux habitants.
 trafic: 18k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349477/voieslyonnaises/ligne7/ligne7_bsseok.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl7/voie-lyonnaise-7.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
@@ -20,7 +20,7 @@ Elle rejoint ensuite la route du Mas Rillier sous la forme de deux pistes cyclab
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947385/voieslyonnaises/ligne7/vl7-caluire-et-cuire_oxruqc.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png
 caption: Aperçu de la Voie Lyonnaise 7 - Route du Mas Rillier - Rillieux-la-Pape
 credit: Métropole de Lyon
 ---
@@ -54,7 +54,7 @@ Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protesta
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947381/voieslyonnaises/ligne7/vl7-voie-verte-des-dombes_iefy0d.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/caluire-voie-verte-dombe.png
 caption: Aperçu de la Voie Lyonnaise 7 - Voie verte de la Dombe (Caluire-et-Cuire)
 credit: Métropole de Lyon
 ---
@@ -86,7 +86,7 @@ Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise c
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682969076/voieslyonnaises/ligne7/vl-7-db-des-canuts_jars89.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
 caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
 credit: Métropole de Lyon
 ---
@@ -118,7 +118,7 @@ Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la pi
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384110/voieslyonnaises/ligne7/vl7-rue-garibaldi_iw5qyx.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud (Lyon 7)
 credit: Métropole de Lyon
 ---
@@ -134,7 +134,7 @@ La traversée du périphérique sera reprise et sécurisée pour les cyclistes a
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384108/voieslyonnaises/ligne7/vl7-route-de-vienne_qfesfp.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png
 caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne (Lyon 8)
 credit: Métropole de Lyon
 ---
@@ -145,7 +145,7 @@ Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683384114/voieslyonnaises/ligne7/vl7-av-jean-jaures-saint-fons_xgoxqk.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png
 caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
 credit: Métropole de Lyon
 ---
@@ -189,14 +189,14 @@ A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1682947378/voieslyonnaises/ligne7/calendrier-nord_krczid.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/calendrier-nord.png
 caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Nord.
 ---
 ::
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683385145/voieslyonnaises/ligne7/vl-7-calendrier-sud_gbnrtd.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/calendrier-sud.png
 caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Sud.
 ---
 ::
