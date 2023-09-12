@@ -6,7 +6,7 @@ to: Chassieu
 distance: 18000
 description: La Voie Lyonnaise 11 permettra de traverser la métropole lyonnaise sur un axe ouest-est. Elle partira du quartier du Point du Jour à Lyon 5 pour desservir la Favorite et Saint-Just. Elle traversera la Presqu'Île avant de remonter rue de Bonnel, puis continuera vers l'Est par la Part Dieu, Maisons-Neuves, Montchat Nord avant de poursuivre sur la route de Genas vers les Sept Chemins puis Chassieu.
 trafic: 25k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349639/voieslyonnaises/ligne11/ligne11_lrgvh3.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl11/voie-lyonnaise-11.jpg
 ---
 
 ## Les tronçon
@@ -133,7 +133,7 @@ _source: [page 20 de ce dossier de concertation](https://jeparticipe.grandlyon.c
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683454180/voieslyonnaises/ligne11/vl11-calendrier_egssz1.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl11/calendrier-chassieu.png
 caption: Voie Lyonnaise 11 - Calendrier prévisionnel de la section Chassieu.
 ---
 ::
