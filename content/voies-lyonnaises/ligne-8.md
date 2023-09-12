@@ -6,7 +6,7 @@ to: Bron
 distance: 28000
 description: La Voie Lyonnaise 8 traversera la Métropole de Lyon d'Ouest en Est, de La-Tour-de-Salvagny à la Porte des Alpes à Saint-Priest. Elle traversera de nombreuses localités aujourd'hui hostiles au vélo, comme Charbonnières, Tassin, Champvert, Jean Macé, Blandan, Bachut, Mermoz et Bron Université. Ce projet ambitieux transformera les espaces publics traversés au bénéfice des modes actifs.
 trafic: 19k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl8/voie-lyonnaise-8.jpg
 ---
 
 ## Les tronçons (d'Ouest en Est)
