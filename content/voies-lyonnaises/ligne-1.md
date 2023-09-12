@@ -18,7 +18,7 @@ Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au 
 
 ::image
 ---
-imageUrl: https://cdn-s-www.leprogres.fr/images/0fca5416-6e05-417e-8a96-80c01f35cf86/NW_listA_M/le-franchissement-du-canal-de-jonage-au-niveau-du-quartier-saint-jean-a-villeurbanne-(images-non-contractuelles)-visuel-sytral-lavigne-cheron-1676832212.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/franchissement-canal-de-jonage.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage
 ---
 ::
@@ -114,7 +114,7 @@ Sa réalisation sera réalisée en même temps que la ligne de tramway, sous mai
 Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
 ::image
 ---
-imageUrl: https://static.actu.fr/uploads/2023/03/tram-t10-lyon-960x640.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png
 caption: Aperçu de la Voie Lyonnaise 1 sur l'avenue Tony Garnier.
 ---
 ::
@@ -122,7 +122,7 @@ caption: Aperçu de la Voie Lyonnaise 1 sur l'avenue Tony Garnier.
 Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée.
 ::image
 ---
-imageUrl: https://static.actu.fr/uploads/2023/03/tram-t10-grand-lyon-960x619.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png
 caption: Aperçu de la Voie Lyonnaise 1 sur le boulevard Sampaix.
 ---
 ::
@@ -130,7 +130,7 @@ caption: Aperçu de la Voie Lyonnaise 1 sur le boulevard Sampaix.
 Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
 ::image
 ---
-imageUrl: https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - rue Charles Plasse (Saint-Fons)
 credit: Ilex / SYTRAL Mobilité
 ---
