@@ -6,7 +6,7 @@ to: Givors
 distance: 57000
 description: La Voie Lyonnaise 3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier de la Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle rejoint les berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
 trafic: 11k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
@@ -20,7 +20,7 @@ La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-quincieux_cjq56r.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png
 caption: Aperçu de la Voie Lyonnaise 3 entre St-Germain-au-Mont-d'Or et Neuville
 credit: Métropole de Lyon
 ---
@@ -38,7 +38,7 @@ La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-3_dk3bzw.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Couzon-au-Mont-d'Or
 credit: Métropole de Lyon
 ---
@@ -66,7 +66,7 @@ Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-4_ioqvpb.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png
 caption: Photo de la Voie Lyonnaise 3 - Quai du Commerce (Lyon 9)
 ---
 ::
@@ -77,7 +77,7 @@ Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en se
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Arloing (Lyon 9)
 credit: Métropole de Lyon
 ---
@@ -92,7 +92,7 @@ Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Ful
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Fulchiron (Lyon 5)
 credit: Métropole de Lyon
 ---
@@ -111,7 +111,7 @@ L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens u
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679684083/voieslyonnaises/ligne3/vl-3-quai-jean-jacques-rousseau_th9mnw.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Jean-Jacques Rousseau (La Mulatière)
 credit: Passagers des Villes / Métropole de Lyon
 ---
@@ -132,7 +132,7 @@ Enfin, les cyclistes emprunteront la voie verte existante de 3m de large sur le 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679732989/voieslyonnaises/ligne3/vl-3-bd-europe_jpmfzo.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png
 caption: Aperçu de la Voie Lyonnaise 3 - Boulevard de l’Europe (Pierre-Bénite)
 credit: Métropole de Lyon
 ---
@@ -185,21 +185,21 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-calendrier_zbqnre.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/calendrier-nord-quincieux.png
 caption: Calendrier prévisionnel du tronçon Quincieux - Île Barbe de la Voie Lyonnaise 3.
 ---
 ::
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668746/voieslyonnaises/ligne3/calendrier-vl-3-centrale_sj8mtt.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/calendrier-central.png
 caption: Calendrier prévisionnel du tronçon Île Barbe - Pont Kitchener de la Voie Lyonnaise 3.
 ---
 ::
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679668747/voieslyonnaises/ligne3/calendrier-vl-3-sud_xbxrwr.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/calendrier-sud.png
 caption: Calendrier prévisionnel du tronçon Pont de la Mulatière - Pierre-Bénite de la Voie Lyonnaise 3.
 ---
 ::
