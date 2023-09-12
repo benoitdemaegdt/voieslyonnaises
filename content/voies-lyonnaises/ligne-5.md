@@ -6,7 +6,7 @@ to: Bron
 distance: 37500
 description: La Voie Lyonnaise 5 sera la seule ligne en rocade du réseau des Voies Lyonnaises. Cette ligne circulaire constituera le périphérique cyclable de la métropole de Lyon à l'horizon 2030. Il ne sera cependant pas bouclé en 2026 et reliera Bron à Feyzin en passant par le Nord et l'Ouest via Vaulx-en-Velin, le campus de la Doua, Vaise, Tassin-la-Demi-Lune, Francheville, Oullins, Pierre-Bénite et la vallée de la Chimie.
 trafic: 15k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
+cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
 ## Les tronçons (dans le sens antihoraire)
@@ -19,7 +19,7 @@ Le projet consiste en un confortement de la piste cyclable existante située à 
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-3_yvdsow.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bron-parc-du-chene.png
 caption: Aperçu de la Voie Lyonnaise 5 - le long du Parc du Chêne (Bron)
 credit: Métropole de Lyon
 ---
@@ -32,7 +32,7 @@ Sur cette section du BUE inaugurée entre 1988 et 1990, l'aménagement actuel es
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664192770/voieslyonnaises/ligne5/ligne5-4_xwlbxl.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 caption: Aperçu de la Voie Lyonnaise 5 - entre avenue Roosevelt et rue Elisée Reclus (Décines)
 credit: Métropole de Lyon
 ---
@@ -148,7 +148,7 @@ La Voie Lyonnaise 5 empruntera :
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1679854142/voieslyonnaises/ligne5/calendrier-vl5_piryym.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-troncon-est.png
 caption: calendrier prévisionnel de la Voie Lyonnaise 5 (tronçon Est).
 ---
 ::
