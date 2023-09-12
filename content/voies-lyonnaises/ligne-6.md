@@ -6,7 +6,7 @@ to: Saint-Genis-Laval
 distance: 20000
 description: La Voie Lyonnaise 6 permettra de longer le Rhône du nord au sud de la Métropole, depuis les bas quartiers de Crépieux-la-Pape jusqu'à Saint-Genis-Laval, via Saint-Clair, Lyon Rive Droite, les bas quartiers de la Mulatière et Oullins. Elle s'inscrit dans le projet d'apaisement du centre-ville d'Oullins et le grand projet de réaménagement de la rive droite du Rhône.
 trafic: 11k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349341/voieslyonnaises/ligne6/ligne6_ny0mgr.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
@@ -36,7 +36,7 @@ Les travaux devraient démarrer début 2025.
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1687172757/voieslyonnaises/ligne6/vl6-tronc%CC%A7on-central_cwvtmg.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/quai-jules-courmont.png
 caption: Aperçu de la Voie Lyonnaise 6 - Quai Jules Courmont (Lyon 2)
 credit: Métropole de Lyon
 ---
@@ -107,7 +107,7 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 ## Calendrier prévisionnel
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1687173444/voieslyonnaises/ligne6/vl6-oullins-calendrier_z6vsq6.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/calendrier-sud.png
 caption: Calendrier prévisionnel du tronçon Sud traversant Oullins.
 ---
 ::
