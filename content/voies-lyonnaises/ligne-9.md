@@ -6,7 +6,7 @@ to: Oullins
 distance: 32500
 description: La Voie Lyonnaise 9 permettra de relier la commune d'Oullins à Jonage en passant par Gerland, Jean Macé, la rue Garibaldi, la Tête d'Or, le campus de la Doua ainsi que Vaulx-en-Velin et le parc de Miribel-Jonage le long de la ViaRhôna.
 trafic: 14k vélos/j
-cover: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349569/voieslyonnaises/ligne9/ligne9_yz31hs.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 ---
 
 ## Les tronçons (d'Ouest en Est)
@@ -54,7 +54,7 @@ Sur ce tronçon, il est prévu d'élargir la voie verte existante qui fait 2.50m
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg
 caption: Aperçu de la Voie Lyonnaise 9 - le long de l'A42 (Vaulx-en-Velin)
 credit: Métropole de Lyon
 ---
@@ -100,7 +100,7 @@ Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland
 
 ::image
 ---
-imageUrl: https://res.cloudinary.com/monpetitsommet/image/upload/v1683831050/voieslyonnaises/ligne9/vl9-calendrier_qmweyk.png
+imageUrl: https://cyclopolis.lavilleavelo.org/vl9/calendrier-nord-est.png
 caption: Voie Lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 ---
 ::
