@@ -6,7 +6,7 @@
       "properties": {
         "line": 9,
         "color": "#EAAB50",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349573/voieslyonnaises/ligne9/ligne9-2_yhcabj.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +695,7 @@
           [4.82636402377787, 45.721737822851765]
         ]
       }
-    },   
+    },
     {
       "type": "Feature",
       "properties": {

@@ -6,7 +6,7 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest_dpbj92.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679167333/voieslyonnaises/ligne12/vl-12-ouest-2_faecvm.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159830/voieslyonnaises/ligne12/vl-12-1_ced2j9.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1676877756/voieslyonnaises/ligne12/ligne12-2_wdin0v.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159835/voieslyonnaises/ligne12/vl-12-2_z8361p.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "line": 12,
         "color": "#DBABB7",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679159834/voieslyonnaises/ligne12/vl-12-3_ydmifu.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png"
       },
       "geometry": {
         "type": "Point",

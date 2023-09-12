@@ -6,7 +6,7 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683118773/voieslyonnaises/ligne1/vl1-vaulx-en-velin_jbyyit.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663406600/voieslyonnaises/ligne1/ligne1-1_xwdxxi.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679234842/voieslyonnaises/ligne1/vl-1-11-novrembre_odtjeo.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "line": 1,
         "color": "#60A75B",
-        "imgUrl": "https://pbs.twimg.com/media/FrCNDomXsAAbsIZ?format=jpg&name=large"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg"
       },
       "geometry": {
         "type": "Point",

@@ -6,7 +6,7 @@
       "properties": {
         "line": 6,
         "color": "#396083",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349341/voieslyonnaises/ligne6/ligne6_ny0mgr.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 6,
         "color": "#396083",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1687172757/voieslyonnaises/ligne6/vl6-tronc%CC%A7on-central_cwvtmg.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/quai-jules-courmont.png"
       },
       "geometry": {
         "type": "Point",

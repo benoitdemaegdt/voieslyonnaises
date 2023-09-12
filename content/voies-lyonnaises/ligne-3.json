@@ -6,7 +6,7 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679471381/voieslyonnaises/ligne3/vl-3-quincieux_cjq56r.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-3_dk3bzw.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-2_wicyuq.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663493013/voieslyonnaises/ligne3/ligne3-1_lxefe8.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679684083/voieslyonnaises/ligne3/vl-3-quai-jean-jacques-rousseau_th9mnw.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1679732989/voieslyonnaises/ligne3/vl-3-bd-europe_jpmfzo.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png"
       },
       "geometry": {
         "type": "Point",

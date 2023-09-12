@@ -6,7 +6,7 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682892050/voieslyonnaises/ligne4/vl4-porte-de-lyon_fzme3r.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-3_zbyqwq.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-4_mms9pp.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-2_yoaehq.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663956892/voieslyonnaises/ligne4/ligne4-1_ypzsvx.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg"
       },
       "geometry": {
         "type": "Point",

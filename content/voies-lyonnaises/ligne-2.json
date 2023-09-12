@@ -6,7 +6,7 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-2_u9cgbp.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-1_wy7vvc.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-4_qnsgd6.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/av-viviani.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1663486921/voieslyonnaises/ligne2/ligne2-3_xmdmwx.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/av-charles-de-gaulle.jpg"
       },
       "geometry": {
         "type": "Point",

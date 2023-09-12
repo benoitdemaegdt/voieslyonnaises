@@ -10,7 +10,7 @@
 
 <script setup>
 const description = 'Découvrez le plan officiel des Voies Lyonnaises, le futur réseau vélo lyonnais de 270km.'
-const COVER_IMAGE_URL = 'https://res.cloudinary.com/monpetitsommet/image/upload/v1663494829/voieslyonnaises/voies-lyonnaises_wkew1x.png'
+const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/voies-lyonnaises.png'
 useHead({
   title: 'Plan officiel des Voies Lyonnaises',
   meta: [

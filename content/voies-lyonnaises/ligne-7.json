@@ -6,7 +6,7 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682969076/voieslyonnaises/ligne7/vl-7-db-des-canuts_jars89.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png"
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +18,7 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682947381/voieslyonnaises/ligne7/vl7-voie-verte-des-dombes_iefy0d.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/caluire-voie-verte-dombe.png"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1682947385/voieslyonnaises/ligne7/vl7-caluire-et-cuire_oxruqc.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683384110/voieslyonnaises/ligne7/vl7-rue-garibaldi_iw5qyx.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683384108/voieslyonnaises/ligne7/vl7-route-de-vienne_qfesfp.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1683384114/voieslyonnaises/ligne7/vl7-av-jean-jaures-saint-fons_xgoxqk.png"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png"
       },
       "geometry": {
         "type": "Point",
