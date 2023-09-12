@@ -51,7 +51,7 @@
                 x x x x x
               </div>
             </div>
-            <div>abandonné pour 2026</div>
+            <div>reporté après 2026</div>
           </div>
         </div>
       </DialogPanel>
