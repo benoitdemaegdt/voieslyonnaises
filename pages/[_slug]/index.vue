@@ -17,6 +17,8 @@
     <Overview :voie="voie" />
     <ContentRenderer :value="voie" />
   </ContentFrame>
+
+  <LvvCta class="pb-10" />
 </template>
 
 <script setup>
