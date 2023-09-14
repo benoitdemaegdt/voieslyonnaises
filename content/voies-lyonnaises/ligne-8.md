@@ -35,7 +35,7 @@ Ce projet ambitieux sera réalisé en deux phases :
 #### Tassin - Montcelard à Valvert
 Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissements des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'avenue Roosevelt, cette portion sans aménagements cyclables verra la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Est et l'aménagement de trottoirs plus confortables tout en conservant les 4 voies de circulation actuelles.
 
@@ -48,7 +48,7 @@ Sur le chemin du Vallon, deux variantes ont été proposées :
  - la création d'une voie verte de 3.50 à 4.50m de large sur le trottoir Sud
  - la suppression du trottoir Nord le long du Leroy Merlin et la création d'une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.30m de large avec un point dur à 2.20m au niveau de la sortie du magasin de bricolage
 
-*Ajouter illustration piste*
+*TODO: Ajouter illustration piste*
 
 #### *Concertation*
 La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.  
@@ -63,17 +63,17 @@ Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la pi
 
 Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour continuer à travers le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### Avenue Barthélémy Buyer
 Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompera au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### Avenue Apollinaire et quartier de la Gravière
 La Voie Lyonnaise 8 sera donc déviée par l'avenue Apollinaire, avec la création d'une piste cyclable bidirectionnelle de 2.50m côté Est jusqu'à l'entrée du lotissement de la Gravière. Elle empruntera ensuite la rue de la Gravière puis la rue de la Persévérance. Ces voies privées avec peu de trafic automobile pourront être traitées en vélorue et embellies avec de la végétalisation.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
@@ -114,19 +114,19 @@ Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deu
  - côté Ouest, à la place d'une voie de circulation et de la bande cyclable *VARIANTE VALIDEE*
  - côté Est, après le trottoir existant sur le terrain du campus
 
-*Ajouter illustration*
+*TODO : Ajouter illustration*
 
 #### Boulevard de l'Université
 Sur ce boulevard très routier, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 4m de large côté Sud :
  - sur la voirie, en lieu et place d'une voie de circulation *VARIANTE VALIDEE*
  - sur l'espace vert dans le bas côté
 
-*Ajouter illustration*
+*TODO : Ajouter illustration*
 
 #### Rue Paul Langevin
 La Voie Lyonnaise évitera le boulevard André Boulloche en faiant un détour par cette rue en transformant le trottoir Ouest en voie verte de 3.75m de large.
 
-*Ajouter illustration*
+*TODO : Ajouter illustration*
 
 #### Impasse de l'Hippodrome
 L'itinéraire de la Voie Lyonnaise longera le tramway côté Nord. Une voie verte de 4m de large sera créée côté Sud sur la large voirie de l'impasse de l'Hippodrome jusqu'à l'entrée du parking, tandis que la moitié Est sera totalement fermée à la circulation avec la création d'une voie verte de 5m de large. Enfin, une piste cyclable bidirectionnelle de 3m de large sera créée le long de la plateforme tramway.
@@ -134,7 +134,7 @@ L'itinéraire de la Voie Lyonnaise longera le tramway côté Nord. Une voie vert
 #### Cours du Professeur Jean Bernard
 Il est prévu de rejoindre la très large piste existante de 5.50m le long de l'arrêt "Porte des Alpes", puis de transformer les bandes cyclables bilatérales existantes de 1.50m en deux pistes cyclables axiales bilatérales de 2m le long de la plateforme tramway.
 
-*Ajouter illustration*
+*TODO : Ajouter illustration*
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.  
@@ -153,7 +153,7 @@ source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/we
 
  
 ## Calendrier prévisionnel
-*Ajouter les calendriers prévisionnels connus*
+*TODO : Ajouter les calendriers prévisionnels connus*
 
 ## Fil d'actu
 

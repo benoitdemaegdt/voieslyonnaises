@@ -34,7 +34,7 @@ Le projet prévoit un réaménagement ambitieux avec :
  - côté Nord : l'élargissement du trottoir et la création d'une piste cyclable bidirectionnelle de 3m séparée de la chaussée par une bande technique qui accueillera les livraisons et de la végétalisation
  - côté Sud : le maintien d'une unique voie de circulation et une voie bus, en conservant le trottoir existant
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
 [Voir le dossier de concertation (p.13 à p.19)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
@@ -48,7 +48,7 @@ Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marq
 
 Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclables en une piste cyclable bidirectionnelle de 3 à 4m de large côté Nord. En parallèle, l'étroit trottoir Sud sera agrandi.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
 [Voir le dossier de concertation (p.20 à p.24)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
@@ -73,7 +73,7 @@ Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté N
 
 Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
 [Voir le dossier de concertation (p.25 à p.31)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
@@ -87,7 +87,7 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le giratoire des Sept Chemins à travers le quartier des Brosses.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
 La concertation continue se déroule de avril 2022 à décembre 2023.  
@@ -108,7 +108,7 @@ Les travaux auront lieu entre fin 2024 et 2025.
 #### Avenue Mermoz et Route de Lyon
 La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet consiste à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable deviendra prioritaire sur les voitures dans le giratoire René Cassin.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### Avenue du Dauphiné Ouest
 La voie verte existante côté Nord de la chaussée sera élargie de 2.90 à 4.00m. A la demande de la mairie de Chassieu, la traversée du giratoire d'Usingen ne sera pas sécurisée pour les modes actifs qui devront continuer à l'emprunter à leurs risques et périls.

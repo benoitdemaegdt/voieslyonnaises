@@ -63,7 +63,7 @@ credit: Métropole de Lyon
 #### Allée du Morlet
 Une fois entré à l'intérieur du parc de Miribel-Jonage, le projet prévoit de fusionner la piste cyclable existante de 3m de large et le cheminement piéton de 2m pour en faire une large voie verte de 5m de large.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 #### Allée de la Plage
 Dans cette impasse qui dessert uniquement le parking du Fontanil, le projet viendra élargir la voie verte existante de 3m de large avec 2 variantes :

@@ -29,7 +29,7 @@ credit: Métropole de Lyon
 #### Rue Pierre Audry
 Cette rue à fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine beige, s'élargie aussi en voie bus dans les 150 derniers mètres.
 
-*Ajouter photo*
+*TODO: Ajouter photo*
 
 Bien que qualitatif, cet aménagement est insuffisant au regard des ambitions des Voies Lyonnaises, car une partie de son linéaire n'est pas séparé physiquement des autres véhicules. Dans le sens de la descente, les chicanes aménagées pour réduire les vitesses conduisent souvent les véhicules à se déporter sur la bande cyclable, rendant l'aménagement très anxiogène. Une reprise ultérieure sera donc nécessaire pour en faire un maillon effectif du réseau des Voies Lyonnaises.
 
@@ -107,7 +107,7 @@ credit: Métropole de Lyon
 ### Boulevard Pinel à Bron - Boutasse
 Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable bidirectionnelle existante de 3m de large le long du tramway entre en conflit avec les piétons à chaque arrêt. Le projet prévoit donc de rendre cet espace aux piétons et d'aménager une nouvelle piste bidirectionelle de 4m de large sur le côté Nord de la chaussée actuelle, en réduisant la circulation automobile à 2x1 voies au lieu de 2x2 voies aujourd'hui.
 
-*Ajouter illustration*
+*TODO: Ajouter illustration*
 
 La traversée du périphérique sera améliorée avec la suppression d'une des 3 voies de circulation côté Nord, permettant d'élargir le trottoir étroit et de créer une piste cyclable bidirectionnelle de 4m de large. Côté Bron, la voie d'insertion sur le périphérique depuis l'Est sera modifiée pour être régulée par feux.
 
