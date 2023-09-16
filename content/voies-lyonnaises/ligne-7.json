@@ -78,26 +78,6 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "name": "Rillieux - Giratoire De Gaulle",
-        "distance": 75,
-        "status": "wip"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.890616419906792, 45.81711979209612],
-          [4.890795833523754, 45.81720575873106],
-          [4.891044769916448, 45.8172729689168],
-          [4.891325103692111, 45.817183876327874],
-          [4.8914215385109685, 45.817060396889474]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux-la-Pape",
         "distance": 2800,
         "status": "planned"
@@ -189,6 +169,26 @@
           [4.919478285468159, 45.82361176217668],
           [4.919314970302025, 45.823289301346904],
           [4.919246922316489, 45.82326321987506]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "name": "Rillieux - Giratoire De Gaulle",
+        "distance": 75,
+        "status": "wip"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.890616419906792, 45.81711979209612],
+          [4.890795833523754, 45.81720575873106],
+          [4.891044769916448, 45.8172729689168],
+          [4.891325103692111, 45.817183876327874],
+          [4.8914215385109685, 45.817060396889474]
         ]
       }
     },
@@ -584,7 +584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiNord - commun",
+        "id": "GaribaldiNord-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi Nord",
@@ -610,7 +610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "VaubanBonnel - commun",
+        "id": "VaubanBonnel-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Vauban Bonnel",
@@ -638,7 +638,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiPartDieu - commun",
+        "id": "GaribaldiPartDieu-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Part Dieu",
@@ -658,7 +658,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiPBArménie - commun",
+        "id": "GaribaldiPBArménie-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Paul Bert Arménie",
@@ -679,7 +679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiPhase3 - commun",
+        "id": "GaribaldiPhase3-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Arménie Gde Rue Guill",
@@ -710,7 +710,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiBlandan - commun",
+        "id": "GaribaldiBlandan-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Blandan",
@@ -733,7 +733,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiCROUS - commun",
+        "id": "GaribaldiCROUS-commun",
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - CROUS",
