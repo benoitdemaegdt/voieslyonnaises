@@ -934,7 +934,7 @@
         "color": "#75BCAE",
         "name": "Feyzin Nord",
         "distance": 950,
-        "status": "unknown"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
