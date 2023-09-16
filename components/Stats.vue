@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="mt-5 grid grid-cols-2 rounded-lg bg-white overflow-hidden shadow divide-y divide-gray-200 md:grid-cols-4 md:divide-y-0 md:divide-x">
+    <div class="mt-5 grid grid-cols-2 rounded-lg bg-white overflow-hidden shadow divide-y divide-x divide-gray-200 md:divide-y-0 md:grid-cols-4 ">
       <div v-for="item in stats" :key="item.name" class="px-4 py-5 sm:p-6">
         <div class="flex justify-between">
           <div class="text-base font-normal text-gray-900">
