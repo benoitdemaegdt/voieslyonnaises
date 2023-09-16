@@ -308,7 +308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Valvert - commun",
+        "id": "Valvert-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Boulevard du Valvert",
@@ -403,7 +403,7 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "Tassin - Rue de la pépinière",
+        "name": "Tassin - Rue de la Pépinière",
         "distance": 125,
         "status": "variante"
       },
@@ -544,7 +544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Audry - commun",
+        "id": "Audry-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Pierre Audry",
@@ -570,7 +570,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BuyerEst - commun",
+        "id": "BuyerEst-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Barthélémy Buyer Est",
@@ -596,7 +596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "StJust - commun",
+        "id": "StJust-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Saint-Just & Saint-Jean",
@@ -711,7 +711,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Perrache - commun",
+        "id": "Perrache-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Traversée Presqu'île (par Perrache)",
@@ -760,7 +760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "CondéUniversité - commun",
+        "id": "CondéUniversité-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Pont de l'Université - Condé",
@@ -806,7 +806,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "MarcBloch - commun",
+        "id": "MarcBloch-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Marc Bloch",
@@ -833,7 +833,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiCROUS - commun",
+        "id": "GaribaldiCROUS-commun",
         "line": 8,
         "color": "#7E6D98",
         "name": "Garibaldi - CROUS",
