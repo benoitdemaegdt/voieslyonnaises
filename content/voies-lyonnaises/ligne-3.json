@@ -737,11 +737,32 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "GareOullins-commun",
+        "line": 3,
+        "color": "#3B7B64",
+        "name": "Oullins - Pierre Bénite",
+        "distance": 100,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [                    
+          [4.8147569596767426, 45.71829404676581],
+          [4.814874976873398, 45.71790827278646],
+          [4.81494203209877, 45.71783711030515],
+          [4.815070778131485, 45.717413878938636],
+          [4.8147569596767426, 45.71829404676581]
+        ]
+      }
+    },          
+    {
+      "type": "Feature",
+      "properties": {
         "id": "OullinsBarrage-commun",
         "line": 3,
         "color": "#3B7B64",
         "name": "Oullins - Pierre Bénite",
-        "distance": 4000,
+        "distance": 3900,
         "status": "planned"
       },
       "geometry": {
