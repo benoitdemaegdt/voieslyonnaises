@@ -67,7 +67,7 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Lissieu - Limonest",
-        "distance": 3910,
+        "distance": 3900,
         "status": "planned"
       },
       "geometry": {
@@ -142,8 +142,8 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "name": "Limonest - Mont d'Or",
-        "distance": 6172,
+        "name": "Limonest - Champagne",
+        "distance": 6150,
         "status": "planned"
       },
       "geometry": {
@@ -216,10 +216,11 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "variante2",
         "line": 4,
         "color": "#DC8953",
         "name": "Variante Lanessan",
-        "distance": 747,
+        "distance": 750,
         "status": "variante-postponed"
       },
       "geometry": {
@@ -239,14 +240,31 @@
       "properties": {
         "line": 4,
         "color": "#DC8953",
-        "name": "Valmy",
-        "distance": 1140,
+        "name": "Porte de Vaise - Valmy",
+        "distance": 900,
         "status": "unknown"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.799833558203403, 45.78217362539854],
+          [4.8053345502300715, 45.77527898350044]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ValmyEst-commun",
+        "line": 4,
+        "color": "#DC8953",
+        "name": "Valmy Est",
+        "distance": 250,
+        "status": "unknown"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.8053345502300715, 45.77527898350044],
           [4.808707159988444, 45.77503694850523]
         ]
@@ -255,11 +273,12 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "PontClemenceau-commun",
         "line": 4,
         "color": "#DC8953",
         "name": "Pont Georges Clemenceau",
-        "distance": 163,
-        "status": "planned"
+        "distance": 150,
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -273,10 +292,11 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "Tunnel-commun",
         "line": 4,
         "color": "#DC8953",
-        "name": "Tunnel de la croix-rousse",
-        "distance": 2353,
+        "name": "Tunnel de la Croix-Rousse",
+        "distance": 2350,
         "status": "planned"
       },
       "geometry": {
@@ -299,10 +319,11 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "Duquesne-commun",
         "line": 4,
         "color": "#DC8953",
-        "name": "Lyon 6 - Villeurbanne",
-        "distance": 3839,
+        "name": "Avenue Duquesne",
+        "distance": 700,
         "status": "planned"
       },
       "geometry": {
@@ -310,21 +331,68 @@
         "coordinates": [
           [4.840797185897827, 45.77244730148273],
           [4.841446280479431, 45.77240614239346],
+          [4.849686188267782, 45.773160175613505]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BelgesNord-commun",
+        "line": 4,
+        "color": "#DC8953",
+        "name": "Belges Nord",
+        "distance": 350,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.849686188267782, 45.773160175613505],
           [4.851483106613159, 45.77334156874087],
-          [4.853762984275818, 45.77243233454469],
-          [4.858982563018799, 45.77295617498622],
+          [4.8539436079958875, 45.772371140907964]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Verguin-commun",
+        "line": 4,
+        "color": "#DC8953",
+        "name": "Avenue Verguin",
+        "distance": 375,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8539436079958875, 45.772371140907964],
+          [4.858714207777808, 45.772826589591475]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "color": "#DC8953",
+        "name": "Villeurbanne",
+        "distance": 2500,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.858714207777808, 45.772826589591475],
           [4.865816831588745, 45.77240240065657],
-          [4.865975081920624, 45.77245291408345],
-          [4.866095781326294, 45.77241736760265],
           [4.866152107715607, 45.77236124153417],
           [4.867917001247405, 45.77241549673461],
           [4.869915246963501, 45.771901005642086],
-          [4.870033264160155, 45.77188042589966],
           [4.870086908340454, 45.7718205575149],
           [4.870508015155792, 45.771785010631056],
           [4.873284101486206, 45.77188978032898],
           [4.873568415641784, 45.77188978032898],
-          [4.873654246330261, 45.7719720992393],
           [4.873842000961304, 45.77187855501361],
           [4.876084327697754, 45.772031967461395],
           [4.8782944679260245, 45.77184487905396],
