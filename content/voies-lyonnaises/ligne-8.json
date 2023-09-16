@@ -19,7 +19,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "La Tour de Salvagny - Ouest",
-        "distance": 1784,
+        "distance": 1800,
         "status": "postponed"
       },
       "geometry": {
@@ -218,7 +218,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Charbonnières-les-Bains",
-        "distance": 2449,
+        "distance": 2450,
         "status": "planned"
       },
       "geometry": {
@@ -715,7 +715,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Traversée Presqu'île (par Perrache)",
-        "distance": 1000,
+        "distance": 1025,
         "status": "planned"
       },
       "geometry": {
@@ -853,8 +853,8 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "7ème et 8ème arrondissements",
-        "distance": 5035,
+        "name": "Epargne - Berliet - Mermoz",
+        "distance": 3550,
         "status": "planned"
       },
       "geometry": {
@@ -921,13 +921,12 @@
         ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "Bron",
+        "name": "Bron Université",
         "distance": 2475,
         "status": "planned"
       },
@@ -1025,7 +1024,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Campus Parilly",
-        "distance": 286,
+        "distance": 300,
         "status": "planned"
       },
       "geometry": {
@@ -1053,8 +1052,8 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "St Priest",
-        "distance": 1528,
+        "name": "Bron - Porte des Alpes",
+        "distance": 1525,
         "status": "planned"
       },
       "geometry": {
