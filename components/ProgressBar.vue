@@ -13,28 +13,16 @@ const { voies } = defineProps({
   voies: { type: Array, required: true }
 })
 
+// TODO: should compute uniqness of shared lines
 const allSections = voies
   .map(voie => voie.features)
   .flat()
-  .filter((feature) => {
-    return feature.geometry.type === 'LineString' &&
-      feature.properties.status !== 'postponed'
-  })
+  .filter(feature => feature.geometry.type === 'LineString')
 
-// Not sure we want to compute it as it takes into account several same variants
-// const totalDistance = allSections.reduce((acc, section) => {
-//   if (!section.properties.distance) {
-//     console.log('section >>', section)
-//     return acc
-//   }
-//   return acc + section.properties.distance
-// }, 0)
 const totalDistance = 250_000
 
 const doneDistance = allSections
-  .filter((feature) => {
-    return feature.properties.status === 'done'
-  })
+  .filter(feature => feature.properties.status === 'done')
   .reduce((acc, section) => {
     if (!section.properties.distance) {
       console.log('section >>', section)
