@@ -29,6 +29,9 @@ export const useStats = () => {
         if (feature.properties.id === undefined) {
           return true;
         }
+        if (feature.properties.id === 'variante2') {
+          return false;
+        }
 
         return index === sections.findIndex(section => section.properties.id === feature.properties.id);
       });
