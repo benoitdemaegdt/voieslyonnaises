@@ -21,15 +21,13 @@
 </template>
 
 <script setup>
+const { getAllSections } = useStats()
+
 const { voies } = defineProps({
   voies: { type: Array, required: true }
 })
 
-// TODO: should compute uniqness of shared lines
-const allSections = voies
-  .map(voie => voie.features)
-  .flat()
-  .filter(feature => feature.geometry.type === 'LineString')
+const allSections = getAllSections(voies)
 
 function getDistance ({ status }) {
   const distanceInMeters = allSections
