@@ -165,7 +165,7 @@
         "id": "OullinsEst-commun",
         "line": 5,
         "color": "#AF7392",
-        "name": "Oullins VL5 - scénario A",
+        "name": "Oullins Yzeron - scénario A",
         "distance": 900,
         "status": "variante",
         "text": "variante A"
@@ -217,7 +217,7 @@
         "id": "GareOullins-commun",
         "line": 5,
         "color": "#AF7392",
-        "name": "Oullins VL5 - scénario A",
+        "name": "Oullins Yzeron - scénario A",
         "distance": 100,
         "status": "variante",
         "text": "variante A"
@@ -239,7 +239,7 @@
         "id": "variante2",
         "line": 5,
         "color": "#AF7392",
-        "name": "Oullins VL5 - scénario B",
+        "name": "Oullins Yzeron - scénario B",
         "distance": 800,
         "status": "variante",
         "text": "variante B"
