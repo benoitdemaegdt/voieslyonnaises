@@ -31,7 +31,7 @@ const allSections = getAllSections(voies)
 
 function getDistance ({ status }) {
   const distanceInMeters = allSections
-    .filter(feature => feature.properties.status === status)
+    .filter(feature => status.includes(feature.properties.status))
     .reduce((acc, section) => {
       if (!section.properties.distance) {
         console.log('section >>', section)
@@ -43,10 +43,10 @@ function getDistance ({ status }) {
   return Math.round(distanceInMeters / 1000)
 }
 
-const done = getDistance({ status: 'done' })
-const wip = getDistance({ status: 'wip' })
-const planned = getDistance({ status: 'planned' })
-const postponed = getDistance({ status: 'postponed' })
+const done = getDistance({ status: ['done'] })
+const wip = getDistance({ status: ['wip'] })
+const planned = getDistance({ status: ['planned', 'unknown'] })
+const postponed = getDistance({ status: ['postponed'] })
 
 // TODO: should compute percent
 const stats = [
