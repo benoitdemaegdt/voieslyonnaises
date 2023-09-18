@@ -1,4 +1,3 @@
-
 {
   "type": "FeatureCollection",
   "features": [
@@ -113,7 +112,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [                    
+        "coordinates": [
           [4.815123081207275, 45.7172359709913],
           [4.8151445388793945, 45.71695599891663],
           [4.815235733985901, 45.7163969869322],
@@ -166,7 +165,7 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 900,
+        "distance": 755,
         "status": "variante",
         "text": "variante A"
       },
@@ -224,7 +223,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.8147569596767426, 45.71829404676581],
           [4.814874976873398, 45.71790827278646],
           [4.81494203209877, 45.71783711030515],
@@ -407,7 +406,7 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Traversée de Tassin",
-        "distance": 1750,
+        "distance": 1549,
         "status": "unknown"
       },
       "geometry": {
@@ -464,7 +463,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.784645564656998, 45.766661077931104],
           [4.787285147713966, 45.76894360480924]
         ]
@@ -482,7 +481,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.787285147713966, 45.76894360480924],
           [4.787651454937475, 45.769271672820196]
         ]
@@ -523,7 +522,7 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Valmy Ouest",
-        "distance": 1300,
+        "distance": 1108,
         "status": "unknown"
       },
       "geometry": {
@@ -605,7 +604,7 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny - VL1",
-        "distance": 548,
+        "distance": 111,
         "status": "done"
       },
       "geometry": {
@@ -705,7 +704,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.860028376055567, 45.784614639552274],
           [4.861193194938238, 45.78457073986618]
         ]
@@ -751,7 +750,7 @@
           [4.877184598792468, 45.78224643596138]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
