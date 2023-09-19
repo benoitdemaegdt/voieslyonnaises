@@ -43,16 +43,28 @@ function getDistance ({ status }) {
   return Math.round(distanceInMeters / 1000)
 }
 
-const done = getDistance({ status: ['done'] })
-const wip = getDistance({ status: ['wip'] })
-const planned = getDistance({ status: ['planned', 'unknown'] })
-const postponed = getDistance({ status: ['postponed'] })
+const total = getDistance({ status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] })
+const done = {
+  distance: getDistance({ status: ['done'] }),
+  percent: Math.round(getDistance({ status: ['done'] }) / total * 100)
+}
+const wip = {
+  distance: getDistance({ status: ['wip'] }),
+  percent: Math.round(getDistance({ status: ['wip'] }) / total * 100)
+}
+const planned = {
+  distance: getDistance({ status: ['planned', 'unknown', 'variante'] }),
+  percent: Math.round(getDistance({ status: ['planned', 'unknown', 'variante'] }) / total * 100)
+}
+const postponed = {
+  distance: getDistance({ status: ['postponed', 'variante-postponed'] }),
+  percent: Math.round(getDistance({ status: ['postponed', 'variante-postponed'] }) / total * 100)
+}
 
-// TODO: should compute percent
 const stats = [
-  { name: 'Réalisés', distance: `${done} km`, percent: '2.7%' },
-  { name: 'En travaux', distance: `${wip} km`, percent: '1.8%' },
-  { name: 'Prévus', distance: `${planned} km`, percent: '81.6%' },
-  { name: 'Reportés', distance: `${postponed} km`, percent: '10.3%' }
+  { name: 'Réalisés', distance: `${done.distance} km`, percent: `${done.percent}%` },
+  { name: 'En travaux', distance: `${wip.distance} km`, percent: `${wip.percent}%` },
+  { name: 'Prévus', distance: `${planned.distance} km`, percent: `${planned.percent}%` },
+  { name: 'Reportés', distance: `${postponed.distance} km`, percent: `${postponed.percent}%` }
 ]
 </script>

@@ -7,7 +7,7 @@ type Properties = {
     color: string;
     name: string;
     distance: number;
-    status: number;
+    status: string;
     doneAt?: string;
   };
   geometry: {
