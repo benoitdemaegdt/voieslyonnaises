@@ -39,7 +39,7 @@ credit: Métropole de Lyon
 ::
 
 #### Avenue Franklin Roosevelt à Rue Auguste Brunel prolongée
-Sur ce boulevard créé en 2015, une piste cyclable de 3m de large et un trottoir de 1.80m ont été aménagés jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m a été créée au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lissé bien plus confortable.
+Sur ce boulevard créé en 2015, une piste cyclable de 3m de large et un trottoir de 1.80m ont été aménagés jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m a été créée au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
 
 *Les travaux pourraient avoir lieu au premier trimestre 2024.*
 
