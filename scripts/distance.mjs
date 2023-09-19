@@ -12,6 +12,12 @@ import path from 'path';
   const voies = getVoies();
   const sections = getSections(voies)
 
+  // checkDistance(sections);
+  checkStatus(sections);
+  // checkHandleDuplicate(sections);
+})();
+
+function checkDistance(sections) {
   for (const section of sections) {
     const distance = section.properties.distance;
     const computedDistance = getLineStringDistance(section.geometry);
@@ -19,11 +25,38 @@ import path from 'path';
       console.log({name: section.properties.name, line: section.properties.line, distance, computedDistance})
     }
   }
-})();
+}
+
+function checkStatus(sections) {
+  const status = sections.map(section => section.properties.status);
+  const uniqStatus = [...new Set(status)];
+  console.log('uniqStatus >>', uniqStatus)
+}
+
+function checkHandleDuplicate(sections) {
+  const sectionsWithoutDuplicates = sections
+    .filter((feature, index, sections) => {
+      if (feature.properties.id === undefined) {
+        return true;
+      }
+      if (feature.properties.id === 'variante2') {
+        return false;
+      }
+
+      return index === sections.findIndex(section => section.properties.id === feature.properties.id);
+    });
+
+  console.log('ligne, id, tronçon, status, distance')
+  for (const section of sectionsWithoutDuplicates) {
+    console.log(`${section.properties.line}, ${section.properties.id || ''}, ${section.properties.name}, ${section.properties.status}, ${section.properties.distance}`)
+  }
+}
 
 function getVoies() {
   const directoryPath = './content/voies-lyonnaises';
-  const files = fs.readdirSync(directoryPath).filter(file => file.endsWith('.json'));
+  const files = fs.readdirSync(directoryPath)
+    .filter(file => file.endsWith('.json'))
+
 
   return files.map(file => {
     const filePath = path.join(directoryPath, file);
