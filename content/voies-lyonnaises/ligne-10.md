@@ -33,7 +33,7 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) po
 Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.  
 Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée.  
 *Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.  
-Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées sera réalisée entre fin 2023 et l'été 2024.*
+Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées seront réalisés entre fin 2023 et l'été 2024.*
 
 ### Part Dieu à Meyzieu
 #### Rue de la Villette - Pompidou à Paul Bert
