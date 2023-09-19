@@ -9,27 +9,15 @@
 </template>
 
 <script setup>
+const { getAllUniqSections, getDistance } = useStats()
+
 const { voies } = defineProps({
   voies: { type: Array, required: true }
 })
 
-// TODO: should compute uniqness of shared lines
-const allSections = voies
-  .map(voie => voie.features)
-  .flat()
-  .filter(feature => feature.geometry.type === 'LineString')
+const allSections = getAllUniqSections(voies)
+const totalDistance = getDistance({ allSections, status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] })
+const doneDistance = getDistance({ allSections, status: ['done'] })
 
-const totalDistance = 250_000
-
-const doneDistance = allSections
-  .filter(feature => feature.properties.status === 'done')
-  .reduce((acc, section) => {
-    if (!section.properties.distance) {
-      console.log('section >>', section)
-      return acc
-    }
-    return acc + section.properties.distance
-  }, 0)
-
-const percent = Math.round(doneDistance * 100 / totalDistance)
+const percent = Math.round(doneDistance / totalDistance * 100)
 </script>

@@ -21,44 +21,30 @@
 </template>
 
 <script setup>
-const { getAllSections } = useStats()
+const { getAllUniqSections, getDistance } = useStats()
 
 const { voies } = defineProps({
   voies: { type: Array, required: true }
 })
 
-const allSections = getAllSections(voies)
+const allSections = getAllUniqSections(voies)
 
-function getDistance ({ status }) {
-  const distanceInMeters = allSections
-    .filter(feature => status.includes(feature.properties.status))
-    .reduce((acc, section) => {
-      if (!section.properties.distance) {
-        console.log('section >>', section)
-        return acc
-      }
-      return acc + section.properties.distance
-    }, 0)
-
-  return Math.round(distanceInMeters / 1000)
-}
-
-const total = getDistance({ status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] })
+const total = getDistance({ allSections, status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] })
 const done = {
-  distance: getDistance({ status: ['done'] }),
-  percent: Math.round(getDistance({ status: ['done'] }) / total * 100)
+  distance: getDistance({ allSections, status: ['done'] }),
+  percent: Math.round(getDistance({ allSections, status: ['done'] }) / total * 100)
 }
 const wip = {
-  distance: getDistance({ status: ['wip'] }),
-  percent: Math.round(getDistance({ status: ['wip'] }) / total * 100)
+  distance: getDistance({ allSections, status: ['wip'] }),
+  percent: Math.round(getDistance({ allSections, status: ['wip'] }) / total * 100)
 }
 const planned = {
-  distance: getDistance({ status: ['planned', 'unknown', 'variante'] }),
-  percent: Math.round(getDistance({ status: ['planned', 'unknown', 'variante'] }) / total * 100)
+  distance: getDistance({ allSections, status: ['planned', 'unknown', 'variante'] }),
+  percent: Math.round(getDistance({ allSections, status: ['planned', 'unknown', 'variante'] }) / total * 100)
 }
 const postponed = {
-  distance: getDistance({ status: ['postponed', 'variante-postponed'] }),
-  percent: Math.round(getDistance({ status: ['postponed', 'variante-postponed'] }) / total * 100)
+  distance: getDistance({ allSections, status: ['postponed', 'variante-postponed'] }),
+  percent: Math.round(getDistance({ allSections, status: ['postponed', 'variante-postponed'] }) / total * 100)
 }
 
 const stats = [

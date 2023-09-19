@@ -20,7 +20,7 @@ type Geojson = {
 };
 
 export const useStats = () => {
-  function getAllSections(voies: Geojson[]) {
+  function getAllUniqSections(voies: Geojson[]) {
     return voies
       .map(voie => voie.features)
       .flat()
@@ -37,5 +37,19 @@ export const useStats = () => {
       });
   }
 
-  return { getAllSections };
+  function getDistance({ allSections, status }) {
+    const distanceInMeters = allSections
+      .filter(feature => status.includes(feature.properties.status))
+      .reduce((acc, section) => {
+        if (!section.properties.distance) {
+          console.log('section >>', section);
+          return acc;
+        }
+        return acc + section.properties.distance;
+      }, 0);
+
+    return Math.round(distanceInMeters / 1000);
+  }
+
+  return { getAllUniqSections, getDistance };
 };
