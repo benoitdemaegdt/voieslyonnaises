@@ -355,7 +355,7 @@
         "color": "#AF7392",
         "name": "Alaï - Francheville - Beaunant",
         "distance": 3300,
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -407,7 +407,7 @@
         "color": "#AF7392",
         "name": "Traversée de Tassin",
         "distance": 1549,
-        "status": "unknown"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
