@@ -1,19 +1,17 @@
 <template>
-  <div>
-    <div class="mt-5 grid grid-cols-2 rounded-lg bg-white overflow-hidden shadow divide-y divide-x divide-gray-200 md:divide-y-0 md:grid-cols-4 ">
-      <div v-for="item in stats" :key="item.name" class="px-4 py-5 sm:p-6">
-        <div class="flex justify-between">
-          <div class="text-base font-normal text-gray-900">
-            {{ item.name }}
-          </div>
-          <div class="text-sm font-semibold text-lvv-blue-600">
-            {{ item.percent }}
-          </div>
+  <div class="grid grid-cols-2 rounded-lg overflow-hidden shadow bg-gray-200 gap-px md:grid-cols-4 ">
+    <div v-for="item in stats" :key="item.name" class="px-4 py-5 sm:p-6 bg-white">
+      <div class="flex justify-between">
+        <div class="text-base font-normal text-gray-900">
+          {{ item.name }}
         </div>
-        <div class="mt-1 flex justify-between items-baseline md:block lg:flex">
-          <div class="flex items-baseline text-2xl font-semibold text-lvv-blue-600">
-            {{ item.distance }}
-          </div>
+        <div class="text-sm font-semibold text-lvv-blue-600">
+          {{ item.percent }}
+        </div>
+      </div>
+      <div class="mt-1 flex justify-between items-baseline md:block lg:flex">
+        <div class="flex items-baseline text-2xl font-semibold text-lvv-blue-600">
+          {{ item.distance }}
         </div>
       </div>
     </div>
