@@ -27,7 +27,7 @@ credit: Métropole de Lyon
 ::
 
 #### Rue Pierre Audry
-Cette rue à fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine beige, s'élargie aussi en voie bus dans les 150 derniers mètres.
+Cette rue a fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine beige, s'élargie aussi en voie bus dans les 150 derniers mètres.
 
 *TODO: Ajouter photo*
 
@@ -59,7 +59,7 @@ En arrivant devant le métro Saint-Jean, l'itinéraire emprunte l'avenue Adolphe
 ### Traversée de la Presqu'Île de Lyon
 Le projet prévoit de relier le pont Bonaparte sur la Saône avec le pont de la Guillotière sur le Rhône grâce à une piste cyclable bidirectionnelle de 3 à 4m de large aménagée côté Nord de la chaussée.
 
-En plus de la création de cet aménagement cyclable sécurisé, le projet prévoit d'élargir les deux trottoirs  sur la rue du Colonel Chambonnet, d'élargir le trottoir Nord le long de la place Bellecour en y plantant des arbres et de conserver une bande techniques pour les taxis et les livraisons rue de la Barre.
+En plus de la création de cet aménagement cyclable sécurisé, le projet prévoit d'élargir les deux trottoirs  sur la rue du Colonel Chambonnet, d'élargir le trottoir Nord le long de la place Bellecour en y plantant des arbres et de conserver une bande technique pour les taxis et les livraisons rue de la Barre.
 
 ::image
 ---
@@ -71,7 +71,7 @@ credit: Métropole de Lyon
 
 
 ### Pont de la Guillotière à Grange Blanche<br/>*via Cours Gambetta et Albert Thomas*
-L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle de 4m de large côté Nord de la chaussée, séparée de la circulation par une bande technique permettant d'acceuillir les livraisons, le stationnement et de la végétalisation. Les anciens stationnement côté Nord seront entièrement végétalisés, tandis que la voirie sera réduite à une voie bus vers l'Est et une voie générale vers l'Ouest.
+L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle de 4m de large côté Nord de la chaussée, séparée de la circulation par une bande technique permettant d'accueillir les livraisons, le stationnement et de la végétalisation. Les anciens stationnements côté Nord seront entièrement végétalisés, tandis que la voirie sera réduite à une voie bus vers l'Est et une voie générale vers l'Ouest.
 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
@@ -111,7 +111,7 @@ Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable 
 
 La traversée du périphérique sera améliorée avec la suppression d'une des 3 voies de circulation côté Nord, permettant d'élargir le trottoir étroit et de créer une piste cyclable bidirectionnelle de 4m de large. Côté Bron, la voie d'insertion sur le périphérique depuis l'Est sera modifiée pour être régulée par feux.
 
-Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolotion des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefours à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
+Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolition des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefour à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
 
 ### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.  

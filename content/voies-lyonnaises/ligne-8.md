@@ -20,7 +20,7 @@ Les cyclistes de la commune qui y circulent continueront donc à le faire sans a
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
 #### RD307 (Ancienne Route Nationale 7)
-Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre à abaissée à 50km/h sur certains tronçons accidentogènes.
+Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
 
 #### Traversée de Charbonnières-les-Bains
 Cette section fait l'objet d'un vaste projet de requalification qui consiste à réaménager la très large Route de Paris. Le projet prévoit la création de larges trottoirs de minimum 2m de large, une voirie automobile à 2x1 voies de circulation et la création d'une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée et séparée ponctuellement par une bande végétalisée. Une voie de bus sera aussi créé ponctuellement pour améliorer les performances des transports en commun du secteur.
@@ -33,7 +33,7 @@ Ce projet ambitieux sera réalisé en deux phases :
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20210825_dossier_concertation-routedeparis.pdf)
 
 #### Tassin - Montcelard à Valvert
-Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissements des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
+Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissement des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
 
 *TODO: Ajouter illustration*
 
@@ -124,7 +124,7 @@ Sur ce boulevard très routier, le projet prévoyait deux variantes pour la posi
 *TODO : Ajouter illustration*
 
 #### Rue Paul Langevin
-La Voie Lyonnaise évitera le boulevard André Boulloche en faiant un détour par cette rue en transformant le trottoir Ouest en voie verte de 3.75m de large.
+La Voie Lyonnaise évitera le boulevard André Boulloche en faisant un détour par cette rue en transformant le trottoir Ouest en voie verte de 3.75m de large.
 
 *TODO : Ajouter illustration*
 

@@ -79,7 +79,7 @@ En outre, le revêtement en sable stabilisé sera remplacé par un enrobé lisse
 
 #### Pont d'Herbens à Pont de Jonage
 Sur ce tronçon, deux variantes d'itinéraires sont proposées :
- - par le Nord du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante à l'inconvénient de ne pas être connectée au nord de la Ville de Meyzieu, de ne pas être ombragée et de devoir franchir l'étroit pont de Jonage en mixité avec le flux automobile.
+ - par le Nord du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante a l'inconvénient de ne pas être connectée au nord de la Ville de Meyzieu, de ne pas être ombragée et de devoir franchir l'étroit pont de Jonage en mixité avec le flux automobile.
  - par le Sud du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante présente davantage de conflits avec les piétons, mais a l'avantage d'être ombragée, bien reliée à Meyzieu et traverse la canal sur le pont d'Herbens réservé aux modes actifs.
 
 #### Jonage - Chemin de Halage

@@ -81,16 +81,16 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 
 ### Tassin Nord
 #### Rue du Bourbonnais à Chemin du Vallon
-Cette section a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidrectionnelle sur le trottoir Est. Cette piste est prévue être pérénisée et améliorée dans le cadre de la Voie Lyonnaise 5.
+Cette section a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidrectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérénisée et améliorée dans le cadre de la Voie Lyonnaise 5.
 
 #### Chemin du Vallon à Place de l'Horloge
 Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste cyclable bidirectionnelle de 3.50m côté Est de l'avenue Victor Hugo.
 
 #### Place Vauboin (Place de l'Horloge)
-Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge monumentale au centre, fait l'objet d'un réaménagement depuis juin 2023. Le projet prévoit un resserement de l'anneau routier pour créer un anneau cyclable unidirectionnel de 3m de large, ainsi que de la végétalisation. Les travaux devraient se terminer en décembre 2023.
+Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge monumentale au centre, fait l'objet d'un réaménagement depuis juin 2023. Le projet prévoit un resserrement de l'anneau routier pour créer un anneau cyclable unidirectionnel de 3m de large, ainsi que de la végétalisation. Les travaux devraient se terminer en décembre 2023.
 
 ### Tassin Sud
-*L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucuns aménagements cyclables aujourd'hui.*
+*L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagements cyclables aujourd'hui.*
 
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
