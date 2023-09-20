@@ -4,7 +4,7 @@ color: "#60A75B"
 from: Vaulx-en-Velin
 to: Saint-Fons
 distance: 18000
-description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particuliarité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
+description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particularité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
 trafic: 28k vélos/j
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
@@ -14,7 +14,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ### Vaulx-en-Velin Gabriel Péri à La Doua Croix-Luizet<br>*via Villeurbanne St-Jean*
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, située juste au Sud du pont actuel de Croix-Luizet.
+Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
 
 ::image
 ---
@@ -69,7 +69,7 @@ Pour desservir le quartier de la Cité Internationale, une piste cyclable bidire
 
 #### Quai de Grande-Bretagne et Quai de Serbie *(Tête d'Or <> Pont Morand)*
 Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.  
-Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et Le marquage au sol a été réalisé fin février 2023. 
+Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023. 
 
 *Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion avec les rampes vers les berges du Rhône.*
 

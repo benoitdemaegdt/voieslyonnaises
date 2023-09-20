@@ -104,7 +104,7 @@ credit: Métropole de Lyon
 *Les travaux de ce tronçon devraient avoir lieu entre l'automne 2024 et l'été 2025.*
 
 #### Avenue Viviani
-Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera réqualifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
+Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
 
 ::image
 ---

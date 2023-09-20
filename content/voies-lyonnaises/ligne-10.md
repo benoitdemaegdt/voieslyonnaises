@@ -61,7 +61,7 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
  - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet T9 qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
 
 ***Décines-Charpieu***
- - le long du projet D-Side, entre l'avenue Rossevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
+ - le long du projet D-Side, entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
  - entre l'avenue Jean Jaurès et la rue de la Fraternité, la rue Emile Bertrand sera mise en sens unique pour mettre fin au fort rétrécissement et aux conflits marqués avec les piétons au niveau de l'arrêt Décines-Centre
  - entre la rue Ferrer et la route de Jonage, la voie sera élargie pour séparer piétons et cyclistes dans un secteur à fort potentiel de conflit avec la proximité du Groupama Stadium et de la LDLC Arena
  - la dangereuse traversée de la route de Jonage sans covisibilité satisfaisante sera malheureusement conservée en l'état

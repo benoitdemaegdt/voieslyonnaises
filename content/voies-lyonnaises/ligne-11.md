@@ -25,7 +25,7 @@ Cette section est en tronçon commun avec la Voie Lyonnaise 8.
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-8) pour davantage d'informations.
 
 ### Pont Wilson
-<!--Depuis la place Bellecour, -->la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
+<!--Depuis la place Bellecour, -->La Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
 
 ### Rue de Bonnel
 Cette large rue est aujourd'hui qualifiée d'autoroute urbaine avec ses 4 voies de circulation, dont une convertie en couloir bus-vélos à l'été 2020. 

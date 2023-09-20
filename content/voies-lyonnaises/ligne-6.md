@@ -69,7 +69,7 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
      -  la rue de la République, sans aménagement cyclable ou en vélorue
      -  la rue Pierre-Joseph Martin piétonne
      -  la rue Tupin en zone de rencontre
-     -  le parking de la Camille via un chemine piéton créé à l'été 2023
+     -  le parking de la Camille via un cheminement piéton créé à l'été 2023
      -  la rue de la Camille, sans aucun aménagement cyclable
      -  la rue Léon Bourgeois, avec un DSC en bande cyclable
   

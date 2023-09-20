@@ -27,7 +27,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Massieux à Neuville*
-Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagée en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
+Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagé en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
 *La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement en encorbellements du pont actuel.*
 
@@ -49,7 +49,7 @@ La section sur la commune de St-Romain est en travaux entre septembre 2023 et ma
 Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée depuis l'été 2020.*
 
 #### Saint-Rambert à pont de l'Île Barbe
-Cette section de 500m à l'inconvénient d'être particulièrement étroite et de ne pas pouvoir acceuillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
+Cette section de 500m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.  
