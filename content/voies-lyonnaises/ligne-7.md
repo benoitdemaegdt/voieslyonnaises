@@ -104,7 +104,13 @@ La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchi
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
 Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
 
-*TODO: ajouter [une image](https://static.actu.fr/uploads/2023/07/ilex-garibaldi-4-placestalingrad-960x640.jpg) d'illustration*
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png
+caption: Aperçu de la Voie Lyonnaise 7 - Place Stalingrad
+credit: Métropole de Lyon
+---
+::
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220610_lyon3-lyon7_garibaldi-dossier-concertation.pdf)
@@ -162,8 +168,6 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
 *Les travaux devraient s'étendre entre 2024 et fin 2025.*
-
-*TODO: ajouter illustration*
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}
