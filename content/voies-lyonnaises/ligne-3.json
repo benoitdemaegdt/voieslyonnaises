@@ -664,7 +664,7 @@
         "color": "#3B7B64",
         "name": "Pont Marchand - Pont de la Mulatière",
         "distance": 2800,
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
