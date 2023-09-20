@@ -44,6 +44,10 @@ export const useTooltip = () => {
           <div class='text-sm font-bold'>statut</div>
           <div>${getStatusText(properties.status)}</div>
         </div>
+         <div>
+          <div class='text-sm font-bold'>distance</div>
+          <div>${Math.round(properties.distance / 25) * 25}m</div>
+        </div>
       </div>
     `;
   }
