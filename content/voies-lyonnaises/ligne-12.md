@@ -107,7 +107,13 @@ credit: Métropole de Lyon
 ### Boulevard Pinel à Bron - Boutasse
 Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable bidirectionnelle existante de 3m de large le long du tramway entre en conflit avec les piétons à chaque arrêt. Le projet prévoit donc de rendre cet espace aux piétons et d'aménager une nouvelle piste bidirectionelle de 4m de large sur le côté Nord de la chaussée actuelle, en réduisant la circulation automobile à 2x1 voies au lieu de 2x2 voies aujourd'hui.
 
-*TODO: Ajouter illustration*
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png
+caption: Aperçu de la Voie Lyonnaise 11 - Avenue Franklin Roosevelt
+credit: Métropole de Lyon
+---
+::
 
 La traversée du périphérique sera améliorée avec la suppression d'une des 3 voies de circulation côté Nord, permettant d'élargir le trottoir étroit et de créer une piste cyclable bidirectionnelle de 4m de large. Côté Bron, la voie d'insertion sur le périphérique depuis l'Est sera modifiée pour être régulée par feux.
 
