@@ -104,12 +104,12 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 ### Quai Jean-Jacques Rousseau et Quai des Etroits
 
-L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire. La décision finale de la Métropole est attendue à l'automne 2023.
+L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
 
 *La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)
 
-La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais, attendu à l'horizon 2032. *C'est une mauvaise nouvelle pour les cyclistes de de quai qui ne pourront pas circuler en sécurité avant de nombreuses années. Le point noir majeur du bas de Choulans pourrait donc ne pas être traité avant longtemps.*
+La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais (TEOL) attendu à l'horizon 2032. *C'est une mauvaise nouvelle pour les cyclistes de ce quai qui ne pourront pas circuler en sécurité avant de nombreuses années. Le point noir majeur du bas de Choulans pourrait donc ne pas être traité avant longtemps.*
 
 ::image
 ---
