@@ -92,14 +92,14 @@ Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge
 ### Tassin Sud
 *L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagements cyclables aujourd'hui.*
 
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçons serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais, attendu à l'horizon 2032. Le tracé à venir reste flou, avec plusieurs variantes inconnues à l'étude par les services de la Métropole de Lyon. *C'est une mauvaise nouvelle pour les cyclistes de l'Ouest lyonnais qui ne pourront pas traverser Tassin du Nord au Sud en sécurité avant de nombreuses années.*
 
 ### Alaï à Beaunant (RD342)<br/>*via Francheville-le-Bas*
 Au nord du Chemin de Chantegrillet, aucun aménagement cyclable.  
 Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérénisés, étendus et améliorés au second semestre 2021.  
 Entre l'avenue de Limburg et l'avenue de l'Aqueduc de Beaunant, des pistes cyclables bilatérales de 1.70m  ont été créées au premier semestre 2021.
 
-Aucune information publique n'existe à ce jour sur le réaménagement total de ce tronçon pour le projet des Voies Lyonnaises. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais, attendu à l'horizon 2032. *C'est une mauvaise nouvelle pour les cyclistes de l'Ouest lyonnais qui ne pourront pas relier Tassin à Francheville et Oullins en sécurité avant de nombreuses années.*
 
 ### Traversée Ouest-Est d'Oullins
 #### Route de Brignais à Boulevard de l'Yzeron
