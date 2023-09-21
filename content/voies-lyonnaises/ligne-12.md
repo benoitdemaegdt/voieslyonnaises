@@ -41,7 +41,7 @@ Pour traverser ce quartier ancien, le projet prévoit d'emprunter la rue de Trio
 
 Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement le trafic automobile du secteur pour qu'il soit limité aux seuls riverains et inférieur à 1000 véhicules par jour. Cela permettra d'aménager une vélorue où le nombre de cycliste sera bien supérieur au nombre de voitures, rendant la mixité acceptable et confortable pour tous, sans impacter le stationnement. Pour cela, il est prévu deux scénarios qui incluent notamment une modification du plan de circulation du quartier, une fermeture de la circulation sur la montée du Chemin Neuf hors riverains et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy.
 
-La montée du Chemin Neuf sera elle-même aménagée en vélorue avec un trafic automobile proche de zéro.
+La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::image
 ---
