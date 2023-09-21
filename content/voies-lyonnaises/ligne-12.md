@@ -39,9 +39,9 @@ Sur cette petite section de 120m de long jusqu'à la place de Trion, le projet p
 ### Traversée de Saint-Just
 Pour traverser ce quartier ancien, le projet prévoit d'emprunter la rue de Trion puis la rue des Farges. Ces rues étroites, sans aménagements cyclables et avec des trottoirs parfois inférieurs à 1m de large voient passer un flux de transit automobile inadapté, approchant 8000 à 9000 véhicules par jour. Elles sont anxiogènes pour les cyclistes et très bruyantes pour les riverains.
 
-Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement le trafic automobile du secteur pour qu'il soit limité aux seuls riverains et inférieur à 1000 véhicules par jour. Cela permettra d'aménager une vélorue où le nombre de cycliste sera bien supérieur au nombre de voitures, rendant la mixité acceptable et confortable pour tous. Pour cela, il est prévu une fermeture de la circulation sur la montée du Chemin Neuf hors riverains et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy.
+Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement le trafic automobile du secteur pour qu'il soit limité aux seuls riverains et inférieur à 1000 véhicules par jour. Cela permettra d'aménager une vélorue où le nombre de cycliste sera bien supérieur au nombre de voitures, rendant la mixité acceptable et confortable pour tous, sans impacter le stationnement. Pour cela, il est prévu deux scénarios qui incluent notamment une modification du plan de circulation du quartier, une fermeture de la circulation sur la montée du Chemin Neuf hors riverains et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy.
 
-La montée du Chemin Neuf sera elle-même aménagée en vélorue avec un trafic automobile proche de zéro.
+La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::image
 ---

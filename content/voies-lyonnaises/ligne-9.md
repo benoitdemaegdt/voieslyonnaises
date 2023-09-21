@@ -29,9 +29,10 @@ Un tel ouvrage d'art nécessite de longues années d'études et de procédures a
 *Les travaux sont prévus entre 2026 et 2028.*
 
 ### Avenue Jean Jaurès
-L'itinéraire remontera l'avenue du Sud au Nord jusqu'à la rue de l'Université, en traversant les quartiers de Gerland, Jean Jaurès et Jean Macé.
+L'itinéraire remontera l'avenue du Sud au Nord jusqu'à la rue de l'Université, en traversant les quartiers de Gerland, Jean Jaurès et Jean Macé.  
+Historiquement, deux pistes cyclables bilatérales avaient été peintes sur trottoir dans les années 2000. A l'été 2020, la voirie est passée de 2x2 voies à 2x1 voies automobiles avec la création en provisoire d'un couloir bus-vélo dans le sens Sud>Nord et d'une large bande cyclable dans le sens Nord>Sud. Cet aménagement a été pérénisé à l'été 2021, entrainant la suppression des pistes sur les trottoirs.
 
-*Aucune information publique n'existe à ce jour sur ce tronçon.*
+*La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, de manière à privilégier à court-terme les transports en commun sur cet axe. Les cyclistes continueront donc à circuler sans séparation physique avec les véhicules, en partageant cet itinéraire avec les bus, taxis et autres véhicules d'urgence pendant de nombreuses années.*
 
 ### Jean Macé à Villeurbanne - St-Jean
 L'itinéraire est en tronçon commun avec d'autres Voies Lyonnaises :
