@@ -38,7 +38,7 @@ Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyc
 
 #### Voie de la Dombe
 Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.  
-*Le projet de Voie Lyonnaise 7 permettra de minimiser les conflits avec les piétons, en élargissant la voie verte actuelle ou en séparant les flux piétons et vélos sur des axes dédiés. Il prévoit aussi de modifier le revêtement pour proposer un sol clair, lisse, confortable et drainant.*
+*Le projet de Voie Lyonnaise 7 permettrait de minimiser les conflits avec les piétons, en élargissant la voie verte actuelle ou en séparant les flux piétons et vélos sur des axes dédiés. Il prévoit aussi de modifier le revêtement pour proposer un sol clair, lisse, confortable et drainant.*
 
 Entre chemin Petit et chemin de Cachepieu, l'objectif est d'élargir la voie verte actuelle de 3.50m à 5m de large.  
 
@@ -50,7 +50,7 @@ Entre avenue Jean Monnet et chemin du Penthod, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 6m
  - Création d'une piste cyclable bidirectionnelle de 3m de large séparée d'un chemin piéton de 3m de large
 
-Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
+**La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait de la forte opposition des élus locaux au projet. C'est une mauvaise nouvelle pour tous les usagers de cette voie verte. Faute d'alternative crédible, le trafic vélo va continuer à augmenter, accroissant le caractère inconfortable de l'aménagement pour tous pendant encore de nombreuses années.**
 
 ::image
 ---
@@ -61,7 +61,9 @@ credit: Métropole de Lyon
 ::
 
 #### Métro Cuire et Montée de la Boucle
-La Voie Lyonnaise 7 passera place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du métro C.
+Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
+
+La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du métro C.
 
 Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
