@@ -2,7 +2,7 @@ const TITLE = 'Cyclopolis - La plateforme de suivi des Voies Lyonnaises';
 const DESCRIPTION =
   'Plateforme citoyenne et associative de suivi des Voies Lyonnaises, par La Ville à Vélo. Cartes précises des itinéraires, détails, travaux : suivez en temps réel le développement du grand réseau cyclable lyonnais';
 const BASE_URL = 'https://cyclopolis.fr';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/voies-lyonnaises.png';
+const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 
 export default defineNuxtConfig({
   app: {
