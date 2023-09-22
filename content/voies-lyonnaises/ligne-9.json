@@ -713,7 +713,7 @@
         "color": "#EAAB50",
         "name": "Avenue Jean Jaurès",
         "distance": 3250,
-        "status": "postponed"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
