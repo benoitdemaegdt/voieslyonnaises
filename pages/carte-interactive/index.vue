@@ -17,10 +17,10 @@ const { data: voies } = await useAsyncData(() => {
 
 const features = voies.value.map(voie => voie.features).flat()
 
-const description = 'Découvrez la carte des voies lyonnaises. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.'
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/voies-lyonnaises.png'
+const description = 'Découvrez la carte interactive des Voies Lyonnaises. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.'
+const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png'
 useHead({
-  title: 'Carte à jour des voies lyonnaises',
+  title: 'Carte à jour des Voies Lyonnaises',
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
