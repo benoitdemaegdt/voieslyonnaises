@@ -33,7 +33,7 @@ const { data: voie } = await useAsyncData(() => {
 
 const features = voie.value.features
 
-const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés et ceux qui sont en travaux.`
+const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`
 useHead({
   title: `Carte de la Voie Lyonnaise ${line}`,
   meta: [
