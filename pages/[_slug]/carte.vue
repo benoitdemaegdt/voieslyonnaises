@@ -33,9 +33,9 @@ const { data: voie } = await useAsyncData(() => {
 
 const features = voie.value.features
 
-const description = `Carte de la voie lyonnaise n°${line}. Découvrez les tronçons prévus, déjà réalisés et ceux qui sont en travaux.`
+const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés et ceux qui sont en travaux.`
 useHead({
-  title: `Carte de la voie Lyonnaise n°${line}`,
+  title: `Carte de la Voie Lyonnaise ${line}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
