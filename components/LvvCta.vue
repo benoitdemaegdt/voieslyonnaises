@@ -7,7 +7,7 @@
             Adhérez à La Ville à Vélo
           </h2>
           <p class="mt-4 max-w-3xl text-lg text-indigo-100">
-            Soutenez la promotion et l'usage du vélo à Lyon, ainsi que le développement d'infrastructures cyclables en adhérant à l'association.
+            Soutenez la promotion et l'usage du vélo dans l'agglomération lyonnaise, ainsi que le développement d'infrastructures cyclables continues et sécurisées en adhérant à l'association.
           </p>
         </div>
         <div class="sm:flex justify-center lg:justify-end mt-12 lg:mt-0 lg:ml-8 lg:flex-1">
