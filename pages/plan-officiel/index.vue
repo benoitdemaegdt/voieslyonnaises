@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-const description = 'Découvrez le plan officiel des Voies Lyonnaises, le futur réseau vélo lyonnais de 270km.'
+const description = 'Découvrez le plan officiel des Voies Lyonnaises, le futur réseau vélo lyonnais de 260km.'
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/voies-lyonnaises.png'
 useHead({
   title: 'Plan officiel des Voies Lyonnaises',
