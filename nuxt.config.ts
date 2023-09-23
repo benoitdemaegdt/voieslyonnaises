@@ -1,6 +1,6 @@
-const TITLE = 'Cyclopolis - La plateforme de suivi des Voies Lyonnaises';
+const TITLE = 'Cyclopolis - Suivi des Voies Lyonnaises par La Ville à Vélo';
 const DESCRIPTION =
-  'Plateforme citoyenne et associative de suivi des Voies Lyonnaises, par La Ville à Vélo. Cartes précises des itinéraires, détails, travaux : suivez en temps réel le développement du grand réseau cyclable lyonnais';
+  'Plateforme citoyenne et associative, par La Ville à Vélo. Etat d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais';
 const BASE_URL = 'https://cyclopolis.fr';
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 
