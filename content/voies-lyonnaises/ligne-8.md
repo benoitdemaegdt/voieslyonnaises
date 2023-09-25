@@ -124,14 +124,13 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) p
 ### Pont Université à Mermoz-Pinel
 Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire prévu est cependant connu est passera par les rues suivantes.
 #### Pont de l'Université
-<!--Depuis la place Bellecour, -->la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la ligne 6, puis traversera le pont de l'Université.
+<!--Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la ligne 6, puis traversera le pont de l'Université.-->
 #### Rue de l'Université et rue Marc Bloch
 #### Rue Camille Roy
 #### Rue et Pont de l'Epargne
-Cette section fera l'objet d'un vaste projet de requalification avec un budget dédié.
 #### Rue Marius Berliet
 #### Avenue Jean Mermoz
-
+<br/>
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
 #### Avenue Mermoz - Pinel à Lionel Terray
 La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011 suite à la démolition de l'autopont et au réaménagement de l'A43 en boulevard urbain, sera conservée en l'état.
