@@ -50,7 +50,13 @@ La section rue du Belier - rue Casimir Périer a été réalisée à l'été 202
 La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.  
 La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et aucune information publique n'existe à ce jour sur ce tronçon.  
 
-*TODO: Ajouter photo Quai Perrache terminé*
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/quai-perrache.png
+caption: Voie Lyonnaise 6 - Quai Perrache
+credit: La Ville à Vélo
+---
+::
 
 #### Pont autoroutier de la Mulatière
 Ce pont autoroutier constitue l'unique point de passage entre les communes du Sud-Est lyonnais et la ville de Lyon. Il concentre tous les flux dans un environnement très inconfortable pour les modes actifs.
