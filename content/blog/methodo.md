@@ -1,6 +1,7 @@
 ---
-title: Méthodo
-description: Lorem Ipsum
+title: Méthodologie
+description: Réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis.
+imageUrl: https://source.unsplash.com/AoSAOV2Vtro
 ---
 
 Pourquoi ce tronçon est marqué comme « terminé » alors qu’il n’y a eu aucuns travaux ?
