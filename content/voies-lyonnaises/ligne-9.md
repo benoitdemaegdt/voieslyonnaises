@@ -66,8 +66,8 @@ Une fois entré à l'intérieur du parc de Miribel-Jonage, le projet prévoit de
 
 ::image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl9/allee-du-morlet.png
-caption: Aperçu de la Voie Lyonnaise 9 - Allée du Morlet
+imageUrl: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
+caption: Aperçu de la Voie Lyonnaise 9 - Allée du Morlet (Vaulx-en-Velin)
 credit: Métropole de Lyon
 ---
 ::
