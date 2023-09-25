@@ -6,7 +6,7 @@
       "properties": {
         "line": 11,
         "color": "#4DADC9",
-        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/voie-lyonnaise-11.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -245,7 +245,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.8323141416447575, 45.75053505644157],
           [4.8326727747917175, 45.75104047619577],
           [4.8332279920578, 45.75184525193148],
@@ -266,7 +266,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.834029972553253, 45.752994376704116],
           [4.8342472314834595, 45.75333873522058],
           [4.834668338298798, 45.75393012858433],
@@ -288,7 +288,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.836979675803831, 45.75727786359188],
           [4.837398827075958, 45.75805099316031],
           [4.837712645530701, 45.75896981838305],
@@ -359,7 +359,7 @@
           [4.851693701983152, 45.76211126433797]
         ]
       }
-    },   
+    },
     {
       "type": "Feature",
       "properties": {
@@ -372,14 +372,14 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [        
+        "coordinates": [
           [4.851693701983152, 45.76211126433797],
           [4.852191056502392, 45.75942555398832],
           [4.852309327380084, 45.75868991382791],
           [4.852604647040714, 45.75702532674457]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
