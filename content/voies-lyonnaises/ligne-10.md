@@ -23,8 +23,6 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
-*La concertation publique sur ce tronçon s'est tenue du XX/09 au XX/10/2023.*
-
 ### Boulevard des Belges - de Waldeck Rousseau à Lafayette
 Cette section est en tronçon commun avec la Voie Lyonnaise 2.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) pour davantage d'informations.
