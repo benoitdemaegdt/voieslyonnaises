@@ -19,7 +19,8 @@ Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/franchissement-canal-de-jonage.jpeg
-caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage
+caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage (Villeurbanne)
+credit: SYTRAL Mobilités
 ---
 ::
 
@@ -115,7 +116,8 @@ Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png
-caption: Aperçu de la Voie Lyonnaise 1 sur l'avenue Tony Garnier.
+caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - avenue Tony Garnier (Lyon 7)
+credit: Ilex / SYTRAL Mobilités
 ---
 ::
 
@@ -123,7 +125,8 @@ Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphér
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png
-caption: Aperçu de la Voie Lyonnaise 1 sur le boulevard Sampaix.
+caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - boulevard Sampaix (Saint-Fons)
+credit: Ilex / SYTRAL Mobilités
 ---
 ::
 
@@ -197,11 +200,11 @@ Fin des travaux de la 1ère section de la ligne 1 des voies lyonnaises. Inaugura
 ### Réunion de concertation
 7 avril 2022
 
-Réunion publique sur l'aménagement de la voie lyonnaise n°1 concernant la section située sur la rive gauche du Rhône entre l’avenue Tony Garnier et le Boulevard des Belges.
+Réunion publique sur l'aménagement de la Voie Lyonnaise 1 concernant la section située sur la rive gauche du Rhône entre l’avenue Tony Garnier et le Boulevard des Belges.
 
 ### Début des travaux du 1er tronçon
 22 février 2022
 
-Lancement des travaux de la voie lyonnaise n°1. Cette 1ère section se situe le long du Rhône entre le pont de la Guillotière et le pont de l’Université. Les travaux ont duré 4 mois.
+Lancement des travaux de la Voie Lyonnaise 1. Cette 1ère section se situe le long du Rhône entre le pont de la Guillotière et le pont de l’Université. Les travaux ont duré 4 mois.
 
 
