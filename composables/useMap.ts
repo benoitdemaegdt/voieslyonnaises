@@ -16,6 +16,9 @@ type Properties = {
   };
 };
 
+// features plotted last are on top
+const sortOrder = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].reverse();
+
 function getCrossIconUrl(color: string): string {
   const canvas = document.createElement('canvas');
   canvas.width = 8; // Set the desired width of your icon
@@ -57,7 +60,13 @@ function groupFeaturesByColor(features: Properties[]) {
 
 export const useMap = () => {
   function plotDoneSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'done');
+    const sections = features
+      .filter(feature => feature.properties.status === 'done')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
     if (sections.length === 0) {
       return;
     }
@@ -80,7 +89,13 @@ export const useMap = () => {
   }
 
   function plotWipSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'wip');
+    const sections = features
+      .filter(feature => feature.properties.status === 'wip')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
     if (sections.length === 0) {
       return;
     }
@@ -130,7 +145,14 @@ export const useMap = () => {
   }
 
   function plotPlannedSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'planned');
+    const sections = features
+      .filter(feature => feature.properties.status === 'planned')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
+
     if (sections.length === 0) {
       return;
     }
@@ -154,7 +176,13 @@ export const useMap = () => {
   }
 
   function plotVarianteSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'variante');
+    const sections = features
+      .filter(feature => feature.properties.status === 'variante')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
     if (sections.length === 0) {
       return;
     }
@@ -195,7 +223,13 @@ export const useMap = () => {
   }
 
   function plotVariantePostponedSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'variante-postponed');
+    const sections = features
+      .filter(feature => feature.properties.status === 'variante-postponed')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
     if (sections.length === 0) {
       return;
     }
@@ -236,7 +270,13 @@ export const useMap = () => {
   }
 
   function plotUnknownSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'unknown');
+    const sections = features
+      .filter(feature => feature.properties.status === 'unknown')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
     if (sections.length === 0) {
       return;
     }
@@ -295,7 +335,13 @@ export const useMap = () => {
   }
 
   function plotPostponedSections({ map, features }) {
-    const sections = features.filter(feature => feature.properties.status === 'postponed');
+    const sections = features
+      .filter(feature => feature.properties.status === 'postponed')
+      .sort((featureA, featureB) => {
+        const lineA = featureA.properties.line;
+        const lineB = featureB.properties.line;
+        return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
+      });
     if (sections.length === 0) {
       return;
     }
