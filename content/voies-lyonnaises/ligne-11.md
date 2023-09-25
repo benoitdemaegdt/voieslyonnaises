@@ -114,14 +114,6 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le giratoire des Sept Chemins à travers le quartier des Brosses.
 
-::image
----
-imageUrl: https://cyclopolis.lavilleavelo.org/vl11/bhns-part-dieu-7-chemins.png
-caption: Aperçu de la Voie Lyonnaise 11 - le long du BHNS Part Dieu - Sept Chemins
-credit: Métropole de Lyon
----
-::
-
 La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
 La concertation continue se déroule de avril 2022 à décembre 2023.  
 L'enquête publique aura lieu fin 2023.  
