@@ -6,7 +6,7 @@ to: Feyzin
 distance: 25000
 description: La Voie Lyonnaise 7 permettra de traverser la métropole de Lyon en suivant un axe nord-sud central. Elle traversera Rillieux-la-Pape depuis le nouveau quartier Osterode avant de rejoindre la voie verte des Dombes à travers Caluire-et-Cuire, en direction de la Croix-Rousse ou du parc de la Tête d'Or. Elle passera à travers Lyon sur la rue Garibaldi, puis la route de Vienne avant de rejoindre le centre-ville de Saint-Fons puis Feyzin. Ce projet très ambitieux devrait métamorphoser le paysage urbain tout en révolutionnant la mobilité de nombreux habitants.
 trafic: 18k vélos/j
-cover: https://cyclopolis.lavilleavelo.org/vl7/voie-lyonnaise-7.jpg
+cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---
 
 ## Les tronçons (du Nord au Sud)
@@ -69,7 +69,14 @@ Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable b
 
 Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
-*TODO: Ajouter une photo*
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
+caption: Voie Lyonnaise 7 - Montée de la Boucle
+credit: La Ville à Vélo
+---
+::
 
 #### Croix-Rousse
 Au nord du boulevard des Canuts, dans la continuité de ce qui sera fait au nord de la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir sera réaménagée de chaque côté de l'alignement d'arbre existant avec deux pistes unidirectionnelles de 2 à 2.50m de large.
@@ -170,6 +177,14 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
 *Les travaux devraient s'étendre entre 2024 et fin 2025.*
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/boulevard-yves-farge.jpg
+caption: Aperçu de la Voie Lyonnaise 7 - Boulevard Yves Farge (Saint-Fons)
+credit: Métropole de Lyon
+---
+::
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}
