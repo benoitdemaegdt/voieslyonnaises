@@ -21,7 +21,7 @@ Elle rejoint ensuite la route du Mas Rillier sous la forme de deux pistes cyclab
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png
-caption: Aperçu de la Voie Lyonnaise 7 - Route du Mas Rillier - Rillieux-la-Pape
+caption: Aperçu de la Voie Lyonnaise 7 - route du Mas Rillier (Rillieux-la-Pape)
 credit: Métropole de Lyon
 ---
 ::
@@ -73,8 +73,8 @@ Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large c
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
-caption: Voie Lyonnaise 7 - Montée de la Boucle
-credit: La Ville à Vélo
+caption: Photo de la Voie Lyonnaise 7 - Montée de la Boucle (Caluire-et-Cuire)
+credit: La Ville à Vélo - Plateau Nord
 ---
 ::
 
@@ -116,8 +116,8 @@ Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet G
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png
-caption: Aperçu de la Voie Lyonnaise 7 - Place Stalingrad
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 7 - rue Garibaldi le long de place Stalingrad (Lyon 7)
+credit: Ilex / Métropole de Lyon
 ---
 ::
 
@@ -181,7 +181,7 @@ De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa cr
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/boulevard-yves-farge.jpg
-caption: Aperçu de la Voie Lyonnaise 7 - Boulevard Yves Farge (Saint-Fons)
+caption: Aperçu de la Voie Lyonnaise 7 - Route de Lyon (Feyzin)
 credit: Métropole de Lyon
 ---
 ::
