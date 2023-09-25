@@ -37,7 +37,7 @@ Le projet prévoit un réaménagement ambitieux avec :
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue de Bonnel
+caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -45,7 +45,7 @@ credit: Métropole de Lyon
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue de Bonnel
+caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -65,7 +65,7 @@ Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclab
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue Paul Bert
+caption: Aperçu de la Voie Lyonnaise 11 - rue Paul Bert (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -96,7 +96,7 @@ Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue du Dauphiné
+caption: Aperçu de la Voie Lyonnaise 11 - rue du Dauphiné (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -116,7 +116,7 @@ Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/bhns-part-dieu-7-chemins.png
-caption: Aperçu de la Voie Lyonnaise 11 - Le long du BHNS Part Dieu - Sept Chemins
+caption: Aperçu de la Voie Lyonnaise 11 - le long du BHNS Part Dieu - Sept Chemins
 credit: Métropole de Lyon
 ---
 ::
@@ -143,7 +143,7 @@ La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg
-caption: Aperçu de la Voie Lyonnaise 11 - Route de Lyon
+caption: Aperçu de la Voie Lyonnaise 11 - Route de Lyon (Chassieu)
 credit: Métropole de Lyon
 ---
 ::
