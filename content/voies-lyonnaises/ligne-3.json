@@ -329,7 +329,7 @@
         "color": "#3B7B64",
         "name": "Saint-Romain",
         "distance": 1497,
-        "status": "wip"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
