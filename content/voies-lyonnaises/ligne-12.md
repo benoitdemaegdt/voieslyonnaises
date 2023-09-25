@@ -29,7 +29,14 @@ credit: Métropole de Lyon
 #### Rue Pierre Audry
 Cette rue a fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine beige, s'élargie aussi en voie bus dans les 150 derniers mètres.
 
-*TODO: Ajouter photo*
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl12/pierre-audry.jpg
+caption: Voie Lyonnaise 12 - rue Pierre Audry
+credit: Métropole de Lyon
+---
+::
+
 
 Bien que qualitatif, cet aménagement est insuffisant au regard des ambitions des Voies Lyonnaises, car une partie de son linéaire n'est pas séparé physiquement des autres véhicules. Dans le sens de la descente, les chicanes aménagées pour réduire les vitesses conduisent souvent les véhicules à se déporter sur la bande cyclable, rendant l'aménagement très anxiogène. Une reprise ultérieure sera donc nécessaire pour en faire un maillon effectif du réseau des Voies Lyonnaises.
 
