@@ -27,6 +27,7 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-8) po
 ### Pont Wilson
 <!--Depuis la place Bellecour, -->La Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
 
+
 ### Rue de Bonnel
 Cette large rue est aujourd'hui qualifiée d'autoroute urbaine avec ses 4 voies de circulation, dont une convertie en couloir bus-vélos à l'été 2020. 
 
@@ -37,7 +38,7 @@ Le projet prévoit un réaménagement ambitieux avec :
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue de Bonnel
+caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -45,7 +46,7 @@ credit: Métropole de Lyon
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue de Bonnel
+caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -65,7 +66,7 @@ Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclab
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue Paul Bert
+caption: Aperçu de la Voie Lyonnaise 11 - rue Paul Bert (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -96,7 +97,7 @@ Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png
-caption: Aperçu de la Voie Lyonnaise 11 - Rue du Dauphiné
+caption: Aperçu de la Voie Lyonnaise 11 - rue du Dauphiné (Lyon 3)
 credit: Métropole de Lyon
 ---
 ::
@@ -112,14 +113,6 @@ Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-10) p
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins sur la route de Genas. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le giratoire des Sept Chemins à travers le quartier des Brosses.
-
-::image
----
-imageUrl: https://cyclopolis.lavilleavelo.org/vl11/bhns-part-dieu-7-chemins.png
-caption: Aperçu de la Voie Lyonnaise 11 - Le long du BHNS Part Dieu - Sept Chemins
-credit: Métropole de Lyon
----
-::
 
 La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
 La concertation continue se déroule de avril 2022 à décembre 2023.  
@@ -143,7 +136,7 @@ La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg
-caption: Aperçu de la Voie Lyonnaise 11 - Route de Lyon
+caption: Aperçu de la Voie Lyonnaise 11 - Route de Lyon (Chassieu)
 credit: Métropole de Lyon
 ---
 ::

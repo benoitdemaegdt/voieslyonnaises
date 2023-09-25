@@ -53,8 +53,7 @@ La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement c
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/quai-perrache.png
-caption: Voie Lyonnaise 6 - Quai Perrache
-credit: La Ville à Vélo
+caption: Photo de la Voie Lyonnaise 6 - Quai Perrache (Lyon 2)
 ---
 ::
 
@@ -82,16 +81,16 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-1.png
-caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue d'Oullins (scénario 1)
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 1)
+credit: Folia / Métropole de Lyon
 ---
 ::
 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/republique-scenario-1.png
-caption: Aperçu de la Voie Lyonnaise 6 - Rue de la République (scénario 1)
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 6 - Rue de la République (Oullins - scénario 1)
+credit: Folia / Métropole de Lyon
 ---
 ::
 
@@ -102,16 +101,16 @@ credit: Métropole de Lyon
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/bertholay-scenario-2.png
-caption: Aperçu de la Voie Lyonnaise 6 - Rue Narcisse Bertholey (scénario 2)
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 6 - Rue Narcisse Bertholey (Oullins - scénario 2)
+credit: Folia / Métropole de Lyon
 ---
 ::
 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-2.png
-caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue d'Oullins (scénario 2)
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 2)
+credit: Folia / Métropole de Lyon
 ---
 ::
   
@@ -125,7 +124,7 @@ Sur cette section, le projet consiste en la transformation des deux bandes cycla
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/av-clemenceau.png
-caption: Aperçu de la Voie Lyonnaise 6 - Avenue Clémenceau
+caption: Aperçu de la Voie Lyonnaise 6 - avenue Clémenceau (St-Genis-Laval)
 credit: Métropole de Lyon
 ---
 ::
@@ -148,7 +147,7 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/calendrier-sud.png
-caption: Calendrier prévisionnel du tronçon Sud traversant Oullins.
+caption: Calendrier prévisionnel du tronçon Sud traversant Oullins et St-Genis-Laval.
 ---
 ::
 

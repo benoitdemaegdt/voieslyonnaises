@@ -112,7 +112,7 @@ La Voie Lyonnaise 5 empruntera :
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bvd-emile-zola.png
-caption: Aperçu de la Voie Lyonnaise 5 - Boulevard Emile Zola
+caption: Aperçu de la Voie Lyonnaise 5 - boulevard Emile Zola (Oullins)
 credit: Métropole de Lyon
 ---
 ::
@@ -128,7 +128,7 @@ Ce tronçon fait l'objet de deux variantes d'itinéraires :
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bd-de-l-yzeron.png
-caption: Aperçu de la Voie Lyonnaise 5 - Boulevard de l'Yzeron
+caption: Aperçu de la Voie Lyonnaise 5 - berges Nord de l'Yzeron (La Mulatière)
 credit: Métropole de Lyon
 ---
 ::
