@@ -32,7 +32,7 @@ Cette rue a fait l'objet d'un vaste projet de requalification qui s'est achevé 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/pierre-audry.jpg
-caption: Voie Lyonnaise 12 - rue Pierre Audry
+caption: Photo de la Voie Lyonnaise 12 - rue Pierre Audry (Lyon 9)
 credit: Métropole de Lyon
 ---
 ::
@@ -117,7 +117,7 @@ Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png
-caption: Aperçu de la Voie Lyonnaise 11 - Avenue Franklin Roosevelt
+caption: Aperçu de la Voie Lyonnaise 12 - avenue Franklin Roosevelt (Bron)
 credit: Métropole de Lyon
 ---
 ::
