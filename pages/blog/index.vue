@@ -33,18 +33,9 @@
 </template>
 
 <script setup>
-const { data: fetchedArticles } = await useAsyncData(() => {
+const { data: articles } = await useAsyncData(() => {
   return queryContent('blog')
     .where({ _path: /^\/blog\/[^/]*$/ })
     .find()
 })
-
-const articles = [
-  {
-    title: 'Avancement des voies lyonnaises',
-    description: "Suivi mensuel de l'avancement du projet des voies lyonnaises porté par la métropole de Lyon.",
-    _path: '/blog/chronologie'
-  },
-  ...fetchedArticles.value
-]
 </script>
