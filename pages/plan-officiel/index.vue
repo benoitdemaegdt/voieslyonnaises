@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <img
-      src="~/assets/plan-officiel.png"
+      src="https://cyclopolis.lavilleavelo.org/carte-voies-lyonnaises-2026.png"
       class="object-contain w-full h-screen"
       alt="plan officiel des voies lyonnaises"
     >
@@ -10,9 +10,9 @@
 
 <script setup>
 const description = 'Découvrez le plan officiel des Voies Lyonnaises, le futur réseau vélo lyonnais de 260km.'
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/voies-lyonnaises.png'
+const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png'
 useHead({
-  title: 'Plan officiel des Voies Lyonnaises',
+  title: 'Plan des Voies Lyonnaises',
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
