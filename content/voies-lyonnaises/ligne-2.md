@@ -37,7 +37,7 @@ La Voie Lyonnaise 2 va prendre la place de l'ancienne contre-allée de stationne
 ::image
 ---
 imageUrl: https://www.lyon.fr/sites/lyonfr/files/content/2023-06/stalingrad-perspective-p.jpg
-caption: Aperçu de la Voie Lyonnaise 2 - Boulevard Stalingrad
+caption: Aperçu de la Voie Lyonnaise 2 - boulevard Stalingrad (Villeurbanne)
 credit: Métropole de Lyon
 ---
 ::
@@ -47,7 +47,7 @@ credit: Métropole de Lyon
 #### Rue Waldeck-Rousseau<br/>*entre avenue Verguin et blvd des Belges*
 Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
 
-*Les travaux sur cette section devraient débuter en janvier 2024 et se terminer en avril 2024.*
+*Les travaux sur cette section devraient débuter fin 2023 et se terminer au printemps 2024.*
 
 #### Boulevard des Belges<br/>*entre la rue Waldeck-Rousseau et le cours Lafayette*
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
@@ -74,9 +74,9 @@ credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux sur la section Paul Bert à Félix Faure débuteront en janvier 2024 et dureront jusqu'en avril 2024.  
-Les travaux sur la section Félix Faure à Gambetta ont débuté le 10 juillet 2023 et se poursuivront jusqu'en novembre 2023.  
-Les travaux sur le boulevard des Tchécoslovaques débuteront en septembre 2023 et se termineront en avril 2024.*
+*Les travaux sur la section Paul Bert à Félix Faure commenceront début 2024 et dureront jusqu'au printemps.  
+Les travaux sur la section Félix Faure à Gambetta ont débuté le 10 juillet 2023 et se poursuivront jusqu'en fin d'année.  
+Les travaux sur le boulevard des Tchécoslovaques débuteront fin 2023 et se termineront au printemps 2024.*
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
@@ -101,7 +101,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux de ce tronçon devraient avoir lieu entre l'automne 2024 et l'été 2025.*
+*Les travaux de ce tronçon devraient commencer courant 2024.*
 
 #### Avenue Viviani
 Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
@@ -113,8 +113,6 @@ caption: Aperçu de la Voie Lyonnaise 2 - avenue Viviani (Lyon 8/Vénissieux)
 credit: Métropole de Lyon
 ---
 ::
-
-*Les travaux de ce tronçon pourraient avoir lieu au second semestre 2025.*
 
 ####  Quartier de Parilly<br/>*de Viviani à la Plaine des Sports*
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès Métro D) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
