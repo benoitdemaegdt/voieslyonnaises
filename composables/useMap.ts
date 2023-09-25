@@ -17,7 +17,7 @@ type Properties = {
 };
 
 // features plotted last are on top
-const sortOrder = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].reverse();
+const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
 
 function getCrossIconUrl(color: string): string {
   const canvas = document.createElement('canvas');
