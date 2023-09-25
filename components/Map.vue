@@ -1,7 +1,8 @@
 <template>
-  <div>
+  <div class="relative">
     <LegendModal ref="legendModalComponent" />
     <div id="map" class="rounded-lg h-full w-full" />
+    <img class="my-0 absolute bottom-0 right-0" src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png" width="50" height="50" alt="logo la ville à vélo">
   </div>
 </template>
 
