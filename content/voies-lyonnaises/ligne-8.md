@@ -38,7 +38,7 @@ Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élarg
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
-caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris
+caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris (Tassin)
 credit: Métropole de Lyon
 ---
 ::
@@ -57,7 +57,7 @@ Sur le chemin du Vallon, deux variantes ont été proposées :
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/chemin-du-vallon.png
-caption: Aperçu de la Voie Lyonnaise 8 - Chemin du Vallon (variante piste cyclable)
+caption: Aperçu de la Voie Lyonnaise 8 - Chemin du Vallon (Tassin - variante piste cyclable)
 credit: Métropole de Lyon
 ---
 ::
@@ -78,7 +78,7 @@ Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png
-caption: Aperçu de la Voie Lyonnaise 8 - Avenue Vincent Serre
+caption: Aperçu de la Voie Lyonnaise 8 - Avenue Vincent Serre (Tassin)
 credit: Métropole de Lyon
 ---
 ::
@@ -89,7 +89,7 @@ Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png
-caption: Aperçu de la Voie Lyonnaise 8 - Avenue Barthélémy Buyer
+caption: Aperçu de la Voie Lyonnaise 8 - Avenue Barthélémy Buyer (Lyon 5 / Lyon 9)
 credit: Métropole de Lyon
 ---
 ::
@@ -100,7 +100,7 @@ La Voie Lyonnaise 8 sera donc déviée par l'avenue Apollinaire, avec la créati
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png
-caption: Aperçu de la Voie Lyonnaise 8 - Rue de la Gravière
+caption: Aperçu de la Voie Lyonnaise 8 - Rue de la Gravière (Lyon 9)
 credit: Métropole de Lyon
 ---
 ::
@@ -112,10 +112,10 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 ### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
 Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
-<!--
-### Traversée de la Presqu'Île de Lyon
-Le projet initialement annoncé devait faire un détour par Perrache, via le quai Fulchiron et le pont Kitchener-Marchand. Il devait traverser le pôle d'échange de Perrache puis remonter sur la rive droite du Rhône.
 
+### Traversée de la Presqu'Île de Lyon
+Le projet doit faire un détour par Perrache, via le quai Fulchiron et le pont Kitchener-Marchand. Il devrait traverser le pôle d'échange de Perrache puis remonter sur la rive droite du Rhône. Aucune information publique n'existe à ce jour sur ce tronçon. 
+<!--
 Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé d'abandonné ce tracé à l'horizon 2026.
 
 Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour.  
@@ -128,16 +128,16 @@ Aucune information publique n'existe à ce jour sur ce tronçon. L'itinéraire p
 #### Rue de l'Université et rue Marc Bloch
 #### Rue Camille Roy
 #### Rue et Pont de l'Epargne
-Cette section fera l'objet d'un vaste projet de requalification avec une concertation et un budget dédié.
+Cette section fera l'objet d'un vaste projet de requalification avec un budget dédié.
 #### Rue Marius Berliet
 #### Avenue Jean Mermoz
-<br/><br/>
+
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
 #### Avenue Mermoz - Pinel à Lionel Terray
 La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011 suite à la démolition de l'autopont et au réaménagement de l'A43 en boulevard urbain, sera conservée en l'état.
 
 #### Rue Lionel Terray
-Ce tronçon fera l'objet d'un vaste projet de requalification avec une concertation et un budget dédié dans le cadre de la ZAC Bron-Parilly. On sait que l'aménagement consistera en une piste cyclable bidirectionnelle de 3.50m de large côté Sud et qu'une des deux voies de circulation restantes sera dédiée aux bus.
+Ce tronçon fera l'objet d'un vaste projet de requalification avec un budget dédié dans le cadre de la ZAC Bron-Parilly. On sait que l'aménagement consistera en une piste cyclable bidirectionnelle de 3.50m de large côté Sud et qu'une des deux voies de circulation restantes sera dédiée aux bus.
 
 #### Branche vers Campus Sud
 Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 3.50m de large :
@@ -147,8 +147,8 @@ Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deu
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png
-caption: Aperçu de la Voie Lyonnaise 8 - Avenue Pierre Mendès-France
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 8 - avenue Pierre Mendès-France (Bron)
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
@@ -160,8 +160,8 @@ Sur ce boulevard très routier, le projet prévoyait deux variantes pour la posi
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png
-caption: Aperçu de la Voie Lyonnaise 8 - Boulevard de l'Université
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 8 - boulevard de l'Université (Bron)
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
@@ -171,8 +171,8 @@ La Voie Lyonnaise évitera le boulevard André Boulloche en faisant un détour p
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png
-caption: Aperçu de la Voie Lyonnaise 8 - Rue Paul Langevin
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 8 - Rue Paul Langevin (Bron)
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
@@ -185,7 +185,7 @@ Il est prévu de rejoindre la très large piste existante de 5.50m le long de l'
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png
-caption: Aperçu de la Voie Lyonnaise 8 - Cour du Professeur Jean Bernard
+caption: Aperçu de la Voie Lyonnaise 8 - Cours du Professeur Jean Bernard (St-Priest)
 credit: Métropole de Lyon
 ---
 ::
@@ -211,7 +211,7 @@ source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/we
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/calendrier-nord.png
-caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Nord
+caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Tassin / Buyer
 credit: Métropole de Lyon
 ---
 ::
