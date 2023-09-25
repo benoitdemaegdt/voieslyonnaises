@@ -6,19 +6,16 @@
           <NuxtLink to="/">
             <span class="sr-only">Cyclopolis</span>
             <img
-              class="h-8 w-auto sm:h-10"
-              src="~/assets/logo.png"
-              alt="logo voies lyonnaises"
+              class="hidden sm:block h-8 w-auto sm:h-10"
+              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-desktop.png"
+              alt="logo cyclopolis"
+            >
+            <img
+              class="sm:hidden h-8 w-auto sm:h-10"
+              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-mobile.png"
+              alt="logo cyclopolis"
             >
           </NuxtLink>
-          <div class="ml-4 sm:hidden">
-            <div class="text-2xl font-extrabold text-lvv-blue-600">
-              Cyclopolis
-            </div>
-            <div class="ml-14 -mt-1 text-sm">
-              par <span class="text-lvv-blue-600 font-semibold">la ville à vélo</span>
-            </div>
-          </div>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
           <PopoverButton
