@@ -197,8 +197,8 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
  - **25 600 000 € HT** au total dont :
    - **3 200 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
 _source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
-   - **1 300 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
-_source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf)_
+   - **1 450 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
+_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)
 
 A ce budget se rajoutent :
  - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières  
