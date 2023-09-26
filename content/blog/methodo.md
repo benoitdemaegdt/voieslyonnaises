@@ -4,11 +4,11 @@ description: Réponses aux questions fréquentes sur les données et la méthodo
 imageUrl: https://source.unsplash.com/AoSAOV2Vtro
 ---
 
-Pourquoi ce tronçon est marqué comme « terminé » alors qu’il n’y a eu aucuns travaux ?
-Pourquoi ma rue est considérée comme « prévue » alors qu’il y a déjà une piste cyclable ?
-La piste est au Nord de la rue sur votre carte alors que la concertation a annoncé une piste au Sud !
-À quoi dois-je m’attendre sur les tronçons marqués « reporté après 2026 » ?
-Pourquoi je ne retrouve pas la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?
+*Pourquoi ce tronçon est marqué « terminé » alors qu’il n’y a eu aucuns travaux ?  
+Pourquoi ma rue est considérée comme « prévue » alors qu’il y a déjà une piste ?  
+La piste est au Nord de la rue sur votre carte alors que la concertation a annoncé une piste au Sud !  
+À quoi dois-je m’attendre sur les tronçons marqués « reporté après 2026 » ?  
+Où est la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?*
 
 On vous explique tout !
 
