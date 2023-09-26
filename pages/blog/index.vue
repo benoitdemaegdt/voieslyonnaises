@@ -3,10 +3,10 @@
     <div class="relative max-w-lg mx-auto divide-y-2 divide-gray-200 lg:max-w-7xl">
       <div>
         <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
-          Quelques articles
+          Blog de Cyclopolis
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          Quelques articles et autres réflexions sur l'actualité des voies lyonnaises.
+          Quelques articles et autres réflexions sur la plateforme de La Ville à Vélo.
         </p>
       </div>
       <div class="mt-12 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-4">
