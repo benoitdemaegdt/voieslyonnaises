@@ -13,7 +13,7 @@ Où est la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?*
 On vous explique tout !
 
 ## Terminé ou Prévu ?
-Il s’agit de tous les tronçons aménagés depuis 2020 dont on est certain qu’ils accueilleront une Voie Lyonnaise en 2026 ou ayant déjà fait l’objet d’une concertation qui mentionnait explicitement que l’aménagement cyclable existant serait conservé en l’état.
+Les tronçons considérés comme "terminés" sont tous les tronçons aménagés depuis 2020 dont on est certain qu’ils accueilleront une Voie Lyonnaise en 2026 ou ayant déjà fait l’objet d’une concertation qui mentionnait explicitement que l’aménagement cyclable existant serait conservé en l’état.
 
 **Exemples :**
 
