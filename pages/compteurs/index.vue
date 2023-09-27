@@ -9,7 +9,10 @@
           Suivi des compteurs vélo de l'agglomération lyonnaise
         </h2>
         <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
-          <i>Page en cours de construction. <i><br/>Elle sera destinée à suivre le réseau de plus de 70 compteurs vélo afin de pouvoir mesurer efficacement l'évolution de la pratique cyclable au sein de la métropole.
+          Page en cours de construction.
+        </p>
+        <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
+          Elle sera destinée à suivre le réseau de plus de 70 compteurs vélo afin de pouvoir mesurer efficacement l'évolution de la pratique cyclable au sein de la métropole.
         </p>
       </div>
       <div class="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none">
