@@ -3,16 +3,16 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6">
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
-          <NuxtLink to="/">
+          <NuxtLink to="/" class="flex space-x-2">
             <span class="sr-only">Cyclopolis</span>
             <img
-              class="hidden sm:block h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-desktop.png"
-              alt="logo cyclopolis"
+              class="h-7 w-auto sm:h-8"
+              src="https://cyclopolis.lavilleavelo.org/picto-cyclopolis.png"
+              alt="picto cyclopolis"
             >
             <img
-              class="sm:hidden h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-mobile.png"
+              class="h-8 w-auto sm:h-10"
+              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
               alt="logo cyclopolis"
             >
           </NuxtLink>
@@ -30,7 +30,8 @@
             to="/carte-interactive"
             class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
-            Carte interactive
+            <span class="hidden lg:block">Carte interactive</span>
+            <span class="lg:hidden">Carte</span>
           </NuxtLink>
 
           <Popover v-slot="{ open }" class="relative">
@@ -69,7 +70,8 @@
             to="/plan-officiel"
             class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
-            Plan officiel
+            <span class="hidden lg:block">Plan officiel</span>
+            <span class="lg:hidden">Plan</span>
           </NuxtLink>
           <NuxtLink
             to="/compteurs"
@@ -81,7 +83,7 @@
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
             to="/blog"
-            class="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lvv-blue-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
+            class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lvv-blue-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
           >
             Blog
           </NuxtLink>
