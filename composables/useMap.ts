@@ -156,23 +156,39 @@ export const useMap = () => {
     if (sections.length === 0) {
       return;
     }
-    map.addSource('not-done-sections', {
+    map.addSource('planned-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
     });
     map.addLayer({
-      id: 'not-done-sections',
+      id: 'planned-sections',
       type: 'line',
-      source: 'not-done-sections',
+      source: 'planned-sections',
       paint: {
-        'line-width': 4,
+        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 6, 4],
         'line-color': ['get', 'color'],
         'line-dasharray': [2, 2]
       }
     });
+    let hoveredLineId = null;
+    map.on('mousemove', 'planned-sections', e => {
+      map.getCanvas().style.cursor = 'pointer';
 
-    map.on('mouseenter', 'not-done-sections', () => (map.getCanvas().style.cursor = 'pointer'));
-    map.on('mouseleave', 'not-done-sections', () => (map.getCanvas().style.cursor = ''));
+      if (e.features.length > 0) {
+        if (hoveredLineId !== null) {
+          map.setFeatureState({ source: 'planned-sections', id: hoveredLineId }, { hover: false });
+        }
+        hoveredLineId = e.features[0].id;
+        map.setFeatureState({ source: 'planned-sections', id: hoveredLineId }, { hover: true });
+      }
+    });
+    map.on('mouseleave', 'planned-sections', () => {
+      map.getCanvas().style.cursor = '';
+      if (hoveredLineId !== null) {
+        map.setFeatureState({ source: 'planned-sections', id: hoveredLineId }, { hover: false });
+      }
+      hoveredLineId = null;
+    });
   }
 
   function plotVarianteSections({ map, features }) {

@@ -50,6 +50,7 @@
       }
     },
     {
+      "id": 1,
       "type": "Feature",
       "properties": {
         "id": "PeriCanal-commun",
@@ -101,6 +102,7 @@
       }
     },
     {
+      "id": 2,
       "type": "Feature",
       "properties": {
         "id": "CanalSport-commun",
@@ -135,6 +137,7 @@
       }
     },
     {
+      "id": 3,
       "type": "Feature",
       "properties": {
         "id": "SportStalingrad-commun",
@@ -161,6 +164,7 @@
       }
     },
     {
+      "id": 4,
       "type": "Feature",
       "properties": {
         "id": "StalingradNord-commun",
@@ -172,7 +176,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.861193194938238, 45.78457073986618],
           [4.861315438951237, 45.78448747445583],
           [4.861417782775277, 45.78431896074434],
@@ -192,6 +196,7 @@
       }
     },
     {
+      "id": 5,
       "type": "Feature",
       "properties": {
         "id": "Bonnevay127-commun",
@@ -203,13 +208,14 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.860028376055567, 45.784614639552274],
           [4.861193194938238, 45.78457073986618]
         ]
       }
     },
     {
+      "id": 6,
       "type": "Feature",
       "properties": {
         "id": "Lignon-commun",
@@ -238,6 +244,7 @@
       }
     },
     {
+      "id": 7,
       "type": "Feature",
       "properties": {
         "id": "TetedOr157-commun",
@@ -256,6 +263,7 @@
       }
     },
     {
+      "id": 8,
       "type": "Feature",
       "properties": {
         "id": "GdeBretagne-commun",
@@ -280,6 +288,7 @@
       }
     },
     {
+      "id": 9,
       "type": "Feature",
       "properties": {
         "line": 1,
@@ -304,6 +313,7 @@
       }
     },
     {
+      "id": 10,
       "type": "Feature",
       "properties": {
         "line": 1,
@@ -322,6 +332,7 @@
       }
     },
     {
+      "id": 11,
       "type": "Feature",
       "properties": {
         "line": 1,
@@ -341,6 +352,7 @@
       }
     },
     {
+      "id": 12,
       "type": "Feature",
       "properties": {
         "id": "QuaiAugagneur-commun",
@@ -359,6 +371,7 @@
       }
     },
     {
+      "id": 13,
       "type": "Feature",
       "properties": {
         "line": 1,
@@ -383,6 +396,7 @@
       }
     },
     {
+      "id": 14,
       "type": "Feature",
       "properties": {
         "line": 1,
@@ -412,6 +426,7 @@
       }
     },
     {
+      "id": 15,
       "type": "Feature",
       "properties": {
         "line": 1,
@@ -454,6 +469,7 @@
       }
     },
     {
+      "id": 16,
       "type": "Feature",
       "properties": {
         "line": 1,
