@@ -137,6 +137,14 @@ credit: Passagers des Villes / Métropole de Lyon
 
 ::image
 ---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-lissieu-la-garde.png
+caption: Calendrier prévisionnel du tronçon Lissieu - La Garde de la Voie Lyonnaise 4.
+credit: Dossier de concertation - Métropole de Lyon
+---
+::
+
+::image
+---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-garde-porte-de-vaise.png
 caption: Calendrier prévisionnel du tronçon La Garde - Porte de Vaise de la Voie Lyonnaise 4.
 credit: Dossier de concertation - Métropole de Lyon

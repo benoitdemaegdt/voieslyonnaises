@@ -160,7 +160,14 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
 _source: [page 20 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}_
 
 ## Calendrier prévisionnel
-*Ajouter calendrier section centrale*
+
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl11/calendrier-lyon-3.png
+caption: Voie Lyonnaise 11 - Calendrier prévisionnel de la section Lyon 3.
+---
+::
 
 ::image
 ---

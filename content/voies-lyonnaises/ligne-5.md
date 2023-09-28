@@ -160,8 +160,15 @@ La Voie Lyonnaise 5 empruntera :
 
 ::image
 ---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-oullins.png
+caption: calendrier prévisionnel de la traversée d'Oullins de la Voie Lyonnaise 5.
+---
+::
+
+::image
+---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-troncon-est.png
-caption: calendrier prévisionnel de la Voie Lyonnaise 5 (tronçon Est).
+caption: calendrier prévisionnel du tronçon Est de la Voie Lyonnaise 5.
 ---
 ::
 
