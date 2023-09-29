@@ -17,9 +17,6 @@
       </div>
       <div class="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none">
         <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-          <div class="flex-shrink-0">
-            <img class="h-48 w-full object-cover" :src="counter.imageUrl" alt="">
-          </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
               <p class="text-sm font-medium text-lvv-blue-600">
