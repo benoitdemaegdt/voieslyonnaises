@@ -74,6 +74,16 @@ const socials = {
       icon: 'mdi:facebook'
     },
     {
+      name: 'LinkedIn',
+      href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
+      icon: 'mdi:linkedin'
+    },
+        {
+      name: 'Instagram',
+      href: 'https://www.instagram.com/lavilleavelolyon',
+      icon: 'mdi:instagram'
+    },
+    {
       name: 'Site web',
       href: 'https://lavilleavelo.org/',
       icon: 'mdi:link'
