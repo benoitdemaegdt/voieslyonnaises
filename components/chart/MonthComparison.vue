@@ -101,7 +101,7 @@ const years = computed(() => {
 const chartOptions = computed(() => {
   return {
     chart: { type: 'column' },
-    title: { text: `Fréquentation des mois de ${selectedMonth.value.name}` },
+    title: { text: `Fréquentation cycliste en ${selectedMonth.value.name} - ${props.data.name}` },
     credits: { enabled: false },
     legend: { enabled: false },
     xAxis: { categories: years.value },
