@@ -14,15 +14,6 @@
     <p>Choisissez un mois dans le menu déroulant ci-dessous pour visualiser l'évolution de la fréquentation cyclable pour le même mois de chaque année.</p>
     <ChartMonthComparison :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
-    <h2>Total des passages par mois</h2>
-    <p>On regarde ici pour chaque année le nombre total de passages par mois. Pour bien comprendre les courbes des années 2020 et 2021, il faut avoir en tête les dates des 3 confinements en France :</p>
-    <ul>
-      <li>Du 17 mars au 11 mai 2020 (1 mois et 25 jours)</li>
-      <li>Du 30 octobre au 15 décembre 2020 (1 mois et 15 jours)</li>
-      <li>Du 3 avril au 3 mai 2021 (28 jours)</li>
-    </ul>
-    <ChartTotalByMonth :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
-
     <template v-if="data.limitation">
       <h2>Limitation</h2>
       <p>{{ data.limitation }}</p>
