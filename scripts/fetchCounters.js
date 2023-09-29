@@ -26,7 +26,7 @@ function formatCounters(counters) {
     name: counter.nom,
     idPdc: counter.idPdc,
     flowIds: counter.pratique.map(item => item.id).join(';'),
-    lat: counter.lat,
-    long: counter.lon
+    coordinates: [counter.lon, counter.lat],
+    counts: []
   }));
 }
