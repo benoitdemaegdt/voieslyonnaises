@@ -289,7 +289,7 @@
         "color": "#9A8A4B",
         "name": "Belges Sud",
         "distance": 600,
-        "status": "wip"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
