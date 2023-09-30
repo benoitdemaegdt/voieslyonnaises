@@ -690,7 +690,7 @@
         "color": "#7E6D98",
         "name": "Quai Fulchiron",
         "distance": 1000,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -926,9 +926,9 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "Bron Université",
-        "distance": 2475,
-        "status": "planned"
+        "name": "Pinel - A43",
+        "distance": 524,
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -951,6 +951,22 @@
           [4.891743744506897, 45.729754242419205],
           [4.892445037818987, 45.72959327701486],
           [4.8934911094647475, 45.729531341487444],
+          [4.893997652476429, 45.729458043719546]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Rue Lionel Terray",
+        "distance": 1950,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.893997652476429, 45.729458043719546],
           [4.894092928434702, 45.72906501296754],
           [4.894254769860339, 45.72877125536465],
@@ -1053,7 +1069,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Bron - Porte des Alpes",
-        "distance": 1525,
+        "distance": 1112,
         "status": "planned"
       },
       "geometry": {
@@ -1108,10 +1124,42 @@
           [4.923201215670758, 45.72022608391083],
           [4.923505680903077, 45.72003354460668],
           [4.923740033602684, 45.719875619458605],
+          [4.924178675365226, 45.71962111375845]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Parking relais Porte des Alpes",
+        "distance": 278,
+        "status": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
           [4.924178675365226, 45.71962111375845],
           [4.9246078225299925, 45.7193336268335],
           [4.925040144354, 45.71904428270102],
-          [4.926418554396207, 45.71811966779322],
+          [4.9267580317091415, 45.71789880851384]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Cours du Professeur Jean Bernard",
+        "distance": 139,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
+          [4.9267580317091415, 45.71789880851384],
           [4.927617305488951, 45.71731878920821],
           [4.9280485115435795, 45.71703129997303]
         ]
