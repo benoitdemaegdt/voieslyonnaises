@@ -129,7 +129,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
 #### Garibaldi Gde Rue de la Guillotière - Berthelot
 Entre la Grande Rue de la Guillotière et la route de Vienne, il est prévu une piste cyclable bidriectionnelle de 4m de large côté Ouest de la chaussée, en supprimant une voie de circulation et une bande de stationnement.
 
-Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la piste cyclable bidirectionnelle existante de 3m de large le long du trottoir Ouest.
+Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la piste cyclable bidirectionnelle existante de 3m de large le long du trottoir Ouest, mais le confort sera amélioré avec le remplacement du stationnement automobile par de la végétalisation.
 
 ::image
 ---
