@@ -257,7 +257,7 @@
         "color": "#396083",
         "name": "Quai Perrache Nord",
         "distance": 673,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
