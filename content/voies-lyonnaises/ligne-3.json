@@ -639,7 +639,7 @@
         "color": "#3B7B64",
         "name": "Quai Fulchiron",
         "distance": 1000,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -758,11 +758,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsBarrage-commun",
+        "id": "OullinsPierreBenite-commun",
         "line": 3,
         "color": "#3B7B64",
         "name": "Oullins - Pierre Bénite",
-        "distance": 3900,
+        "distance": 3148,
         "status": "planned"
       },
       "geometry": {
@@ -799,6 +799,23 @@
           [4.8270803689956665, 45.69441130348957],
           [4.827777743339538, 45.693444577901126],
           [4.828062057495117, 45.693275961261364],
+          [4.828566312789917, 45.69360569999303]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CheminBarrage-commun",
+        "line": 3,
+        "color": "#3B7B64",
+        "name": "Chemin du Barrage",
+        "distance": 756,
+        "status": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [             
           [4.828566312789917, 45.69360569999303],
           [4.828587770462036, 45.69412278636186],
           [4.828780889511108, 45.69427266557501],
