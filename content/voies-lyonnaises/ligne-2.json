@@ -278,7 +278,7 @@
         "id": "StalingradSud-commun",
         "line": 2,
         "color": "#AC4D35",
-        "name": "Stalingrad Sud",
+        "name": "Stalingrad Centre",
         "distance": 750,
         "status": "wip"
       },
@@ -298,8 +298,8 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
-        "name": "Waldeck Rousseau",
-        "distance": 450,
+        "name": "Stalingrad Sud",
+        "distance": 307,
         "status": "wip"
       },
       "geometry": {
@@ -307,7 +307,23 @@
         "coordinates": [          
           [4.858714207777808, 45.772826589591475],
           [4.8585909605026245, 45.77087949289752],
-          [4.85845148563385, 45.76992157383857],
+          [4.858462290009896, 45.770068535369305]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
+        "name": "Waldeck-Rousseau",
+        "distance": 136,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [        
+          [4.858462290009896, 45.770068535369305],
           [4.858247637748718, 45.76885699214569]
         ]
       }
@@ -320,7 +336,7 @@
         "color": "#AC4D35",
         "name": "Belges Sud",
         "distance": 600,
-        "status": "wip"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -373,7 +389,7 @@
         "color": "#AC4D35",
         "name": "Vivier Merle Nord",
         "distance": 400,
-        "status": "wip"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -388,8 +404,8 @@
       "properties": {
         "line": 2,
         "color": "#AC4D35",
-        "name": "Vivier Merle Sud - Tchécoslovaques",
-        "distance": 1500,
+        "name": "Vivier Merle Sud",
+        "distance": 459,
         "status": "wip"
       },
       "geometry": {
@@ -400,6 +416,22 @@
           [4.8597891728406495, 45.75091210997772],
           [4.859512568971894, 45.749900275229436],
           [4.85942497714165, 45.74970470076507],
+          [4.859411781151497, 45.749535230531166]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "color": "#AC4D35",
+        "name": "Tchécoslovaques",
+        "distance": 1038,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.859411781151497, 45.749535230531166],
           [4.859298042550691, 45.74905462323612],
           [4.858812488225112, 45.74731215441383],
