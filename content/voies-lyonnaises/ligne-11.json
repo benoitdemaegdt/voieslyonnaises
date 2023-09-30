@@ -410,7 +410,7 @@
         "color": "#4DADC9",
         "name": "Vivier Merle Nord",
         "distance": 400,
-        "status": "wip"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
