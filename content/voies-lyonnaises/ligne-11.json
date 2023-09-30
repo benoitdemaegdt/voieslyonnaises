@@ -166,7 +166,7 @@
         "color": "#4DADC9",
         "name": "Quai Fulchiron",
         "distance": 1000,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
