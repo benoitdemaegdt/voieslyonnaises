@@ -838,7 +838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsPierreBenite-commun",
+        "id": "OullinsSaulaie-commun",
         "line": 3,
         "color": "#3B7B64",
         "name": "Oullins - La Saulaie",
@@ -870,7 +870,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsPierreBenite-commun",
+        "id": "OullinsJaurès-commun",
         "line": 3,
         "color": "#3B7B64",
         "name": "Oullins - Avenue Jaurès",
@@ -889,7 +889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsPierreBenite-commun",
+        "id": "PierreBenite-commun",
         "line": 3,
         "color": "#3B7B64",
         "name": "Pierre Bénite",
