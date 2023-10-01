@@ -11,9 +11,9 @@ import { formatCounts } from './helpers.mjs';
  * node ./scripts/fetchCounts.mjs > ./scripts/counts.json
  */
 
-const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/data/100047691?';
-const idPdc = '100047691';
-const flowIds = '101047691;102047691';
+const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/data/100050687?';
+const idPdc = '100050687';
+const flowIds = '101050687;102050687;103050687;104050687;353398018;353398024;353398367;353398373;353399416;353399418';
 const from = '01/01/2015';
 const to = '31/09/2023';
 
