@@ -456,7 +456,7 @@
       "properties": {
         "id": "DauphineVerne-commun",
         "line": 10,
-        "color": "#9A8A4B",
+        "color": "#4DADC9",
         "name": "Dauphiné - Jules Verne",
         "distance": 689,
         "status": "planned"
@@ -485,7 +485,7 @@
       "properties": {
         "id": "VerneBalzac-commun",
         "line": 10,
-        "color": "#9A8A4B",
+        "color": "#4DADC9",
         "name": "Jules Verne - Reconnaissance Balzac",
         "distance": 541,
         "status": "done"
