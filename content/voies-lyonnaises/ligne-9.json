@@ -832,7 +832,7 @@
         "color": "#EAAB50",
         "name": "Berge Yzeron Est",
         "distance": 300,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
