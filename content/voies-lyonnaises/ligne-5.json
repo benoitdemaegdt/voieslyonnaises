@@ -105,7 +105,7 @@
       "properties": {
         "id": "CheminBarrage-commun",
         "line": 3,
-        "color": "#3B7B64",
+        "color": "#AF7392",
         "name": "Chemin du Barrage",
         "distance": 756,
         "status": "done"
@@ -132,7 +132,7 @@
       "properties": {
         "id": "PierreBenite-commun",
         "line": 3,
-        "color": "#3B7B64",
+        "color": "#AF7392",
         "name": "Pierre Bénite",
         "distance": 1923,
         "status": "planned"
@@ -163,7 +163,7 @@
       "properties": {
         "id": "OullinsJaurès-commun",
         "line": 3,
-        "color": "#3B7B64",
+        "color": "#AF7392",
         "name": "Oullins - Avenue Jaurès",
         "distance": 342,
         "status": "done"
@@ -182,7 +182,7 @@
       "properties": {
         "id": "OullinsSaulaie-commun",
         "line": 3,
-        "color": "#3B7B64",
+        "color": "#AF7392",
         "name": "Oullins - La Saulaie",
         "distance": 881,
         "status": "planned"
