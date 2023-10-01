@@ -90,7 +90,7 @@ const socials = {
     },
     {
       name: 'Email',
-      href: 'mailto:contact@lavilleavelo.org',
+      href: 'mailto:contact_at_lavilleavelo.org',
       icon: 'mdi:email-outline'
     }
   ]
