@@ -207,8 +207,8 @@
       "properties": {
         "line": 9,
         "color": "#EAAB50",
-        "name": "Parc de Miribel",
-        "distance": 6150,
+        "name": "Digue EDF",
+        "distance": 609,
         "status": "planned"
       },
       "geometry": {
@@ -225,6 +225,22 @@
           [4.987548887729645, 45.79462201975006],
           [4.986003935337067, 45.79363271589885],
           [4.98492032289505, 45.79294636434536],
+          [4.984469711780547, 45.7926564858098]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
+        "color": "#EAAB50",
+        "name": "Promenade des Îles",
+        "distance": 3481,
+        "status": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.984469711780547, 45.7926564858098],
           [4.984306097030639, 45.79267144731952],
           [4.983163475990295, 45.79212909002656],
@@ -286,6 +302,22 @@
           [4.951438307762146, 45.79684181154647],
           [4.950896501541138, 45.797021335914515],
           [4.95008647441864, 45.797421523569994],
+          [4.948713183403015, 45.79823311027086]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
+        "color": "#EAAB50",
+        "name": "Parc de Miribel",
+        "distance": 2045,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
           [4.948713183403015, 45.79823311027086],
           [4.943557977676392, 45.7980199296554],
           [4.942705035209656, 45.7980797699105],
@@ -800,7 +832,7 @@
         "color": "#EAAB50",
         "name": "Berge Yzeron Est",
         "distance": 300,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
