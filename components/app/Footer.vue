@@ -30,7 +30,7 @@
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
           <p class="text-center text-base text-gray-400">
-            &copy; Cyclopolis
+            Cyclopolis
           </p>
         </div>
       </div>
@@ -78,7 +78,7 @@ const socials = {
       href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
       icon: 'mdi:linkedin'
     },
-        {
+    {
       name: 'Instagram',
       href: 'https://www.instagram.com/lavilleavelolyon',
       icon: 'mdi:instagram'
@@ -87,6 +87,11 @@ const socials = {
       name: 'Site web',
       href: 'https://lavilleavelo.org/',
       icon: 'mdi:link'
+    },
+    {
+      name: 'Email',
+      href: 'mailto:contact@lavilleavelo.org',
+      icon: 'mdi:email-outline'
     }
   ]
 }
