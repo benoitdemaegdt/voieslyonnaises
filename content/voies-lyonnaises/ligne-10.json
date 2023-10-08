@@ -760,7 +760,7 @@
         "color": "#9A8A4B",
         "name": "D-Side - Wilson",
         "distance": 110,
-        "status": "done"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
