@@ -488,7 +488,7 @@
         "color": "#4DADC9",
         "name": "Jules Verne - Reconnaissance Balzac",
         "distance": 541,
-        "status": "done"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
