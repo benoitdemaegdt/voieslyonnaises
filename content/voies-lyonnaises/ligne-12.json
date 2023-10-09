@@ -267,6 +267,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "Presquile-commun",
         "line": 12,
         "color": "#DBABB7",
         "name": "Traversée Presqu'île (par Bellecour)",
