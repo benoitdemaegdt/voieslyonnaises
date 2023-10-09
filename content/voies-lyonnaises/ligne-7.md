@@ -105,10 +105,23 @@ credit: Métropole de Lyon
 La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
 
-### Pont Churchill à Garibaldi - Arménie
-La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchill sur une piste cyclable bidirectionnelle côté Sud créée en 2018. Elle continuera sur le boulevard des Belges puis bifurquera plein Sud sur la rue Garibaldi qui a fait l'objet de la création d'un couloir bus vers le Sud en 2020 jusqu'à la rue Vauban, puis d'un réaménagement complet au Sud avec une piste cyclable bidirectionnelle de 3m (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie).
+### Montée de la Boucle à Garibaldi - Arménie
+#### Pont Churchill et Boulevard des Belges
+La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchill sur une piste cyclable bidirectionnelle de 2.8m côté Sud créée en 2018. Elle sera conservée en l'état malgré sa faible largeur et la présence de 7 voies de circulation automobile sur ce pont...  
+Elle continuera ensuite sur l'avenue de Grande Bretagne jusqu'au boulevard des Belges avec la création d'une nouvelle piste cyclable bidirectionnelle de 4m de large à la place d'une voie de circulation dans chaque sens. L'ancienne piste cyclable entre les arbres sera rendue aux piétons.  
 
-*Aucune information publique n'existe à ce jour sur les détails d'aménagements de ce tronçon dans le cadre du projet des Voies Lyonnaises.*
+L'aménagement du boulevard des Belges entre les quais du Rhône et la rue Garibaldi est reporté à un mandat ultérieur, car l'aménagement d'une piste cyclable sécurisée nécessite la mise en sens unique de la portion de manière à conserver la voie dédiée aux bus. Cette possibilité sera étudiée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et projeté à l'horizon 2030. En attendant, les cyclistes continueront donc à se déplacer sur une bande cyclable étroite vers l'Est, et dans un couloir de bus ouvert aux vélos vers l'Ouest.
+
+#### Rue Garibaldi - Belges à Vauban
+Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud sur cette rue. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.  
+Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actullement en épi en stationnement longitudinal.
+
+#### Rue Garibaldi - Vauban à Arménie
+Cette section a fait l'objet d'un réaménagement complet avec une piste cyclable bidirectionnelle de 3m côté Ouest (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie). Le projet prévoit de conserver cet aménagement, avec une amélioration dans les intersections qui supprimera enfin les inconfortables bordures en travers.
+
+#### *Concertation*
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/dc7def923aa5715b6c0e53184f397afed8ca9050.pdf)
 
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
 Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
