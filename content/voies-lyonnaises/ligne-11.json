@@ -368,7 +368,7 @@
         "color": "#4DADC9",
         "name": "Garibaldi - Part Dieu",
         "distance": 575,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
