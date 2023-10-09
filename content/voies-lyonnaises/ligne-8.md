@@ -287,6 +287,11 @@ credit: Métropole de Lyon
 ## Fil d'actu
 
 ### Réunion de concertation
+16 octobre 2023
+
+Réunions de concertation sur la section Lyon Sud (Pont de l'Université - intersection de l'avenue Jean Mermoz avec le Boulevard Pinel).
+
+### Réunion de concertation
 6 et 18 avril 2023
 
 Réunions de concertation sur la section Tassin-Victor Hugo à Pierre Audry

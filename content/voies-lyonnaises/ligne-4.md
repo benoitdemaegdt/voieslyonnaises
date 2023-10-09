@@ -158,6 +158,14 @@ credit: Dossier de concertation - Métropole de Lyon
 
 ::image
 ---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-pont-clemenceau-bvd-des-belges.png
+caption: Calendrier prévisionnel du tronçon Pont Clemenceau - Boulevard des Belges de la Voie Lyonnaise 4.
+credit: Dossier de concertation - Métropole de Lyon
+---
+::
+
+::image
+---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-verguin-villeurbanne.png
 caption: Calendrier prévisionnel du tronçon Verguin - Villeurbanne de la Voie Lyonnaise 4.
 credit: Dossier de concertation - Métropole de Lyon
@@ -167,11 +175,18 @@ credit: Dossier de concertation - Métropole de Lyon
 ## Fil d'actu
 
 ### Concertation publique
+Le 26 octobre 2023
+
+Réunion de concertation pour le tronçon central, du Pont Churchill à la rue Garibaldi.
+
+[Voir le dossier de concertatio](https://jeparticipe.grandlyon.com/project/ligne-7-rillieux-la-pape-solaize-section-lyon-churchill-garibaldi/step/comprendre-le-projet-pour-participer){:target="_blank"}
+
+### Concertation publique
 14 octobre 2022
 
 Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
 
 ### Concertation publique
 29 septembre 2022
@@ -179,4 +194,4 @@ Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 Réunion de concertation pour le tronçon Limonest - Mont d'Or - Vaise.  
 Première réunion publique houleuse avec de vifs débats.
 
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
