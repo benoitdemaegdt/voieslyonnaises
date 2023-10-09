@@ -197,8 +197,8 @@
         "line": 10,
         "color": "#9A8A4B",
         "name": "Tunnel de la Croix-Rousse",
-        "distance": 2350,
-        "status": "planned"
+        "distance": 2171,
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -211,6 +211,23 @@
           [4.82625424861908, 45.77381301767344],
           [4.830760359764099, 45.77346130218066],
           [4.8352450132369995, 45.77310210109009],
+          [4.838597774505615, 45.77273915597167]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PontdeLattre-commun",
+        "line": 10,
+        "color": "#9A8A4B",
+        "name": "Pont de Lattre de Tassigny",
+        "distance": 179,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
           [4.838597774505615, 45.77273915597167],
           [4.838678240776062, 45.77261193753607],
           [4.840775728225708, 45.77244355974861]
@@ -225,7 +242,7 @@
         "color": "#9A8A4B",
         "name": "Avenue Duquesne",
         "distance": 700,
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -239,17 +256,34 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "BelgesNord-commun",
+        "id": "DuquesneEst-commun",
         "line": 10,
         "color": "#9A8A4B",
-        "name": "Belges Nord",
-        "distance": 350,
-        "status": "planned"
+        "name": "Duquesne - Garibaldi Belges",
+        "distance": 132,
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.849792007818984, 45.77318833600917],
+          [4.851483106613159, 45.77334156874087]
+        ]
+      }
+    },          
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BelgesNord-commun",
+        "line": 10,
+        "color": "#9A8A4B",
+        "name": "Belges - Duquesne Verguin",
+        "distance": 219,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.851483106613159, 45.77334156874087],
           [4.8539436079958875, 45.772371140907964]
         ]
