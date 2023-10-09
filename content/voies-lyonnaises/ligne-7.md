@@ -114,7 +114,7 @@ L'aménagement du boulevard des Belges entre les quais du Rhône et la rue Garib
 
 #### Rue Garibaldi - Belges à Vauban
 Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud sur cette rue. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.  
-Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actullement en épi en stationnement longitudinal.
+Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actuellement en épi en stationnement longitudinal.
 
 #### Rue Garibaldi - Vauban à Arménie
 Cette section a fait l'objet d'un réaménagement complet avec une piste cyclable bidirectionnelle de 3m côté Ouest (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie). Le projet prévoit de conserver cet aménagement, avec une amélioration dans les intersections qui supprimera enfin les inconfortables bordures en travers.
