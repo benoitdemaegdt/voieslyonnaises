@@ -126,10 +126,34 @@ Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhôn
 La Voie Lyonnaise 8 va totalement réaménager le pont qui sera débarrassé de ses vieilles bandes cyclables bilatérales sur trottoir. Les 4 voies de circulation actuelles seront réduites à 2, un couloir de bus à contre-sens sera créé et une large piste cyclable bidirectionnelle prendra place côté Sud.
 
 #### Rue de l'Université et rue Marc Bloch
-Le projet consiste en la suppression d'une à deux voies de circulation automobile et la création d'une large piste cyclable côté Sud qui sera séparée de la circulation autombile par une bande technique permettant d'acceuillir le stationnement, les livraisons et de la végétalisation.
+Le projet consiste en la suppression d'une à deux voies de circulation automobile et la création d'une large piste cyclable côté Sud qui sera séparée de la circulation automobile par une bande technique permettant d'accueillir le stationnement, les livraisons et de la végétalisation.
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png
+caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'université (Lyon 7)
+credit: Métropole de Lyon
+---
+::
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png
+caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'université (Lyon 7)
+credit: Métropole de Lyon
+---
+::
 
 #### Rue Camille Roy
 Cette courte rue sera réaménagée pour conserver le sens unique actuel et le stationnement côté Sud. Côté Nord, le stationnement en épi sera supprimé et une piste cyclable bidirectionnelle prendra place le long d'une large bande végétalisée et arborée.
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png
+caption: Aperçu de la Voie Lyonnaise 8 - Rue Camille Roy (Lyon 7)
+credit: Métropole de Lyon
+---
+::
 
 #### Rue et Pont de l'Epargne
 Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord à l'Ouest du pont et côté Sud à l'Est.  
@@ -144,6 +168,15 @@ L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de
 Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie su stationnement.
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivé du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une successions de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png
+caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz
+credit: Métropole de Lyon
+---
+::
+
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
@@ -214,11 +247,13 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
 ## Budget prévisionnel
  - **25 600 000 € HT** au total dont :
    - **3 200 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
-_source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
+     <br>_source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
    - **1 450 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
-_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)
+     <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
+   - **7 150 000 € HT** pour le tronçon situé entre Le Pont de l'Université et l’intersection de l’avenue Jean Mermoz avec le boulevard Pinel.
+     <br>_source: [page 49 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)_
 
-A ce budget se rajoutent :
+ A ce budget se rajoutent :
  - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières  
 source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
 
@@ -229,6 +264,14 @@ source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/we
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/calendrier-nord.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Tassin / Buyer
+credit: Métropole de Lyon
+---
+::
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl8/calendrier-section-lyon.png
+caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Lyon 7 et 8
 credit: Métropole de Lyon
 ---
 ::
