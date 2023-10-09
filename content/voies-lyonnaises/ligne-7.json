@@ -636,8 +636,8 @@
       "properties": {
         "line": 7,
         "color": "#75BCAE",
-        "name": "Pont Churchill - Tête d'Or",
-        "distance": 500,
+        "name": "Carrefour Boucle - Pont Churchill",
+        "distance": 96,
         "status": "planned"
       },
       "geometry": {
@@ -648,8 +648,40 @@
           [4.841150796771483, 45.77938374603179],
           [4.84104115832573, 45.77924620490319],
           [4.840965719347409, 45.77907260485894],
-          [4.841675779777518, 45.77886806189901],
+          [4.841491033833762, 45.77892869588673]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "name": "Pont Churchill",
+        "distance": 231,
+        "status": "done"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.841491033833762, 45.77892869588673],
           [4.842457551310332, 45.778585154508534],
+          [4.844120655341129, 45.777954861972894]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "color": "#75BCAE",
+        "name": "Pont Churchill - Tête d'Or",
+        "distance": 156,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.844120655341129, 45.777954861972894],
           [4.844197924770079, 45.777930829250565],
           [4.844288272150242, 45.77787645651904],
@@ -688,8 +720,8 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Belges Ouest",
-        "distance": 625,
-        "status": "planned"
+        "distance": 505,
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -703,6 +735,23 @@
           [4.848082325839073, 45.77487931403378],
           [4.848795611635666, 45.77454310040217],
           [4.849168015946802, 45.774374726057076],
+          [4.849516596241243, 45.77420764786202]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GaribaldiNord-commun",
+        "line": 7,
+        "color": "#75BCAE",
+        "name": "Garibaldi Nord",
+        "distance": 116,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
           [4.849516596241243, 45.77420764786202],
           [4.849632065419625, 45.77392805521873],
           [4.849685838944023, 45.77364850887993],
@@ -716,7 +765,7 @@
         "id": "GaribaldiNord-commun",
         "line": 7,
         "color": "#75BCAE",
-        "name": "Garibaldi Nord",
+        "name": "Garibaldi - Duquesne Vauban",
         "distance": 850,
         "status": "planned"
       },
@@ -744,7 +793,7 @@
         "color": "#75BCAE",
         "name": "Garibaldi - Vauban Bonnel",
         "distance": 400,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -772,7 +821,7 @@
         "color": "#75BCAE",
         "name": "Garibaldi - Part Dieu",
         "distance": 575,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -792,7 +841,7 @@
         "color": "#75BCAE",
         "name": "Garibaldi - Paul Bert Arménie",
         "distance": 250,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
