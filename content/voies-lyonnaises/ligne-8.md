@@ -145,6 +145,10 @@ Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'am
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivé du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une successions de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
+#### *Concertation*
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)
+
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
 #### Avenue Mermoz - Pinel à Lionel Terray
 La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011 suite à la démolition de l'autopont et au réaménagement de l'A43 en boulevard urbain, sera conservée en l'état.
