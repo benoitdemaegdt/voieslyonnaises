@@ -550,7 +550,7 @@
         "id": "GaribaldiNord-commun",
         "line": 9,
         "color": "#EAAB50",
-        "name": "Garibaldi Nord",
+        "name": "Garibaldi - Duquesne Vauban",
         "distance": 850,
         "status": "planned"
       },
@@ -578,7 +578,7 @@
         "color": "#EAAB50",
         "name": "Garibaldi - Vauban Bonnel",
         "distance": 400,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -606,7 +606,7 @@
         "color": "#EAAB50",
         "name": "Garibaldi - Part Dieu",
         "distance": 575,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
@@ -626,7 +626,7 @@
         "color": "#EAAB50",
         "name": "Garibaldi - Paul Bert Arménie",
         "distance": 250,
-        "status": "planned"
+        "status": "done"
       },
       "geometry": {
         "type": "LineString",
