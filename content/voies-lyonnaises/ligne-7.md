@@ -106,10 +106,11 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
 
 ### Montée de la Boucle à Garibaldi - Arménie
-#### Pont Churchill et Boulevard des Belges
+#### Pont Churchill et carrefour Tête d'Or
 La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchill sur une piste cyclable bidirectionnelle de 2.8m côté Sud créée en 2018. Elle sera conservée en l'état malgré sa faible largeur et la présence de 7 voies de circulation automobile sur ce pont...  
 Elle continuera ensuite sur l'avenue de Grande Bretagne jusqu'au boulevard des Belges avec la création d'une nouvelle piste cyclable bidirectionnelle de 4m de large à la place d'une voie de circulation dans chaque sens. L'ancienne piste cyclable entre les arbres sera rendue aux piétons.  
 
+#### Boulevard des Belges - Quais du Rhône à Garibaldi
 L'aménagement du boulevard des Belges entre les quais du Rhône et la rue Garibaldi est reporté à un mandat ultérieur, car l'aménagement d'une piste cyclable sécurisée nécessite la mise en sens unique de la portion de manière à conserver la voie dédiée aux bus. Cette possibilité sera étudiée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et projeté à l'horizon 2030. En attendant, les cyclistes continueront donc à se déplacer sur une bande cyclable étroite vers l'Est, et dans un couloir de bus ouvert aux vélos vers l'Ouest.
 
 #### Rue Garibaldi - Belges à Vauban
