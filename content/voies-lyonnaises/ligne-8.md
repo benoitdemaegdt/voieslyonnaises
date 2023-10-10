@@ -114,7 +114,7 @@ Cette section est en tronçon commun avec la Voie Lyonnaise 12.
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
 
 ### Traversée de la Presqu'Île de Lyon
-Le projet devait faire un détour par Perrache, via le quai Fulchiron et le pont Kitchener-Marchand. Il devait traverser le pôle d'échange de Perrache puis remonter sur la rive droite du Rhône. Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
+Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
 
 Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour.  
 Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
@@ -131,16 +131,16 @@ Le projet consiste en la suppression d'une à deux voies de circulation automobi
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png
-caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'université (Lyon 7)
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png
-caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'université (Lyon 7)
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
@@ -151,7 +151,7 @@ Cette courte rue sera réaménagée pour conserver le sens unique actuel et le s
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Camille Roy (Lyon 7)
-credit: Métropole de Lyon
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
@@ -162,21 +162,20 @@ Concernant la circulation automobile et le traitement du pont, deux variantes so
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
 #### Rue Marius Berliet
-L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui degraderaait les performances de la ligne C25. Les deux couloirs de bus bilatéraux aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront donc une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui degraderaait les performances de la ligne C25. Les deux couloirs de bus bilatéraux ouverts aux cyclistes aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### Avenue Jean Mermoz
-Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie su stationnement.
-
-Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivé du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une successions de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie du stationnement.
 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png
-caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz
-credit: Métropole de Lyon
+caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz (Lyon 8)
+credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
+Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivé du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une successions de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
