@@ -215,9 +215,9 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 ## Budget prévisionnel
-- **26 200 000 € HT** au total dont :
+- **27 300 000 € HT** au minimum dont :
 
-  - **15 500 000 € HT** pour le tronçon Nord (Croix-Rousse à Rillieux)  
+  - **15 500 000 € HT** pour le tronçon Nord (Rillieux à Croix-Rousse)  
   source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}._
   - **3 500 000 € HT** pour le tronçon Central (Pont Churchill à la rue Garibaldi)  
   source: [page 29 de ce dossier de concertation](https://jeparticipe.grandlyon.com/project/ligne-7-rillieux-la-pape-solaize-section-lyon-churchill-garibaldi/step/comprendre-le-projet-pour-participer){:target="_blank"}._
