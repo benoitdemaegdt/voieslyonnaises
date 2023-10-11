@@ -13,7 +13,7 @@ Où est la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?*
 On vous explique tout !
 
 ## Terminé ou Prévu ?
-Les tronçons considérés comme "terminés" sont tous les tronçons aménagés depuis 2020 dont on est certain qu’ils accueilleront une Voie Lyonnaise en 2026 ou ayant déjà fait l’objet d’une concertation qui mentionnait explicitement que l’aménagement cyclable existant serait conservé en l’état.
+Les tronçons considérés comme "terminés" sont tous les tronçons aménagés depuis 2020 dont on est certain qu’ils accueilleront une Voie Lyonnaise en 2026 ou ayant déjà fait l’objet d’une concertation qui mentionnait explicitement que l’aménagement cyclable sécurisé existant serait conservé en l’état.
 
 **Exemples :**
 
@@ -26,7 +26,7 @@ Les tronçons considérés comme "terminés" sont tous les tronçons aménagés 
 N'hésitez pas à nous contacter sur nos réseaux sociaux ou via [cette page](https://lavilleavelo.org/contact/).*
 
 ## Reporté après 2026
-Il s’agit des tronçons qui faisaient partis des promesses politiques annoncées en septembre 2021, puis qui ont fait l’objet d’une communication de la Métropole (via un dossier de concertation ou une communication médiatique) expliquant qu’ils ne seraient pas aménagés ou marqués en Voie Lyonnaise d’ici la fin du mandat en cours. Nous indiquons « après 2026 » et pas « 2030 », car tout ce qui ne sera pas réalisé en 2026 relève d’une promesse de campagne électorale et pas d’un projet réel (cf. paragraphe « Réseau 2030 »).
+Il s’agit des tronçons qui faisaient partis des promesses politiques annoncées en septembre 2021, puis qui ont fait l’objet d’une communication de la Métropole (via un dossier de concertation ou une communication médiatique) expliquant qu’ils ne seraient pas sécurisés, mis aux normes ou marqués en Voie Lyonnaise d’ici la fin du mandat en cours. Nous indiquons « après 2026 » et pas « 2030 », car tout ce qui ne sera pas réalisé en 2026 relève d’une promesse de campagne électorale et pas d’un projet réel (cf. paragraphe « Réseau 2030 »).
 
 ## Tracé à définir / Linéaire inconnu
 Ces sections n’ont pas encore fait l’objet de concertations, et nous considérons qu’il existe différents itinéraires possibles pour y faire passer la Voie Lyonnaise. Dans l’attente d’information plus détaillées, nous préférons donc ne pas privilégier un itinéraire sur un autre.
