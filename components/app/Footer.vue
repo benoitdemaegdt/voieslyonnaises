@@ -41,7 +41,8 @@
 <script setup>
 
 const links = [
-  { name: 'Mentions légales', path: '/mentions-legales' }
+  { name: 'Mentions légales', path: '/mentions-legales' },
+  { name: 'Historique', path: '/changelog' }
 ]
 
 const socials = {
