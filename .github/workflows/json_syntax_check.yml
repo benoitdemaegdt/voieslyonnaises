@@ -1,0 +1,25 @@
+name: JSON Syntax Check
+
+on:
+  pull_request:
+    branches:
+      - main # or the branch you want to target
+
+jobs:
+  syntax_check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Check JSON Files
+        run: node .github/scripts/check_json_syntax.js
