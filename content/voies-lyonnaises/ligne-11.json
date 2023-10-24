@@ -19,8 +19,7 @@
         "line": 11,
         "color": "#4DADC9",
         "name": "Point-du-jour",
-        "distance": 1100,
-        "status": "planned"
+        "distance": 1100
       },
       "geometry": {
         "type": "LineString",
@@ -431,7 +430,7 @@
           [4.86973791484462, 45.75280220778939]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
