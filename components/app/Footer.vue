@@ -42,7 +42,7 @@
 
 const links = [
   { name: 'Mentions légales', path: '/mentions-legales' },
-  { name: 'Historique', path: '/changelog' }
+  { name: 'Historique', path: '/historique' }
 ]
 
 const socials = {
