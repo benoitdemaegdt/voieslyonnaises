@@ -58,7 +58,7 @@
         "color": "#4DADC9",
         "name": "Liaison Point-du-jour - Lyon 5",
         "distance": 200,
-        "status": "unknown"
+        "status": "test"
       },
       "geometry": {
         "type": "LineString",
