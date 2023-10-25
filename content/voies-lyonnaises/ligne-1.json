@@ -54,9 +54,10 @@
       "properties": {
         "id": "PeriCanal-commun",
         "line": 1,
+        "color": "#60A75B",
         "name": "Vaulx-en-Velin",
         "distance": 2500,
-        "status": "planned"
+        "status": "foo"
       },
       "geometry": {
         "type": "LineString",
