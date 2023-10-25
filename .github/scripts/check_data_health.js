@@ -2,13 +2,13 @@ const fs = require('fs');
 const path = require('path');
 
 function checkDataHealth() {
-  checkJsonFilesAreValid();
+  checkJsonFilesAreValid('content');
   // checkGeoJsonDataHealth();
 }
 
-function checkJsonFilesAreValid() {
-  fs.readdirSync('content').forEach(file => {
-    const filePath = path.join('content', file);
+function checkJsonFilesAreValid(directory) {
+  fs.readdirSync(directory).forEach(file => {
+    const filePath = path.join(directory, file);
 
     if (fs.statSync(filePath).isDirectory()) {
       checkJsonFilesAreValid(filePath);
