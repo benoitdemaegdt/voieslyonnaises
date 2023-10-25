@@ -16,10 +16,27 @@ function checkLineStringProperties(directory) {
           for (const feature of geojson.features) {
             if (feature.geometry.type === 'LineString') {
               const properties = feature.properties || {};
+
+              // 1 - Check if all required properties are present
               const requiredKeys = ['line', 'color', 'name', 'distance', 'status'];
               for (const key of requiredKeys) {
                 if (!properties.hasOwnProperty(key)) {
                   console.error(`Missing key '${key}' in LineString properties of file: ${filePath}`);
+                  process.exit(1);
+                }
+              }
+
+              // 2 - Check if status is valid
+              const validStatus = ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'];
+              if (!validStatus.includes(properties.status)) {
+                console.error(`Invalid status '${properties.status}' in LineString properties of file: ${filePath}`);
+                process.exit(1);
+              }
+
+              // 3 - Check if all done section have a doneAt property
+              if (properties.status === 'done') {
+                if (!properties.hasOwnProperty('doneAt')) {
+                  console.error(`Missing key 'doneAt' in LineString properties of file: ${filePath}`);
                   process.exit(1);
                 }
               }
