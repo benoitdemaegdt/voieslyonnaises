@@ -21,5 +21,5 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Check JSON Files
+      - name: Check Data Health
         run: node .github/scripts/check_data_health.js
