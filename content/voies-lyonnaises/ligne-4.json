@@ -297,7 +297,8 @@
         "color": "#DC8953",
         "name": "Tunnel de la Croix-Rousse",
         "distance": 2171,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -326,7 +327,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.838597774505615, 45.77273915597167],
           [4.838678240776062, 45.77261193753607],
           [4.840775728225708, 45.77244355974861]
@@ -369,7 +370,7 @@
           [4.851483106613159, 45.77334156874087]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
