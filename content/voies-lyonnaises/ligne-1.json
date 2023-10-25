@@ -57,7 +57,7 @@
         "color": "#60A75B",
         "name": "Vaulx-en-Velin",
         "distance": 2500,
-        "status": "foo"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
