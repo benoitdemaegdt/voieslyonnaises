@@ -650,7 +650,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Fulchiron-commun",
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Fulchiron",
