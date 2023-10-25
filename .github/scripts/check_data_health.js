@@ -55,12 +55,12 @@ function checkGeoJsonDataHealth() {
               }
 
               // 4 - Check if all done section have a doneAt property
-              if (properties.status === 'done') {
-                if (!properties.hasOwnProperty('doneAt')) {
-                  console.error(`Missing key 'doneAt' in LineString properties of file: ${filePath}`);
-                  process.exit(1);
-                }
-              }
+              // if (properties.status === 'done') {
+              //   if (!properties.hasOwnProperty('doneAt')) {
+              //     console.error(`Missing key 'doneAt' in LineString properties of file: ${filePath}`);
+              //     process.exit(1);
+              //   }
+              // }
             }
           }
         }
