@@ -58,7 +58,7 @@ export const useTooltip = () => {
     return `
       <div class="h-10 flex items-center" style="background-color: ${properties.color}">
         <div class="p-2">
-          <a class='text-white font-bold text-lg underline' href='/voie-lyonnaise-${properties.line}'>
+          <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${properties.line}'>
             Voie Lyonnaise ${properties.line}
           </a>
         </div>
