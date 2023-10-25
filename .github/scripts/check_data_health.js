@@ -2,12 +2,16 @@ const fs = require('fs');
 const path = require('path');
 
 function checkDataHealth() {
-  // 1 - check if JSON files in /content are valid
+  checkJsonFilesAreValid();
+  checkGeoJsonDataHealth();
+}
+
+function checkJsonFilesAreValid() {
   fs.readdirSync('content').forEach(file => {
     const filePath = path.join('content', file);
 
     if (fs.statSync(filePath).isDirectory()) {
-      checkDataHealth(filePath);
+      checkJsonFilesAreValid(filePath);
     } else if (file.endsWith('.json')) {
       try {
         JSON.parse(fs.readFileSync(filePath));
@@ -18,8 +22,9 @@ function checkDataHealth() {
       }
     }
   });
+}
 
-  // Check GeoJson data health
+function checkGeoJsonDataHealth() {
   const allLineStrings = [];
   fs.readdirSync('content/voies-lyonnaises').forEach(file => {
     const filePath = path.join('content/voies-lyonnaises', file);
