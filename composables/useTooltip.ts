@@ -32,10 +32,12 @@ export const useTooltip = () => {
     return `
       <div class="h-10 flex items-center" style="background-color: ${properties.color}">
         <div class="p-2">
-          <div class='text-white font-bold text-lg'>Voie Lyonnaise ${properties.line}</div>
+          <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${properties.line}'>
+            Voie Lyonnaise ${properties.line}
+          </a>
         </div>
       </div>
-      <div class='p-2 divide-y'> 
+      <div class='p-2 divide-y'>
         <div>
           <div class='text-sm font-bold'>Tronçon</div>
           <div>${properties.name}</div>
@@ -56,7 +58,9 @@ export const useTooltip = () => {
     return `
       <div class="h-10 flex items-center" style="background-color: ${properties.color}">
         <div class="p-2">
-          <div class='text-white font-bold text-lg'>Voie Lyonnaise ${properties.line}</div>
+          <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${properties.line}'>
+            Voie Lyonnaise ${properties.line}
+          </a>
         </div>
       </div>
       <img src="${properties.imgUrl}" class='my-0'>
