@@ -1,4 +1,4 @@
-name: Check LineString Properties
+name: Check Data Health
 
 on:
   pull_request:
@@ -21,5 +21,5 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Check LineString Properties
-        run: node .github/scripts/check_linestring_properties.js
+      - name: Check JSON Files
+        run: node .github/scripts/check_data_health.js
