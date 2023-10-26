@@ -263,7 +263,8 @@
         "color": "#60A75B",
         "name": "Avenue de Grande-Bretagne",
         "distance": 425,
-        "status": "done"
+        "status": "done",
+        "doneAt": "2023-03-08"
       },
       "geometry": {
         "type": "LineString",
