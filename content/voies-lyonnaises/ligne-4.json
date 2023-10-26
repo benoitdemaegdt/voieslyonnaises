@@ -278,7 +278,8 @@
         "color": "#DC8953",
         "name": "Pont Georges Clemenceau",
         "distance": 150,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",

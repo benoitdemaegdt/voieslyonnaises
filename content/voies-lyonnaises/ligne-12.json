@@ -105,7 +105,8 @@
         "color": "#DBABB7",
         "name": "Rue Pierre Audry Nord",
         "distance": 625,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +132,8 @@
         "color": "#DBABB7",
         "name": "Rue Pierre Audry Sud",
         "distance": 325,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",

@@ -96,7 +96,8 @@
         "color": "#9A8A4B",
         "name": "Tassin - Victor Hugo",
         "distance": 50,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -179,7 +180,8 @@
         "color": "#9A8A4B",
         "name": "Pont Georges Clemenceau",
         "distance": 150,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -198,7 +200,8 @@
         "color": "#9A8A4B",
         "name": "Tunnel de la Croix-Rousse",
         "distance": 2171,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -227,7 +230,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.838597774505615, 45.77273915597167],
           [4.838678240776062, 45.77261193753607],
           [4.840775728225708, 45.77244355974861]
@@ -270,7 +273,7 @@
           [4.851483106613159, 45.77334156874087]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
@@ -349,11 +352,12 @@
         "color": "#9A8A4B",
         "name": "Part-Dieu Nord en surface",
         "distance": 283,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.858040096829654, 45.76124226531752],
           [4.857926424062384, 45.7620038756518],
           [4.857848881924724, 45.76257906099292],
@@ -464,7 +468,7 @@
           [4.86973791484462, 45.75280220778939]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -564,11 +568,12 @@
         "color": "#9A8A4B",
         "name": "Rue George Sand",
         "distance": 435,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.890992339664052, 45.75569067428361],
           [4.890462138426386, 45.75562072226194],
           [4.88983929905956, 45.755538081250506],
@@ -601,12 +606,12 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.891280664926796, 45.755719537302184],
           [4.890992339664052, 45.75569067428361]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -614,12 +619,12 @@
         "color": "#9A8A4B",
         "name": "Promenade de la Gare",
         "distance": 316,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-
           [4.895266609649525, 45.75629433901989],
           [4.894374011396906, 45.75616760137737],
           [4.894106758675775, 45.75611882388077],
@@ -681,7 +686,8 @@
         "color": "#9A8A4B",
         "name": "Rue Jean Bertin",
         "distance": 845,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -722,7 +728,8 @@
         "color": "#9A8A4B",
         "name": "Avenue des Canuts",
         "distance": 522,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -759,7 +766,8 @@
         "color": "#9A8A4B",
         "name": "BUE - Roosevelt",
         "distance": 277,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -780,7 +788,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [              
+        "coordinates": [
           [4.942414778783615, 45.76618747785059],
           [4.937010886274265, 45.764847489565454],
           [4.936790142784929, 45.76478853957846]
@@ -798,7 +806,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.9437530707515975, 45.766525892568666],
           [4.942414778783615, 45.76618747785059]
         ]
@@ -815,7 +823,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [              
+        "coordinates": [
           [4.94898384823631, 45.76802198649145],
           [4.948557495693052, 45.76785677163983],
           [4.947735282468756, 45.767566322585935],
@@ -833,11 +841,12 @@
         "color": "#9A8A4B",
         "name": "Berlioz - Michelet",
         "distance": 67,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [4.949708454447148, 45.76834122616634],
           [4.9496356807485995, 45.76830420241794],
           [4.949331538629025, 45.76817249580506],
@@ -856,26 +865,27 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [4.950965506840419, 45.769021402324285],
           [4.950664736218272, 45.76883638592349],
           [4.950192944577395, 45.768575782064346],
           [4.949708454447148, 45.76834122616634]
         ]
       }
-    },    
-    {    
+    },
+    {
       "type": "Feature",
       "properties": {
         "line": 10,
         "color": "#9A8A4B",
         "name": "Paul Bert - Jaurès",
         "distance": 146,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.952414272679022, 45.76986121070149],
           [4.951955325893124, 45.76958639224168],
           [4.951686933547819, 45.769426127797715],
@@ -895,7 +905,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [        
+        "coordinates": [
           [4.9528357400242555, 45.770118191424956],
           [4.952414272679022, 45.76986121070149]
         ]
@@ -908,11 +918,12 @@
         "color": "#9A8A4B",
         "name": "Rue Emile Bertrand",
         "distance": 273,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.955531513684235, 45.77169174033699],
           [4.954351468115732, 45.77099958047086],
           [4.9528357400242555, 45.770118191424956]
@@ -930,7 +941,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.956770803641888, 45.772438817016166],
           [4.956491024493488, 45.77226384434536],
           [4.956319867085682, 45.77215897960892],
@@ -946,11 +957,12 @@
         "color": "#9A8A4B",
         "name": "Décines - Centre à Grand Large",
         "distance": 1871,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.977265501024789, 45.77438717797017],
           [4.976903658662337, 45.77447418256949],
           [4.976341891942752, 45.77465876965283],
@@ -1010,7 +1022,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [        
+        "coordinates": [
           [4.982257773256123, 45.773587609117385],
           [4.982257773256123, 45.773587609117385],
           [4.982229128122469, 45.773593809760854],
@@ -1038,11 +1050,12 @@
         "color": "#9A8A4B",
         "name": "Route de Jonage - Avenue du Carreau",
         "distance": 690,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [       
+        "coordinates": [
           [4.991120318007887, 45.77264845311214],
           [4.990819671689991, 45.77269581487397],
           [4.990598396183202, 45.7727709380797],
@@ -1072,7 +1085,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [4.9986175043984815, 45.771822526218614],
           [4.998196085158668, 45.77187069009244],
           [4.997859222915224, 45.77186450674654],
@@ -1093,11 +1106,12 @@
         "color": "#9A8A4B",
         "name": "Gare de Meyzieu",
         "distance": 160,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [5.00064909530721, 45.77158100392566],
           [4.999458167549591, 45.77172622651855],
           [4.9986175043984815, 45.771822526218614]
@@ -1115,7 +1129,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [   
+        "coordinates": [
           [5.01142805596308, 45.77018146793321],
           [5.0089721090808155, 45.77048048544859],
           [5.007113166652317, 45.77070566064586],
@@ -1139,11 +1153,12 @@
         "color": "#9A8A4B",
         "name": "Rue Arago Est",
         "distance": 99,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [       
+        "coordinates": [
           [5.01268847543264, 45.77002691526951],
           [5.01142805596308, 45.77018146793321]
         ]
@@ -1160,8 +1175,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [       
-
+        "coordinates": [
           [5.013515274729514, 45.76978207498564],
           [5.0134483202946285, 45.76977095075131],
           [5.012869465389855, 45.769837757648446],
@@ -1177,7 +1191,8 @@
         "color": "#9A8A4B",
         "name": "Meyzieu ZI",
         "distance": 1947,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",

@@ -172,7 +172,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.861193194938238, 45.78457073986618],
           [4.861315438951237, 45.78448747445583],
           [4.861417782775277, 45.78431896074434],
@@ -203,7 +203,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.860028376055567, 45.784614639552274],
           [4.861193194938238, 45.78457073986618]
         ]
@@ -310,7 +310,8 @@
         "color": "#60A75B",
         "name": "Pont Morand - Rue Cuvier",
         "distance": 225,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",

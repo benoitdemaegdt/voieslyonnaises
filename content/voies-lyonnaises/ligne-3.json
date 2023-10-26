@@ -229,7 +229,8 @@
         "color": "#3B7B64",
         "name": "Genay - Neuville-sur-Saône",
         "distance": 2754,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -619,7 +620,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.8280060273045535, 45.75972816081131],
           [4.828421473503113, 45.76057351576926],
           [4.828689694404602, 45.761333244297774],
@@ -654,7 +655,8 @@
         "color": "#3B7B64",
         "name": "Quai Fulchiron",
         "distance": 1000,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -731,11 +733,12 @@
         "color": "#3B7B64",
         "name": "Quai Sémard - Parc urbain",
         "distance": 160,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.816323724803709, 45.72679826780165],
           [4.816774008447993, 45.7254272693623]
         ]
@@ -752,7 +755,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.816774008447993, 45.7254272693623],
           [4.817110359960509, 45.72417145381871]
         ]
@@ -765,11 +768,12 @@
         "color": "#3B7B64",
         "name": "Quai Sémard - Friche SNCF",
         "distance": 459,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.817110359960509, 45.72417145381871],
           [4.8175048828125, 45.722435331204174],
           [4.818019866943359, 45.72009085697924]
@@ -787,7 +791,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.818019866943359, 45.72009085697924],
           [4.818293452262878, 45.71891858297453]
         ]
@@ -801,11 +805,12 @@
         "color": "#3B7B64",
         "name": "Berge Yzeron Est",
         "distance": 300,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.818293452262878, 45.71891858297453],
           [4.8181915283203125, 45.71880996848313],
           [4.814962148666382, 45.71830434652],
@@ -825,7 +830,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [                    
+        "coordinates": [
           [4.8147569596767426, 45.71829404676581],
           [4.814874976873398, 45.71790827278646],
           [4.81494203209877, 45.71783711030515],
@@ -833,7 +838,7 @@
           [4.815123081207275, 45.7172359709913]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
@@ -846,7 +851,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [                    
+        "coordinates": [
           [4.815123081207275, 45.7172359709913],
           [4.8151445388793945, 45.71695599891663],
           [4.815235733985901, 45.7163969869322],
@@ -874,17 +879,18 @@
         "color": "#3B7B64",
         "name": "Oullins - Avenue Jaurès",
         "distance": 342,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [            
+        "coordinates": [
           [4.819998907589138, 45.711520632000436],
           [4.820326566696167, 45.7101875515061],
           [4.821351980925613, 45.70862103842957]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
@@ -897,7 +903,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [4.821351980925613, 45.70862103842957],
           [4.821474552154541, 45.70779761057024],
           [4.820852279663086, 45.70537759760452],
@@ -924,11 +930,12 @@
         "color": "#3B7B64",
         "name": "Chemin du Barrage",
         "distance": 756,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [4.828566312789917, 45.69360569999303],
           [4.828587770462036, 45.69412278636186],
           [4.828780889511108, 45.69427266557501],

@@ -236,7 +236,8 @@
         "color": "#EAAB50",
         "name": "Promenade des Îles",
         "distance": 3481,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -317,7 +318,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.948713183403015, 45.79823311027086],
           [4.943557977676392, 45.7980199296554],
           [4.942705035209656, 45.7980797699105],
@@ -542,7 +543,7 @@
           [4.8539436079958875, 45.772371140907964]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -560,7 +561,7 @@
           [4.851483106613159, 45.77334156874087]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
@@ -595,7 +596,8 @@
         "color": "#EAAB50",
         "name": "Garibaldi - Vauban Bonnel",
         "distance": 400,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -623,7 +625,8 @@
         "color": "#EAAB50",
         "name": "Garibaldi - Part Dieu",
         "distance": 575,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -643,7 +646,8 @@
         "color": "#EAAB50",
         "name": "Garibaldi - Paul Bert Arménie",
         "distance": 250,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -849,7 +853,8 @@
         "color": "#EAAB50",
         "name": "Berge Yzeron Est",
         "distance": 300,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",

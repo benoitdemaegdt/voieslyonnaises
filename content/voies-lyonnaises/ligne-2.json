@@ -540,7 +540,7 @@
           [4.885298298040141, 45.720199867446155]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
@@ -549,7 +549,7 @@
         "name": "Avenue Jules Guesde",
         "distance": 229,
         "status": "done",
-        "doneAt": "2018-09-01"
+        "doneAt": "01/09/2018"
       },
       "geometry": {
         "type": "LineString",

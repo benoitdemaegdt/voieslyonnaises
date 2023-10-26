@@ -255,7 +255,8 @@
         "color": "#4DADC9",
         "name": "Pont Wilson",
         "distance": 225,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -320,7 +321,8 @@
         "color": "#4DADC9",
         "name": "Garibaldi - Part Dieu",
         "distance": 575,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -431,7 +433,7 @@
           [4.86973791484462, 45.75280220778939]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {

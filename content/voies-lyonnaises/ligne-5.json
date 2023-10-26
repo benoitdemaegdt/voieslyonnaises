@@ -108,7 +108,8 @@
         "color": "#AF7392",
         "name": "Chemin du Barrage",
         "distance": 756,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -166,7 +167,8 @@
         "color": "#AF7392",
         "name": "Oullins - Avenue Jaurès",
         "distance": 342,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -406,7 +408,8 @@
         "color": "#AF7392",
         "name": "Beaunant",
         "distance": 437,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -508,7 +511,8 @@
         "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
         "distance": 350,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -526,7 +530,8 @@
         "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
         "distance": 325,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -544,7 +549,8 @@
         "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
         "distance": 50,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -627,7 +633,8 @@
         "color": "#AF7392",
         "name": "Pont Georges Clemenceau",
         "distance": 150,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -690,7 +697,8 @@
         "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny - VL1",
         "distance": 111,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -716,7 +724,8 @@
         "name": "Avenue de Grande-Bretagne",
         "distance": 425,
         "status": "done",
-        "doneAt": "28/03/2023"
+        "doneAt": "28/03/2023",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
