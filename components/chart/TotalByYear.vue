@@ -13,7 +13,7 @@ const years = [...new Set(props.data.counts.map(item => new Date(item.month).get
 
 const chartOptions = {
   chart: { type: 'column' },
-  title: { text: 'Total des passages par année' },
+  title: { text: `Fréquentation cycliste annuelle - ${props.data.name}` },
   credits: { enabled: false },
   legend: { enabled: false },
   xAxis: { categories: years },

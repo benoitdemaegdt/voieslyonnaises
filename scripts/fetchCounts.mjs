@@ -7,15 +7,15 @@ import { formatCounts } from './helpers.mjs';
  *
  * required : NodeJS >= 18
  * run :
- * node ./scripts/fetchCounts.js
- * node ./scripts/fetchCounts.js > ./scripts/counts.json
+ * node ./scripts/fetchCounts.mjs
+ * node ./scripts/fetchCounts.mjs > ./scripts/counts.json
  */
 
-const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/data/300018950?';
-const idPdc = '100030257';
-const flowIds = '101030257;102030257';
+const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/data/100050687?';
+const idPdc = '100050687';
+const flowIds = '101050687;102050687;103050687;104050687;353398018;353398024;353398367;353398373;353399416;353399418';
 const from = '01/01/2015';
-const to = '31/01/2023';
+const to = '31/09/2023';
 
 (async () => {
   const counts = await getCounts();
@@ -51,6 +51,7 @@ async function getCounts() {
   if (res.ok) {
     return res.json();
   } else {
+    console.log(res)
     console.error('[getCounts] An error happened while fetching counts');
     process.exit(1);
   }

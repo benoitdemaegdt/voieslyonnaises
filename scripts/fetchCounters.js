@@ -24,9 +24,13 @@ async function getAllCounters() {
 function formatCounters(counters) {
   return counters.map(counter => ({
     name: counter.nom,
+    description: '',
+    limitation: '',
+    arrondissement: '',
+    imageUrl: 'https://source.unsplash.com/AoSAOV2Vtro',
     idPdc: counter.idPdc,
     flowIds: counter.pratique.map(item => item.id).join(';'),
-    lat: counter.lat,
-    long: counter.lon
+    coordinates: [counter.lon, counter.lat],
+    counts: []
   }));
 }

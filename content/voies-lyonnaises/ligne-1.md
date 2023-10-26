@@ -18,7 +18,7 @@ Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au 
 
 ::image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl1/franchissement-canal-de-jonage.jpeg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage (Villeurbanne)
 credit: SYTRAL Mobilités
 ---

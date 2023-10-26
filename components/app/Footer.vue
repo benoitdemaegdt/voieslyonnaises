@@ -30,7 +30,7 @@
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
           <p class="text-center text-base text-gray-400">
-            &copy; Cyclopolis
+            Cyclopolis
           </p>
         </div>
       </div>
@@ -41,7 +41,8 @@
 <script setup>
 
 const links = [
-  { name: 'Mentions légales', path: '/mentions-legales' }
+  { name: 'Mentions légales', path: '/mentions-legales' },
+  { name: 'Historique', path: '/historique' }
 ]
 
 const socials = {
@@ -74,9 +75,24 @@ const socials = {
       icon: 'mdi:facebook'
     },
     {
+      name: 'LinkedIn',
+      href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
+      icon: 'mdi:linkedin'
+    },
+    {
+      name: 'Instagram',
+      href: 'https://www.instagram.com/lavilleavelolyon',
+      icon: 'mdi:instagram'
+    },
+    {
       name: 'Site web',
       href: 'https://lavilleavelo.org/',
       icon: 'mdi:link'
+    },
+    {
+      name: 'Email',
+      href: 'mailto:contact_at_lavilleavelo.org',
+      icon: 'mdi:email-outline'
     }
   ]
 }

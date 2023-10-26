@@ -78,10 +78,15 @@ Aucune information publique n'existe à ce jour sur ce tronçon.
 Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 ### Pont Clémenceau à Boulevard des Belges<br/>*via Tunnel mode doux et avenue Duquesne*
-Cette portion sera totalement réaménagée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
-Après la pérénisation des voies bus ouvertes aux vélos sur l'avenue Duquesne et l'amélioration du pont Clémenceau en 2022, on peut s'attendre à quelques améliorations ponctuelles provisoires d'ici 2026. 
+Cette portion sera totalement réaménagée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à l'horizon 2030.  
+Après la pérénisation des voies bus ouvertes aux vélos sur l'avenue Duquesne en 2021 et l'amélioration du pont Clémenceau en 2022, on peut s'attendre à quelques améliorations ponctuelles d'ici 2026 sur :
+ - le pont de Lattre de Tassigny, avec l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m à la place d'une voie de circulation
+ - le boulevard des Belges, entre l'avenue Duquesne et l'avenue Verguin, avec la création d'une piste bidirectionnelle de 3m de large côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
-*Aucune information publique n'existe à ce jour sur ce tronçon.*
+La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
+
+*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
+[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b95836ccf1beaa70be26cefeb7a521322f484d77.pdf)*
 
 ### Boulevard des Belges à rue Flachet
 #### Avenue Verguin
@@ -153,6 +158,14 @@ credit: Dossier de concertation - Métropole de Lyon
 
 ::image
 ---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-pont-clemenceau-bvd-des-belges.png
+caption: Calendrier prévisionnel du tronçon Pont Clemenceau - Boulevard des Belges de la Voie Lyonnaise 4.
+credit: Dossier de concertation - Métropole de Lyon
+---
+::
+
+::image
+---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-verguin-villeurbanne.png
 caption: Calendrier prévisionnel du tronçon Verguin - Villeurbanne de la Voie Lyonnaise 4.
 credit: Dossier de concertation - Métropole de Lyon
@@ -162,11 +175,18 @@ credit: Dossier de concertation - Métropole de Lyon
 ## Fil d'actu
 
 ### Concertation publique
+Le 26 octobre 2023
+
+Réunion de concertation pour le tronçon central, du Pont Churchill à la rue Garibaldi.
+
+[Voir le dossier de concertatio](https://jeparticipe.grandlyon.com/project/ligne-7-rillieux-la-pape-solaize-section-lyon-churchill-garibaldi/step/comprendre-le-projet-pour-participer){:target="_blank"}
+
+### Concertation publique
 14 octobre 2022
 
 Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
 
 ### Concertation publique
 29 septembre 2022
@@ -174,4 +194,4 @@ Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 Réunion de concertation pour le tronçon Limonest - Mont d'Or - Vaise.  
 Première réunion publique houleuse avec de vifs débats.
 
-[voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
+[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
