@@ -79,7 +79,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Valmy - Gorge de Loup",
-        "distance": 1050,
         "status": "planned"
       },
       "geometry": {
@@ -104,7 +103,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Rue Pierre Audry Nord",
-        "distance": 625,
         "status": "done",
         "doneAt": "01/04/2022"
       },
@@ -131,7 +129,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Rue Pierre Audry Sud",
-        "distance": 325,
         "status": "done",
         "doneAt": "01/04/2022"
       },
@@ -158,7 +155,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Barthélémy Buyer Est",
-        "distance": 150,
         "status": "planned"
       },
       "geometry": {
@@ -184,7 +180,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Saint-Just & Saint-Jean",
-        "distance": 1825,
         "status": "planned"
       },
       "geometry": {
@@ -273,7 +268,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Traversée Presqu'île (par Bellecour)",
-        "distance": 750,
         "status": "planned"
       },
       "geometry": {
@@ -293,7 +287,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Pont de la Guillotière - Cours Gambetta",
-        "distance": 1950,
         "status": "planned"
       },
       "geometry": {
@@ -317,7 +310,6 @@
         "line": 12,
         "color": "#DBABB7",
         "name": "Cours Albert Thomas, Av. Rockefeller et Av. Franklin Roosevelt",
-        "distance": 3925,
         "status": "planned"
       },
       "geometry": {

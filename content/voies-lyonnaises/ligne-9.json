@@ -19,7 +19,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Jonage",
-        "distance": 1850,
         "status": "planned"
       },
       "geometry": {
@@ -57,7 +56,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Canal de Jonage – variante Nord",
-        "distance": 4850,
         "status": "variante",
         "text": "variante nord"
       },
@@ -135,7 +133,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Canal de Jonage – variante Sud",
-        "distance": 5000,
         "status": "variante",
         "text": "variante sud"
       },
@@ -208,7 +205,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Digue EDF",
-        "distance": 609,
         "status": "planned"
       },
       "geometry": {
@@ -235,7 +231,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Promenade des Îles",
-        "distance": 3481,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -313,7 +308,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Parc de Miribel",
-        "distance": 2045,
         "status": "planned"
       },
       "geometry": {
@@ -354,7 +348,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Le long de l'A42",
-        "distance": 4250,
         "status": "planned"
       },
       "geometry": {
@@ -434,7 +427,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Doua Est",
-        "distance": 1600,
         "status": "planned"
       },
       "geometry": {
@@ -468,7 +460,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Doua Ouest",
-        "distance": 1550,
         "status": "planned"
       },
       "geometry": {
@@ -494,7 +485,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Stalingrad Sud",
-        "distance": 750,
         "status": "wip"
       },
       "geometry": {
@@ -515,7 +505,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Avenue Verguin",
-        "distance": 375,
         "status": "planned"
       },
       "geometry": {
@@ -533,7 +522,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Belges - Duquesne Verguin",
-        "distance": 219,
         "status": "planned"
       },
       "geometry": {
@@ -551,7 +539,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Duquesne - Garibaldi Belges",
-        "distance": 132,
         "status": "postponed"
       },
       "geometry": {
@@ -569,7 +556,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - Duquesne Vauban",
-        "distance": 850,
         "status": "planned"
       },
       "geometry": {
@@ -595,7 +581,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - Vauban Bonnel",
-        "distance": 400,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -624,7 +609,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - Part Dieu",
-        "distance": 575,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -645,7 +629,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - Paul Bert Arménie",
-        "distance": 250,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -667,7 +650,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -698,7 +680,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - Blandan",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -721,7 +702,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Garibaldi - CROUS",
-        "distance": 50,
         "status": "planned"
       },
       "geometry": {
@@ -739,7 +719,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Rue Marc Bloch",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -765,7 +744,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Avenue Jean Jaurès",
-        "distance": 3250,
         "status": "planned"
       },
       "geometry": {
@@ -827,7 +805,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Passerelle Oullins-Gerland",
-        "distance": 800,
         "status": "postponed"
       },
       "geometry": {
@@ -852,7 +829,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Berge Yzeron Est",
-        "distance": 300,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -873,7 +849,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 755,
         "status": "variante",
         "text": "variante A"
       },
@@ -925,7 +900,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario B",
-        "distance": 100,
         "status": "variante",
         "text": "variante B"
       },
@@ -947,7 +921,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario B",
-        "distance": 800,
         "status": "variante",
         "text": "variante B"
       },
@@ -986,7 +959,6 @@
         "line": 9,
         "color": "#EAAB50",
         "name": "Oullins Ouest",
-        "distance": 2550,
         "status": "planned"
       },
       "geometry": {

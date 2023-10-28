@@ -67,7 +67,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Lissieu - Limonest",
-        "distance": 3900,
         "status": "planned"
       },
       "geometry": {
@@ -143,7 +142,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Limonest - Champagne",
-        "distance": 6150,
         "status": "planned"
       },
       "geometry": {
@@ -220,7 +218,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Variante Lanessan",
-        "distance": 750,
         "status": "variante-postponed"
       },
       "geometry": {
@@ -241,7 +238,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Porte de Vaise - Valmy",
-        "distance": 900,
         "status": "unknown"
       },
       "geometry": {
@@ -259,7 +255,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Valmy Est",
-        "distance": 250,
         "status": "unknown"
       },
       "geometry": {
@@ -277,7 +272,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Pont Georges Clemenceau",
-        "distance": 150,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -297,7 +291,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Tunnel de la Croix-Rousse",
-        "distance": 2171,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -323,7 +316,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Pont de Lattre de Tassigny",
-        "distance": 179,
         "status": "planned"
       },
       "geometry": {
@@ -342,7 +334,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Avenue Duquesne",
-        "distance": 700,
         "status": "postponed"
       },
       "geometry": {
@@ -361,7 +352,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Duquesne - Garibaldi Belges",
-        "distance": 132,
         "status": "postponed"
       },
       "geometry": {
@@ -379,7 +369,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Belges - Duquesne Verguin",
-        "distance": 219,
         "status": "planned"
       },
       "geometry": {
@@ -397,7 +386,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Avenue Verguin",
-        "distance": 375,
         "status": "planned"
       },
       "geometry": {
@@ -414,7 +402,6 @@
         "line": 4,
         "color": "#DC8953",
         "name": "Villeurbanne",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {
