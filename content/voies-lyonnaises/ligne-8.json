@@ -389,7 +389,7 @@
         "name": "Tassin - Victor Hugo",
         "distance": 325,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -406,7 +406,7 @@
         "color": "#7E6D98",
         "name": "Tassin - Rue de la Pépinière",
         "distance": 125,
-        "status": "variante"
+        "status": "variante-postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -420,12 +420,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
         "line": 8,
         "color": "#7E6D98",
-        "name": "Tassin - Vincent Serre (Nord)",
-        "distance": 250,
-        "status": "variante"
+        "name": "Vincent Serre & carrefour Hespérides",
+        "distance": 540,
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -437,22 +436,7 @@
           [4.786137022489044, 45.76716579797673],
           [4.786063396928455, 45.766933529626016],
           [4.785991581329512, 45.76670734335522],
-          [4.785774990253827, 45.7660449784841]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 8,
-        "color": "#7E6D98",
-        "name": "Avenue Barthélémy Buyer",
-        "distance": 2350,
-        "status": "planned"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
+          [4.785774990253827, 45.7660449784841],
           [4.785775042020816, 45.76604471591838],
           [4.785340668894435, 45.76469691926084],
           [4.78528167196751, 45.76452792042832],
@@ -462,6 +446,22 @@
           [4.785430341167995, 45.76413444700407],
           [4.785695823615583, 45.76414029919829],
           [4.785840857232898, 45.764105074451265],
+          [4.786058002774951, 45.76412257583769]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Avenue Barthélémy Buyer",
+        "distance": 1551,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.786058002774951, 45.76412257583769],
           [4.786764647537893, 45.764118859007084],
           [4.786992767248961, 45.7641129847305],
@@ -509,6 +509,22 @@
           [4.803782158812595, 45.76134756140536],
           [4.803918504425297, 45.76125929413959],
           [4.804241633442956, 45.76096106710446],
+          [4.804406400981975, 45.76080355460067]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "color": "#7E6D98",
+        "name": "Lotissement La Gravière",
+        "distance": 511,
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
           [4.804406400981975, 45.76080355460067],
           [4.804550785497668, 45.76094693915536],
           [4.804595730392947, 45.7610787403554],
@@ -551,7 +567,7 @@
         "name": "Rue Pierre Audry Sud",
         "distance": 325,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "01/04/2022"
       },
       "geometry": {
         "type": "LineString",
