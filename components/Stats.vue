@@ -19,36 +19,36 @@
 </template>
 
 <script setup>
-const { getAllUniqSections, getDistance } = useStats()
+const { getAllUniqFeatures, getDistance } = useStats();
 
 const { voies } = defineProps({
   voies: { type: Array, required: true }
-})
+});
 
-const allSections = getAllUniqSections(voies)
+const features = getAllUniqFeatures(voies);
 
-const total = getDistance({ allSections, status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] })
+const total = getDistance({ features, status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] }).distanceInKilometers;
 const done = {
-  distance: getDistance({ allSections, status: ['done'] }),
-  percent: Math.round(getDistance({ allSections, status: ['done'] }) / total * 100)
-}
+  distance: getDistance({ features, status: ['done'] }).distanceInKilometers,
+  percent: Math.round(getDistance({ features, status: ['done'] }).distanceInKilometers / total * 100)
+};
 const wip = {
-  distance: getDistance({ allSections, status: ['wip'] }),
-  percent: Math.round(getDistance({ allSections, status: ['wip'] }) / total * 100)
-}
+  distance: getDistance({ features, status: ['wip'] }).distanceInKilometers,
+  percent: Math.round(getDistance({ features, status: ['wip'] }).distanceInKilometers / total * 100)
+};
 const planned = {
-  distance: getDistance({ allSections, status: ['planned', 'unknown', 'variante'] }),
-  percent: Math.round(getDistance({ allSections, status: ['planned', 'unknown', 'variante'] }) / total * 100)
-}
+  distance: getDistance({ features, status: ['planned', 'unknown', 'variante'] }).distanceInKilometers,
+  percent: Math.round(getDistance({ features, status: ['planned', 'unknown', 'variante'] }).distanceInKilometers / total * 100)
+};
 const postponed = {
-  distance: getDistance({ allSections, status: ['postponed', 'variante-postponed'] }),
-  percent: Math.round(getDistance({ allSections, status: ['postponed', 'variante-postponed'] }) / total * 100)
-}
+  distance: getDistance({ features, status: ['postponed', 'variante-postponed'] }).distanceInKilometers,
+  percent: Math.round(getDistance({ features, status: ['postponed', 'variante-postponed'] }).distanceInKilometers / total * 100)
+};
 
 const stats = [
   { name: 'Réalisés', distance: `${done.distance} km`, percent: `${done.percent}%` },
   { name: 'En travaux', distance: `${wip.distance} km`, percent: `${wip.percent}%` },
   { name: 'Prévus', distance: `${planned.distance} km`, percent: `${planned.percent}%` },
   { name: 'Reportés', distance: `${postponed.distance} km`, percent: `${postponed.percent}%` }
-]
+];
 </script>

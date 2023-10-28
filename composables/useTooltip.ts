@@ -1,11 +1,21 @@
+const { getDistance } = useStats();
+
 type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
 
-type Properties = {
-  line: string;
-  color: string;
-  name: string;
-  distance: number;
-  status: Status;
+type Feature = {
+  type: string;
+  properties: {
+    id?: string;
+    line: string;
+    color: string;
+    name: string;
+    distance: number;
+    status: Status;
+  };
+  geometry: {
+    type: string;
+    coordinates: number[][];
+  };
 };
 
 type PoiProperties = {
@@ -28,27 +38,31 @@ function getStatusText(status: Status): string {
 }
 
 export const useTooltip = () => {
-  function getTooltipHtml(properties: Properties) {
+  function getTooltipHtml(feature: Feature) {
     return `
-      <div class="h-10 flex items-center" style="background-color: ${properties.color}">
+      <div class="h-10 flex items-center" style="background-color: ${feature.properties.color}">
         <div class="p-2">
-          <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${properties.line}'>
-            Voie Lyonnaise ${properties.line}
+          <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${feature.properties.line}'>
+            Voie Lyonnaise ${feature.properties.line}
           </a>
         </div>
       </div>
       <div class='p-2 divide-y'>
         <div>
           <div class='text-sm font-bold'>Tronçon</div>
-          <div>${properties.name}</div>
+          <div>${feature.properties.name}</div>
         </div>
          <div>
           <div class='text-sm font-bold'>statut</div>
-          <div>${getStatusText(properties.status)}</div>
+          <div>${getStatusText(feature.properties.status)}</div>
         </div>
          <div>
           <div class='text-sm font-bold'>distance</div>
-          <div>${Math.round(properties.distance / 25) * 25}m</div>
+          <div>${
+            Math.round(
+              getDistance({ features: [feature], status: [feature.properties.status] }).distanceInMeters / 25
+            ) * 25
+          }m</div>
         </div>
       </div>
     `;

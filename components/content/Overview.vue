@@ -45,28 +45,26 @@
 </template>
 
 <script setup>
-const { path } = useRoute()
+const { path } = useRoute();
+const { getDistance } = useStats();
 
-const { voie } = defineProps({ voie: Object })
+const { voie } = defineProps({ voie: Object });
 
 const mapOptions = {
   fullscreen: true,
   onFullscreenControlClick: () => {
-    const route = useRoute()
-    return navigateTo({ path: `${route.params._slug}/carte` })
+    const route = useRoute();
+    return navigateTo({ path: `${route.params._slug}/carte` });
   }
-}
+};
 
 const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
   return queryContent('voies-lyonnaises')
     .where({ _type: 'json', _path: voie._path })
-    .findOne()
-})
+    .findOne();
+});
 
-const features = geojson.value.features
-
-const avancement = Math.round(features
-  .filter(feature => feature.properties.status === 'done')
-  .map(feature => feature.properties.distance || 0)
-  .reduce((acc, current) => acc + current, 0) * 100 / voie.distance)
+const features = geojson.value.features;
+const doneDistance = getDistance({ features, status: ['done'] }).distanceInMeters;
+const avancement = Math.round(doneDistance / voie.distance * 100);
 </script>

@@ -7,12 +7,12 @@
 </template>
 
 <script setup>
-import maplibregl from 'maplibre-gl'
-import 'maplibre-gl/dist/maplibre-gl.css'
-import style from '@/assets/style.json'
-import LegendControl from '@/maplibre/LegendControl'
-import FullscreenControl from '@/maplibre/FullscreenControl'
-import ShrinkControl from '@/maplibre/ShrinkControl'
+import maplibregl from 'maplibre-gl';
+import 'maplibre-gl/dist/maplibre-gl.css';
+import style from '@/assets/style.json';
+import LegendControl from '@/maplibre/LegendControl';
+import FullscreenControl from '@/maplibre/FullscreenControl';
+import ShrinkControl from '@/maplibre/ShrinkControl';
 
 const { features, options } = defineProps({
   features: { type: Array, required: true },
@@ -26,9 +26,9 @@ const { features, options } = defineProps({
       onShrinkControlClick: () => {}
     })
   }
-})
+});
 
-const legendModalComponent = ref(null)
+const legendModalComponent = ref(null);
 
 const {
   plotDoneSections,
@@ -40,9 +40,9 @@ const {
   plotPostponedSections,
   plotPois,
   fitBounds
-} = useMap()
+} = useMap();
 
-const { getTooltipHtml, getTooltipPoi } = useTooltip()
+const { getTooltipHtml, getTooltipPoi } = useTooltip();
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -51,65 +51,65 @@ onMounted(() => {
     center: [4.8312188, 45.757198],
     zoom: 12,
     attributionControl: false
-  })
-  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
-  map.addControl(new maplibregl.AttributionControl(), 'bottom-left')
+  });
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
+  map.addControl(new maplibregl.AttributionControl(), 'bottom-left');
   if (options.fullscreen) {
     const fullscreenControl = new FullscreenControl({
       onClick: () => options.onFullscreenControlClick()
-    })
-    map.addControl(fullscreenControl, 'top-right')
+    });
+    map.addControl(fullscreenControl, 'top-right');
   }
   if (options.shrink) {
     const shrinkControl = new ShrinkControl({
       onClick: () => options.onShrinkControlClick()
-    })
-    map.addControl(shrinkControl, 'top-right')
+    });
+    map.addControl(shrinkControl, 'top-right');
   }
   const legendControl = new LegendControl({
     onClick: () => legendModalComponent.value.openModal()
-  })
-  map.addControl(legendControl, 'top-right')
+  });
+  map.addControl(legendControl, 'top-right');
 
   map.on('load', () => {
-    plotDoneSections({ map, features })
-    plotPlannedSections({ map, features })
-    plotVarianteSections({ map, features })
-    plotVariantePostponedSections({ map, features })
-    plotWipSections({ map, features })
-    plotUnknownSections({ map, features })
-    plotPostponedSections({ map, features })
-    plotPois({ map, features })
+    plotDoneSections({ map, features });
+    plotPlannedSections({ map, features });
+    plotVarianteSections({ map, features });
+    plotVariantePostponedSections({ map, features });
+    plotWipSections({ map, features });
+    plotUnknownSections({ map, features });
+    plotPostponedSections({ map, features });
+    plotPois({ map, features });
 
-    fitBounds({ map, features })
-  })
+    fitBounds({ map, features });
+  });
 
   // must do this to avoid multiple popups
   map.on('click', (e) => {
     // console.log('e.lngLat >>', e.lngLat)
     const features = map
       .queryRenderedFeatures(e.point)
-      .filter(({ layer }) => layer.source !== 'openmaptiles')
+      .filter(({ layer }) => layer.source !== 'openmaptiles');
 
     if (features.length === 0) {
-      return
+      return;
     }
 
-    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois')
+    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois');
     if (isPoiLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'pois')
+      const feature = features.find(({ layer }) => layer.id === 'pois');
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(getTooltipPoi(feature.properties))
-        .addTo(map)
+        .addTo(map);
     } else {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(features[0].properties))
-        .addTo(map)
+        .setHTML(getTooltipHtml(features[0]))
+        .addTo(map);
     }
-  })
-})
+  });
+});
 </script>
 
 <style>

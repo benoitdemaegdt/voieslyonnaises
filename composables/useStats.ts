@@ -20,7 +20,7 @@ type Geojson = {
 };
 
 export const useStats = () => {
-  function getAllUniqSections(voies: Geojson[]) {
+  function getAllUniqFeatures(voies: Geojson[]) {
     return voies
       .map(voie => voie.features)
       .flat()
@@ -37,14 +37,20 @@ export const useStats = () => {
       });
   }
 
-  function getDistance({ allSections, status }: { allSections: Feature[]; status: string[] }) {
-    const distanceInMeters = allSections
+  function getDistance({ features, status }: { features: Feature[]; status: string[] }): {
+    distanceInMeters: number;
+    distanceInKilometers: number;
+  } {
+    const distanceInMeters = features
       .filter((feature: Feature) => status.includes(feature.properties.status))
       .reduce((acc: number, feature: Feature) => {
         return acc + getLineStringDistance(feature);
       }, 0);
 
-    return Math.round(distanceInMeters / 1000);
+    return {
+      distanceInMeters,
+      distanceInKilometers: Math.round(distanceInMeters / 1000)
+    };
   }
 
   function getLineStringDistance(feature: Feature) {
@@ -85,5 +91,5 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  return { getAllUniqSections, getDistance };
+  return { getAllUniqFeatures, getDistance };
 };
