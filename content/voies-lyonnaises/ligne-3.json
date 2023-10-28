@@ -227,8 +227,8 @@
       "properties": {
         "line": 3,
         "color": "#3B7B64",
-        "name": "Genay - Neuville-sur-Saône",
-        "distance": 2754,
+        "name": "Neuville - Avenue Sadi Carnot",
+        "distance": 1311,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -241,6 +241,23 @@
           [4.832708482253423, 45.88546079905214],
           [4.830206684705814, 45.88747792773063],
           [4.828029595942098, 45.889249818892495],
+          [4.825596785059901, 45.89065348113678]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "color": "#3B7B64",
+        "name": "Genay - Rte de Trévoux",
+        "distance": 1443,
+        "status": "done",
+        "doneAt": "30/04/2021"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
           [4.825596785059901, 45.89065348113678],
           [4.825081641785118, 45.89077391809289],
           [4.824920356072283, 45.89119124482869],
