@@ -512,7 +512,7 @@
         "name": "Tassin - Victor Hugo",
         "distance": 350,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -531,7 +531,7 @@
         "name": "Tassin - Victor Hugo",
         "distance": 325,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -550,7 +550,7 @@
         "name": "Tassin - Victor Hugo",
         "distance": 50,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -724,8 +724,7 @@
         "name": "Avenue de Grande-Bretagne",
         "distance": 425,
         "status": "done",
-        "doneAt": "28/03/2023",
-        "doneAt": "31/12/2019"
+        "doneAt": "28/03/2023"
       },
       "geometry": {
         "type": "LineString",
@@ -838,7 +837,7 @@
         "name": "Campus Doua",
         "distance": 1322,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/08/2021"
       },
       "geometry": {
         "type": "LineString",
