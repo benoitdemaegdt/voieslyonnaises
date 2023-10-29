@@ -4,7 +4,7 @@
   "limitation": "Les aménagements cyclables du Pont Lafayette sont mal conçus (ils devraientt être refaits en 2023). C'est la raison pour laquelle de nombreux cyclistes passent directement sur la voie de bus. Ces passages là ne sont pas comptabilisés par les compteurs. On peut donc dire que les chiffres remontés sont probablement sous-estimés.",
   "arrondissement": "Lyon 3",
   "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
-  "idPdc": "100050687",
+  "idPdc": 100050687,
   "flowIds": "101050687;102050687;103050687;104050687;353398018;353398024;353398367;353398373;353399416;353399418",
   "coordinates": [4.840674179382174, 45.76354000742473],
   "counts": [
