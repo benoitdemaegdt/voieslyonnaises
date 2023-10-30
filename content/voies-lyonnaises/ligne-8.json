@@ -387,33 +387,15 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Tassin - Victor Hugo",
-        "distance": 325,
+        "distance": 121,
         "status": "done",
         "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.784645564656998, 45.766661077931104],
+          [4.786261253158671, 45.768117789710715],
           [4.787285147713966, 45.76894360480924]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 8,
-        "color": "#7E6D98",
-        "name": "Tassin - Rue de la Pépinière",
-        "distance": 125,
-        "status": "variante-postponed"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.784645564656998, 45.766661077931104],
-          [4.7847627675182025, 45.76659837084489],
-          [4.7857742066750575, 45.766044891859764]
         ]
       }
     },
