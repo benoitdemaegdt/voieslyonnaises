@@ -20,7 +20,7 @@ Sur toute la moitié Ouest de son itinéraire, la Voie Lyonnaise 10 est en tron�
 Se référer à la page de chaque ligne pour davantage d'informations.
 
 ### Boulevard des Belges - de Verguin à Waldeck Rousseau
-Cettee portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
+Cettee portionn sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
 ### Boulevard des Belges - de Waldeck Rousseau à Lafayette
