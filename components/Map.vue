@@ -53,7 +53,7 @@ onMounted(() => {
     attributionControl: false
   })
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
-  map.addControl(new maplibregl.AttributionControl(), 'bottom-left')
+  map.addControl(new maplibregl.AttributionControl({ compact: false }), 'bottom-left')
   if (options.fullscreen) {
     const fullscreenControl = new FullscreenControl({
       onClick: () => options.onFullscreenControlClick()
