@@ -72,7 +72,7 @@ La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'e
 Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la piste cyclable bidirectionnelle de l'avenue Victor Hugo pour rejoindre l'avenue Vincent Serre. Pour cela, 2 variantes ont été proposées :
  - par Avenue Vincent Serre Nord, avec la création d'une piste cyclable bidirectionnelle de 3m de large côté Est, l'élargissement du trottoir Est, la suppression de la bande de stationnement et la mise en sens unique montant de la rue.
  - par la rue de la Pépinière, aménagée en vélorue compte-tenu du faible trafic automobile, avec la suppression du stationnement et l'élargissement des trottoirs.
-Suite à la concertation, la Métropole a décidé de retenir la variante par l'avenue Vincent Serre Nord dans [sa délibération](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS) de la comission permanente du 16 octobre 2023.
+Suite à la concertation, la Métropole a décidé de retenir la variante par l'avenue Vincent Serre Nord dans [sa délibération](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS) de la commission permanente du 16 octobre 2023.
 
 Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour continuer à travers le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
 
