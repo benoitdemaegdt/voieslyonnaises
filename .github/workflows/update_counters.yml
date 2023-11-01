@@ -2,7 +2,7 @@ name: Update Counters
 
 on:
   schedule:
-    - cron: '55 20 1 * *' # This triggers at 21:30 (Paris time) on the first day of each month
+    - cron: '10 21 1 * *' # This triggers at 21:30 (Paris time) on the first day of each month
 
 jobs:
   update_counters:
@@ -28,9 +28,10 @@ jobs:
           git config --global user.name 'benoitdemaegdt'
           git config --global user.email 'benoit.demaegdt@gmail.com'
           git checkout -b update-counters-${{ github.run_id }}
+          git diff
           git add -A
           git commit -m "Update counters"
-          git push origin update-counters-${{ github.run_id }}
+          git push
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
