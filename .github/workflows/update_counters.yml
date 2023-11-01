@@ -2,7 +2,7 @@ name: Update Counters
 
 on:
   schedule:
-    - cron: '40 21 1 * *' # This triggers at 21:30 (Paris time) on the first day of each month
+    - cron: '55 21 1 * *' # This triggers at 21:30 (Paris time) on the first day of each month
 
 jobs:
   update_counters:
@@ -27,17 +27,15 @@ jobs:
         run: |
           git config --global user.name 'benoitdemaegdt'
           git config --global user.email 'benoit.demaegdt@gmail.com'
-          git checkout -b update-counters-${{ github.run_id }}
-          git diff
           git add -A
           git commit -m "Update counters"
-          git push --set-upstream origin update-counters-${{ github.run_id }}
+          git push
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: update-counters-${{ github.run_id }}
-          base: main
-          title: "Update Counters"
-          body: "Automated update of counters."
+#      - name: Create Pull Request
+#        uses: peter-evans/create-pull-request@v3
+#        with:
+#          token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: update-counters-${{ github.run_id }}
+#          base: main
+#          title: "Update Counters"
+#          body: "Automated update of counters."
