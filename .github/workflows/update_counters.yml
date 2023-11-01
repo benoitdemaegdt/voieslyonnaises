@@ -2,7 +2,7 @@ name: Update Counters
 
 on:
   schedule:
-    - cron: '0 12 1 * *' # This triggers at midday on the first day of each month
+    - cron: '30 20 1 * *' # This triggers at 21:30 (Paris time) on the first day of each month
 
 jobs:
   update_counters:
@@ -25,6 +25,8 @@ jobs:
 
       - name: Create New Branch
         run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
           git checkout -b update-counters-${{ github.run_id }}
           git add .
           git commit -m "Update counters"
