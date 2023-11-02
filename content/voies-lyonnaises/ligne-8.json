@@ -19,6 +19,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "La Tour de Salvagny - Ouest",
+        "distance": 1800,
         "status": "postponed"
       },
       "geometry": {
@@ -105,6 +106,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "La Tour de Salvagny - Est",
+        "distance": 1850,
         "status": "wip"
       },
       "geometry": {
@@ -161,6 +163,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Dardilly",
+        "distance": 1850,
         "status": "planned"
       },
       "geometry": {
@@ -215,6 +218,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Charbonnières-les-Bains",
+        "distance": 2450,
         "status": "planned"
       },
       "geometry": {
@@ -265,6 +269,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Tassin - Route de Paris",
+        "distance": 1050,
         "status": "planned"
       },
       "geometry": {
@@ -307,6 +312,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Boulevard du Valvert",
+        "distance": 1750,
         "status": "planned"
       },
       "geometry": {
@@ -381,13 +387,14 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Tassin - Victor Hugo",
+        "distance": 121,
         "status": "done",
         "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.784645564656998, 45.766661077931104],
+          [4.786261253158671, 45.768117789710715],
           [4.787285147713966, 45.76894360480924]
         ]
       }
@@ -397,24 +404,8 @@
       "properties": {
         "line": 8,
         "color": "#7E6D98",
-        "name": "Tassin - Rue de la Pépinière",
-        "status": "variante-postponed"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.784645564656998, 45.766661077931104],
-          [4.7847627675182025, 45.76659837084489],
-          [4.7857742066750575, 45.766044891859764]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 8,
-        "color": "#7E6D98",
         "name": "Vincent Serre & carrefour Hespérides",
+        "distance": 540,
         "status": "planned"
       },
       "geometry": {
@@ -447,6 +438,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Avenue Barthélémy Buyer",
+        "distance": 1551,
         "status": "planned"
       },
       "geometry": {
@@ -509,11 +501,12 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Lotissement La Gravière",
+        "distance": 511,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [
+        "coordinates": [          
           [4.804406400981975, 45.76080355460067],
           [4.804550785497668, 45.76094693915536],
           [4.804595730392947, 45.7610787403554],
@@ -554,6 +547,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Pierre Audry Sud",
+        "distance": 325,
         "status": "done",
         "doneAt": "01/04/2022"
       },
@@ -580,6 +574,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Barthélémy Buyer Est",
+        "distance": 150,
         "status": "planned"
       },
       "geometry": {
@@ -605,6 +600,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Saint-Just & Saint-Jean",
+        "distance": 1825,
         "status": "planned"
       },
       "geometry": {
@@ -693,6 +689,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Traversée Presqu'île (par Bellecour)",
+        "distance": 750,
         "status": "planned"
       },
       "geometry": {
@@ -713,6 +710,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Traversée Presqu'île (par Perrache)",
+        "distance": 1025,
         "status": "postponed"
       },
       "geometry": {
@@ -761,6 +759,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Pont Guillotière - Pont Université",
+        "distance": 550,
         "status": "planned"
       },
       "geometry": {
@@ -781,6 +780,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Pont et Rue de l'Université",
+        "distance": 925,
         "status": "planned"
       },
       "geometry": {
@@ -806,6 +806,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Marc Bloch",
+        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -832,6 +833,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Garibaldi - CROUS",
+        "distance": 50,
         "status": "planned"
       },
       "geometry": {
@@ -848,6 +850,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Camille Roy",
+        "distance": 141,
         "status": "planned"
       },
       "geometry": {
@@ -865,6 +868,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue et Pont de l'Epargne",
+        "distance": 925,
         "status": "planned"
       },
       "geometry": {
@@ -905,6 +909,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Marius Berliet",
+        "distance": 899,
         "status": "postponed"
       },
       "geometry": {
@@ -932,6 +937,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Avenue Mermoz Ouest",
+        "distance": 862,
         "status": "planned"
       },
       "geometry": {
@@ -954,6 +960,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Avenue Mermoz - T6",
+        "distance": 724,
         "status": "postponed"
       },
       "geometry": {
@@ -980,6 +987,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Pinel - A43",
+        "distance": 524,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -1014,6 +1022,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Rue Lionel Terray",
+        "distance": 1950,
         "status": "planned"
       },
       "geometry": {
@@ -1092,6 +1101,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Campus Parilly",
+        "distance": 300,
         "status": "planned"
       },
       "geometry": {
@@ -1120,6 +1130,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Bron - Porte des Alpes",
+        "distance": 1112,
         "status": "planned"
       },
       "geometry": {
@@ -1184,6 +1195,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Parking relais Porte des Alpes",
+        "distance": 278,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -1203,6 +1215,7 @@
         "line": 8,
         "color": "#7E6D98",
         "name": "Cours du Professeur Jean Bernard",
+        "distance": 139,
         "status": "planned"
       },
       "geometry": {
