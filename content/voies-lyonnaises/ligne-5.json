@@ -7,7 +7,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Liaison VL7",
-        "distance": 500,
         "status": "unknown"
       },
       "geometry": {
@@ -24,7 +23,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Saint-Fons",
-        "distance": 3375,
         "status": "planned"
       },
       "geometry": {
@@ -107,7 +105,6 @@
         "line": 3,
         "color": "#AF7392",
         "name": "Chemin du Barrage",
-        "distance": 756,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -135,7 +132,6 @@
         "line": 3,
         "color": "#AF7392",
         "name": "Pierre Bénite",
-        "distance": 1923,
         "status": "planned"
       },
       "geometry": {
@@ -166,7 +162,6 @@
         "line": 3,
         "color": "#AF7392",
         "name": "Oullins - Avenue Jaurès",
-        "distance": 342,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -186,7 +181,6 @@
         "line": 3,
         "color": "#AF7392",
         "name": "Oullins - La Saulaie",
-        "distance": 881,
         "status": "planned"
       },
       "geometry": {
@@ -218,7 +212,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 755,
         "status": "variante",
         "text": "variante A"
       },
@@ -270,7 +263,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 100,
         "status": "variante",
         "text": "variante A"
       },
@@ -292,7 +284,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Oullins Yzeron - scénario B",
-        "distance": 800,
         "status": "variante",
         "text": "variante B"
       },
@@ -331,7 +322,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Oullins Ouest",
-        "distance": 2550,
         "status": "planned"
       },
       "geometry": {
@@ -407,7 +397,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Beaunant",
-        "distance": 437,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -428,7 +417,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Alaï - Francheville",
-        "distance": 2851,
         "status": "postponed"
       },
       "geometry": {
@@ -476,7 +464,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Traversée de Tassin",
-        "distance": 1549,
         "status": "postponed"
       },
       "geometry": {
@@ -493,7 +480,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Place de l'Horloge",
-        "distance": 50,
         "status": "wip"
       },
       "geometry": {
@@ -510,7 +496,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
-        "distance": 568,
         "status": "done",
         "doneAt": "31/12/2021"
       },
@@ -529,7 +514,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
-        "distance": 121,
         "status": "done",
         "doneAt": "31/12/2021"
       },
@@ -548,7 +532,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
-        "distance": 50,
         "status": "done",
         "doneAt": "31/12/2021"
       },
@@ -567,7 +550,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Vaise - Tassin",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -595,7 +577,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Valmy Ouest",
-        "distance": 1108,
         "status": "unknown"
       },
       "geometry": {
@@ -614,7 +595,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Valmy Est",
-        "distance": 250,
         "status": "unknown"
       },
       "geometry": {
@@ -632,7 +612,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Pont Georges Clemenceau",
-        "distance": 150,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -652,7 +631,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Tunnel de la Croix-Rousse",
-        "distance": 2171,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -678,7 +656,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny",
-        "distance": 179,
         "status": "planned"
       },
       "geometry": {
@@ -696,7 +673,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny - VL1",
-        "distance": 111,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -722,7 +698,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Avenue de Grande-Bretagne",
-        "distance": 425,
         "status": "done",
         "doneAt": "28/03/2023"
       },
@@ -746,7 +721,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Tête d'Or",
-        "distance": 30,
         "status": "planned"
       },
       "geometry": {
@@ -764,7 +738,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Allée Achille Lignon",
-        "distance": 1650,
         "status": "planned"
       },
       "geometry": {
@@ -792,7 +765,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Transbordeur",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -809,7 +781,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Boulevard Laurent Bonnevay",
-        "distance": 394,
         "status": "planned"
       },
       "geometry": {
@@ -835,7 +806,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Campus Doua",
-        "distance": 1322,
         "status": "done",
         "doneAt": "31/08/2021"
       },
@@ -868,7 +838,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Doua Est",
-        "distance": 1600,
         "status": "planned"
       },
       "geometry": {
@@ -902,7 +871,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Vaulx-en-Velin",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {
@@ -952,7 +920,6 @@
         "line": 5,
         "color": "#AF7392",
         "name": "Vaulx-en-Velin - Bron",
-        "distance": 7325,
         "status": "planned"
       },
       "geometry": {
