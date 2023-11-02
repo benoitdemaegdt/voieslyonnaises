@@ -5,7 +5,6 @@ type Feature = {
     line: string;
     color: string;
     name: string;
-    distance: number;
     status: string;
   };
   geometry: {
