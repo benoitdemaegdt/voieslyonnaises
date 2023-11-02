@@ -2,7 +2,7 @@ name: Update Counters
 
 on:
   schedule:
-    - cron: '30 7 2 * *' # This triggers at 7:55 AM (Paris time) on the 2nd day of each month
+    - cron: '0 6 1 * *' # every 1st day of each month
 
 jobs:
   update_counters:
