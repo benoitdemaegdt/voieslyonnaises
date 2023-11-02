@@ -9,15 +9,17 @@
 </template>
 
 <script setup>
-const { getAllUniqFeatures, getDistance } = useStats();
+const { getAllUniqLineStrings, getDistance } = useStats();
 
 const { voies } = defineProps({
   voies: { type: Array, required: true }
 });
 
-const features = getAllUniqFeatures(voies);
-const totalDistance = getDistance({ features, status: ['done', 'wip', 'planned', 'postponed', 'unknown', 'variante', 'variante-postponed'] }).distanceInKilometers;
-const doneDistance = getDistance({ features, status: ['done'] }).distanceInKilometers;
+const features = getAllUniqLineStrings(voies);
+const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+
+const totalDistance = getDistance({ features });
+const doneDistance = getDistance({ features: doneFeatures });
 
 const percent = Math.round(doneDistance / totalDistance * 100);
 </script>

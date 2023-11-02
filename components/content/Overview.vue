@@ -65,6 +65,7 @@ const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
 });
 
 const features = geojson.value.features;
-const doneDistance = getDistance({ features, status: ['done'] }).distanceInMeters;
+const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+const doneDistance = getDistance({ features: doneFeatures });
 const avancement = Math.round(doneDistance / voie.distance * 100);
 </script>
