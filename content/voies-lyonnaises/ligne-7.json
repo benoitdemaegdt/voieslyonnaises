@@ -79,7 +79,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Osterode",
-        "distance": 1310,
         "status": "planned"
       },
       "geometry": {
@@ -126,7 +125,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Parc linéaire Est",
-        "distance": 596,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -164,7 +162,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Parc linéaire Ouest",
-        "distance": 920,
         "status": "planned"
       },
       "geometry": {
@@ -212,7 +209,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Giratoire De Gaulle",
-        "distance": 75,
         "status": "wip"
       },
       "geometry": {
@@ -232,7 +228,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Loup Pendu",
-        "distance": 314,
         "status": "planned"
       },
       "geometry": {
@@ -255,7 +250,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Mercières - Loup Pendu",
-        "distance": 193,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -275,7 +269,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Carrefour Mercières",
-        "distance": 22,
         "status": "planned"
       },
       "geometry": {
@@ -292,7 +285,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Avenue du 8 Mai - Mercières",
-        "distance": 385,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -316,7 +308,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rillieux - Carrefour Avenue du 8 Mai",
-        "distance": 28,
         "status": "planned"
       },
       "geometry": {
@@ -333,7 +324,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Chemin Petit - Avenue Hippodrome",
-        "distance": 2241,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -404,7 +394,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Voie verte de la Dombes",
-        "distance": 2682,
         "status": "postponed"
       },
       "geometry": {
@@ -438,7 +427,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Boulevard des Canuts Nord",
-        "distance": 555,
         "status": "planned"
       },
       "geometry": {
@@ -469,7 +457,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Boulevard des Canuts Sud",
-        "distance": 850,
         "status": "planned"
       },
       "geometry": {
@@ -502,7 +489,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "variante Rue de Cuire",
-        "distance": 425,
         "status": "variante",
         "text": "variante"
       },
@@ -537,7 +523,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "variante Bd des Canuts",
-        "distance": 300,
         "status": "variante",
         "text": "variante"
       },
@@ -558,7 +543,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Place des Tapis",
-        "distance": 200,
         "status": "planned"
       },
       "geometry": {
@@ -580,7 +564,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Montée de la Boucle",
-        "distance": 1000,
         "status": "planned"
       },
       "geometry": {
@@ -641,7 +624,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Carrefour Boucle - Pont Churchill",
-        "distance": 96,
         "status": "planned"
       },
       "geometry": {
@@ -662,7 +644,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Pont Churchill",
-        "distance": 231,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -681,7 +662,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Pont Churchill - Tête d'Or",
-        "distance": 156,
         "status": "planned"
       },
       "geometry": {
@@ -708,7 +688,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Tête d'Or",
-        "distance": 30,
         "status": "planned"
       },
       "geometry": {
@@ -725,7 +704,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Belges Ouest",
-        "distance": 505,
         "status": "postponed"
       },
       "geometry": {
@@ -751,7 +729,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi Nord",
-        "distance": 116,
         "status": "planned"
       },
       "geometry": {
@@ -771,7 +748,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Duquesne Vauban",
-        "distance": 850,
         "status": "planned"
       },
       "geometry": {
@@ -797,7 +773,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Vauban Bonnel",
-        "distance": 400,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -826,7 +801,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Part Dieu",
-        "distance": 575,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -847,7 +821,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Paul Bert Arménie",
-        "distance": 250,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -869,7 +842,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -900,7 +872,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Blandan",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -923,7 +894,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - CROUS",
-        "distance": 50,
         "status": "planned"
       },
       "geometry": {
@@ -940,7 +910,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Garibaldi - Sud",
-        "distance": 225,
         "status": "planned"
       },
       "geometry": {
@@ -960,7 +929,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Rue Paul Duvivier",
-        "distance": 675,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -995,7 +963,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Route de Vienne",
-        "distance": 3075,
         "status": "planned"
       },
       "geometry": {
@@ -1055,7 +1022,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Saint-Fons",
-        "distance": 725,
         "status": "unknown"
       },
       "geometry": {
@@ -1072,7 +1038,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Boulevard Yves Farge",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {
@@ -1134,7 +1099,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Feyzin Nord",
-        "distance": 950,
         "status": "planned"
       },
       "geometry": {
@@ -1160,7 +1124,6 @@
         "line": 7,
         "color": "#75BCAE",
         "name": "Feyzin Centre",
-        "distance": 350,
         "status": "unknown"
       },
       "geometry": {

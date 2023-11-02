@@ -2,15 +2,14 @@ type Feature = {
   type: string;
   properties: {
     id?: string;
-    line?: string;
-    color?: string;
-    name?: string;
-    distance?: number;
-    status?: string;
+    line: string;
+    color: string;
+    name: string;
+    status: string;
   };
   geometry: {
     type: string;
-    coordinates: number[] | number[][];
+    coordinates: number[][];
   };
 };
 
@@ -20,7 +19,7 @@ type Geojson = {
 };
 
 export const useStats = () => {
-  function getAllUniqSections(voies: Geojson[]) {
+  function getAllUniqLineStrings(voies: Geojson[]) {
     return voies
       .map(voie => voie.features)
       .flat()
@@ -37,19 +36,52 @@ export const useStats = () => {
       });
   }
 
-  function getDistance({ allSections, status }) {
-    const distanceInMeters = allSections
-      .filter(feature => status.includes(feature.properties.status))
-      .reduce((acc, section) => {
-        if (!section.properties.distance) {
-          console.log('section >>', section);
-          return acc;
-        }
-        return acc + section.properties.distance;
-      }, 0);
-
-    return Math.round(distanceInMeters / 1000);
+  /**
+   * distance is in meters
+   */
+  function getDistance({ features }: { features: Feature[] }): number {
+    return features.reduce((acc: number, feature: Feature) => {
+      return acc + getLineStringDistance(feature);
+    }, 0);
   }
 
-  return { getAllUniqSections, getDistance };
+  function getLineStringDistance(feature: Feature) {
+    if (feature.geometry.type !== 'LineString') {
+      throw new Error('[getLineStringDistance] Feature must be a LineString');
+    }
+
+    let distance = 0;
+    const coordinates = feature.geometry.coordinates;
+
+    for (let i = 0; i < coordinates.length - 1; i++) {
+      const [lon1, lat1] = coordinates[i];
+      const [lon2, lat2] = coordinates[i + 1];
+      distance += haversine(lat1, lon1, lat2, lon2);
+    }
+
+    return distance;
+  }
+
+  function haversine(lat1: number, lon1: number, lat2: number, lon2: number) {
+    // Convert latitude and longitude from degrees to radians
+    const toRadians = (angle: number) => (angle * Math.PI) / 180;
+    lat1 = toRadians(lat1);
+    lon1 = toRadians(lon1);
+    lat2 = toRadians(lat2);
+    lon2 = toRadians(lon2);
+
+    // Haversine formula
+    const dLat = lat2 - lat1;
+    const dLon = lon2 - lon1;
+    const a = Math.sin(dLat / 2) ** 2 + Math.cos(lat1) * Math.cos(lat2) * Math.sin(dLon / 2) ** 2;
+    const c = 2 * Math.asin(Math.sqrt(a));
+
+    // Radius of the Earth in meters
+    const radius = 6371000;
+
+    // Calculate the distance in meters
+    return Math.round(radius * c);
+  }
+
+  return { getAllUniqLineStrings, getDistance };
 };

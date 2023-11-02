@@ -79,7 +79,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Route du Grand Veissieux",
-        "distance": 2103,
         "status": "postponed"
       },
       "geometry": {
@@ -134,7 +133,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quincieux - Neuville-sur-Saône",
-        "distance": 6915,
         "status": "planned"
       },
       "geometry": {
@@ -188,7 +186,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pont de Neuville-sur-Saône",
-        "distance": 208,
         "status": "postponed"
       },
       "geometry": {
@@ -207,7 +204,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Neuville - Quais de Saône",
-        "distance": 641,
         "status": "planned"
       },
       "geometry": {
@@ -228,7 +224,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Neuville - Avenue Sadi Carnot",
-        "distance": 1311,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -251,13 +246,12 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Genay - Rte de Trévoux",
-        "distance": 1443,
         "status": "done",
         "doneAt": "30/04/2021"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.825596785059901, 45.89065348113678],
           [4.825081641785118, 45.89077391809289],
           [4.824920356072283, 45.89119124482869],
@@ -282,7 +276,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Couzon - Neuville-sur-Saône",
-        "distance": 2523,
         "status": "planned"
       },
       "geometry": {
@@ -315,7 +308,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Couzon Nord",
-        "distance": 850,
         "status": "done",
         "doneAt": "25/01/2023"
       },
@@ -340,7 +332,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Couzon Sud",
-        "distance": 900,
         "status": "done",
         "doneAt": "31/11/2019"
       },
@@ -362,7 +353,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Saint-Romain",
-        "distance": 1497,
         "status": "planned"
       },
       "geometry": {
@@ -389,7 +379,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Collonges - Gare",
-        "distance": 250,
         "status": "planned"
       },
       "geometry": {
@@ -408,7 +397,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Île barbe - Pont Leclerc",
-        "distance": 4600,
         "status": "planned"
       },
       "geometry": {
@@ -479,7 +467,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Variante - Gde Rue de Saint Rambert",
-        "distance": 200,
         "status": "variante"
       },
       "geometry": {
@@ -512,7 +499,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Variante - Quai Raoul Carrié",
-        "distance": 125,
         "status": "variante"
       },
       "geometry": {
@@ -530,7 +516,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Île Barbe - Laborde",
-        "distance": 1950,
         "status": "planned"
       },
       "geometry": {
@@ -559,7 +544,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Laborde - Pont Schuman",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -581,7 +565,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pont Schuman - Pont Georges Clemenceau",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -608,7 +591,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pont Clemenceau - Pont Koenig",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -632,7 +614,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pont Koenig - Pont Bonaparte",
-        "distance": 2300,
         "status": "planned"
       },
       "geometry": {
@@ -671,7 +652,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Fulchiron",
-        "distance": 1000,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -697,7 +677,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pont Marchand - Pont de la Mulatière",
-        "distance": 2800,
         "status": "postponed"
       },
       "geometry": {
@@ -730,7 +709,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Pierre Sémard Nord",
-        "distance": 310,
         "status": "planned"
       },
       "geometry": {
@@ -749,7 +727,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Sémard - Parc urbain",
-        "distance": 160,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -767,7 +744,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Sémard - Points durs",
-        "distance": 142,
         "status": "planned"
       },
       "geometry": {
@@ -784,7 +760,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Sémard - Friche SNCF",
-        "distance": 459,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -803,7 +778,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Quai Sémard - Péri Yzeron",
-        "distance": 132,
         "status": "planned"
       },
       "geometry": {
@@ -821,7 +795,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Berge Yzeron Est",
-        "distance": 300,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -842,7 +815,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Yzeron - Gare Oullins",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -863,7 +835,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Oullins - La Saulaie",
-        "distance": 881,
         "status": "planned"
       },
       "geometry": {
@@ -895,7 +866,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Oullins - Avenue Jaurès",
-        "distance": 342,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -915,7 +885,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pierre Bénite",
-        "distance": 1923,
         "status": "planned"
       },
       "geometry": {
@@ -946,7 +915,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Chemin du Barrage",
-        "distance": 756,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -973,7 +941,6 @@
         "line": 3,
         "color": "#3B7B64",
         "name": "Pierre bénite - Givors",
-        "distance": 17250,
         "status": "postponed"
       },
       "geometry": {

@@ -56,7 +56,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Île barbe - Pont Leclerc",
-        "distance": 4600,
         "status": "planned"
       },
       "geometry": {
@@ -127,7 +126,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Variante - Gde Rue de Saint Robert",
-        "distance": 200,
         "status": "variante"
       },
       "geometry": {
@@ -160,7 +158,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Variante - Quai Raoul Carrié",
-        "distance": 125,
         "status": "variante"
       },
       "geometry": {
@@ -178,7 +175,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Caluire-et-Cuire",
-        "distance": 3050,
         "status": "unknown"
       },
       "geometry": {
@@ -198,7 +194,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Pont Poincaré",
-        "distance": 700,
         "status": "planned"
       },
       "geometry": {
@@ -230,7 +225,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Transbordeur",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -248,7 +242,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Stalingrad Nord",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -279,7 +272,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Stalingrad Centre",
-        "distance": 750,
         "status": "wip"
       },
       "geometry": {
@@ -299,7 +291,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Stalingrad Sud",
-        "distance": 307,
         "status": "wip"
       },
       "geometry": {
@@ -317,7 +308,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Waldeck-Rousseau",
-        "distance": 136,
         "status": "wip"
       },
       "geometry": {
@@ -335,7 +325,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Belges Sud",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -361,7 +350,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Part-Dieu en tunnel",
-        "distance": 750,
         "status": "planned"
       },
       "geometry": {
@@ -388,7 +376,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Vivier Merle Nord",
-        "distance": 400,
         "status": "planned"
       },
       "geometry": {
@@ -405,7 +392,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Vivier Merle Sud",
-        "distance": 459,
         "status": "wip"
       },
       "geometry": {
@@ -426,7 +412,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Tchécoslovaques",
-        "distance": 1038,
         "status": "planned"
       },
       "geometry": {
@@ -461,7 +446,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Avenue Berthelot",
-        "distance": 306,
         "status": "planned"
       },
       "geometry": {
@@ -478,7 +462,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Boulevard des États-Unis",
-        "distance": 1922,
         "status": "planned"
       },
       "geometry": {
@@ -497,7 +480,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Avenue Viviani",
-        "distance": 906,
         "status": "planned"
       },
       "geometry": {
@@ -515,7 +497,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Traversée du périphérique",
-        "distance": 360,
         "status": "done",
         "doneAt": "24/05/2019"
       },
@@ -547,7 +528,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Avenue Jules Guesde",
-        "distance": 229,
         "status": "done",
         "doneAt": "01/09/2018"
       },
@@ -569,7 +549,6 @@
         "line": 2,
         "color": "#AC4D35",
         "name": "Parilly - Saint-Priest",
-        "distance": 4077,
         "status": "planned"
       },
       "geometry": {

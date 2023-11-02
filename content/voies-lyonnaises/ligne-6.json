@@ -31,7 +31,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Berges Rhône - Rive Droite",
-        "distance": 6250,
         "status": "planned"
       },
       "geometry": {
@@ -95,7 +94,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Presqu'île Nord",
-        "distance": 3100,
         "status": "planned"
       },
       "geometry": {
@@ -150,7 +148,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Pont Wilson - Pont Guillotière",
-        "distance": 325,
         "status": "planned"
       },
       "geometry": {
@@ -170,7 +167,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Pont Guillotière - Pont Université",
-        "distance": 550,
         "status": "planned"
       },
       "geometry": {
@@ -191,7 +187,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Pont de l'Université - Condé",
-        "distance": 300,
         "status": "planned"
       },
       "geometry": {
@@ -211,7 +206,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Condé - Pont Gallieni",
-        "distance": 220,
         "status": "planned"
       },
       "geometry": {
@@ -230,7 +224,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Traversée échangeur M6-M7",
-        "distance": 362,
         "status": "planned"
       },
       "geometry": {
@@ -255,7 +248,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Quai Perrache Nord",
-        "distance": 673,
         "status": "done",
         "doneAt": "31/08/2021"
       },
@@ -277,7 +269,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Quai Perrache Sud et Pont de la Mulatière",
-        "distance": 1515,
         "status": "planned"
       },
       "geometry": {
@@ -310,7 +301,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Pont de la Mulatière - Oullins",
-        "distance": 1365,
         "status": "unknown"
       },
       "geometry": {
@@ -327,7 +317,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Oullins - scénario 2",
-        "distance": 1022,
         "status": "variante",
         "text": "variante 2"
       },
@@ -357,7 +346,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Oullins - scénario 2",
-        "distance": 1090,
         "status": "variante",
         "text": "variante 2"
       },
@@ -420,7 +408,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Oullins - variante scénario 1",
-        "distance": 1159,
         "status": "variante",
         "text": "variante 1"
       },
@@ -482,7 +469,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Oullins - Saint-Genis-Laval",
-        "distance": 1200,
         "status": "planned"
       },
       "geometry": {
@@ -512,7 +498,6 @@
         "line": 6,
         "color": "#396083",
         "name": "Traversée de St-Genis-Laval",
-        "distance": 2650,
         "status": "postponed"
       },
       "geometry": {

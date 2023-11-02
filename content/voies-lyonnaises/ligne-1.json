@@ -56,7 +56,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Vaulx-en-Velin",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {
@@ -107,7 +106,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Doua Est",
-        "distance": 1600,
         "status": "planned"
       },
       "geometry": {
@@ -141,7 +139,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Doua Ouest",
-        "distance": 1550,
         "status": "planned"
       },
       "geometry": {
@@ -167,7 +164,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Stalingrad Nord",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -198,7 +194,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Transbordeur",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -216,7 +211,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Allée Achille Lignon",
-        "distance": 1650,
         "status": "planned"
       },
       "geometry": {
@@ -244,7 +238,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Tête d'Or",
-        "distance": 30,
         "status": "planned"
       },
       "geometry": {
@@ -262,7 +255,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Avenue de Grande-Bretagne",
-        "distance": 425,
         "status": "done",
         "doneAt": "28/03/2023"
       },
@@ -285,7 +277,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Quai de Serbie",
-        "distance": 525,
         "status": "done",
         "doneAt": "28/03/2023"
       },
@@ -309,7 +300,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Pont Morand - Rue Cuvier",
-        "distance": 225,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -328,7 +318,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Rue Cuvier - Rue de Bonnel",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -348,7 +337,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Rue de Bonnel - Pont Wilson",
-        "distance": 150,
         "status": "planned"
       },
       "geometry": {
@@ -365,7 +353,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Pont Wilson - Pont de la Guillotière",
-        "distance": 450,
         "status": "planned"
       },
       "geometry": {
@@ -389,7 +376,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Pont de la Guillotière - Pont Gallieni",
-        "distance": 1050,
         "status": "done",
         "doneAt": "08/07/2022"
       },
@@ -418,7 +404,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Pont Gallieni - Stade de Gerland",
-        "distance": 3050,
         "status": "planned"
       },
       "geometry": {
@@ -460,7 +445,6 @@
         "line": 1,
         "color": "#60A75B",
         "name": "Stade de Gerland - St-Fons",
-        "distance": 3700,
         "status": "planned"
       },
       "geometry": {
