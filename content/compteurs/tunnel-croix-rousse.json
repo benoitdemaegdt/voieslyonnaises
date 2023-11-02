@@ -5,10 +5,7 @@
   "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
   "idPdc": 100030143,
   "flowIds": "101030143;102030143;353243418;353243423",
-  "coordinates": [
-    4.813997,
-    45.77463
-  ],
+  "coordinates": [4.813997, 45.77463],
   "counts": [
     {
       "month": "2016/04/01",
@@ -369,10 +366,6 @@
     {
       "month": "2023/09/01",
       "count": 151664
-    },
-    {
-      "month": "2023/10/01",
-      "count": 140701
     }
   ]
 }
