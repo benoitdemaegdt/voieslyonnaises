@@ -12,7 +12,7 @@
     </div>
     <div class="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 mb-8">
       <section class="md:flex">
-        <h2 class="pl-7 text-sm leading-6 text-slate-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
+        <h2 class="pl-7 prose prose-lg text-gray-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
           16 octobre 2023
         </h2>
         <div class="relative pl-7 pt-2 md:w-3/4 md:pl-12 md:pt-0 pb-16">
@@ -40,7 +40,7 @@
       </section>
 
       <section class="md:flex">
-        <h2 class="pl-7 text-sm leading-6 text-slate-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
+        <h2 class="pl-7 prose prose-lg text-gray-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
           2 octobre 2023
         </h2>
         <div class="relative pl-7 pt-2 md:w-3/4 md:pl-12 md:pt-0 pb-16">
@@ -56,5 +56,3 @@
     </div>
   </div>
 </template>
-<script setup lang='ts'>
-</script>

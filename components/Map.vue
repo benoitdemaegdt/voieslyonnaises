@@ -2,7 +2,7 @@
   <div class="relative">
     <LegendModal ref="legendModalComponent" />
     <div id="map" class="rounded-lg h-full w-full" />
-    <img class="my-0 absolute bottom-0 right-0" src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png" width="75" height="75" alt="logo la ville à vélo">
+    <img class="my-0 absolute bottom-0 right-0 z-10" src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png" width="75" height="75" alt="logo la ville à vélo">
   </div>
 </template>
 
@@ -51,7 +51,7 @@ onMounted(() => {
     center: [4.8312188, 45.757198],
     zoom: 12,
     attributionControl: false
-  })
+  });
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
   map.addControl(new maplibregl.AttributionControl({ compact: false }), 'bottom-left');
   if (options.fullscreen) {
