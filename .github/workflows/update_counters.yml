@@ -2,7 +2,7 @@ name: Update Counters
 
 on:
   schedule:
-    - cron: '50 6 2 * *' # This triggers at 7:55 AM (Paris time) on the 2nd day of each month
+    - cron: '12 7 2 * *' # This triggers at 7:55 AM (Paris time) on the 2nd day of each month
 
 jobs:
   update_counters:
@@ -23,20 +23,12 @@ jobs:
       - name: Run Update Counters Script
         run: node .github/scripts/update-counters.js
 
-      - name: Create New Branch
-        run: |
-          git config --global user.name 'benoitdemaegdt'
-          git config --global user.email 'benoit.demaegdt@gmail.com'
-          git checkout -b update-counters-${{ github.run_id }}
-          git add -A
-          git commit -m "Update counters"
-          git push origin update-counters-${{ github.run_id }}
-
-#      - name: Create Pull Request
-#        uses: peter-evans/create-pull-request@v3
-#        with:
-#          token: ${{ secrets.GITHUB_TOKEN }}
-#          branch: update-counters-${{ github.run_id }}
-#          base: main
-#          title: "Update Counters"
-#          body: "Automated update of counters."
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: [Automatique] Mise à jour des compteurs
+          title: Compteurs - Mise à jour automatique
+          body: Mise à jour automatique des compteurs via une github action.
+          base: main
+          branch: update-counters-${{ github.run_id }}
+          delete-branch: true
