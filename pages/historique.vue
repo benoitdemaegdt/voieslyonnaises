@@ -44,7 +44,7 @@
           <div class="absolute bottom-0 left-0 w-px bg-slate-200 -top-3 md:top-2.5" />
           <div class="absolute -left-1 -top-[1.0625rem] h-[0.5625rem] w-[0.5625rem] rounded-full border-2 border-slate-300 bg-white md:top-[0.4375rem]" />
           <div class="max-w-none prose-h3:mb-4 prose prose-lg text-gray-500">
-            <h3>Début des concertations sur les Voies Lyonnaises 4&7 à Lyon 6 et sur la Voie Lyonnaise 8 entre Perrache et Mermoz-Pinel</h3>
+            <h3>Début des concertations sur les Voies Lyonnaises 4/7 à Lyon 6 et sur la Voie Lyonnaise 8 entre Perrache et Mermoz-Pinel</h3>
             <p>Ces concertations contenaient plusieurs annonces :<br>
             <ul>
               <li>Sur la Voie Lyonnaise 4 : l'absence de modification de l'existant entre le pont Clémenceau et le pont De Lattre, ainsi que le report de l'aménagement de l'avenue Duquesne</li>
