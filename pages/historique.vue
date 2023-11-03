@@ -13,6 +13,28 @@
     <div class="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 mb-8">
       <section class="md:flex">
         <h2 class="pl-7 prose prose-lg text-gray-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
+          3 novembre 2023
+        </h2>
+        <div class="relative pl-7 pt-2 md:w-3/4 md:pl-12 md:pt-0 pb-16">
+          <div class="absolute bottom-0 left-0 w-px bg-slate-200 -top-3 md:top-2.5" />
+          <div class="absolute -left-1 -top-[1.0625rem] h-[0.5625rem] w-[0.5625rem] rounded-full border-2 border-slate-300 bg-white md:top-[0.4375rem]" />
+          <div class="max-w-none prose-h3:mb-4 prose prose-lg text-gray-500">
+            <h3>Voie Lyonnaise 2 : Elargissement des couloirs bus sur le boulevard des Belges entre la rue Waldeck Rousseau et le rue Fournet</h3>
+            <p>Comme annoncé lors de la concertation du tronçon central de la Voie Lyonnaise 2, la Métropole a procédé a l'élargissement des couloirs bus sur le boulevard des Belges en réduisant la circulation automobile sur une seule voie. Les travaux de marquage se sont terminés début novembre.</p>
+            <p>
+              <a href="https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf" target="_blank">Voir le dossier de concertation (p19)</a>
+            </p>            
+            
+            <NuxtLink to="/voie-lyonnaise-2">
+              Voir le détail de la Voie Lyonnaise 2
+            </NuxtLink>
+            </p>
+          </div>
+        </div>
+      </section>
+      
+      <section class="md:flex">
+        <h2 class="pl-7 prose prose-lg text-gray-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
           16 octobre 2023
         </h2>
         <div class="relative pl-7 pt-2 md:w-3/4 md:pl-12 md:pt-0 pb-16">
