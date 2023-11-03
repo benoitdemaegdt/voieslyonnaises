@@ -45,13 +45,13 @@
           <div class="absolute -left-1 -top-[1.0625rem] h-[0.5625rem] w-[0.5625rem] rounded-full border-2 border-slate-300 bg-white md:top-[0.4375rem]" />
           <div class="max-w-none prose-h3:mb-4 prose prose-lg text-gray-500">
             <h3>Début des concertations sur les Voies Lyonnaises 4/7 à Lyon 6 et sur la Voie Lyonnaise 8 entre Perrache et Mermoz-Pinel</h3>
-            <p>Ces concertations contenaient plusieurs annonces :<br>
+            <p>Ces concertations contenaient plusieurs annonces :</p>
             <ul>
               <li>Sur la Voie Lyonnaise 4 : l'absence de modification de l'existant entre le pont Clémenceau et le pont De Lattre, ainsi que le report de l'aménagement de l'avenue Duquesne</li>
               <li>Sur la Voie Lyonnaise 7 : l'absence de modification de l'existant sur le pont Churchill et l'avenue Garibaldi au sud de la rue Vauban, ainsi que le report de l'aménagement du boulevard des Belges à l'Ouest de Garibaldi</li>
               <li>Sur la Voie Lyonnaise 8 : le report de l'aménagement de la traversée de Perrache entrainant la déviation de la ligne en tronçon commun avec la VL12 pour traverser la Presqu'île, ainsi que le report de l'aménagement de la rue Marius Berliet et de l'avenue Mermoz le long de T6</li>
             </ul>
-            </p>
+            
             <NuxtLink to="/voie-lyonnaise-4">
               Voir le détail de la Voie Lyonnaise 4<br>
             </NuxtLink>
