@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NewsBanner v-if="!isNewsBannerClosed" />
+    <NewsBanner v-if="!isNewsBannerClosed" @close="closeNewsBanner" />
     <AppHeader class="sticky top-0" />
     <slot />
     <AppFooter />
@@ -8,5 +8,14 @@
 </template>
 
 <script setup>
-const isNewsBannerClosed = localStorage.getItem('isNewsBannerClosed') === 'true';
+const isNewsBannerClosed = ref(false);
+
+onMounted(() => {
+  isNewsBannerClosed.value = localStorage.getItem('isNewsBannerClosed') === 'true';
+});
+
+function closeNewsBanner() {
+  isNewsBannerClosed.value = true;
+  localStorage.setItem('isNewsBannerClosed', 'true');
+}
 </script>

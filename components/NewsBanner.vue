@@ -18,7 +18,7 @@
       </NuxtLink>
     </div>
     <div class="flex flex-1 justify-end">
-      <button type="button" class="-m-3 p-3 focus-visible:outline-offset-[-4px]" @click="closeNewsBanner">
+      <button type="button" class="-m-3 p-3 focus-visible:outline-offset-[-4px]" @click="close">
         <span class="sr-only">Dismiss</span>
         <Icon name="mdi:close" class="h-5 w-5" aria-hidden="true" />
       </button>
@@ -27,7 +27,8 @@
 </template>
 
 <script setup>
-function closeNewsBanner() {
-  localStorage.setItem('isNewsBannerClosed', 'true');
+const emit = defineEmits(['close']);
+function close() {
+  emit('close');
 }
 </script>
