@@ -156,8 +156,8 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
  - plus de **10 000 000 € HT** au total dont :
    - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne  
 *source: [page 33 de ce dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)*
-   - **2 000 000 € HT** pour la section à Chassieu  
-_source: [page 20 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}_
+   - **1 200 000 € HT** pour la section à Chassieu  
+_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HU5IVKPM26FR%2BQ5NXRjB9F2%2Bc3TocC2uS){:target="_blank"}_
 
 ## Calendrier prévisionnel
 
