@@ -247,8 +247,8 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
 
 ## Budget prévisionnel
  - **25 600 000 € HT** au total dont :
-   - **3 200 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
-     <br>_source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
+   - **3 700 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
+     <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS)_
    - **7 150 000 € HT** pour le tronçon situé entre Le Pont de l'Université et l’intersection de l’avenue Jean Mermoz avec le boulevard Pinel.
      <br>_source: [page 49 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)_
    - **1 450 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
