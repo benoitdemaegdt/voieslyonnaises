@@ -19,11 +19,9 @@
           <div class="absolute bottom-0 left-0 w-px bg-slate-200 -top-3 md:top-2.5" />
           <div class="absolute -left-1 -top-[1.0625rem] h-[0.5625rem] w-[0.5625rem] rounded-full border-2 border-slate-300 bg-white md:top-[0.4375rem]" />
           <div class="max-w-none prose-h3:mb-4 prose prose-lg text-gray-500">
-            <h3>Voie Lyonnaise 2 : Elargissement des couloirs bus sur le boulevard des Belges entre la rue Waldeck Rousseau et le rue Fournet</h3>
-            <p>Comme annoncé lors de la concertation du tronçon central de la Voie Lyonnaise 2, la Métropole a procédé a l'élargissement des couloirs bus sur le boulevard des Belges en réduisant la circulation automobile sur une seule voie. Les travaux de marquage se sont terminés début novembre.</p>
-            <p>
-              <a href="https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf" target="_blank">Voir le dossier de concertation (p19)</a>
-            </p>            
+            <h3>Elargissement des couloirs bus sur le boulevard des Belges entre la rue Waldeck Rousseau et le rue Fournet</h3>
+            <p>Comme annoncé lors de la concertation du tronçon central de la <b>Voie Lyonnaise 2</b>, la Métropole a procédé a l'élargissement des couloirs bus sur le boulevard des Belges en réduisant la circulation automobile sur une seule voie. Les travaux de marquage ont été réalisés pendant les vacances scolaires de la Toussaint.</p>
+              <a href="https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf" target="_blank">Voir le dossier de concertation (p19)<br></a>
             
             <NuxtLink to="/voie-lyonnaise-2">
               Voir le détail de la Voie Lyonnaise 2
@@ -41,7 +39,7 @@
           <div class="absolute -left-1 -top-[1.0625rem] h-[0.5625rem] w-[0.5625rem] rounded-full border-2 border-slate-300 bg-white md:top-[0.4375rem]" />
           <div class="max-w-none prose-h3:mb-4 prose prose-lg text-gray-500">
             <h3>Choix de la variante sur la Voie Lyonnaise 8 à Tassin</h3>
-            <p>Dans la concertation de mars-avril 2023 sur le tronçon Tassin - Lyon 5 de la Voie Lyonnaise 8, la Métropole proposait 2 variantes pour relier l'Avenue de la République et l'Avenue Victor Hugo</p>
+            <p>Dans la concertation de mars-avril 2023 sur le tronçon Tassin - Lyon 5 de la Voie Lyonnaise 8, la Métropole proposait 2 variantes pour relier l'Avenue de la République et l'Avenue Victor Hugo.</p>
             <p>
               <a href="https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf" target="_blank">Voir le dossier de concertation (p18)</a>
             </p>            
