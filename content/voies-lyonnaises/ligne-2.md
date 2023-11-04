@@ -47,13 +47,13 @@ credit: Métropole de Lyon
 #### Rue Waldeck-Rousseau<br/>*entre avenue Verguin et blvd des Belges*
 Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
 
-*Les travaux sur cette section devraient débuter fin 2023 et se terminer au printemps 2024.*
+*Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'à début 2024.*
 
 #### Boulevard des Belges<br/>*entre la rue Waldeck-Rousseau et le cours Lafayette*
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
-*La modification du marquage au sol a été réalisé pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu d'ici la fin des travaux du tronçon précédent.*
+*La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu d'ici la fin des travaux du tronçon précédent.*
 
 #### Tunnel Vivier-Merle
 La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la gare de la Part-Dieu qui a ouvert en 2020. Une des deux voies de circulation actuelle, côté Ouest, sera transformée en piste cyclable bidirectionnelle de 2.50 à 3.00m de large.  
