@@ -28,7 +28,6 @@
             <NuxtLink to="/voie-lyonnaise-2">
               Voir le détail de la Voie Lyonnaise 2
             </NuxtLink>
-            </p>
           </div>
         </div>
       </section>
