@@ -12,8 +12,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 ## Les tronçons (d'Ouest en Est)
 ### Traversée d'Oullins
 Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est.   
-Cette section est en tronçon commun avec la Voie Lyonnaise 5.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-5) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=5}.
 
 ### Franchissement du Rhône
 La Voie Lyonnaise 9 passera des berges de l'Yzeron au parc de Gerland via une nouvelle passerelle mode actifs qui traversera la M7 et le Rhône. Elle fera 7m de large, avec une piste cyclable bidirectionnelle de 4m de large pour les cyclistes et un cheminement de 3m pour les piétons. Plusieurs scénarios de raccordement aux berges ont été proposés à la concertation, avec des rampes de 4 à 6% de pente.
@@ -36,11 +35,11 @@ Historiquement, deux pistes cyclables bilatérales avaient été peintes sur tro
 
 ### Jean Macé à Villeurbanne - St-Jean
 L'itinéraire est en tronçon commun avec d'autres Voies Lyonnaises :
- - [Voie Lyonnaise 8](https://cyclopolis.fr/voie-lyonnaise-8) sur rue Marc Bloch
- - [Voie Lyonnaise 7](https://cyclopolis.fr/voie-lyonnaise-7) sur rue Garibaldi de route de Vienne à rue Duquesne
- - [Voie Lyonnaise 4](https://cyclopolis.fr/voie-lyonnaise-4) sur rue Duquesne Est, boulevard des Belges et avenue Verguin
- - [Voie Lyonnaise 2](https://cyclopolis.fr/voie-lyonnaise-2) sur boulevard Stalingrad de Verguin à 11 Novembre
- - [Voie Lyonnaise 1](https://cyclopolis.fr/voie-lyonnaise-1) sur boulevard du 11 Novembre 1918, avenue Einstein et franchissement du canal de Jonage
+ - :line-link{line=8} sur rue Marc Bloch
+ - :line-link{line=7} sur rue Garibaldi de route de Vienne à rue Duquesne
+ - :line-link{line=4} sur rue Duquesne Est, boulevard des Belges et avenue Verguin
+ - :line-link{line=2} sur boulevard Stalingrad de Verguin à 11 Novembre
+ - :line-link{line=1} sur boulevard du 11 Novembre 1918, avenue Einstein et franchissement du canal de Jonage
 
 Se référer à la page de chaque ligne pour davantage d'informations.
 

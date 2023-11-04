@@ -59,9 +59,7 @@ credit: Passagers des Villes / Métropole de Lyon.
 ::
 
 ### Stalingrad Nord
-Cette section est en tronçon commun avec la Voie Lyonnaise 2.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2){:target="_blank"} pour davantage d'informations.
-
+Cette section est en tronçon commun avec la :line-link{line=2}.
 
 ### Cité Internationale à Halle Tony Garnier<br>*via Quais du Rhône rive gauche*
 #### Allée Achille Lignon

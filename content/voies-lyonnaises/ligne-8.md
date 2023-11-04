@@ -112,17 +112,15 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf){:target="_blank"}
 
 ### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
-Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=12}.
 
 ### Traversée de la Presqu'Île de Lyon
 Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
 
-Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
+Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la :line-link{line=12}, via le pont Bonaparte et la place Bellecour.  
 
 ### Pont Université à Mermoz-Pinel
-Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la ligne 6 jusqu'au pont de l'Université. Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-6) pour davantage d'informations.
+Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la :line-link{line=6} jusqu'au pont de l'Université.
 
 #### Pont de l'Université
 La Voie Lyonnaise 8 va totalement réaménager le pont qui sera débarrassé de ses vieilles bandes cyclables bilatérales sur trottoir. Les 4 voies de circulation actuelles seront réduites à 2, un couloir de bus à contre-sens sera créé et une large piste cyclable bidirectionnelle prendra place côté Sud.
