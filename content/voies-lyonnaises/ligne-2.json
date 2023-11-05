@@ -324,8 +324,9 @@
         "id": "BelgesSud-commun",
         "line": 2,
         "color": "#AC4D35",
-        "name": "Belges Sud",
-        "status": "planned"
+        "name": "Belges de Waldeck-Rousseau à Fournet",
+        "status": "done",
+        "doneAt": "31/10/2023"
       },
       "geometry": {
         "type": "LineString",
@@ -336,7 +337,23 @@
           [4.859198004856708, 45.76638150573918],
           [4.85923869646907, 45.76590619994349],
           [4.859211458247469, 45.76580346394656],
-          [4.858830214147742, 45.76511979218779],
+          [4.858924921845796, 45.76529997791977]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BelgesSudSud-commun",
+        "line": 2,
+        "color": "#AC4D35",
+        "name": "Belges de Fournet à Lafayette",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [          
+          [4.858924921845796, 45.76529997791977],
           [4.858373750754061, 45.76424639246519],
           [4.858235497511661, 45.76399353781251],
           [4.858179861280421, 45.76386933701856],
