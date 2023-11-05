@@ -8,10 +8,10 @@
     </div>
     <div class="flex flex-wrap items-center gap-x-4 gap-y-2">
       <div class="text-sm leading-6 text-gray-900">
-        <strong class="font-semibold">16 oct. 2023</strong><svg viewBox="0 0 2 2" class="mx-2 inline h-0.5 w-0.5 fill-current" aria-hidden="true"><circle cx="1" cy="1" r="1" /></svg>
+        <strong class="font-semibold">3 nov. 2023</strong><svg viewBox="0 0 2 2" class="mx-2 inline h-0.5 w-0.5 fill-current" aria-hidden="true"><circle cx="1" cy="1" r="1" /></svg>
       </div>
       <div>
-        Mise à jour de la voie lyonnaise 8 à Tassin !
+        Un tronçon de la Voie Lyonnaise 2 terminé !
       </div>
       <NuxtLink to="/historique" class="flex-none text-lvv-blue-600 py-1 text-sm font-semibold hover:underline">
         Lire l'annonce <span aria-hidden="true">&rarr;</span>

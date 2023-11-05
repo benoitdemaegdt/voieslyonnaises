@@ -21,15 +21,14 @@
           <div class="max-w-none prose-h3:mb-4 prose prose-lg text-gray-500">
             <h3>Elargissement des couloirs bus sur le boulevard des Belges entre la rue Waldeck Rousseau et le rue Fournet</h3>
             <p>Comme annoncé lors de la concertation du tronçon central de la <b>Voie Lyonnaise 2</b>, la Métropole a procédé a l'élargissement des couloirs bus sur le boulevard des Belges en réduisant la circulation automobile sur une seule voie. Les travaux de marquage ont été réalisés pendant les vacances scolaires de la Toussaint.</p>
-              <a href="https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf" target="_blank">Voir le dossier de concertation (p19)<br></a>
-            
+            <a href="https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf" target="_blank">Voir le dossier de concertation (p19)<br></a>
             <NuxtLink to="/voie-lyonnaise-2">
               Voir le détail de la Voie Lyonnaise 2
             </NuxtLink>
           </div>
         </div>
       </section>
-      
+
       <section class="md:flex">
         <h2 class="pl-7 prose prose-lg text-gray-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
           16 octobre 2023
@@ -42,14 +41,14 @@
             <p>Dans la concertation de mars-avril 2023 sur le tronçon Tassin - Lyon 5 de la Voie Lyonnaise 8, la Métropole proposait 2 variantes pour relier l'Avenue de la République et l'Avenue Victor Hugo.</p>
             <p>
               <a href="https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf" target="_blank">Voir le dossier de concertation (p18)</a>
-            </p>            
+            </p>
             <p>Lors de la commission permanente du 16 octobre 2023, la Métropole a finalement validé la variante par l'avenue Vincent Serre.</p>
             <p>
               <a href="https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS" target="_blank">Voir la délibération de la commission permanente du 16 octobre 2023<br></a>
-            
-            <NuxtLink to="/voie-lyonnaise-8">
-              Voir le détail de la Voie Lyonnaise 8
-            </NuxtLink>
+
+              <NuxtLink to="/voie-lyonnaise-8">
+                Voir le détail de la Voie Lyonnaise 8
+              </NuxtLink>
             </p>
           </div>
         </div>
@@ -70,7 +69,7 @@
               <li>Sur la Voie Lyonnaise 7 : l'absence de modification de l'existant sur le pont Churchill et l'avenue Garibaldi au sud de la rue Vauban, ainsi que le report de l'aménagement du boulevard des Belges à l'Ouest de Garibaldi</li>
               <li>Sur la Voie Lyonnaise 8 : le report de l'aménagement de la traversée de Perrache entrainant la déviation de la ligne en tronçon commun avec la VL12 pour traverser la Presqu'île, ainsi que le report de l'aménagement de la rue Marius Berliet et de l'avenue Mermoz le long de T6</li>
             </ul>
-            
+
             <NuxtLink to="/voie-lyonnaise-4">
               Voir le détail de la Voie Lyonnaise 4<br>
             </NuxtLink>
@@ -83,7 +82,7 @@
           </div>
         </div>
       </section>
-      
+
       <section class="md:flex">
         <h2 class="pl-7 prose prose-lg text-gray-500 md:w-1/4 md:pl-0 md:pr-12 md:text-right">
           2 octobre 2023
