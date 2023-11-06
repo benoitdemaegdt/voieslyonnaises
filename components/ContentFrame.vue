@@ -116,5 +116,5 @@ defineProps({
   title: { type: String, required: false, default: undefined },
   description: { type: String, required: true },
   imageUrl: { type: String, required: true }
-})
+});
 </script>
