@@ -313,7 +313,8 @@
         "line": 10,
         "color": "#9A8A4B",
         "name": "Belges de Waldeck-Rousseau à Fournet",
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/10/2023"
       },
       "geometry": {
         "type": "LineString",
@@ -339,7 +340,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.858924921845796, 45.76529997791977],
           [4.858373750754061, 45.76424639246519],
           [4.858235497511661, 45.76399353781251],
