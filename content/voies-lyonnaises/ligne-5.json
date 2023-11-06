@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Liaison VL7",
         "status": "unknown"
       },
@@ -21,7 +20,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Saint-Fons",
         "status": "planned"
       },
@@ -103,7 +101,6 @@
       "properties": {
         "id": "CheminBarrage-commun",
         "line": 3,
-        "color": "#AF7392",
         "name": "Chemin du Barrage",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -130,7 +127,6 @@
       "properties": {
         "id": "PierreBenite-commun",
         "line": 3,
-        "color": "#AF7392",
         "name": "Pierre Bénite",
         "status": "planned"
       },
@@ -160,7 +156,6 @@
       "properties": {
         "id": "OullinsJaurès-commun",
         "line": 3,
-        "color": "#AF7392",
         "name": "Oullins - Avenue Jaurès",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -179,7 +174,6 @@
       "properties": {
         "id": "OullinsSaulaie-commun",
         "line": 3,
-        "color": "#AF7392",
         "name": "Oullins - La Saulaie",
         "status": "planned"
       },
@@ -210,7 +204,6 @@
       "properties": {
         "id": "OullinsEst-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
         "status": "variante",
         "text": "variante A"
@@ -261,7 +254,6 @@
       "properties": {
         "id": "GareOullins-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
         "status": "variante",
         "text": "variante A"
@@ -282,7 +274,6 @@
       "properties": {
         "id": "variante2",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Yzeron - scénario B",
         "status": "variante",
         "text": "variante B"
@@ -320,7 +311,6 @@
       "properties": {
         "id": "OullinsOuest-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Ouest",
         "status": "planned"
       },
@@ -395,7 +385,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Beaunant",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -415,7 +404,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Alaï - Francheville",
         "status": "postponed"
       },
@@ -462,7 +450,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Traversée de Tassin",
         "status": "postponed"
       },
@@ -478,7 +465,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Place de l'Horloge",
         "status": "wip"
       },
@@ -494,7 +480,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
         "status": "done",
         "doneAt": "31/12/2021"
@@ -512,7 +497,6 @@
       "properties": {
         "id": "VictorHugoCentre-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
         "status": "done",
         "doneAt": "31/12/2021"
@@ -530,7 +514,6 @@
       "properties": {
         "id": "VictorHugoLeRoy-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
         "status": "done",
         "doneAt": "31/12/2021"
@@ -548,7 +531,6 @@
       "properties": {
         "id": "VictorHugoNord-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Vaise - Tassin",
         "status": "planned"
       },
@@ -575,7 +557,6 @@
       "properties": {
         "id": "ValmyOuest-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Valmy Ouest",
         "status": "unknown"
       },
@@ -593,7 +574,6 @@
       "properties": {
         "id": "ValmyEst-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Valmy Est",
         "status": "unknown"
       },
@@ -610,7 +590,6 @@
       "properties": {
         "id": "PontClemenceau-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Pont Georges Clemenceau",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -629,7 +608,6 @@
       "properties": {
         "id": "Tunnel-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tunnel de la Croix-Rousse",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -654,7 +632,6 @@
       "properties": {
         "id": "Tunnel-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny",
         "status": "planned"
       },
@@ -671,7 +648,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny - VL1",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -696,7 +672,6 @@
       "properties": {
         "id": "GdeBretagne-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Avenue de Grande-Bretagne",
         "status": "done",
         "doneAt": "28/03/2023"
@@ -719,7 +694,6 @@
       "properties": {
         "id": "TetedOr157-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tête d'Or",
         "status": "planned"
       },
@@ -736,7 +710,6 @@
       "properties": {
         "id": "Lignon-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Allée Achille Lignon",
         "status": "planned"
       },
@@ -763,7 +736,6 @@
       "properties": {
         "id": "Bonnevay127-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Transbordeur",
         "status": "planned"
       },
@@ -779,7 +751,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Boulevard Laurent Bonnevay",
         "status": "planned"
       },
@@ -804,7 +775,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Campus Doua",
         "status": "done",
         "doneAt": "31/08/2021"
@@ -836,7 +806,6 @@
       "properties": {
         "id": "CanalSport-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Doua Est",
         "status": "planned"
       },
@@ -864,7 +833,6 @@
       "properties": {
         "id": "PeriCanal-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Vaulx-en-Velin",
         "status": "planned"
       },
@@ -908,7 +876,6 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Vaulx-en-Velin - Bron",
         "status": "planned"
       },

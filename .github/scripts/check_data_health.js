@@ -39,7 +39,7 @@ function checkGeoJsonDataHealth() {
               allLineStrings.push(feature);
               // 2 - check if all properties are present
               const properties = feature.properties || {};
-              const requiredKeys = ['line', 'color', 'name', 'status'];
+              const requiredKeys = ['line', 'name', 'status'];
               for (const key of requiredKeys) {
                 if (!properties.hasOwnProperty(key)) {
                   console.error(`Missing key '${key}' in LineString properties of file: ${filePath}`);

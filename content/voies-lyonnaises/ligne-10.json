@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png"
       },
       "geometry": {
@@ -18,7 +17,6 @@
       "properties": {
         "id": "Valvert-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Boulevard du Valvert",
         "status": "planned"
       },
@@ -92,7 +90,6 @@
       "properties": {
         "id": "VictorHugoLeRoy-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Tassin - Victor Hugo",
         "status": "done",
         "doneAt": "31/12/2021"
@@ -110,7 +107,6 @@
       "properties": {
         "id": "VictorHugoNord-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Vaise - Tassin",
         "status": "planned"
       },
@@ -137,7 +133,6 @@
       "properties": {
         "id": "ValmyOuest-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Valmy Ouest",
         "status": "unknown"
       },
@@ -155,7 +150,6 @@
       "properties": {
         "id": "ValmyEst-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Valmy Est",
         "status": "unknown"
       },
@@ -172,7 +166,6 @@
       "properties": {
         "id": "PontClemenceau-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Pont Georges Clemenceau",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -191,7 +184,6 @@
       "properties": {
         "id": "Tunnel-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Tunnel de la Croix-Rousse",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -216,7 +208,6 @@
       "properties": {
         "id": "PontdeLattre-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Pont de Lattre de Tassigny",
         "status": "planned"
       },
@@ -234,7 +225,6 @@
       "properties": {
         "id": "Duquesne-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue Duquesne",
         "status": "postponed"
       },
@@ -252,7 +242,6 @@
       "properties": {
         "id": "DuquesneEst-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed"
       },
@@ -269,7 +258,6 @@
       "properties": {
         "id": "BelgesNord-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Belges - Duquesne Verguin",
         "status": "planned"
       },
@@ -285,7 +273,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Belges Centre",
         "status": "planned"
       },
@@ -311,7 +298,6 @@
       "properties": {
         "id": "BelgesSud-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Belges de Waldeck-Rousseau à Fournet",
         "status": "done",
         "doneAt": "31/10/2023"
@@ -334,7 +320,6 @@
       "properties": {
         "id": "BelgesSudSud-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Belges de Fournet à Lafayette",
         "status": "planned"
       },
@@ -353,7 +338,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Part-Dieu Nord en surface",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -375,7 +359,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Part-Dieu Sud en surface",
         "status": "planned"
       },
@@ -404,7 +387,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue de la Villette",
         "status": "planned"
       },
@@ -422,7 +404,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue Lacassagne",
         "status": "planned"
       },
@@ -445,7 +426,6 @@
       "properties": {
         "id": "DauphineVerne-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Dauphiné - Jules Verne",
         "status": "planned"
       },
@@ -473,7 +453,6 @@
       "properties": {
         "id": "VerneBalzac-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Jules Verne - Reconnaissance Balzac",
         "status": "planned"
       },
@@ -500,7 +479,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Reconnaissance Balzac - variante 1",
         "status": "variante",
         "text": "variante 1"
@@ -524,7 +502,6 @@
       "properties": {
         "id": "Balzac-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Reconnaissance Balzac - variante 2",
         "status": "variante",
         "text": "variante 2"
@@ -543,7 +520,6 @@
       "properties": {
         "id": "variante2",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Reconnaissance Balzac - variante 2",
         "status": "variante",
         "text": "variante 2"
@@ -560,7 +536,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue George Sand",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -593,7 +568,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Carrefour T6/T3",
         "status": "planned"
       },
@@ -609,7 +583,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Promenade de la Gare",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -634,7 +607,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue de la Ligne de l'Est",
         "status": "planned"
       },
@@ -674,7 +646,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Jean Bertin",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -695,7 +666,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Vaulx - La Soie",
         "status": "planned"
       },
@@ -714,7 +684,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue des Canuts",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -733,7 +702,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Marius Grosso & carrefour T9",
         "status": "planned"
       },
@@ -750,7 +718,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "BUE - Roosevelt",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -767,7 +734,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "PUP D-Side",
         "status": "planned"
       },
@@ -784,7 +750,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "D-Side - Wilson",
         "status": "planned"
       },
@@ -800,7 +765,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Wilson - Berlioz",
         "status": "planned"
       },
@@ -821,7 +785,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Berlioz - Michelet",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -840,7 +803,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Michelet - Paul Bert",
         "status": "planned"
       },
@@ -858,7 +820,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Paul Bert - Jaurès",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -878,7 +839,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Carrefour Jean Jaurès",
         "status": "planned"
       },
@@ -894,7 +854,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Emile Bertrand",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -912,7 +871,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Arrêt Décines Centre",
         "status": "planned"
       },
@@ -931,7 +889,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Décines - Centre à Grand Large",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -991,7 +948,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Grand Large - Route de Jonage",
         "status": "planned"
       },
@@ -1022,7 +978,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Route de Jonage - Avenue du Carreau",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -1052,7 +1007,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue du Carreau - Meyzieu Gare",
         "status": "planned"
       },
@@ -1076,7 +1030,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Gare de Meyzieu",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -1094,7 +1047,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue Libération - Rue Arago",
         "status": "planned"
       },
@@ -1121,7 +1073,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Arago Est",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -1138,7 +1089,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Projet Arrêt T3 - Lycée Beltrame",
         "status": "planned"
       },
@@ -1157,7 +1107,6 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Meyzieu ZI",
         "status": "done",
         "doneAt": "31/12/2019"
