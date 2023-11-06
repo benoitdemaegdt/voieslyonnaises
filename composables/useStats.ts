@@ -2,8 +2,7 @@ type Feature = {
   type: string;
   properties: {
     id?: string;
-    line: string;
-    color: string;
+    line: number;
     name: string;
     status: string;
   };

@@ -6,8 +6,7 @@ type Feature = {
   type: string;
   properties: {
     id?: string;
-    line: string;
-    color: string;
+    line: number;
     name: string;
     status: Status;
   };
@@ -18,8 +17,7 @@ type Feature = {
 };
 
 type PoiProperties = {
-  line: string;
-  color: string;
+  line: number;
   imgUrl: string;
 };
 
@@ -37,9 +35,12 @@ function getStatusText(status: Status): string {
 }
 
 export const useTooltip = () => {
+  const { getLineColor } = useColors();
+
   function getTooltipHtml(feature: Feature) {
+    const color = getLineColor(feature.properties.line);
     return `
-      <div class="h-10 flex items-center" style="background-color: ${feature.properties.color}">
+      <div class="h-10 flex items-center" style="background-color: ${color}">
         <div class="p-2">
           <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${feature.properties.line}'>
             Voie Lyonnaise ${feature.properties.line}
@@ -64,8 +65,9 @@ export const useTooltip = () => {
   }
 
   function getTooltipPoi(properties: PoiProperties) {
+    const color = getLineColor(properties.line);
     return `
-      <div class="h-10 flex items-center" style="background-color: ${properties.color}">
+      <div class="h-10 flex items-center" style="background-color: ${color}">
         <div class="p-2">
           <a class='text-white font-bold text-lg hover:underline' href='/voie-lyonnaise-${properties.line}'>
             Voie Lyonnaise ${properties.line}

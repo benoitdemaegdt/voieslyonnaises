@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg"
       },
       "geometry": {
@@ -17,7 +16,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Point-du-jour",
         "status": "planned"
       },
@@ -55,7 +53,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Liaison Point-du-jour - Lyon 5",
         "status": "unknown"
       },
@@ -72,7 +69,6 @@
       "properties": {
         "id": "StJust-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Saint-Just & Saint-Jean",
         "status": "planned"
       },
@@ -160,7 +156,6 @@
       "properties": {
         "id": "Presquile-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "planned"
       },
@@ -180,7 +175,6 @@
       "properties": {
         "id": "Perrache-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Traversée Presqu'île (par Perrache)",
         "status": "postponed"
       },
@@ -228,7 +222,6 @@
       "properties": {
         "id": "GuillotièreWilson-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Pont Wilson - Pont Guillotière",
         "status": "planned"
       },
@@ -246,7 +239,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Pont Wilson",
         "status": "done",
         "doneAt": "28/02/2022"
@@ -267,7 +259,6 @@
       "properties": {
         "id": "QuaiAugagneur-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Rue de Bonnel - Pont Wilson",
         "status": "planned"
       },
@@ -283,7 +274,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Rue de Bonnel",
         "status": "planned"
       },
@@ -309,7 +299,6 @@
       "properties": {
         "id": "GaribaldiPartDieu-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Garibaldi - Part Dieu",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -328,7 +317,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Rue Paul Bert",
         "status": "planned"
       },
@@ -350,7 +338,6 @@
       "properties": {
         "id": "VivierMerle-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Vivier Merle Nord",
         "status": "planned"
       },
@@ -366,7 +353,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Vivier Merle - Dauphiné",
         "status": "planned"
       },
@@ -397,7 +383,6 @@
       "properties": {
         "id": "DauphineVerne-commun",
         "line": 10,
-        "color": "#4DADC9",
         "name": "Dauphiné - Jules Verne",
         "status": "planned"
       },
@@ -425,7 +410,6 @@
       "properties": {
         "id": "VerneBalzac-commun",
         "line": 10,
-        "color": "#4DADC9",
         "name": "Jules Verne - Reconnaissance Balzac",
         "status": "planned"
       },
@@ -453,7 +437,6 @@
       "properties": {
         "id": "Balzac-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Reconnaissance Balzac - variante 2",
         "status": "variante",
         "text": "variante 2"
@@ -471,7 +454,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Reconnaissane Balzac - Porte de Montchat",
         "status": "planned"
       },
@@ -508,7 +490,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Porte de Montchat - Sept Chemins",
         "status": "planned"
       },
@@ -562,7 +543,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Chassieu",
         "status": "planned"
       },
@@ -616,7 +596,6 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Avenue du Dauphiné",
         "status": "postponed"
       },

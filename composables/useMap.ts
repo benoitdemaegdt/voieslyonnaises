@@ -1,12 +1,10 @@
 import maplibregl from 'maplibre-gl';
 
-type Properties = {
+type Feature = {
   type: 'Feature';
   properties: {
     line: number;
-    color: string;
     name: string;
-    distance: number;
     status: string;
     doneAt?: string;
   };
@@ -44,7 +42,7 @@ function getCrossIconUrl(color: string): string {
   return canvas.toDataURL();
 }
 
-function groupFeaturesByColor(features: Properties[]) {
+function groupFeaturesByColor(features: Feature[]) {
   const featuresByColor = {};
   for (const feature of features) {
     const color = feature.properties.color;
@@ -59,14 +57,23 @@ function groupFeaturesByColor(features: Properties[]) {
 }
 
 export const useMap = () => {
-  function plotDoneSections({ map, features }) {
+  const { getLineColor } = useColors();
+
+  function plotDoneSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'done')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (sections.length === 0) {
       return;
     }
@@ -88,14 +95,21 @@ export const useMap = () => {
     map.on('mouseleave', 'done-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotWipSections({ map, features }) {
+  function plotWipSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'wip')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (sections.length === 0) {
       return;
     }
@@ -144,14 +158,21 @@ export const useMap = () => {
     map.on('mouseleave', 'wip-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotPlannedSections({ map, features }) {
+  function plotPlannedSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'planned')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
 
     if (sections.length === 0) {
       return;
@@ -175,14 +196,21 @@ export const useMap = () => {
     map.on('mouseleave', 'not-done-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotVarianteSections({ map, features }) {
+  function plotVarianteSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'variante')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (sections.length === 0) {
       return;
     }
@@ -222,14 +250,21 @@ export const useMap = () => {
     map.on('mouseleave', 'variante-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotVariantePostponedSections({ map, features }) {
+  function plotVariantePostponedSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'variante-postponed')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (sections.length === 0) {
       return;
     }
@@ -269,14 +304,21 @@ export const useMap = () => {
     map.on('mouseleave', 'variante-postponed-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotUnknownSections({ map, features }) {
+  function plotUnknownSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'unknown')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (sections.length === 0) {
       return;
     }
@@ -334,14 +376,21 @@ export const useMap = () => {
     map.on('mouseleave', 'unknown-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotPostponedSections({ map, features }) {
+  function plotPostponedSections({ map, features }: { map: any; features: Feature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'postponed')
       .sort((featureA, featureB) => {
         const lineA = featureA.properties.line;
         const lineB = featureB.properties.line;
         return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
-      });
+      })
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (sections.length === 0) {
       return;
     }
@@ -395,7 +444,15 @@ export const useMap = () => {
   }
 
   function plotPois({ map, features }) {
-    const pois = features.filter(feature => feature.geometry.type === 'Point');
+    const pois = features
+      .filter(feature => feature.geometry.type === 'Point')
+      .map(feature => ({
+        ...feature,
+        properties: {
+          color: getLineColor(feature.properties.line),
+          ...feature.properties
+        }
+      }));
     if (pois.length === 0) {
       return;
     }

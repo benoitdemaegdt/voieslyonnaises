@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg"
       },
       "geometry": {
@@ -17,7 +16,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/quai-jules-courmont.png"
       },
       "geometry": {
@@ -29,7 +27,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Berges Rhône - Rive Droite",
         "status": "planned"
       },
@@ -92,7 +89,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Presqu'île Nord",
         "status": "planned"
       },
@@ -146,7 +142,6 @@
       "properties": {
         "id": "GuillotièreWilson-commun",
         "line": 6,
-        "color": "#396083",
         "name": "Pont Wilson - Pont Guillotière",
         "status": "planned"
       },
@@ -165,7 +160,6 @@
       "properties": {
         "id": "UniversitéGuillotière-commun",
         "line": 6,
-        "color": "#396083",
         "name": "Pont Guillotière - Pont Université",
         "status": "planned"
       },
@@ -185,7 +179,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Pont de l'Université - Condé",
         "status": "planned"
       },
@@ -204,7 +197,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Condé - Pont Gallieni",
         "status": "planned"
       },
@@ -222,7 +214,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Traversée échangeur M6-M7",
         "status": "planned"
       },
@@ -246,7 +237,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Quai Perrache Nord",
         "status": "done",
         "doneAt": "31/08/2021"
@@ -267,7 +257,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Quai Perrache Sud et Pont de la Mulatière",
         "status": "planned"
       },
@@ -299,7 +288,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Pont de la Mulatière - Oullins",
         "status": "unknown"
       },
@@ -315,7 +303,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Oullins - scénario 2",
         "status": "variante",
         "text": "variante 2"
@@ -344,7 +331,6 @@
       "properties": {
         "id": "variante2",
         "line": 6,
-        "color": "#396083",
         "name": "Oullins - scénario 2",
         "status": "variante",
         "text": "variante 2"
@@ -406,7 +392,6 @@
       "properties": {
         "id": "variante2",
         "line": 6,
-        "color": "#396083",
         "name": "Oullins - variante scénario 1",
         "status": "variante",
         "text": "variante 1"
@@ -467,7 +452,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Oullins - Saint-Genis-Laval",
         "status": "planned"
       },
@@ -496,7 +480,6 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "color": "#396083",
         "name": "Traversée de St-Genis-Laval",
         "status": "postponed"
       },

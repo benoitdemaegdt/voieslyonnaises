@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg"
       },
       "geometry": {
@@ -17,7 +16,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg"
       },
       "geometry": {
@@ -29,7 +27,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png"
       },
       "geometry": {
@@ -41,7 +38,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg"
       },
       "geometry": {
@@ -54,7 +50,6 @@
       "properties": {
         "id": "PeriCanal-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Vaulx-en-Velin",
         "status": "planned"
       },
@@ -99,7 +94,6 @@
       "properties": {
         "id": "CanalSport-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Doua Est",
         "status": "planned"
       },
@@ -127,7 +121,6 @@
       "properties": {
         "id": "SportStalingrad-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Doua Ouest",
         "status": "planned"
       },
@@ -152,7 +145,6 @@
       "properties": {
         "id": "StalingradNord-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Stalingrad Nord",
         "status": "planned"
       },
@@ -182,7 +174,6 @@
       "properties": {
         "id": "Bonnevay127-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Transbordeur",
         "status": "planned"
       },
@@ -199,7 +190,6 @@
       "properties": {
         "id": "Lignon-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Allée Achille Lignon",
         "status": "planned"
       },
@@ -226,7 +216,6 @@
       "properties": {
         "id": "TetedOr157-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Tête d'Or",
         "status": "planned"
       },
@@ -243,7 +232,6 @@
       "properties": {
         "id": "GdeBretagne-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Avenue de Grande-Bretagne",
         "status": "done",
         "doneAt": "28/03/2023"
@@ -265,7 +253,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Quai de Serbie",
         "status": "done",
         "doneAt": "28/03/2023"
@@ -288,7 +275,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont Morand - Rue Cuvier",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -306,7 +292,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Rue Cuvier - Rue de Bonnel",
         "status": "planned"
       },
@@ -325,7 +310,6 @@
       "properties": {
         "id": "QuaiAugagneur-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Rue de Bonnel - Pont Wilson",
         "status": "planned"
       },
@@ -341,7 +325,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont Wilson - Pont de la Guillotière",
         "status": "planned"
       },
@@ -364,7 +347,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont de la Guillotière - Pont Gallieni",
         "status": "done",
         "doneAt": "08/07/2022"
@@ -392,7 +374,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont Gallieni - Stade de Gerland",
         "status": "planned"
       },
@@ -433,7 +414,6 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Stade de Gerland - St-Fons",
         "status": "planned"
       },

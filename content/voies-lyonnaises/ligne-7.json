@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png"
       },
       "geometry": {
@@ -17,7 +16,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/caluire-voie-verte-dombe.png"
       },
       "geometry": {
@@ -29,7 +27,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png"
       },
       "geometry": {
@@ -41,7 +38,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png"
       },
       "geometry": {
@@ -53,7 +49,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png"
       },
       "geometry": {
@@ -65,7 +60,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png"
       },
       "geometry": {
@@ -77,7 +71,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Osterode",
         "status": "planned"
       },
@@ -123,7 +116,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Parc linéaire Est",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -160,7 +152,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Parc linéaire Ouest",
         "status": "planned"
       },
@@ -207,7 +198,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Giratoire De Gaulle",
         "status": "wip"
       },
@@ -226,7 +216,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Loup Pendu",
         "status": "planned"
       },
@@ -248,7 +237,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Mercières - Loup Pendu",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -267,7 +255,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Carrefour Mercières",
         "status": "planned"
       },
@@ -283,7 +270,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Avenue du 8 Mai - Mercières",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -306,7 +292,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Carrefour Avenue du 8 Mai",
         "status": "planned"
       },
@@ -322,7 +307,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Chemin Petit - Avenue Hippodrome",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -392,7 +376,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Voie verte de la Dombes",
         "status": "postponed"
       },
@@ -425,7 +408,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Boulevard des Canuts Nord",
         "status": "planned"
       },
@@ -455,7 +437,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Boulevard des Canuts Sud",
         "status": "planned"
       },
@@ -487,7 +468,6 @@
       "properties": {
         "id": "variante2",
         "line": 7,
-        "color": "#75BCAE",
         "name": "variante Rue de Cuire",
         "status": "variante",
         "text": "variante"
@@ -521,7 +501,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "variante Bd des Canuts",
         "status": "variante",
         "text": "variante"
@@ -541,7 +520,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Place des Tapis",
         "status": "planned"
       },
@@ -562,7 +540,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Montée de la Boucle",
         "status": "planned"
       },
@@ -622,7 +599,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Carrefour Boucle - Pont Churchill",
         "status": "planned"
       },
@@ -642,7 +618,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Pont Churchill",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -660,7 +635,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Pont Churchill - Tête d'Or",
         "status": "planned"
       },
@@ -686,7 +660,6 @@
       "properties": {
         "id": "TetedOr157-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Tête d'Or",
         "status": "planned"
       },
@@ -702,7 +675,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Belges Ouest",
         "status": "postponed"
       },
@@ -727,7 +699,6 @@
       "properties": {
         "id": "GaribaldiNord-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi Nord",
         "status": "planned"
       },
@@ -746,7 +717,6 @@
       "properties": {
         "id": "GaribaldiNord-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Duquesne Vauban",
         "status": "planned"
       },
@@ -771,7 +741,6 @@
       "properties": {
         "id": "VaubanBonnel-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Vauban Bonnel",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -799,7 +768,6 @@
       "properties": {
         "id": "GaribaldiPartDieu-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Part Dieu",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -819,7 +787,6 @@
       "properties": {
         "id": "GaribaldiPBArménie-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Paul Bert Arménie",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -840,7 +807,6 @@
       "properties": {
         "id": "GaribaldiPhase3-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Arménie Gde Rue Guill",
         "status": "planned"
       },
@@ -870,7 +836,6 @@
       "properties": {
         "id": "GaribaldiBlandan-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Blandan",
         "status": "planned"
       },
@@ -892,7 +857,6 @@
       "properties": {
         "id": "GaribaldiCROUS-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - CROUS",
         "status": "planned"
       },
@@ -908,7 +872,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Sud",
         "status": "planned"
       },
@@ -927,7 +890,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rue Paul Duvivier",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -961,7 +923,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Route de Vienne",
         "status": "planned"
       },
@@ -1020,7 +981,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Saint-Fons",
         "status": "unknown"
       },
@@ -1036,7 +996,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Boulevard Yves Farge",
         "status": "planned"
       },
@@ -1097,7 +1056,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Feyzin Nord",
         "status": "planned"
       },
@@ -1122,7 +1080,6 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Feyzin Centre",
         "status": "unknown"
       },

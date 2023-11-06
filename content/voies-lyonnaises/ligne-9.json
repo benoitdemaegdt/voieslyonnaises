@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
       "geometry": {
@@ -17,7 +16,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Jonage",
         "status": "planned"
       },
@@ -54,7 +52,6 @@
       "properties": {
         "id": "variante2",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Canal de Jonage – variante Nord",
         "status": "variante",
         "text": "variante nord"
@@ -131,7 +128,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Canal de Jonage – variante Sud",
         "status": "variante",
         "text": "variante sud"
@@ -203,7 +199,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Digue EDF",
         "status": "planned"
       },
@@ -229,7 +224,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Promenade des Îles",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -306,7 +300,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Parc de Miribel",
         "status": "planned"
       },
@@ -346,7 +339,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Le long de l'A42",
         "status": "planned"
       },
@@ -425,7 +417,6 @@
       "properties": {
         "id": "CanalSport-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Doua Est",
         "status": "planned"
       },
@@ -453,7 +444,6 @@
       "properties": {
         "id": "SportStalingrad-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Doua Ouest",
         "status": "planned"
       },
@@ -478,7 +468,6 @@
       "properties": {
         "id": "StalingradSud-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Stalingrad Sud",
         "status": "wip"
       },
@@ -498,7 +487,6 @@
       "properties": {
         "id": "Verguin-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Avenue Verguin",
         "status": "planned"
       },
@@ -515,7 +503,6 @@
       "properties": {
         "id": "BelgesNord-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Belges - Duquesne Verguin",
         "status": "planned"
       },
@@ -532,7 +519,6 @@
       "properties": {
         "id": "DuquesneEst-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed"
       },
@@ -549,7 +535,6 @@
       "properties": {
         "id": "GaribaldiNord-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Duquesne Vauban",
         "status": "planned"
       },
@@ -574,7 +559,6 @@
       "properties": {
         "id": "VaubanBonnel-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Vauban Bonnel",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -602,7 +586,6 @@
       "properties": {
         "id": "GaribaldiPartDieu-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Part Dieu",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -622,7 +605,6 @@
       "properties": {
         "id": "GaribaldiPBArménie-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Paul Bert Arménie",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -643,7 +625,6 @@
       "properties": {
         "id": "GaribaldiPhase3-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Arménie Gde Rue Guill",
         "status": "planned"
       },
@@ -673,7 +654,6 @@
       "properties": {
         "id": "GaribaldiBlandan-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Blandan",
         "status": "planned"
       },
@@ -695,7 +675,6 @@
       "properties": {
         "id": "GaribaldiCROUS-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - CROUS",
         "status": "planned"
       },
@@ -712,7 +691,6 @@
       "properties": {
         "id": "MarcBloch-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Rue Marc Bloch",
         "status": "planned"
       },
@@ -737,7 +715,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Avenue Jean Jaurès",
         "status": "planned"
       },
@@ -798,7 +775,6 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Passerelle Oullins-Gerland",
         "status": "postponed"
       },
@@ -822,7 +798,6 @@
       "properties": {
         "id": "YzeronEst-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Berge Yzeron Est",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -842,7 +817,6 @@
       "properties": {
         "id": "OullinsEst-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario A",
         "status": "variante",
         "text": "variante A"
@@ -893,7 +867,6 @@
       "properties": {
         "id": "GareOullins-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario B",
         "status": "variante",
         "text": "variante B"
@@ -914,7 +887,6 @@
       "properties": {
         "id": "variante2",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario B",
         "status": "variante",
         "text": "variante B"
@@ -952,7 +924,6 @@
       "properties": {
         "id": "OullinsOuest-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Ouest",
         "status": "planned"
       },
