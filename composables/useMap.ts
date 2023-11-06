@@ -1,6 +1,6 @@
 import maplibregl from 'maplibre-gl';
 
-type Feature = {
+type LineStringFeature = {
   type: 'Feature';
   properties: {
     line: number;
@@ -14,6 +14,18 @@ type Feature = {
   };
 };
 
+type PointFeature = {
+  type: 'Feature';
+  properties: {
+    line: number;
+    name: string;
+  };
+  geometry: {
+    type: 'Point';
+    coordinates: [number, number];
+  };
+};
+
 // features plotted last are on top
 const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
 
@@ -21,7 +33,7 @@ function getCrossIconUrl(color: string): string {
   const canvas = document.createElement('canvas');
   canvas.width = 8; // Set the desired width of your icon
   canvas.height = 8; // Set the desired height of your icon
-  const context = canvas.getContext('2d');
+  const context: any = canvas.getContext('2d');
 
   // Draw the first diagonal line of the "X"
   context.beginPath();
@@ -42,8 +54,8 @@ function getCrossIconUrl(color: string): string {
   return canvas.toDataURL();
 }
 
-function groupFeaturesByColor(features: Feature[]) {
-  const featuresByColor = {};
+function groupFeaturesByColor(features: Array<LineStringFeature & { properties: { color: string } }>) {
+  const featuresByColor: any = {};
   for (const feature of features) {
     const color = feature.properties.color;
 
@@ -59,7 +71,7 @@ function groupFeaturesByColor(features: Feature[]) {
 export const useMap = () => {
   const { getLineColor } = useColors();
 
-  function plotDoneSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotDoneSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'done')
       .sort((featureA, featureB) => {
@@ -95,7 +107,7 @@ export const useMap = () => {
     map.on('mouseleave', 'done-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotWipSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotWipSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'wip')
       .sort((featureA, featureB) => {
@@ -139,7 +151,7 @@ export const useMap = () => {
       [0, 1.5, 2, 0.5]
     ];
     let step = 0;
-    function animateDashArray(timestamp) {
+    function animateDashArray(timestamp: number) {
       // Update line-dasharray using the next value in dashArraySequence. The
       // divisor in the expression `timestamp / 50` controls the animation speed.
       const newStep = parseInt((timestamp / 45) % dashArraySequence.length);
@@ -158,7 +170,7 @@ export const useMap = () => {
     map.on('mouseleave', 'wip-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotPlannedSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotPlannedSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'planned')
       .sort((featureA, featureB) => {
@@ -196,7 +208,7 @@ export const useMap = () => {
     map.on('mouseleave', 'not-done-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotVarianteSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotVarianteSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'variante')
       .sort((featureA, featureB) => {
@@ -250,7 +262,7 @@ export const useMap = () => {
     map.on('mouseleave', 'variante-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotVariantePostponedSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotVariantePostponedSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'variante-postponed')
       .sort((featureA, featureB) => {
@@ -304,7 +316,7 @@ export const useMap = () => {
     map.on('mouseleave', 'variante-postponed-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotUnknownSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotUnknownSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'unknown')
       .sort((featureA, featureB) => {
@@ -376,7 +388,7 @@ export const useMap = () => {
     map.on('mouseleave', 'unknown-sections', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function plotPostponedSections({ map, features }: { map: any; features: Feature[] }) {
+  function plotPostponedSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'postponed')
       .sort((featureA, featureB) => {
@@ -403,7 +415,7 @@ export const useMap = () => {
       });
 
       const iconUrl = getCrossIconUrl(color);
-      map.loadImage(iconUrl, (error, image) => {
+      map.loadImage(iconUrl, (error: Error, image: any) => {
         if (error) {
           throw error;
         }
@@ -443,9 +455,9 @@ export const useMap = () => {
     }
   }
 
-  function plotPois({ map, features }) {
+  function plotPois({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
     const pois = features
-      .filter(feature => feature.geometry.type === 'Point')
+      .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
       .map(feature => ({
         ...feature,
         properties: {
@@ -464,7 +476,7 @@ export const useMap = () => {
       }
     });
 
-    map.loadImage('/icons/camera.png', (error, image) => {
+    map.loadImage('/icons/camera.png', (error: Error, image: any) => {
       if (error) {
         throw error;
       }
@@ -494,9 +506,9 @@ export const useMap = () => {
     });
   }
 
-  function fitBounds({ map, features }) {
+  function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
     const allCoordinates = features
-      .filter(feature => feature.geometry.type === 'LineString')
+      .filter((feature): feature is LineStringFeature => feature.geometry.type === 'LineString')
       .map(feature => feature.geometry.coordinates)
       .flat();
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
