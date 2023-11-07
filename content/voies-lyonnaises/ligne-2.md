@@ -12,8 +12,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ## Les tronçons (du Nord au Sud)
 
 ### Fontaines sur Saône à l'Île Barbe
-Cette section est en tronçon commun avec la Voie Lyonnaise 3.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-3) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=3}.
 
 ### Traversée du Plateau Nord<br/>*Commune de Caluire-et-Cuire*
 #### Île Barbe à Caluire Centre

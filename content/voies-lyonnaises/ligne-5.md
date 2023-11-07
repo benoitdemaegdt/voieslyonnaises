@@ -58,8 +58,7 @@ L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 #### Vaulx-en-Velin - Gabriel Péri à La Doua - Croix-Luizet
-Cette section est en tronçon commun avec la Voie Lyonnaise 1.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-1) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=1}.
 
 #### Traversée du campus de la Doua
 La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante en stabilisé au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
@@ -69,12 +68,10 @@ La concertation sur ce tronçon (hors tram T9) s'est tenue du 19/09 au 21/10/202
 [Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
-Cette section est en tronçon commun avec la Voie Lyonnaise 1.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-1) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=1}.
 
 ### Pont De Lattre de Tassigny à Pont Clémenceau
-Cette section est en tronçon commun avec la Voie Lyonnaise 4.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-4) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=4}.
 
 ### Traversée de Vaise
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
@@ -138,8 +135,7 @@ La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 [Voir le dossier de concertation (p.56 à p.80)](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
 
 ### Gare d'Oullins à Pierre-Bénite Barrage
-Cette section est en tronçon commun avec la Voie Lyonnaise 3.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-3) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=3}.
 
 ### Traversée Vallée de la Chimie
 La Voie Lyonnaise 5 empruntera :
