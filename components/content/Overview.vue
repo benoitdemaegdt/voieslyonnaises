@@ -4,30 +4,30 @@
       <div class="space-y-6">
         <dl class="mt-5 grid grid-cols-1 rounded-lg bg-white overflow-hidden shadow divide-y divide-gray-200 md:grid-cols-3 md:divide-y-0 md:divide-x">
           <div class="px-4 py-5 sm:p-6">
-            <dt class="text-base font-normal text-gray-900">
+            <dt class="mt-0 text-base font-normal text-gray-900">
               Distance
             </dt>
-            <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+            <dd class="mt-1 pl-0 flex justify-between items-baseline md:block lg:flex">
               <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
                 {{ Math.round(voie.distance/1000) }}km
               </div>
             </dd>
           </div>
           <div class="px-4 py-5 sm:p-6">
-            <dt class="text-base font-normal text-gray-900">
+            <dt class="mt-0 text-base font-normal text-gray-900">
               Fréquentation
             </dt>
-            <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+            <dd class="mt-1 pl-0 flex justify-between items-baseline md:block lg:flex">
               <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
                 {{ voie.trafic }}
               </div>
             </dd>
           </div>
           <div class="px-4 py-5 sm:p-6">
-            <dt class="text-base font-normal text-gray-900">
+            <dt class="mt-0 text-base font-normal text-gray-900">
               Avancement
             </dt>
-            <dd class="mt-1 flex justify-between items-baseline md:block lg:flex">
+            <dd class="mt-1 pl-0 flex justify-between items-baseline md:block lg:flex">
               <div class="flex items-baseline text-2xl font-semibold" :style="`color: ${voie.color}`">
                 {{ avancement }}%
               </div>
