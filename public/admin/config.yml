@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: 'news'
+    label: 'Historique'
+    folder: 'content/news'
+    format: 'frontmatter'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Texte bannière', name: 'newsBannerText' }
