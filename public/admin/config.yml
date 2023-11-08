@@ -11,7 +11,7 @@ collections:
     folder: 'content/news'
     format: 'frontmatter'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}'
     editor:
       preview: false
     fields:
