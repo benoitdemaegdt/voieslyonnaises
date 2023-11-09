@@ -21,3 +21,16 @@ collections:
       - { label: 'Date', hint: 'Date de la news (affichée à gauche dans la frise)', name: 'date', widget: 'datetime' }
       - { label: 'Texte bannière', hint: "Le texte de la dernière news est affiché dans la bannière d'info en haut de toutes les pages.", name: 'newsBannerText' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
+  - name: 'compteurs'
+    label: 'Compteurs'
+    description: 'Compteurs de vélos'
+    folder: 'content/compteurs'
+    format: 'json'
+    create: true
+    slug: '{{name}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Contenu', name: 'body', widget: 'code' }
+
+
