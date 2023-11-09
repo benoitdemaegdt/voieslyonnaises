@@ -4,6 +4,8 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+display_url: 'https://cyclopolis.fr'
+logo_url: 'https://cyclopolis.lavilleavelo.org/Logo_Cyclopolis_v2.png'
 
 collections:
   - name: 'news'
