@@ -37,5 +37,28 @@ collections:
       - { label: 'Image', name: 'imageUrl', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
 
+  - name: 'voies-lyonnaises'
+    label: 'Voies Lyonnaises'
+    description: 'Liste des Voies Lyonnaises'
+    folder: 'content/voies-lyonnaises'
+    filter:
+      - extension: 'md'
+    format: 'frontmatter'
+    create: false
+    slug: 'ligne-{{line}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Ligne', name: 'line', widget: 'hidden' }
+      - { label: 'Couleur', name: 'color', widget: 'hidden' }
+      - { label: 'Depuis', name: 'from', widget: 'string' }
+      - { label: 'Destination', name: 'to', widget: 'string' }
+      - { label: 'Distance', name: 'distance', widget: 'number' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Trafic', name: 'trafic', widget: 'string' }
+      - { label: 'Photo de couverture', name: 'cover', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
+
+
 
 
