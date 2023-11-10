@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 3
 line: 3
 color: "#3B7B64"
 from: Quincieux

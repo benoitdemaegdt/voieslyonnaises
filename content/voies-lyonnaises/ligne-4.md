@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 4
 line: 4
 color: "#DC8953"
 from: Lissieu

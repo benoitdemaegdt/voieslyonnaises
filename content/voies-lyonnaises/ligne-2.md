@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 2
 line: 2
 color: "#AC4D35"
 from: Fontaines s/ Saône

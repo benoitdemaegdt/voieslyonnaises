@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 6
 line: 6
 color: "#396083"
 from: Rilleux la Pape

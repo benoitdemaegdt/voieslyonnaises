@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 8
 line: 8
 color: "#7E6D98"
 from: La Tour-de-Salvagny
