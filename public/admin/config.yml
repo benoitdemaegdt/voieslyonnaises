@@ -49,13 +49,13 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Ligne', name: 'line', widget: 'hidden' }
+      - { label: 'Ligne', name: 'line', widget: 'string' }
       - { label: 'Couleur', name: 'color', widget: 'hidden' }
-      - { label: 'Depuis', name: 'from', widget: 'string' }
-      - { label: 'Destination', name: 'to', widget: 'string' }
+      - { label: 'Depuis', name: 'from', widget: 'hidden' }
+      - { label: 'Destination', name: 'to', widget: 'hidden' }
       - { label: 'Distance', name: 'distance', widget: 'number' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Trafic', name: 'trafic', widget: 'string' }
+      - { label: 'Trafic', name: 'trafic', widget: 'hidden' }
       - { label: 'Photo de couverture', name: 'cover', widget: 'string' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
 
