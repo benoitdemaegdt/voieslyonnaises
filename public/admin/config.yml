@@ -42,11 +42,11 @@ collections:
           label: "Coordonnées GPS",
           name: 'coordinates',
           widget: 'list',
-          fields: [
-            { label: 'Longitude', name: 'longitude', widget: 'number' },
-            { label: 'Latitude', name: 'latitude', widget: 'number' }
-          ]
-        }
+          max: 2,
+          min: 2,
+          allow_add: false,
+          field: { widget: 'number' }
+      }
       - {
           label: "Relevé des compteurs",
           name: 'counts',
