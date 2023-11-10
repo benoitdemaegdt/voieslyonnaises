@@ -26,11 +26,10 @@ collections:
     description: 'Compteurs de vélos'
     folder: 'content/compteurs'
     format: 'json'
+    extension: 'json'
     create: true
-    slug: '{{name}}'
+    slug: '{{slug}}'
     editor:
       preview: false
-    fields:
-      - { label: 'Contenu', name: 'body', widget: 'code' }
 
 
