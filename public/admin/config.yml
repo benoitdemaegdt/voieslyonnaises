@@ -22,5 +22,20 @@ collections:
       - { label: 'Texte bannière', hint: "Le texte de la dernière news est affiché dans la bannière d'info en haut de toutes les pages.", name: 'newsBannerText' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
 
+  - name: 'blog'
+    label: 'Blog'
+    description: 'Blog de cyclopolis'
+    folder: 'content/blog'
+    format: 'frontmatter'
+    create: true
+    slug: '{{title}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image', name: 'imageUrl', widget: 'string' }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
+
 
 
