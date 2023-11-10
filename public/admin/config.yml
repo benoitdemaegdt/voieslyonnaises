@@ -22,37 +22,5 @@ collections:
       - { label: 'Texte bannière', hint: "Le texte de la dernière news est affiché dans la bannière d'info en haut de toutes les pages.", name: 'newsBannerText' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
 
-  - name: 'compteurs'
-    label: 'Compteurs'
-    description: 'Compteurs de vélos'
-    folder: 'content/compteurs'
-    format: 'json'
-    extension: 'json'
-    create: true
-    slug: '{{name}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Nom', name: 'name', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Arrondissement', name: 'arrondissement', widget: 'string' }
-      - { label: "URL de l'image", name: 'imageUrl', widget: 'string' }
-      - { label: "identifiant du compteur", name: 'idPdc', widget: 'number' }
-      - {
-          label: "Coordonnées GPS",
-          name: 'coordinates',
-          widget: 'code',
-      }
-      - {
-          label: "Relevé des compteurs",
-          name: 'counts',
-          widget: 'list',
-          fields: [
-            { label: 'Mois', name: 'month', widget: 'datetime' },
-            { label: 'relevé du compteur', name: 'count', widget: 'number' }
-          ]
-        }
-
-
 
 
