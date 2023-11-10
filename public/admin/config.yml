@@ -42,8 +42,8 @@ collections:
           name: 'coordinates',
           widget: 'list',
           fileds: [
-            { label: 'Longitude', name: 'longitude', widget: 'number' }
-            { label: 'Latitude', name: 'latitude', widget: 'number' },
+            { label: 'Longitude', name: 'longitude', widget: 'number' },
+            { label: 'Latitude', name: 'latitude', widget: 'number' }
           ]
         }
       - { label: "Relevés des compteurs", name: 'counts', widget: 'code' }
