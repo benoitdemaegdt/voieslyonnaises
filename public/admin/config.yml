@@ -21,6 +21,7 @@ collections:
       - { label: 'Date', hint: 'Date de la news (affichée à gauche dans la frise)', name: 'date', widget: 'datetime' }
       - { label: 'Texte bannière', hint: "Le texte de la dernière news est affiché dans la bannière d'info en haut de toutes les pages.", name: 'newsBannerText' }
       - { label: 'Contenu', name: 'body', widget: 'markdown' }
+
   - name: 'compteurs'
     label: 'Compteurs'
     description: 'Compteurs de vélos'
@@ -32,7 +33,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Nom', hint: 'Nom du compteur', name: 'name', widget: 'string' }
+      - { label: 'Nom', name: 'name', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Arrondissement', name: 'arrondissement', widget: 'string' }
       - { label: "URL de l'image", name: 'imageUrl', widget: 'string' }
@@ -41,12 +42,20 @@ collections:
           label: "Coordonnées GPS",
           name: 'coordinates',
           widget: 'list',
-          fileds: [
+          fields: [
             { label: 'Longitude', name: 'longitude', widget: 'number' },
             { label: 'Latitude', name: 'latitude', widget: 'number' }
           ]
         }
-      - { label: "Relevés des compteurs", name: 'counts', widget: 'code' }
+      - {
+          label: "Relevé des compteurs",
+          name: 'counts',
+          widget: 'list',
+          fields: [
+            { label: 'Mois', name: 'month', widget: 'datetime' },
+            { label: 'relevé du compteur', name: 'count', widget: 'number' }
+          ]
+        }
 
 
 
