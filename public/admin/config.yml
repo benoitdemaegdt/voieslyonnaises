@@ -41,11 +41,7 @@ collections:
       - {
           label: "Coordonnées GPS",
           name: 'coordinates',
-          widget: 'list',
-          max: 2,
-          min: 2,
-          allow_add: false,
-          field: { widget: 'number' }
+          widget: 'code',
       }
       - {
           label: "Relevé des compteurs",
