@@ -100,7 +100,7 @@
       "type": "Feature",
       "properties": {
         "id": "CheminBarrage-commun",
-        "line": 3,
+        "line": 5,
         "name": "Chemin du Barrage",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -126,7 +126,7 @@
       "type": "Feature",
       "properties": {
         "id": "PierreBenite-commun",
-        "line": 3,
+        "line": 5,
         "name": "Pierre Bénite",
         "status": "planned"
       },
@@ -155,7 +155,7 @@
       "type": "Feature",
       "properties": {
         "id": "OullinsJaurès-commun",
-        "line": 3,
+        "line": 5,
         "name": "Oullins - Avenue Jaurès",
         "status": "done",
         "doneAt": "31/12/2019"
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "id": "OullinsSaulaie-commun",
-        "line": 3,
+        "line": 5,
         "name": "Oullins - La Saulaie",
         "status": "planned"
       },
