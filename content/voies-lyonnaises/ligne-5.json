@@ -833,7 +833,7 @@
       "properties": {
         "id": "PeriCanal-commun",
         "line": 5,
-        "name": "Vaulx-en-Velin",
+        "name": "Vaulx-en-Velin Ouest",
         "status": "planned"
       },
       "geometry": {
@@ -876,7 +876,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "name": "Vaulx-en-Velin - Bron",
+        "name": "Vaulx-en-Velin Est",
         "status": "planned"
       },
       "geometry": {
@@ -904,7 +904,21 @@
           [4.932442903518677, 45.76875034575978],
           [4.932593107223511, 45.76775496965838],
           [4.9337479498331325, 45.760090753466066],
-          [4.932875485536684, 45.75577523156049],
+          [4.933434524069511, 45.75849294266628]
+        ]
+      }
+    },          
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "name": "Boulevard Urbain Est",
+        "status": "wip"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.933434524069511, 45.75849294266628],
           [4.93238680215709, 45.7536263244979],
           [4.93215373975092, 45.75255631866195],
           [4.932037950317104, 45.75199599955167],
