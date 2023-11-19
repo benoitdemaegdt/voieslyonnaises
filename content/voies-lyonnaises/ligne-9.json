@@ -716,7 +716,7 @@
       "properties": {
         "line": 9,
         "name": "Avenue Jean Jaurès",
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
