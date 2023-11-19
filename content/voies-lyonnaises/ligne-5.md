@@ -55,7 +55,7 @@ Au niveau du carrefour avec l'avenue Gabriel Péri, la piste basculera du côté
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
 L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
-[Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm)  
+[Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm)  
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 #### Vaulx-en-Velin - Gabriel Péri à La Doua - Croix-Luizet

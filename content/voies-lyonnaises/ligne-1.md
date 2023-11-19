@@ -28,8 +28,8 @@ credit: SYTRAL Mobilités
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
 L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
-[Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}  
-Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+[Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}  
+Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'en 2026.
 
 ::image
 ---
@@ -141,7 +141,7 @@ credit: Ilex / SYTRAL Mobilité
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
 L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
-[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)  
+[Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)  
 Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 ## Calendriers prévisionnels
