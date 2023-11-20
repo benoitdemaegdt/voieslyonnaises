@@ -145,6 +145,14 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 
 
 ## Calendrier prévisionnel
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/calendrier-nord.png
+caption: Calendrier prévisionnel du tronçon Nord passant par Rillieux-la-Pape, Caluire-et-Cuire et Lyon 4.
+---
+::
+
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/calendrier-sud.png

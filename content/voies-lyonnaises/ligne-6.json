@@ -5,11 +5,44 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/chemin-de-halage-rillieux-la-pape.png"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [4.869312853077332, 45.78990588540054]
+        "coordinates": [4.892870828302108, 45.803786529157236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/parc-saint-clair-caluire.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8547036494954625, 45.787691416863396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/cours-aristide-briand-caluire.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.84333221659935, 45.78213664777769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl6/cours-herbouville-lyon-4.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.839195287115217, 45.77543833021778]
       }
     },
     {
