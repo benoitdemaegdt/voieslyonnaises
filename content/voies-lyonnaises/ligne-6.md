@@ -38,8 +38,8 @@ credit: Villes & Paysages / Métropole de Lyon
 #### Cours Aristide Briand
 Trois variantes sont ici proposées à la concertation :
  - 1) le maintien de la zone de rencontre existante le long de deux files de stationnement, en mixité avec les voitures et les piétons.
- - 2) l'aménagement du quai Bellevue avec une piste cyclable bidirectionnelle à la place d'une des deux voies de circulation côté Ouest, mais qui nécessiteraait un détour important pour rejoindre le carrefour de la montée de la Boucle.
- - 3) la création d'une piste bidirectionnelle à la place de la voie de circulation Sud>Nord du cours Aristide Briand. Celle-ci serait déplacée dans la zone de rencontre actuelle qui deviendrait une voie de circulation à part entière. Le stationnement en épi côté Rhône serait aligné longitudinalement pour créer un cheminement piéton aujourd'hui inexistant sous l'alignement d'arbres à l'Ouest. **Cette variante est privilégiée par La Ville à Vélo**
+ - 2) l'aménagement du quai Bellevue avec une piste cyclable bidirectionnelle à la place d'une des deux voies de circulation côté Ouest, mais qui nécessiterait un détour important pour rejoindre le carrefour de la montée de la Boucle.
+ - 3) la création d'une piste bidirectionnelle à la place de la voie de circulation Sud>Nord du cours Aristide Briand. Celle-ci serait déplacée dans la zone de rencontre actuelle qui deviendrait une voie de circulation à part entière. Le stationnement en épi côté Rhône serait aligné longitudinalement pour créer un cheminement piéton aujourd'hui inexistant sous l'alignement d'arbres à l'Ouest.  **Cette variante est privilégiée par La Ville à Vélo**
 
 ::image
 ---
@@ -51,15 +51,15 @@ credit: Villes & Paysages / Métropole de Lyon
 
 #### Cours d'Herbouville
 Dans le sens Sud>Nord, deux variantes sont proposées à la concertation :
- - 1) via la contre-allée de stationnement et la voie verte actuelle, située au centre de la chaussée sous un alignement d'arbre. Elles seraient réaménagés en une piste cyclable unidirectionnelle de 1.5m de large et un cheminement piéton de 1.5m de large.
- - 2) via les voies de circulation générales à l'Est avec la création d'une piste cyclable unidirectionnelle de 2.5 à 3m de large côté Ouest de la chaussée Est à la place d'une voie de circulation.
+ - 1) via la contre-allée de stationnement et la voie verte actuelle, située au centre de la chaussée sous un alignement d'arbre. Elles seraient réaménagées en une piste cyclable unidirectionnelle de 1.5m de large et un cheminement piéton de 1.5m de large.
+ - 2) via les voies de circulation générale à l'Est avec la création d'une piste cyclable unidirectionnelle de 2.5 à 3m de large côté Ouest de la chaussée à la place d'une voie de circulation.
 
-Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unidirectionnelle de 2m à 2.25m de large à la place d'une voie de circulation côté Est de la chaussée Ouest.
+Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unidirectionnelle de 2m à 2.25m de large à la place d'une voie de circulation côté Est de la chaussée.
 
 ::image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-herbouville-lyon-4.png
-caption: Aperçu de la Voie Lyonnaise 6 - Cours Herbouville (Lyon 4) - Variante 2
+caption: Aperçu de la Voie Lyonnaise 6 - Cours d'Herbouville (Lyon 4) - Variante 2
 credit: Villes & Paysages / Métropole de Lyon
 ---
 ::
@@ -67,7 +67,7 @@ credit: Villes & Paysages / Métropole de Lyon
 #### Jonction vers Rhône Rive Droite et VL4
 A l'extrémité Sud du cours d'Herbouville, deux aménagements sont prévus pour assurer une continuité cyclable sécurisée :
  - vers la VL4, le tunnel mode doux et le pont De Lattre de Tassigny, en utilisant la rampe de jonction entre le quai et la pont. Le projet consiste en la création d'une piste cyclable bidirectionnelle à la place du stationnement existant.
- - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davatange de traversées de carrefours aux extrémités.
+ - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davantage de traversées de carrefours aux extrémités.
 
 #### Concertation
 La concertation publique sur ce tronçon se tient du 20/11 au 31/12/2023.  

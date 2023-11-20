@@ -101,7 +101,8 @@
       "properties": {
         "line": 6,
         "name": "Parc de St-Clair - Seuil Feyssine",
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
