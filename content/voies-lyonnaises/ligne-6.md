@@ -13,13 +13,65 @@ cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 ## Les tronçons (du Nord au Sud)
 
 ### de Crépieux-la-Pape à Lyon - Herbouville<br/>*via Saint-Clair et Bellevue*
-Aucune information publique n'existe à ce jour sur ce tronçon.
+#### Chemin de halage de Crépieux
+Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le tranformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
 
-Néanmoins, l'itinéraire est déjà connu. Il empruntera :
- - entre Crépieux et St-Clair : le chemin de halage en voie verte existant sur les berges le long du Rhône
- - entre St-Clair et la place Bellevue : la berge en voie verte du quai Bellevue
- - entre la place Bellevue et le pont Churchill : insertion à définir, aujourd'hui aménagé en zone de rencontre sur une contre-allée de stationnement bilatéral (depuis fin 2008)
- - sur le cours d'Herbouville : insertion à définir, aujourd'hui aménagé en voie verte axiale jusqu'au n°20, puis en couloirs bus-vélo bilatéraux sur la moitié Sud (depuis mi-2019)
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/chemin-de-halage-rillieux-la-pape.png
+caption: Aperçu de la Voie Lyonnaise 6 - Chemin de Halage (Rillieux)
+credit: Villes & Paysages / Métropole de Lyon
+---
+::
+
+#### Voie verte des berges du Rhône et du canal de Miribel<br/>*via le parc de St-Clair*
+Cette longue portion de 3km sera conservée en l'état. Il s'agit d'une voie verte avec revêtement béton qui fait 3 à 3.5m de large. L'éclairage existant sera conservé et ne sera donc présent que dans le parc de Saint-Clair et sur le quai Bellevue. On notera une partie étroite et inconfortable à environ 2m de large dans l'épingle qui permet de remonter sur la place Bellevue.
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/parc-saint-clair-caluire.png
+caption: Aperçu de la Voie Lyonnaise 6 - Parc Saint-Clair (Caluire)
+credit: Villes & Paysages / Métropole de Lyon
+---
+::
+
+#### Cours Aristide Briand
+Trois variantes sont ici proposées à la concertation :
+ - 1) le maintien de la zone de rencontre existante le long de deux files de stationnement, en mixité avec les voitures et les piétons.
+ - 2) l'aménagement du quai Bellevue avec une piste cyclable bidirectionnelle à la place d'une des deux voies de circulation côté Ouest, mais qui nécessiteraait un détour important pour rejoindre le carrefour de la montée de la Boucle.
+ - 3) la création d'une piste bidirectionnelle à la place de la voie de circulation Sud>Nord du cours Aristide Briand. Celle-ci serait déplacée dans la zone de rencontre actuelle qui deviendrait une voie de circulation à part entière. Le stationnement en épi côté Rhône serait aligné longitudinalement pour créer un cheminement piéton aujourd'hui inexistant sous l'alignement d'arbres à l'Ouest. **Cette variante est privilégiée par La Ville à Vélo**
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-aristide-briand-caluire.png
+caption: Aperçu de la Voie Lyonnaise 6 - Cours Aristide Briand (Caluire) - Variante 3
+credit: Villes & Paysages / Métropole de Lyon
+---
+::
+
+#### Cours d'Herbouville
+Dans le sens Sud>Nord, deux variantes sont proposées à la concertation :
+ - 1) via la contre-allée de stationnement et la voie verte actuelle, située au centre de la chaussée sous un alignement d'arbre. Elles seraient réaménagés en une piste cyclable unidirectionnelle de 1.5m de large et un cheminement piéton de 1.5m de large.
+ - 2) via les voies de circulation générales à l'Est avec la création d'une piste cyclable unidirectionnelle de 2.5 à 3m de large côté Ouest de la chaussée Est à la place d'une voie de circulation.
+
+Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unidirectionnelle de 2m à 2.25m de large à la place d'une voie de circulation côté Est de la chaussée Ouest.
+
+::image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-herbouville-lyon-4.png
+caption: Aperçu de la Voie Lyonnaise 6 - Cours Herbouville (Lyon 4) - Variante 2
+credit: Villes & Paysages / Métropole de Lyon
+---
+::
+
+#### Jonction vers Rhône Rive Droite et VL4
+A l'extrémité Sud du cours d'Herbouville, deux aménagements sont prévus pour assurer une continuité cyclable sécurisée :
+ - vers la VL4, le tunnel mode doux et le pont De Lattre de Tassigny, en utilisant la rampe de jonction entre le quai et la pont. Le projet consiste en la création d'une piste cyclable bidirectionnelle à la place du stationnement existant.
+ - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davatange de traversées de carrefours aux extrémités.
+
+#### Concertation
+La concertation publique sur ce tronçon se tient du 20/11 au 31/12/2023.  
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6Nord_Herbouville_Crepieux.pdf)
 
 ### Pont de Lattre à Pont Gallieni (Lyon Rive Droite)
 Ce tronçon de la Voie Lyonnaise 6 s'inscrit dans le grand projet de réaménagement de la Rive Droite du Rhône porté par la ville de Lyon.
