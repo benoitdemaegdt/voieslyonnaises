@@ -141,7 +141,9 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 
 
 ## Budget prévisionnel
-- **17 300 000 € HT** au total
+- **17 300 000 € HT** au total dont : 
+    - **3 800 000 € HT** pour le tronçon Nord
+      <br>_source: [page 54 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b176221aaa79164f0cbfd4570360673308f4cd9d.pdf)_
 
 
 ## Calendrier prévisionnel
