@@ -31,7 +31,7 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20210825_dossier_concertation-routedeparis.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
 
 #### Tassin - Montcelard à Valvert
 Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissement des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
@@ -65,7 +65,7 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220902_voieslyonnaises_ligne8_dossier.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_La%20Tour%20de%20Salvagny_Tassin%20Valvert.pdf){:target="_blank"}
 
 
 ### Tassin Nord à Barthélémy Buyer
@@ -110,7 +110,7 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Ouest_Tassin_Buyer.pdf){:target="_blank"}
 
 ### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
 Cette section est en tronçon commun avec la :line-link{line=12}.
@@ -180,7 +180,7 @@ Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de c
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)
 
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
 #### Avenue Mermoz - Pinel à Lionel Terray
@@ -242,14 +242,14 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}
 
 ## Budget prévisionnel
  - **25 600 000 € HT** au total dont :
    - **3 700 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS)_
    - **7 150 000 € HT** pour le tronçon situé entre Le Pont de l'Université et l’intersection de l’avenue Jean Mermoz avec le boulevard Pinel.
-     <br>_source: [page 49 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)_
+     <br>_source: [page 49 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)_
    - **1 450 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
 
