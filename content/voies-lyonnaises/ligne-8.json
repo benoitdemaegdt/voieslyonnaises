@@ -16,6 +16,39 @@
       "type": "Feature",
       "properties": {
         "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.785459884054262, 45.765054099609415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.792576777926371, 45.764005348518765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8070786947276645, 45.76160685812488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png"
       },
       "geometry": {
