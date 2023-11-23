@@ -104,7 +104,7 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}
 
 ### Montée de la Boucle à Garibaldi - Arménie
 #### Pont Churchill et carrefour Tête d'Or
@@ -131,7 +131,7 @@ Cette section a fait l'objet d'un réaménagement complet avec une piste cyclabl
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/dc7def923aa5715b6c0e53184f397afed8ca9050.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf)
 
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
 Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
@@ -145,7 +145,7 @@ credit: Ilex / Métropole de Lyon
 ::
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220610_lyon3-lyon7_garibaldi-dossier-concertation.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Garibaldi_phase3.pdf)
 
 ### Garibaldi Sud à St-Fons - République
 
@@ -191,7 +191,7 @@ credit: Métropole de Lyon
 
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}
 
 ### Saint-Fons Centre
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
@@ -210,7 +210,7 @@ credit: Métropole de Lyon
 ::
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220221_yvesfarge_dossier-concertation.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7YvesFarge_BUE.pdf){:target="_blank"}
 
 ### Traversée de Feyzin
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
@@ -219,11 +219,11 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 - **27 300 000 € HT** au minimum dont :
 
   - **15 500 000 € HT** pour le tronçon Nord (Rillieux à Croix-Rousse)  
-  source: [page 56 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}._
+  source: [page 56 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}._
   - **3 500 000 € HT** pour le tronçon Central (Pont Churchill à la rue Garibaldi)  
-  source: [page 29 de ce dossier de concertation](https://jeparticipe.grandlyon.com/project/ligne-7-rillieux-la-pape-solaize-section-lyon-churchill-garibaldi/step/comprendre-le-projet-pour-participer){:target="_blank"}._
+  source: [page 29 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf){:target="_blank"}._
   - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)  
-  source: [page 32 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5aa817ab7872d91f4036e1fb022f22f872ec0912.pdf){:target="_blank"}._
+  source: [page 32 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}._
 
 A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
  - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3
@@ -268,11 +268,11 @@ Les 4 et 5 avril 2023
 
 Réunions publiques de concertation sur l'aménagement de la partie nord, entre Lyon 4 et Rillieux-la-Pape.
 
-[Lien vers le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/eeb73232286e1eff7efdb4fe560ebc39c7d24eeb.pdf){:target="_blank"}
+[Lien vers le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}
 
 ### Réunion de concertation, section sud
 3 février 2023
 
 Réunion publique de concertation sur l'aménagement de la partie sud, entre Lyon 7 et Saint-Fons.
 
-[Lien vers le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/5a994d0da41bcddfbe416b41400ba86182119ae7.pdf){:target="_blank"}
+[Lien vers le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}
