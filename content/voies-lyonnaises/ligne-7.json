@@ -38,6 +38,28 @@
       "type": "Feature",
       "properties": {
         "line": 7,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8498458975414565, 45.77265407496435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.853886436374921, 45.74973461504163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png"
       },
       "geometry": {
@@ -546,7 +568,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.841161108812599,45.77899783094253],
+          [4.841161108812599, 45.77899783094253],
           [4.840965719347409, 45.77907260485894],
           [4.84104115832573, 45.77924620490319],
           [4.841221399761579, 45.77951170887489],
@@ -607,8 +629,8 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.841161108812599,45.77899783094253],
-          [4.841326071323181,45.778953598439955]
+          [4.841161108812599, 45.77899783094253],
+          [4.841326071323181, 45.778953598439955]
         ]
       }
     },
@@ -623,7 +645,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.841326071323181,45.778953598439955],
+          [4.841326071323181, 45.778953598439955],
           [4.841491033833762, 45.77892869588673],
           [4.842457551310332, 45.778585154508534],
           [4.844120655341129, 45.777954861972894]
