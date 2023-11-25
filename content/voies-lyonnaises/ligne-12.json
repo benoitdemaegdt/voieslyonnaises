@@ -71,6 +71,17 @@
       "type": "Feature",
       "properties": {
         "line": 12,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.897780330072379, 45.73717757321509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
         "name": "Valmy - Gorge de Loup",
         "status": "planned"
       },
