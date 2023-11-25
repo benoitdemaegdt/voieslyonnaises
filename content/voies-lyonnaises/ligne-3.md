@@ -54,7 +54,7 @@ Cette section de 500m a l'inconvénient d'être particulièrement étroite et de
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Nord_IleBarbe_Quincieux.pdf)
 
 ### Île Barbe au Pont Kitchener Marchand
 *Parcours commun avec la véloroute touristique "La Voie Bleue"*
@@ -101,14 +101,14 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_Ile%20Barbe_Pont%20Kitchener.pdf)
 
 ### Quai Jean-Jacques Rousseau et Quai des Etroits
 
 L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
 
 *La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)
 
 La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais (TEOL) attendu à l'horizon 2032. *C'est une mauvaise nouvelle pour les cyclistes de ce quai qui ne pourront pas circuler en sécurité avant de nombreuses années. Le point noir majeur du bas de Choulans pourrait donc ne pas être traité avant longtemps.*
 
@@ -143,7 +143,7 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-sud_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Sud_Pont%20Mulati%c3%a8re_Barrage%20CNR.pdf)
 
 
 ### Irigny à Givors<br>*via Vernaison et Grigny*
@@ -155,12 +155,12 @@ Initialement porté par la Région Auvergne-Rhône-Alpes, il avait fait l'objet 
 
 #### Pour en savoir plus
 La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.  
-[Voir le dossier de concertation](https://res-3.cloudinary.com/civocracy/image/upload/v1559552200/section/attachment/bfh05r8p6clhgkweqgaf.pdf)  
-[Voir le bilan de la concertation publique.](https://res-4.cloudinary.com/civocracy/image/upload/v1578583707/section/attachment/x7r6vc0vbhn5s6vbj9qh.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)  
+[Voir le bilan de la concertation publique.](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_Bilan201912.pdf)
 
 L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.  
-[Voir le rapport de la commission de l'enquête publique](https://www.rhone.gouv.fr/contenu/telechargement/49248/271972/file/Rapport%20Viarhona%20D%C3%A9finitif%20ppdf.pdf)  
-[Voir la réponse de la Région au rapport de la commission d'enquête](https://www.rhone.gouv.fr/contenu/telechargement/49420/272958/file/M%c3%a9moire+en+r%c3%a9ponse+-CE+19+11+21.pdf)  
+[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)  
+[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)  
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
 
@@ -168,7 +168,7 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 - **32 200 000 € HT** au total dont :
 
   - **19 800 000 € HT** pour le tronçon nord (Quincieux/Genay à Île Barbe)
-<br>*source: [dossier de concertation, dernière page](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)*
+<br>*source: [dossier de concertation, dernière page](https://cyclopolis.lavilleavelo.org/vl3/VL3Nord_IleBarbe_Quincieux.pdf)*
 
   - **5 000 000 € HT** pour le tronçon centre (Île Barbe à Pont Kitchener)
 <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363221706113788_6291.pdf)*
@@ -179,7 +179,7 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 - **17 800 000 € HT** hors budget Voies Lyonnaises dont :
   
   - environ **10 000 000 € HT** pour le quai des Etroits et Jean-Jacques Rousseau
-<br>*source: [dossier de concertation, page 44 et 45](https://jeparticipe.grandlyon.com/media/default/0001/01/6e517b8149cd6482cc30177fe4f33dcc52b303c1.pdf)*
+<br>*source: [dossier de concertation, page 44 et 45](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)*
 
   - **7 800 000 € HT** pour la ViaRhôna Pierre-Bénite / Givors
 <br>*source: [dossier de concertation, page 5](https://res-3.cloudinary.com/civocracy/image/upload/v1559552200/section/attachment/bfh05r8p6clhgkweqgaf.pdf)*
@@ -216,7 +216,7 @@ caption: Calendrier prévisionnel du tronçon Pont de la Mulatière - Pierre-Bé
 
 Réunion de concertation pour le tronçon nord : Quincieux/Genay à l'île barbe
 
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/77dccf8def76e6aef57dc627fa111269482a2069.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Nord_IleBarbe_Quincieux.pdf)
 
 ### Inauguration de la voie lyonnaise n°3 à Couzon
 25 janvier 2023
@@ -228,7 +228,7 @@ Ce tronçon est situé sur la commune de Couzon-au-Mont d’Or.
 
 Réunion de concertation pour le tronçon central : Île barbe - pont Kitchener Marchand
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220915_voieslyonnaises_ligne3-centre_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_Ile%20Barbe_Pont%20Kitchener.pdf)
 
 ### Début des travaux à Couzon
 16 Mai 2022
