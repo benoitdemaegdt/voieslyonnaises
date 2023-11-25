@@ -27,6 +27,17 @@
       "type": "Feature",
       "properties": {
         "line": 3,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.809522194049322, 45.78091386249062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg"
       },
       "geometry": {
