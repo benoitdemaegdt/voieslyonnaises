@@ -49,7 +49,7 @@ Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandais
 De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 
 La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
 ::image
 ---
@@ -166,7 +166,7 @@ caption: Calendrier prévisionnel de la Voie Lyonnaise 1 sur le boulevard du 11 
 <br>_source: [communiqué de presse de la métropole](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/cp/2022/20220708_cp_inauguration-vl1.pdf)_.
 
   -  **5 300 000 € HT** pour le tronçon sur le boulevard du 11 novembre et l’avenue Albert Einstein.
-<br>_source: dernière page du [dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)_.
+<br>_source: dernière page du [dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)_.
 
 Pour mémoire, les budgets totaux des projets SYTRAL sont :
  - **224 000 000 € HT** pour le tram T9
