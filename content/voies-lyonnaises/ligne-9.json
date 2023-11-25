@@ -16,6 +16,17 @@
       "type": "Feature",
       "properties": {
         "line": 9,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.935443409157358, 45.80200016581372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
         "name": "Jonage",
         "status": "planned"
       },
