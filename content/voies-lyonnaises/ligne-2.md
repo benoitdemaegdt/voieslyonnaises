@@ -36,7 +36,7 @@ La Voie Lyonnaise 2 va prendre la place de l'ancienne contre-allée de stationne
 
 ::image
 ---
-imageUrl: https://www.lyon.fr/sites/lyonfr/files/content/2023-06/stalingrad-perspective-p.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard Stalingrad (Villeurbanne)
 credit: Métropole de Lyon
 ---

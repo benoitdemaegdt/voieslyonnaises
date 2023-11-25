@@ -5,6 +5,17 @@
       "type": "Feature",
       "properties": {
         "line": 2,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.859350965174372, 45.777942473521335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg"
       },
       "geometry": {
