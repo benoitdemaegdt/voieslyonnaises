@@ -80,7 +80,7 @@ Les travaux sur le boulevard des Tchécoslovaques débuteront fin 2023 et se ter
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl2/VL2Centre_Poincar%c3%a9_Berthelot.pdf)
 
 ### Avenue Berthelot à Saint-Priest<br/>*via blvd des Etats-Unis, Viviani, Parilly et route de Lyon*
 
@@ -133,7 +133,7 @@ Cette portion verra la création d'une piste cyclable bidirectionnelle de 3m de 
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220929_voieslyonnaises_ligne2-sud_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl2/VL2Sud_Berthelot_St-Priest.pdf)
 
 
 ## Budget prévisionnel
@@ -174,12 +174,12 @@ Début des travaux de la voie lyonnaise 2 sur le boulevard Stalingrad, qui encha
 
 Réunion publique de concertation à propos du tronçon sud (Lyon 7ème, 8ème, Vénissieux et Saint-Priest)
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220929_voieslyonnaises_ligne2-sud_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl2/VL2Sud_Berthelot_St-Priest.pdf)
 
 ### Concertation publique
 23 juin 2022
 
 Réunion publique de concertation à propos du tronçon situé entre le pont Poincaré et l'avenue Berthelot (7ème arrondissement).
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220601_voieslyonnaises_ligne2_dossier-concertation.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl2/VL2Centre_Poincar%c3%a9_Berthelot.pdf)
 
