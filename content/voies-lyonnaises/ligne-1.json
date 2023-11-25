@@ -5,6 +5,17 @@
       "type": "Feature",
       "properties": {
         "line": 1,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.893801991148365, 45.78325660243033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg"
       },
       "geometry": {
@@ -16,11 +27,22 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [4.837237041095932, 45.752294318387726]
+        "coordinates": [4.842989394523215, 45.77551430270552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.835268799786462, 45.74996686975683]
       }
     },
     {
@@ -32,6 +54,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [4.862077627597955, 45.77940680177315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.824461549207683, 45.72733739783587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.844865239014865, 45.71314321772542]
       }
     },
     {
