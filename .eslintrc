@@ -2,6 +2,7 @@
   "extends": ["@nuxtjs/eslint-config-typescript"],
   "rules": {
     "semi": ["error", "always"],
-    "space-before-function-paren": ["error", "never"]
+    "space-before-function-paren": ["error", "never"],
+    "no-template-curly-in-string": "off"
   }
 }

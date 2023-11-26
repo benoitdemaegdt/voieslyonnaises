@@ -9,10 +9,13 @@
 <script setup>
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
-import style from '@/assets/style.json';
+// import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
+
+const config = useRuntimeConfig();
+const maptilerKey = config.public.maptilerKey;
 
 const { features, options } = defineProps({
   features: { type: Array, required: true },
@@ -47,7 +50,8 @@ const { getTooltipHtml, getTooltipPoi } = useTooltip();
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
-    style,
+    // style,
+    style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
     center: [4.8312188, 45.757198],
     zoom: 12,
     attributionControl: false
@@ -89,7 +93,7 @@ onMounted(() => {
     // console.log('e.lngLat >>', e.lngLat)
     const features = map
       .queryRenderedFeatures(e.point)
-      .filter(({ layer }) => layer.source !== 'openmaptiles');
+      .filter(({ layer }) => !['maptiler_planet', 'openmaptiles'].includes(layer.source));
 
     if (features.length === 0) {
       return;
