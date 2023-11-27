@@ -19,28 +19,37 @@
       <p>{{ data.limitation }}</p>
     </template>
 
+    <template v-if="data.lines?.length > 0">
+      <h2>Voies Lyonnaises mesurées par ce compteur</h2>
+      <ul>
+        <li v-for="line in data.lines" :key="line">
+          <LineLink :line="line" />
+        </li>
+      </ul>
+    </template>
+
     <h2>Source des données</h2>
     <p>Les données proviennent de <a href="https://data.eco-counter.com/ParcPublic/?id=3902#" target="_blank">data.eco-counter.com</a>.</p>
   </ContentFrame>
 </template>
 
 <script setup>
-const { path } = useRoute()
-const { withoutTrailingSlash } = useUrl()
+const { path } = useRoute();
+const { withoutTrailingSlash } = useUrl();
 
 const { data } = await useAsyncData(`compteur-${path}`, () => {
   return queryContent()
     .where({ _path: withoutTrailingSlash(path) })
-    .findOne()
-})
+    .findOne();
+});
 
 if (!data.value) {
-  const router = useRouter()
-  router.push({ path: '/404' })
+  const router = useRouter();
+  router.push({ path: '/404' });
 }
 
-const DESCRIPTION = `Compteur vélo ${data.value.name}`
-const IMAGE_URL = data.value.imageUrl
+const DESCRIPTION = `Compteur vélo ${data.value.name}`;
+const IMAGE_URL = data.value.imageUrl;
 useHead({
   meta: [
     // description
@@ -51,5 +60,5 @@ useHead({
     { hid: 'og:image', property: 'og:image', content: IMAGE_URL },
     { hid: 'twitter:image', name: 'twitter:image', content: IMAGE_URL }
   ]
-})
+});
 </script>
