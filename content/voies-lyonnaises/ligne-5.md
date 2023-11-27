@@ -88,7 +88,7 @@ Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste
 Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge monumentale au centre, fait l'objet d'un réaménagement depuis juin 2023. Le projet prévoit un resserrement de l'anneau routier pour créer un anneau cyclable unidirectionnel de 3m de large, ainsi que de la végétalisation. Les travaux devraient se terminer en décembre 2023.
 
 ### Tassin Sud
-*L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagements cyclables aujourd'hui.*
+*L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagement cyclable aujourd'hui.*
 
 La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais (TEOL) attendu à l'horizon 2032. Le tracé à venir reste flou, avec plusieurs variantes inconnues étudiées par les services de la Métropole de Lyon. *C'est une mauvaise nouvelle pour les cyclistes de l'Ouest lyonnais qui ne pourront pas traverser Tassin du Nord au Sud en sécurité avant de nombreuses années.*
 
