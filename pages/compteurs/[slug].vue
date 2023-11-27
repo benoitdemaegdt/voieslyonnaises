@@ -19,11 +19,11 @@
       <p>{{ data.limitation }}</p>
     </template>
 
-    <template v-if="data.lines?.length > 0">
+    <template v-if="data && data.lines && data.lines.length > 0">
       <h2>Voies Lyonnaises mesurées par ce compteur</h2>
       <ul>
         <li v-for="line in data.lines" :key="line">
-          <LineLink :line="line" />
+          <LineLink :line="String(line)" />
         </li>
       </ul>
     </template>
