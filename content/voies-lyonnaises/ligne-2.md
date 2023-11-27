@@ -118,7 +118,7 @@ credit: Métropole de Lyon
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès Métro D) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
 #### Avenue Charles de Gaulle
-La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisés pour créer une piste cyclable bidirectionelle de 3m de large bien séparée du flux de circulation.
+La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisés pour créer une piste cyclable bidirectionnelle de 3m de large bien séparée du flux de circulation.
 
 ::image
 ---

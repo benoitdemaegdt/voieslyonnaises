@@ -47,7 +47,7 @@ Sur cette petite section de 120m de long jusqu'à la place de Trion, le projet p
 ### Traversée de Saint-Just
 Pour traverser ce quartier ancien, le projet prévoit d'emprunter la rue de Trion puis la rue des Farges. Ces rues étroites, sans aménagements cyclables et avec des trottoirs parfois inférieurs à 1m de large voient passer un flux de transit automobile inadapté, approchant 8000 à 9000 véhicules par jour. Elles sont anxiogènes pour les cyclistes et très bruyantes pour les riverains.
 
-Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement le trafic automobile du secteur pour qu'il soit limité aux seuls riverains et inférieur à 1000 véhicules par jour. Cela permettra d'aménager une vélorue où le nombre de cycliste sera bien supérieur au nombre de voitures, rendant la mixité acceptable et confortable pour tous, sans impacter le stationnement. Pour cela, il est prévu deux scénarios qui incluent notamment une modification du plan de circulation du quartier, une fermeture de la circulation sur la montée du Chemin Neuf hors riverains et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy.
+Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement le trafic automobile du secteur pour qu'il soit limité aux seuls riverains et inférieur à 1000 véhicules par jour. Cela permettra d'aménager une vélorue où le nombre de cyclistes sera bien supérieur au nombre de voitures, rendant la mixité acceptable et confortable pour tous, sans impacter le stationnement. Pour cela, il est prévu deux scénarios qui incluent notamment une modification du plan de circulation du quartier, une fermeture de la circulation sur la montée du Chemin Neuf hors riverains et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy.
 
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
@@ -67,7 +67,7 @@ En arrivant devant le métro Saint-Jean, l'itinéraire emprunte l'avenue Adolphe
 ### Traversée de la Presqu'Île de Lyon
 Le projet prévoit de relier le pont Bonaparte sur la Saône avec le pont de la Guillotière sur le Rhône grâce à une piste cyclable bidirectionnelle de 3 à 4m de large aménagée côté Nord de la chaussée.
 
-En plus de la création de cet aménagement cyclable sécurisé, le projet prévoit d'élargir les deux trottoirs  sur la rue du Colonel Chambonnet, d'élargir le trottoir Nord le long de la place Bellecour en y plantant des arbres et de conserver une bande technique pour les taxis et les livraisons rue de la Barre.
+En plus de la création de cet aménagement cyclable sécurisé, le projet prévoit d'élargir les deux trottoirs sur la rue du Colonel Chambonnet, d'élargir le trottoir Nord le long de la place Bellecour en y plantant des arbres et de conserver une bande technique pour les taxis et les livraisons rue de la Barre.
 
 ::image
 ---
@@ -113,7 +113,7 @@ credit: Métropole de Lyon
 ::
 
 ### Boulevard Pinel à Bron - Boutasse
-Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable bidirectionnelle existante de 3m de large le long du tramway entre en conflit avec les piétons à chaque arrêt. Le projet prévoit donc de rendre cet espace aux piétons et d'aménager une nouvelle piste bidirectionelle de 4m de large sur le côté Nord de la chaussée actuelle, en réduisant la circulation automobile à 2x1 voies au lieu de 2x2 voies aujourd'hui.
+Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable bidirectionnelle existante de 3m de large le long du tramway entre en conflit avec les piétons à chaque arrêt. Le projet prévoit donc de rendre cet espace aux piétons et d'aménager une nouvelle piste bidirectionnelle de 4m de large sur le côté Nord de la chaussée actuelle, en réduisant la circulation automobile à 2x1 voies au lieu de 2x2 voies aujourd'hui.
 
 ::image
 ---

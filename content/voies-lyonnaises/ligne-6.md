@@ -77,7 +77,7 @@ La concertation publique sur ce tronçon se tient du 20/11 au 31/12/2023.
 Ce tronçon de la Voie Lyonnaise 6 s'inscrit dans le grand projet de réaménagement de la Rive Droite du Rhône porté par la ville de Lyon.
 
 Le projet consiste en l'aménagement d'une piste cyclable bidirectionnelle au centre de la chaussée actuelle au sein du double alignement arboré de platanes qui sert aujourd'hui de stationnement automobile.  
-A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera requalifiée. Le reste du linéaire sera toute de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
+A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera requalifiée. Le reste du linéaire sera tout de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
 
 La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.  
 [Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6ead4ed3f90ee1bc2e3a0c6a6c542dc84b009b56.pdf)

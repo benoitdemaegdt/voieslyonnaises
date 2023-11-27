@@ -150,7 +150,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
 ### Garibaldi Sud à St-Fons - République
 
 #### Garibaldi Gde Rue de la Guillotière - Berthelot
-Entre la Grande Rue de la Guillotière et la route de Vienne, il est prévu une piste cyclable bidriectionnelle de 4m de large côté Ouest de la chaussée, en supprimant une voie de circulation et une bande de stationnement.
+Entre la Grande Rue de la Guillotière et la route de Vienne, il est prévu une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée, en supprimant une voie de circulation et une bande de stationnement.
 
 Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la piste cyclable bidirectionnelle existante de 3m de large le long du trottoir Ouest, mais le confort sera amélioré avec le remplacement du stationnement automobile par de la végétalisation.
 
@@ -163,7 +163,7 @@ credit: Métropole de Lyon
 ::
 
 #### Rue Paul Duvivier
-La piste cyclable bidirectonnelle existante de 3m de large sera conservée.
+La piste cyclable bidirectionnelle existante de 3m de large sera conservée.
 
 #### Route de Vienne
 Sur cette longue séquence aujourd'hui partiellement aménagée avec des bandes cyclables ou des couloirs bus ouverts aux vélos, il est prévu la création d'une piste cyclable bidirectionnelle de 2.5 à 4m de large côté Ouest de la chaussée, en lieu et place de la bande de stationnement actuelle.

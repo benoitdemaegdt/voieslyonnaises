@@ -163,7 +163,7 @@ Concernant la circulation automobile et le traitement du pont, deux variantes so
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
 #### Rue Marius Berliet
-L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui degraderaait les performances de la ligne C25. Les deux couloirs de bus bilatéraux ouverts aux cyclistes aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui dégraderait les performances de la ligne C25. Les deux couloirs de bus bilatéraux ouverts aux cyclistes aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### Avenue Jean Mermoz
 Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie du stationnement.
@@ -176,7 +176,7 @@ credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
-Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivé du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une successions de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une succession de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
@@ -205,7 +205,7 @@ credit: Street Architecture / Métropole de Lyon
 #### Boulevard de l'Université
 Sur ce boulevard très routier, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 4m de large côté Sud :
  - sur la voirie, en lieu et place d'une voie de circulation *VARIANTE VALIDEE*
- - sur l'espace vert dans le bas côté
+ - sur l'espace vert dans le bas-côté
 
 ::image
 ---

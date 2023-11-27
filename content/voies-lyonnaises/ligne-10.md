@@ -67,7 +67,7 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
 ***Meyzieu***
  - entre l'avenue du Carreau et l'avenue de la Libération, la voie sera ponctuellement élargie pour séparer piétons et cyclistes
  - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire de traverser 2 fois les voies du tram grâce à la création d'un cheminement modes actifs qui dessert le nouveau groupe scolaire
- - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionelle
+ - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionnelle
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
 #### *Concertation*
