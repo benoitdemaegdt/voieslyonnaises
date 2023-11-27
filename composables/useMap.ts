@@ -511,6 +511,9 @@ export const useMap = () => {
       .filter((feature): feature is LineStringFeature => feature.geometry.type === 'LineString')
       .map(feature => feature.geometry.coordinates)
       .flat();
+    if (allCoordinates.length === 0) {
+      return;
+    }
     const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
     for (const coord of allCoordinates) {
       bounds.extend(coord);
