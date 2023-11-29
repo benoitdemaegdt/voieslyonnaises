@@ -66,7 +66,7 @@ La Voie Lyonnaise empruntera les aménagements cyclables récents existants (202
 
 #### *Concertation*
 La concertation sur ce tronçon (hors tram T9) s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
 Cette section est en tronçon commun avec la :line-link{line=1}.
@@ -133,7 +133,7 @@ credit: Métropole de Lyon
 
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[Voir le dossier de concertation (p.56 à p.80)](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5_Oullins.pdf)
 
 ### Gare d'Oullins à Pierre-Bénite Barrage
 Cette section est en tronçon commun avec la :line-link{line=3}.
@@ -177,4 +177,4 @@ caption: calendrier prévisionnel du tronçon Est de la Voie Lyonnaise 5.
 
 Réunion de concertation sur le tronçon Villeurbanne - Vaulx-en-Velin - Bron.
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
