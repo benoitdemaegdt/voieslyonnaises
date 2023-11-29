@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg"
       },
@@ -26,6 +28,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png"
       },
@@ -37,6 +40,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg"
       },
@@ -48,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png"
       },
@@ -59,6 +64,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png"
       },
@@ -70,6 +76,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png"
       },
@@ -81,6 +88,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg"
       },

@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png"
       },
@@ -26,6 +28,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png"
       },
@@ -37,6 +40,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png"
       },
@@ -48,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png"
       },
@@ -59,6 +64,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png"
       },
@@ -70,6 +76,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png"
       },
@@ -81,6 +88,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png"
       },
@@ -92,6 +100,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png"
       },
@@ -103,6 +112,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png"
       },
@@ -114,6 +124,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png"
       },
@@ -125,6 +136,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png"
       },
