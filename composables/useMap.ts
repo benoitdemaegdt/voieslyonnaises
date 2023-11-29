@@ -508,6 +508,31 @@ export const useMap = () => {
     });
   }
 
+  function plotCompteurs({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
+    const compteurs = features
+      .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
+      .filter(feature => feature.properties.type === 'compteur');
+    if (compteurs.length === 0) {
+      return;
+    }
+    map.addSource('compteurs', {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: compteurs
+      }
+    });
+    map.addLayer({
+      id: 'compteurs',
+      source: 'compteurs',
+      type: 'circle',
+      paint: {
+        'circle-radius': 6,
+        'circle-color': '#B42222'
+      }
+    });
+  }
+
   function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
     const allCoordinates = features
       .filter((feature): feature is LineStringFeature => feature.geometry.type === 'LineString')
@@ -532,6 +557,7 @@ export const useMap = () => {
     plotUnknownSections,
     plotPostponedSections,
     plotPerspective,
+    plotCompteurs,
     fitBounds
   };
 };

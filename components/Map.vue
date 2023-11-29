@@ -42,6 +42,7 @@ const {
   plotUnknownSections,
   plotPostponedSections,
   plotPerspective,
+  plotCompteurs,
   fitBounds
 } = useMap();
 
@@ -84,6 +85,7 @@ onMounted(() => {
     plotUnknownSections({ map, features });
     plotPostponedSections({ map, features });
     plotPerspective({ map, features });
+    plotCompteurs({ map, features });
 
     fitBounds({ map, features });
   });
