@@ -39,7 +39,9 @@ const { data: counters } = await useAsyncData(() => {
 
 const features = counters.value.map(counter => ({
   type: 'Feature',
-  properties: {},
+  properties: {
+    type: 'compteur'
+  },
   geometry: {
     type: 'Point',
     coordinates: counter.coordinates
