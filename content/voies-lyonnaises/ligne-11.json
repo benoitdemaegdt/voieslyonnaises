@@ -267,7 +267,7 @@
         "id": "GuillotièreWilson-commun",
         "line": 11,
         "name": "Pont Wilson - Pont Guillotière",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
