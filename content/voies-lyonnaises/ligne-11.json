@@ -267,7 +267,7 @@
         "id": "GuillotièreWilson-commun",
         "line": 11,
         "name": "Pont Wilson - Pont Guillotière",
-        "status": "wip"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -303,7 +303,7 @@
         "id": "QuaiAugagneur-commun",
         "line": 11,
         "name": "Rue de Bonnel - Pont Wilson",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
