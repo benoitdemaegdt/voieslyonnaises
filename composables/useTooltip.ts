@@ -16,9 +16,15 @@ type Feature = {
   };
 };
 
-type PoiProperties = {
+type PerspectiveProperties = {
   line: number;
   imgUrl: string;
+};
+
+type CompteurProperties = {
+  type: 'compteur';
+  name: string;
+  link: string;
 };
 
 function getStatusText(status: Status): string {
@@ -64,7 +70,7 @@ export const useTooltip = () => {
     `;
   }
 
-  function getTooltipPoi(properties: PoiProperties) {
+  function getTooltipPerspective(properties: PerspectiveProperties) {
     const color = getLineColor(properties.line);
     return `
       <div class="h-10 flex items-center" style="background-color: ${color}">
@@ -78,5 +84,17 @@ export const useTooltip = () => {
     `;
   }
 
-  return { getTooltipHtml, getTooltipPoi };
+  function getTooltipCompteur(properties: CompteurProperties) {
+    return `
+      <div class="flex items-center bg-lvv-blue-600">
+        <div class="p-2">
+          <a class='text-white font-bold text-lg hover:underline' href='${properties.link}'>
+            ${properties.name}
+          </a>
+        </div>
+      </div>
+    `;
+  }
+
+  return { getTooltipHtml, getTooltipPerspective, getTooltipCompteur };
 };

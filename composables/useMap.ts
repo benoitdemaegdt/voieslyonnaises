@@ -527,8 +527,8 @@ export const useMap = () => {
       source: 'compteurs',
       type: 'circle',
       paint: {
-        'circle-radius': 6,
-        'circle-color': '#B42222'
+        'circle-radius': 7,
+        'circle-color': '#152B68'
       }
     });
   }

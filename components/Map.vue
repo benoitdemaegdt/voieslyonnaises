@@ -46,7 +46,7 @@ const {
   fitBounds
 } = useMap();
 
-const { getTooltipHtml, getTooltipPoi } = useTooltip();
+const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -101,12 +101,20 @@ onMounted(() => {
       return;
     }
 
-    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois');
-    if (isPoiLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'pois');
+    const isPerspectiveLayerClicked = features.some(({ layer }) => layer.id === 'perspectives');
+    const isCompteurLayerClicked = features.some(({ layer }) => layer.id === 'compteurs');
+
+    if (isPerspectiveLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'perspectives');
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipPoi(feature.properties))
+        .setHTML(getTooltipPerspective(feature.properties))
+        .addTo(map);
+    } else if (isCompteurLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'compteurs');
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(getTooltipCompteur(feature.properties))
         .addTo(map);
     } else {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })

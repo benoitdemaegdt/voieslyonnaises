@@ -40,7 +40,9 @@ const { data: counters } = await useAsyncData(() => {
 const features = counters.value.map(counter => ({
   type: 'Feature',
   properties: {
-    type: 'compteur'
+    type: 'compteur',
+    name: counter.name,
+    link: counter._path
   },
   geometry: {
     type: 'Point',
