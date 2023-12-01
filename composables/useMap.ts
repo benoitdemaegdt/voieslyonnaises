@@ -536,15 +536,17 @@ export const useMap = () => {
   }
 
   function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
-    const allCoordinates = features
+    const allLineStringsCoordinates = features
       .filter((feature): feature is LineStringFeature => feature.geometry.type === 'LineString')
       .map(feature => feature.geometry.coordinates)
       .flat();
-    if (allCoordinates.length === 0) {
-      return;
-    }
-    const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
-    for (const coord of allCoordinates) {
+
+    const allPointsCoordinates = features
+      .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
+      .map(feature => feature.geometry.coordinates);
+
+    const bounds = new maplibregl.LngLatBounds(allLineStringsCoordinates[0], allLineStringsCoordinates[0]);
+    for (const coord of [...allLineStringsCoordinates, ...allPointsCoordinates]) {
       bounds.extend(coord);
     }
     map.fitBounds(bounds, { padding: 20 });
