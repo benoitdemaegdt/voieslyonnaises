@@ -345,7 +345,7 @@
       "properties": {
         "line": 1,
         "name": "Rue Cuvier - Rue de Bonnel",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -363,7 +363,7 @@
         "id": "QuaiAugagneur-commun",
         "line": 1,
         "name": "Rue de Bonnel - Pont Wilson",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -378,7 +378,7 @@
       "properties": {
         "line": 1,
         "name": "Pont Wilson - Pont de la Guillotière",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",

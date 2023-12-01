@@ -308,7 +308,7 @@
         "id": "QuaiAugagneur-commun",
         "line": 11,
         "name": "Rue de Bonnel - Pont Wilson",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",

@@ -4,8 +4,13 @@
   "arrondissement": "Lyon 3",
   "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
   "idPdc": 100047691,
-  "coordinates": [4.841102957725526, 45.76120974233474],
-  "lines": [1],
+  "coordinates": [
+    4.841102957725526,
+    45.76120974233474
+  ],
+  "lines": [
+    1
+  ],
   "counts": [
     {
       "month": "2015/01/01",
@@ -429,7 +434,11 @@
     },
     {
       "month": "2023/10/01",
-      "count": 290969
+      "count": 296365
+    },
+    {
+      "month": "2023/11/01",
+      "count": 238003
     }
   ]
 }
