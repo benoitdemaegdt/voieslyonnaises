@@ -531,6 +531,8 @@ export const useMap = () => {
         'circle-color': '#152B68'
       }
     });
+    map.on('mouseenter', 'compteurs', () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', 'compteurs', () => (map.getCanvas().style.cursor = ''));
   }
 
   function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
