@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg"
       },
@@ -26,6 +28,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png"
       },
@@ -37,6 +40,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg"
       },
@@ -48,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg"
       },
@@ -59,6 +64,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png"
       },
@@ -70,6 +76,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png"
       },

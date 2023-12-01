@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 10,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png"
       },

@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
       },

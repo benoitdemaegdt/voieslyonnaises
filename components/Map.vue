@@ -23,6 +23,7 @@ const { features, options } = defineProps({
     type: Object,
     required: false,
     default: () => ({
+      legend: true,
       fullscreen: false,
       onFullscreenControlClick: () => {},
       shrink: false,
@@ -41,11 +42,12 @@ const {
   plotVariantePostponedSections,
   plotUnknownSections,
   plotPostponedSections,
-  plotPois,
+  plotPerspective,
+  plotCompteurs,
   fitBounds
 } = useMap();
 
-const { getTooltipHtml, getTooltipPoi } = useTooltip();
+const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -70,10 +72,12 @@ onMounted(() => {
     });
     map.addControl(shrinkControl, 'top-right');
   }
-  const legendControl = new LegendControl({
-    onClick: () => legendModalComponent.value.openModal()
-  });
-  map.addControl(legendControl, 'top-right');
+  if (options.legend) {
+    const legendControl = new LegendControl({
+      onClick: () => legendModalComponent.value.openModal()
+    });
+    map.addControl(legendControl, 'top-right');
+  }
 
   map.on('load', () => {
     plotDoneSections({ map, features });
@@ -83,7 +87,8 @@ onMounted(() => {
     plotWipSections({ map, features });
     plotUnknownSections({ map, features });
     plotPostponedSections({ map, features });
-    plotPois({ map, features });
+    plotPerspective({ map, features });
+    plotCompteurs({ map, features });
 
     fitBounds({ map, features });
   });
@@ -99,12 +104,20 @@ onMounted(() => {
       return;
     }
 
-    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois');
-    if (isPoiLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'pois');
+    const isPerspectiveLayerClicked = features.some(({ layer }) => layer.id === 'perspectives');
+    const isCompteurLayerClicked = features.some(({ layer }) => layer.id === 'compteurs');
+
+    if (isPerspectiveLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'perspectives');
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipPoi(feature.properties))
+        .setHTML(getTooltipPerspective(feature.properties))
+        .addTo(map);
+    } else if (isCompteurLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'compteurs');
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(getTooltipCompteur(feature.properties))
         .addTo(map);
     } else {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })

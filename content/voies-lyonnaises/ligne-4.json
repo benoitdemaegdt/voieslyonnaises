@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg"
       },
@@ -26,6 +28,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg"
       },
@@ -37,6 +40,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg"
       },
@@ -48,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg"
       },

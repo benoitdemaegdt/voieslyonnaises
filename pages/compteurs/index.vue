@@ -8,14 +8,11 @@
         <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
           Suivi des compteurs vélo de l'agglomération lyonnaise
         </h2>
-        <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
-          Page en cours de construction.
-        </p>
-        <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
-          Elle sera destinée à suivre le réseau de plus de 70 compteurs vélo afin de pouvoir mesurer efficacement l'évolution de la pratique cyclable au sein de la métropole.
-        </p>
+        <ClientOnly>
+          <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
+        </ClientOnly>
       </div>
-      <div class="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none">
+      <div class="mt-12 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
         <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-lg overflow-hidden">
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -26,9 +23,6 @@
                 <p class="text-xl font-semibold text-gray-900">
                   {{ counter.name }}
                 </p>
-                <!--                <p class="mt-3 text-base text-gray-500">-->
-                <!--                  {{ counter.description }}-->
-                <!--                </p>-->
               </div>
             </div>
           </div>
@@ -40,6 +34,19 @@
 
 <script setup>
 const { data: counters } = await useAsyncData(() => {
-  return queryContent('compteurs').without('counts').find()
-})
+  return queryContent('compteurs').without('counts').find();
+});
+
+const features = counters.value.map(counter => ({
+  type: 'Feature',
+  properties: {
+    type: 'compteur',
+    name: counter.name,
+    link: counter._path
+  },
+  geometry: {
+    type: 'Point',
+    coordinates: counter.coordinates
+  }
+}));
 </script>

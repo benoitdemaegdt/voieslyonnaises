@@ -80,10 +80,10 @@ Le projet consiste en l'aménagement d'une piste cyclable bidirectionnelle au ce
 A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera requalifiée. Le reste du linéaire sera tout de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
 
 La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6ead4ed3f90ee1bc2e3a0c6a6c542dc84b009b56.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_Concertation.pdf)
 
 Le projet définitif a été présenté début juin 2023.  
-[Voir le dossier de presse détaillé](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/dp/2023/20230607_dp_rive-droite.pdf)
+[Voir le dossier de presse détaillé](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_ProjetFinal.pdf)
 
 Les travaux devraient démarrer début 2025.
 
@@ -168,8 +168,7 @@ credit: Folia / Métropole de Lyon
 ::
   
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[Voir le dossier de concertation (p.14 à p.55)
-](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)
 
 #### Rue de la Camille à Giratoire Gadagne
 Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
@@ -183,8 +182,7 @@ credit: Métropole de Lyon
 ::
 
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[Voir le dossier de concertation (p.81 à p.90)
-](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_St-Genis-Laval.pdf)
 
 #### Giratoire Gadagne à Chemin des Barolles
 Pour rejoindre Brignais et traverser la commune de St-Genis-Laval, la Voie Lyonnaise 6 devait passer par l'avenue de Gadagne ou l'avenue Clémenceau/Foch. Après études plus poussées, les deux scénarios ont été rejetés par les élus locaux.
@@ -195,7 +193,7 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 ## Budget prévisionnel
 - **17 300 000 € HT** au total dont : 
     - **3 800 000 € HT** pour le tronçon Nord
-      <br>_source: [page 54 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b176221aaa79164f0cbfd4570360673308f4cd9d.pdf)_
+      <br>_source: [page 54 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6Nord_Herbouville_Crepieux.pdf)_
 
 
 ## Calendrier prévisionnel

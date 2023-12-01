@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png"
       },
@@ -26,6 +28,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png"
       },
@@ -37,6 +40,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png"
       },
@@ -48,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png"
       },

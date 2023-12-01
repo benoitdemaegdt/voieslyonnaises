@@ -17,6 +17,7 @@ type LineStringFeature = {
 type PointFeature = {
   type: 'Feature';
   properties: {
+    type: 'perspective' | 'compteur';
     line: number;
     name: string;
   };
@@ -455,9 +456,10 @@ export const useMap = () => {
     }
   }
 
-  function plotPois({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
-    const pois = features
+  function plotPerspective({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
+    const perspectives = features
       .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
+      .filter(feature => feature.properties.type === 'perspective')
       .map(feature => ({
         ...feature,
         properties: {
@@ -465,14 +467,14 @@ export const useMap = () => {
           ...feature.properties
         }
       }));
-    if (pois.length === 0) {
+    if (perspectives.length === 0) {
       return;
     }
-    map.addSource('pois', {
+    map.addSource('perspectives', {
       type: 'geojson',
       data: {
         type: 'FeatureCollection',
-        features: pois
+        features: perspectives
       }
     });
 
@@ -482,8 +484,8 @@ export const useMap = () => {
       }
       map.addImage('camera-icon', image, { sdf: true });
       map.addLayer({
-        id: 'pois',
-        source: 'pois',
+        id: 'perspectives',
+        source: 'perspectives',
         type: 'symbol',
         layout: {
           'icon-image': 'camera-icon',
@@ -494,25 +496,57 @@ export const useMap = () => {
           'icon-color': ['get', 'color']
         }
       });
-      map.setLayoutProperty('pois', 'visibility', 'none');
+      map.setLayoutProperty('perspectives', 'visibility', 'none');
       map.on('zoom', () => {
         const zoomLevel = map.getZoom();
         if (zoomLevel > 14) {
-          map.setLayoutProperty('pois', 'visibility', 'visible');
+          map.setLayoutProperty('perspectives', 'visibility', 'visible');
         } else {
-          map.setLayoutProperty('pois', 'visibility', 'none');
+          map.setLayoutProperty('perspectives', 'visibility', 'none');
         }
       });
     });
   }
 
+  function plotCompteurs({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
+    const compteurs = features
+      .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
+      .filter(feature => feature.properties.type === 'compteur');
+    if (compteurs.length === 0) {
+      return;
+    }
+    map.addSource('compteurs', {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: compteurs
+      }
+    });
+    map.addLayer({
+      id: 'compteurs',
+      source: 'compteurs',
+      type: 'circle',
+      paint: {
+        'circle-radius': 7,
+        'circle-color': '#152B68'
+      }
+    });
+    map.on('mouseenter', 'compteurs', () => (map.getCanvas().style.cursor = 'pointer'));
+    map.on('mouseleave', 'compteurs', () => (map.getCanvas().style.cursor = ''));
+  }
+
   function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
-    const allCoordinates = features
+    const allLineStringsCoordinates = features
       .filter((feature): feature is LineStringFeature => feature.geometry.type === 'LineString')
       .map(feature => feature.geometry.coordinates)
       .flat();
-    const bounds = new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]);
-    for (const coord of allCoordinates) {
+
+    const allPointsCoordinates = features
+      .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
+      .map(feature => feature.geometry.coordinates);
+
+    const bounds = new maplibregl.LngLatBounds(allLineStringsCoordinates[0], allLineStringsCoordinates[0]);
+    for (const coord of [...allLineStringsCoordinates, ...allPointsCoordinates]) {
       bounds.extend(coord);
     }
     map.fitBounds(bounds, { padding: 20 });
@@ -526,7 +560,8 @@ export const useMap = () => {
     plotVariantePostponedSections,
     plotUnknownSections,
     plotPostponedSections,
-    plotPois,
+    plotPerspective,
+    plotCompteurs,
     fitBounds
   };
 };
