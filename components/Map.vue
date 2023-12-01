@@ -23,6 +23,7 @@ const { features, options } = defineProps({
     type: Object,
     required: false,
     default: () => ({
+      legend: true,
       fullscreen: false,
       onFullscreenControlClick: () => {},
       shrink: false,
@@ -71,10 +72,12 @@ onMounted(() => {
     });
     map.addControl(shrinkControl, 'top-right');
   }
-  const legendControl = new LegendControl({
-    onClick: () => legendModalComponent.value.openModal()
-  });
-  map.addControl(legendControl, 'top-right');
+  if (options.legend) {
+    const legendControl = new LegendControl({
+      onClick: () => legendModalComponent.value.openModal()
+    });
+    map.addControl(legendControl, 'top-right');
+  }
 
   map.on('load', () => {
     plotDoneSections({ map, features });

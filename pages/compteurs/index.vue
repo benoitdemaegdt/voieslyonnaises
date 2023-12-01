@@ -9,7 +9,7 @@
           Suivi des compteurs vélo de l'agglomération lyonnaise
         </h2>
         <ClientOnly>
-          <Map :features="features" class="mt-12" style="height: 40vh" />
+          <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
         </ClientOnly>
       </div>
       <div class="mt-12 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
