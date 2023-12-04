@@ -64,7 +64,28 @@ const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
     .findOne();
 });
 
-const features = geojson.value.features;
+const { data: counters } = await useAsyncData(() => {
+  return queryContent('compteurs')
+    .where({ lines: { $contains: voie.line } })
+    .without('counts')
+    .find();
+});
+
+const features = [
+  ...geojson.value.features,
+  ...counters.value.map(counter => ({
+    type: 'Feature',
+    properties: {
+      type: 'compteur',
+      name: counter.name,
+      link: counter._path
+    },
+    geometry: {
+      type: 'Point',
+      coordinates: counter.coordinates
+    }
+  }))
+];
 const doneFeatures = features.filter(feature => feature.properties.status === 'done');
 const doneDistance = getDistance({ features: doneFeatures });
 const avancement = Math.round(doneDistance / voie.distance * 100);
