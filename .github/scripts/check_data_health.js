@@ -1,10 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-function checkDataHealth() {
+(function checkDataHealth() {
   checkJsonFilesAreValid();
   checkGeoJsonDataHealth();
-}
+  checkCompteursDataHealth();
+})();
 
 function checkJsonFilesAreValid(directory = 'content') {
   fs.readdirSync(directory).forEach(file => {
@@ -69,6 +70,20 @@ function checkGeoJsonDataHealth() {
                   process.exit(1);
                 }
               }
+            } else if (feature.geometry.type === 'Point') {
+              // perspective images added to the map at high zoom level
+              const properties = feature.properties || {};
+              const requiredKeys = ['type', 'line', 'imgUrl'];
+              for (const key of requiredKeys) {
+                if (!properties.hasOwnProperty(key)) {
+                  console.error(`Missing key '${key}' in Point properties of file: ${filePath}`);
+                  process.exit(1);
+                }
+              }
+              if (properties.type !== 'perspective') {
+                console.error(`Invalid type '${properties.type}' in Point properties of file: ${filePath}`);
+                process.exit(1);
+              }
             }
           }
         }
@@ -93,4 +108,20 @@ function checkGeoJsonDataHealth() {
   }
 }
 
-checkDataHealth();
+function checkCompteursDataHealth() {
+  fs.readdirSync('content/compteurs').forEach(file => {
+    if (file.endsWith('.json')) {
+      const filePath = path.join('content/compteurs', file);
+      const content = fs.readFileSync(filePath, 'utf8');
+
+      const compteur = JSON.parse(content);
+      const requiredKeys = ['name', 'description', 'arrondissement', 'imageUrl', 'idPdc', 'coordinates', 'counts'];
+      for (const key of requiredKeys) {
+        if (!compteur.hasOwnProperty(key)) {
+          console.error(`Missing key '${key}' in Compteur properties of file: ${filePath}`);
+          process.exit(1);
+        }
+      }
+    }
+  });
+}
