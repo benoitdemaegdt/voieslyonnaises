@@ -6,6 +6,9 @@
     :description="data.description"
     :image-url="data.imageUrl"
   >
+    <ClientOnly>
+      <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
+    </ClientOnly>
     <h2>Total des passages par année</h2>
     <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur vélo chaque année.</p>
     <ChartTotalByYear :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
@@ -47,6 +50,21 @@ if (!data.value) {
   const router = useRouter();
   router.push({ path: '/404' });
 }
+
+const features = [
+  {
+    type: 'Feature',
+    properties: {
+      type: 'compteur',
+      name: data.value.name,
+      link: data.value._path
+    },
+    geometry: {
+      type: 'Point',
+      coordinates: data.value.coordinates
+    }
+  }
+];
 
 const DESCRIPTION = `Compteur vélo ${data.value.name}`;
 const IMAGE_URL = data.value.imageUrl;

@@ -2,15 +2,9 @@
   "name": "Pont Robert Schuman",
   "description": "Le compteur vélo du pont Robert Schuman mesure la fréquentation du quai ouest.",
   "arrondissement": "Lyon 9",
-  "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
   "idPdc": 100055357,
-  "coordinates": [
-    4.809320506666497,
-    45.78042510696076
-  ],
-  "lines": [
-    3
-  ],
+  "coordinates": [4.809320506666497, 45.78042510696076],
+  "lines": [3],
   "counts": [
     {
       "month": "2015/12/01",

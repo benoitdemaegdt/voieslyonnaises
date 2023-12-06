@@ -545,11 +545,15 @@ export const useMap = () => {
       .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
       .map(feature => feature.geometry.coordinates);
 
-    const bounds = new maplibregl.LngLatBounds(allLineStringsCoordinates[0], allLineStringsCoordinates[0]);
-    for (const coord of [...allLineStringsCoordinates, ...allPointsCoordinates]) {
-      bounds.extend(coord);
+    if (features.length === 1 && allPointsCoordinates.length === 1) {
+      map.flyTo({ center: allPointsCoordinates[0] });
+    } else {
+      const bounds = new maplibregl.LngLatBounds(allLineStringsCoordinates[0], allLineStringsCoordinates[0]);
+      for (const coord of [...allLineStringsCoordinates, ...allPointsCoordinates]) {
+        bounds.extend(coord);
+      }
+      map.fitBounds(bounds, { padding: 20 });
     }
-    map.fitBounds(bounds, { padding: 20 });
   }
 
   return {
