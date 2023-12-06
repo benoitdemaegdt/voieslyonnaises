@@ -17,20 +17,24 @@ import ShrinkControl from '@/maplibre/ShrinkControl';
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
 
-const { features, options } = defineProps({
+const { features, options: providedOptions } = defineProps({
   features: { type: Array, required: true },
   options: {
     type: Object,
     required: false,
-    default: () => ({
-      legend: true,
-      fullscreen: false,
-      onFullscreenControlClick: () => {},
-      shrink: false,
-      onShrinkControlClick: () => {}
-    })
+    default: () => ({})
   }
 });
+
+const defaultOptions = {
+  legend: true,
+  fullscreen: false,
+  onFullscreenControlClick: () => {},
+  shrink: false,
+  onShrinkControlClick: () => {}
+};
+
+const options = { ...defaultOptions, ...providedOptions };
 
 const legendModalComponent = ref(null);
 
