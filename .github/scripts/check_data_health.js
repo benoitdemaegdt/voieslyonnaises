@@ -114,7 +114,7 @@ function checkCompteursDataHealth() {
       const content = fs.readFileSync(filePath, 'utf8');
 
       const compteur = JSON.parse(content);
-      const requiredKeys = ['name', 'description', 'arrondissement', 'imageUrl', 'idPdc', 'coordinates', 'counts'];
+      const requiredKeys = ['name', 'description', 'arrondissement', 'idPdc', 'coordinates', 'counts'];
       for (const key of requiredKeys) {
         if (!compteur.hasOwnProperty(key)) {
           console.error(`Missing key '${key}' in Compteur properties of file: ${filePath}`);
