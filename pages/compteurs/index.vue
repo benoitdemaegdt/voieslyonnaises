@@ -75,12 +75,6 @@
                   {{ counter.name }}
                 </p>
               </div>
-              <p class="text-sm text-gray-500 truncate">
-                {{ counter.counts.at(-1).count }} passages le mois dernier
-              </p>
-              <div class="max-w-2xl mx-auto bg-gray-200 rounded-full">
-                <div class="bg-lvv-blue-600 text-xs font-medium text-white text-center p-1 leading-none rounded-full" :style="`width: ${Math.round(counter.lastMonthCount / highestLastMountCount * 100)}%`" />
-              </div>
             </div>
           </div>
         </NuxtLink>
@@ -140,7 +134,9 @@ const features = counters.map(counter => ({
   properties: {
     type: 'compteur',
     name: counter.name,
-    link: counter._path
+    link: counter._path,
+    lastRecordDate: new Date(counter.counts.at(-1).month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }),
+    lastRecordValue: counter.counts.at(-1).count.toLocaleString('fr-FR')
   },
   geometry: {
     type: 'Point',
