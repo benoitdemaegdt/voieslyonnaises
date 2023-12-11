@@ -25,6 +25,8 @@ type CompteurProperties = {
   type: 'compteur';
   name: string;
   link: string;
+  lastRecordDate: string;
+  lastRecordValue: string;
 };
 
 function getStatusText(status: Status): string {
@@ -88,13 +90,19 @@ export const useTooltip = () => {
 
   function getTooltipCompteur(properties: CompteurProperties) {
     return `
-      <div class="flex items-center bg-lvv-blue-600 not-prose text-black">
+      <div class="flex items-center bg-lvv-blue-600 not-prose text-black rounded-t">
         <div class="p-2">
           <a class='text-white font-bold text-lg hover:underline' href='${properties.link}'>
             ${properties.name}
           </a>
         </div>
       </div>
+      <div class='px-2 py-1 divide-y text-gray-800'>
+         <div>
+           <div class='text-base font-bold'>${properties.lastRecordDate}</div>
+           <div >${properties.lastRecordValue} passages</div>
+         </div>
+      </div>  
     `;
   }
 

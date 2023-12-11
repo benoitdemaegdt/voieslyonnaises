@@ -34,7 +34,7 @@
 
 <script setup>
 const { data: counters } = await useAsyncData(() => {
-  return queryContent('compteurs').without('counts').find();
+  return queryContent('compteurs').find();
 });
 
 const features = counters.value.map(counter => ({
@@ -42,7 +42,9 @@ const features = counters.value.map(counter => ({
   properties: {
     type: 'compteur',
     name: counter.name,
-    link: counter._path
+    link: counter._path,
+    lastRecordDate: new Date(counter.counts.at(-1).month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }),
+    lastRecordValue: counter.counts.at(-1).count.toLocaleString('fr-FR')
   },
   geometry: {
     type: 'Point',

@@ -61,9 +61,9 @@ import {
   ListboxButton,
   ListboxOptions,
   ListboxOption
-} from '@headlessui/vue'
+} from '@headlessui/vue';
 
-const props = defineProps({ data: { type: Object, required: true } })
+const props = defineProps({ data: { type: Object, required: true } });
 
 const months = [
   { name: 'Janvier', value: 0 },
@@ -78,25 +78,24 @@ const months = [
   { name: 'Octobre', value: 9 },
   { name: 'Novembre', value: 10 },
   { name: 'Décembre', value: 11 }
+];
 
-]
+const lastRecord = props.data.counts[props.data.counts.length - 1];
+const lastRecordMonth = new Date(lastRecord.month).getMonth();
 
-const lastRecord = props.data.counts[props.data.counts.length - 1]
-const lastRecordMonth = new Date(lastRecord.month).getMonth()
-
-const selectedMonth = ref(months.find(month => month.value === lastRecordMonth))
+const selectedMonth = ref(months.find(month => month.value === lastRecordMonth));
 
 const counts = computed(() => {
   return props.data.counts.filter((count) => {
-    const date = new Date(count.month)
-    const month = date.getMonth()
-    return month === selectedMonth.value.value
-  }).sort((count1, count2) => count1.month - count2.month)
-})
+    const date = new Date(count.month);
+    const month = date.getMonth();
+    return month === selectedMonth.value.value;
+  }).sort((count1, count2) => count1.month - count2.month);
+});
 
 const years = computed(() => {
-  return counts.value.map(count => new Date(count.month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }))
-})
+  return counts.value.map(count => new Date(count.month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }));
+});
 
 const chartOptions = computed(() => {
   return {
@@ -120,6 +119,6 @@ const chartOptions = computed(() => {
       name: 'fréquentation',
       data: counts.value.map(count => count.count)
     }]
-  }
-})
+  };
+});
 </script>
