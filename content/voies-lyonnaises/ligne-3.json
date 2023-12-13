@@ -231,8 +231,7 @@
       "properties": {
         "line": 3,
         "name": "Neuville - Avenue Sadi Carnot",
-        "status": "done",
-        "doneAt": "31/12/2019"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
