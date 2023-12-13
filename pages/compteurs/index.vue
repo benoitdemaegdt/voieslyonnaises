@@ -57,9 +57,7 @@ const searchText = ref('');
 
 const counters = computed(() => {
   return allCounters.value
-    .sort((counter1, counter2) => {
-      return counter2.counts.at(-1).count - counter1.counts.at(-1).count;
-    })
+    .sort((counter1, counter2) => counter2.counts.at(-1).count - counter1.counts.at(-1).count)
     .filter(counter => counter.name.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase().includes(searchText.value.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase()));
 });
 
