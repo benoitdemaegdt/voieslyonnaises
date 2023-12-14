@@ -51,7 +51,7 @@ credit: Métropole de Lyon
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
-[Voir le dossier de concertation (p.13 à p.19)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+[Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Rue Garibaldi - *Bonnel à Paul Bert*
 Cette section est en tronçon commun avec la :line-link{line=7}.
@@ -70,7 +70,7 @@ credit: Métropole de Lyon
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
-[Voir le dossier de concertation (p.20 à p.24)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+[Voir le dossier de concertation (p.20 à p.24)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
 Cette section est en tronçon commun avec la :line-link{line=2}.
@@ -100,7 +100,7 @@ credit: Métropole de Lyon
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
-[Voir le dossier de concertation (p.25 à p.31)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+[Voir le dossier de concertation (p.25 à p.31)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Dauphiné - Lacassagne à Reconnaissance - Balzac
 Cette section est en tronçon commun avec la :line-link{line=10}.
@@ -145,13 +145,13 @@ Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usinge
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 
 ## Budget prévisionnel
  - plus de **10 000 000 € HT** au total dont :
    - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne  
-*source: [page 33 de ce dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)*
+*source: [page 33 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)*
    - **1 200 000 € HT** pour la section à Chassieu  
 _source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HU5IVKPM26FR%2BQ5NXRjB9F2%2Bc3TocC2uS){:target="_blank"}_
 
