@@ -28,8 +28,8 @@ credit: SYTRAL Mobilités
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
 L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
-[Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm){:target="_blank"}  
-Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+[Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}  
+Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'en 2026.
 
 ::image
 ---
@@ -49,7 +49,7 @@ Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandais
 De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 
 La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
 ::image
 ---
@@ -82,7 +82,7 @@ caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
 
 #### Quai Sarrail et Quai Augagneur *(Pont Morand <> Pont de la Guillotière)*
 Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.  
-*Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement sont attendus entre l'automne 2023 et l'été 2024.*
+*Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.*
 
 #### Quai Claude Bernard *(Pont de la Guillotière <> Pont Gallieni)*
 La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.  
@@ -141,7 +141,7 @@ credit: Ilex / SYTRAL Mobilité
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
 L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
-[Voir la présentation du projet du tram T10](https://www.sytral.fr/635-le-projet.htm)  
+[Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)  
 Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 ## Calendriers prévisionnels
@@ -166,7 +166,7 @@ caption: Calendrier prévisionnel de la Voie Lyonnaise 1 sur le boulevard du 11 
 <br>_source: [communiqué de presse de la métropole](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/espace-presse/cp/2022/20220708_cp_inauguration-vl1.pdf)_.
 
   -  **5 300 000 € HT** pour le tronçon sur le boulevard du 11 novembre et l’avenue Albert Einstein.
-<br>_source: dernière page du [dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b234b998ea35d789b4f3727324ac399e5e14a63e.pdf)_.
+<br>_source: dernière page du [dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)_.
 
 Pour mémoire, les budgets totaux des projets SYTRAL sont :
  - **224 000 000 € HT** pour le tram T9

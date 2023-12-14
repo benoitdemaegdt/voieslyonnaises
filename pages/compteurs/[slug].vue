@@ -1,22 +1,34 @@
 <template>
   <ContentFrame
-    v-if="data"
+    v-if="counter"
     header="compteur vélo"
-    :title="data.name"
-    :description="data.description"
-    :image-url="data.imageUrl"
+    :title="counter.name"
+    :description="counter.description"
+    :image-url="counter.imageUrl"
   >
+    <ClientOnly>
+      <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
+    </ClientOnly>
     <h2>Total des passages par année</h2>
     <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur vélo chaque année.</p>
-    <ChartTotalByYear :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+    <ChartTotalByYear :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
     <h2>Comparaison des passages pour un mois donné</h2>
     <p>Choisissez un mois dans le menu déroulant ci-dessous pour visualiser l'évolution de la fréquentation cyclable pour le même mois de chaque année.</p>
-    <ChartMonthComparison :data="data" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+    <ChartMonthComparison :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
-    <template v-if="data.limitation">
+    <template v-if="counter.limitation">
       <h2>Limitation</h2>
-      <p>{{ data.limitation }}</p>
+      <p>{{ counter.limitation }}</p>
+    </template>
+
+    <template v-if="counter && counter.lines && counter.lines.length > 0">
+      <h2>Voies Lyonnaises mesurées par ce compteur</h2>
+      <ul>
+        <li v-for="line in counter.lines" :key="line">
+          <LineLink :line="String(line)" />
+        </li>
+      </ul>
     </template>
 
     <h2>Source des données</h2>
@@ -25,22 +37,25 @@
 </template>
 
 <script setup>
-const { path } = useRoute()
-const { withoutTrailingSlash } = useUrl()
+const { path } = useRoute();
+const { withoutTrailingSlash } = useUrl();
+const { getCompteursFeatures } = useMap();
 
-const { data } = await useAsyncData(`compteur-${path}`, () => {
+const { data: counter } = await useAsyncData(`compteur-${path}`, () => {
   return queryContent()
     .where({ _path: withoutTrailingSlash(path) })
-    .findOne()
-})
+    .findOne();
+});
 
-if (!data.value) {
-  const router = useRouter()
-  router.push({ path: '/404' })
+if (!counter.value) {
+  const router = useRouter();
+  router.push({ path: '/404' });
 }
 
-const DESCRIPTION = `Compteur vélo ${data.value.name}`
-const IMAGE_URL = data.value.imageUrl
+const features = getCompteursFeatures({ counters: [counter.value] });
+
+const DESCRIPTION = `Compteur vélo ${counter.value.name}`;
+const IMAGE_URL = counter.value.imageUrl;
 useHead({
   meta: [
     // description
@@ -51,5 +66,5 @@ useHead({
     { hid: 'og:image', property: 'og:image', content: IMAGE_URL },
     { hid: 'twitter:image', name: 'twitter:image', content: IMAGE_URL }
   ]
-})
+});
 </script>

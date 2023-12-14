@@ -14,19 +14,27 @@ import LegendControl from '@/maplibre/LegendControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 
-const { features, options } = defineProps({
+// const config = useRuntimeConfig();
+// const maptilerKey = config.public.maptilerKey;
+
+const { features, options: providedOptions } = defineProps({
   features: { type: Array, required: true },
   options: {
     type: Object,
     required: false,
-    default: () => ({
-      fullscreen: false,
-      onFullscreenControlClick: () => {},
-      shrink: false,
-      onShrinkControlClick: () => {}
-    })
+    default: () => ({})
   }
 });
+
+const defaultOptions = {
+  legend: true,
+  fullscreen: false,
+  onFullscreenControlClick: () => {},
+  shrink: false,
+  onShrinkControlClick: () => {}
+};
+
+const options = { ...defaultOptions, ...providedOptions };
 
 const legendModalComponent = ref(null);
 
@@ -38,16 +46,18 @@ const {
   plotVariantePostponedSections,
   plotUnknownSections,
   plotPostponedSections,
-  plotPois,
+  plotPerspective,
+  plotCompteurs,
   fitBounds
 } = useMap();
 
-const { getTooltipHtml, getTooltipPoi } = useTooltip();
+const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
     style,
+    // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
     center: [4.8312188, 45.757198],
     zoom: 12,
     attributionControl: false
@@ -66,10 +76,12 @@ onMounted(() => {
     });
     map.addControl(shrinkControl, 'top-right');
   }
-  const legendControl = new LegendControl({
-    onClick: () => legendModalComponent.value.openModal()
-  });
-  map.addControl(legendControl, 'top-right');
+  if (options.legend) {
+    const legendControl = new LegendControl({
+      onClick: () => legendModalComponent.value.openModal()
+    });
+    map.addControl(legendControl, 'top-right');
+  }
 
   map.on('load', () => {
     plotDoneSections({ map, features });
@@ -79,7 +91,8 @@ onMounted(() => {
     plotWipSections({ map, features });
     plotUnknownSections({ map, features });
     plotPostponedSections({ map, features });
-    plotPois({ map, features });
+    plotPerspective({ map, features });
+    plotCompteurs({ map, features });
 
     fitBounds({ map, features });
   });
@@ -89,18 +102,26 @@ onMounted(() => {
     // console.log('e.lngLat >>', e.lngLat)
     const features = map
       .queryRenderedFeatures(e.point)
-      .filter(({ layer }) => layer.source !== 'openmaptiles');
+      .filter(({ layer }) => !['maptiler_planet', 'openmaptiles'].includes(layer.source));
 
     if (features.length === 0) {
       return;
     }
 
-    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois');
-    if (isPoiLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'pois');
+    const isPerspectiveLayerClicked = features.some(({ layer }) => layer.id === 'perspectives');
+    const isCompteurLayerClicked = features.some(({ layer }) => layer.id === 'compteurs');
+
+    if (isPerspectiveLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'perspectives');
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipPoi(feature.properties))
+        .setHTML(getTooltipPerspective(feature.properties))
+        .addTo(map);
+    } else if (isCompteurLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'compteurs');
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(getTooltipCompteur(feature.properties))
         .addTo(map);
     } else {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })

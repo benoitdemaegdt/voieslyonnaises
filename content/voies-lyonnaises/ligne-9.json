@@ -4,12 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [4.916449546476599, 45.79295431256256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 9,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.935443409157358, 45.80200016581372]
       }
     },
     {
@@ -716,7 +729,7 @@
       "properties": {
         "line": 9,
         "name": "Avenue Jean Jaurès",
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",

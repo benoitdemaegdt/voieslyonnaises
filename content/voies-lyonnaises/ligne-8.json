@@ -4,12 +4,145 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 8,
-        "imgUrl": "https://res.cloudinary.com/monpetitsommet/image/upload/v1664349522/voieslyonnaises/ligne8/ligne8_qugelt.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [4.740326490171583, 45.80011552352207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.785459884054262, 45.765054099609415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.792576777926371, 45.764005348518765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8070786947276645, 45.76160685812488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.839203660701742, 45.75087102357739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8428246388891125, 45.748713157831105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.849996993355859, 45.74563183478034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.873294586958224, 45.73511333401112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.914963245744389, 45.724429296192426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.917486419112663, 45.723706523049714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9197951705313585, 45.721710694065564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 8,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.926279740201267, 45.71821955833738]
       }
     },
     {

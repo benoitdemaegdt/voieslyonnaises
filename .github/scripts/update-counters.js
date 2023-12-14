@@ -20,7 +20,13 @@ const path = require('path');
 })();
 
 async function getAllCounters() {
-  const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/3902?withNull=true';
+  /**
+   * The `pratiques` query parameter is a comma separated list of the following optional integers:
+   * - 1 marche
+   * - 2 vélo
+   * - 13 trottinette
+   */
+  const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/3902?withNull=true&pratiques=2';
   const res = await fetch(URL);
   if (res.ok) {
     const allCounters = await res.json();

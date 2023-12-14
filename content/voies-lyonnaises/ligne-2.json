@@ -4,6 +4,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
+        "line": 2,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.859350965174372, 45.777942473521335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
         "line": 2,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg"
       },
@@ -15,6 +28,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg"
       },
@@ -26,6 +40,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/av-viviani.jpg"
       },
@@ -37,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/av-charles-de-gaulle.jpg"
       },

@@ -4,12 +4,61 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [4.954757833047239, 45.73930870356227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.845909806301535, 45.761660087433796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.850512186763041, 45.76200108428742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.856647914209333, 45.75707914768623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.86801899088826, 45.752565699288795]
       }
     },
     {
@@ -231,7 +280,7 @@
           [4.836979675803831, 45.75727786359188],
           [4.837398827075958, 45.75805099316031],
           [4.837712645530701, 45.75896981838305],
-          [4.838023781776428, 45.7601169251743]
+          [4.83784446472157, 45.760176946792484]
         ]
       }
     },
@@ -246,10 +295,9 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.838053755280953, 45.76019173236108],
+          [4.83784446472157, 45.760176946792484],
           [4.838404175874047, 45.760150986430716],
           [4.8407982531882965, 45.760030305887454],
-          [4.840843377426978, 45.76006304674658],
           [4.840999150690919, 45.76000667966187]
         ]
       }
@@ -260,7 +308,7 @@
         "id": "QuaiAugagneur-commun",
         "line": 11,
         "name": "Rue de Bonnel - Pont Wilson",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -382,7 +430,7 @@
       "type": "Feature",
       "properties": {
         "id": "DauphineVerne-commun",
-        "line": 10,
+        "line": 11,
         "name": "Dauphiné - Jules Verne",
         "status": "planned"
       },
@@ -409,7 +457,7 @@
       "type": "Feature",
       "properties": {
         "id": "VerneBalzac-commun",
-        "line": 10,
+        "line": 11,
         "name": "Jules Verne - Reconnaissance Balzac",
         "status": "planned"
       },

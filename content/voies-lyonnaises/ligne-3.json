@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png"
       },
@@ -15,6 +16,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg"
       },
@@ -26,6 +28,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
+        "line": 3,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.809522194049322, 45.78091386249062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg"
       },
@@ -37,6 +52,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg"
       },
@@ -48,6 +64,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png"
       },
@@ -59,6 +76,7 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png"
       },
@@ -213,8 +231,7 @@
       "properties": {
         "line": 3,
         "name": "Neuville - Avenue Sadi Carnot",
-        "status": "done",
-        "doneAt": "31/12/2019"
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
