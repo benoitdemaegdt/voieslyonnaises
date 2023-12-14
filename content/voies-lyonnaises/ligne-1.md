@@ -104,7 +104,7 @@ A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Ray
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220311_voieslyonnaises_ligne1_dossier-concertation.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Centre_TetedOr_HalleGarnier.pdf)
 
 
 ### Halle Tony Garnier à St-Fons centre<br>*via Gerland et le nord de la vallée de la Chimie*
