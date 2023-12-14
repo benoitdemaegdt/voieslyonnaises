@@ -55,6 +55,8 @@
 </template>
 
 <script setup>
+const { getCompteursFeatures } = useMap();
+
 const { data: allCounters } = await useAsyncData(() => {
   return queryContent('compteurs').find();
 });
@@ -87,18 +89,5 @@ function getCounterLastRecordPreviousYear(counter) {
   };
 }
 
-const features = allCounters.value.map(counter => ({
-  type: 'Feature',
-  properties: {
-    type: 'compteur',
-    name: counter.name,
-    link: counter._path,
-    lastRecordDate: new Date(counter.counts.at(-1).month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }),
-    lastRecordValue: counter.counts.at(-1).count.toLocaleString('fr-FR')
-  },
-  geometry: {
-    type: 'Point',
-    coordinates: counter.coordinates
-  }
-}));
+const features = getCompteursFeatures({ counters: allCounters.value });
 </script>
