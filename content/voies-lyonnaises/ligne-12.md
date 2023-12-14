@@ -129,7 +129,7 @@ Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démoliti
 
 ### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2cb050a25f0c7e80a0e5ea22cc329f4896245873.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl12/VL12_Valmy_Bron.pdf)
 
 ## Calendrier prévisionnel
 
