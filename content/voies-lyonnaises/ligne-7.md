@@ -261,7 +261,7 @@ Le 26 octobre 2023
 
 Réunion publique de concertation sur l'aménagement de la partie centrale, du Pont Churchill à la rue Garibaldi.
 
-[Lien vers le dossier de concertation](https://jeparticipe.grandlyon.com/project/ligne-7-rillieux-la-pape-solaize-section-lyon-churchill-garibaldi/step/comprendre-le-projet-pour-participer){:target="_blank"}
+[Lien vers le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf){:target="_blank"}
 
 ### Réunions de concertations, section nord
 Les 4 et 5 avril 2023
