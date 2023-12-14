@@ -23,7 +23,7 @@ Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passe
 Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
 *La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/04919aa7c24cd845169b1c0ad56825d88e4b6c11.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Passerelle_Oullins_Gerland.pdf)
 
 *La suite de la concertation publique est attendue courant 2024.*  
 *Les travaux sont prévus entre 2026 et 2028.*
@@ -94,7 +94,7 @@ Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. 
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne9_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)
 
 
 ## Budget prévisionnel
@@ -119,4 +119,4 @@ caption: Voie Lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 
 Réunion de concertation sur la section nord-est de la voie lyonnaise n°9 à la salle des fêtes de Meyzieu.
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne9_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)
