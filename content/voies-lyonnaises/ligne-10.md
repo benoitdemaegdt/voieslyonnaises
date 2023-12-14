@@ -72,12 +72,12 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf)
 
 ## Budget prévisionnel
 
 Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.  
-_source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf){target=_blank}_
+_source: [page 27 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf){target=_blank}_
 
 
 ## Calendrier prévisionnel
