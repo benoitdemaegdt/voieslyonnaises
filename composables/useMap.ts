@@ -27,6 +27,19 @@ type PointFeature = {
   };
 };
 
+type Compteur = {
+  name: string;
+  _path: string;
+  description: string;
+  idPdc: number;
+  coordinates: [number, number];
+  lines: number[];
+  counts: Array<{
+    month: string;
+    count: number;
+  }>;
+};
+
 // features plotted last are on top
 const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
 
@@ -535,6 +548,36 @@ export const useMap = () => {
     map.on('mouseleave', 'compteurs', () => (map.getCanvas().style.cursor = ''));
   }
 
+  function getCompteursFeatures({ counters }: { counters: Compteur[] }) {
+    if (counters.length === 0) {
+      return;
+    }
+    return counters.map(counter => {
+      const lastRecord = counter.counts.at(-1)!;
+      const date = new Date(lastRecord.month);
+      const daysInMonth = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
+      const averageDailyTraffic = Math.round(lastRecord.count / daysInMonth);
+
+      return {
+        type: 'Feature',
+        properties: {
+          type: 'compteur',
+          name: counter.name,
+          link: counter._path,
+          lastRecordDate: new Date(lastRecord.month).toLocaleString('fr-Fr', {
+            month: 'long',
+            year: 'numeric'
+          }),
+          lastRecordValue: `${averageDailyTraffic} passages par jour`
+        },
+        geometry: {
+          type: 'Point',
+          coordinates: counter.coordinates
+        }
+      };
+    });
+  }
+
   function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {
     const allLineStringsCoordinates = features
       .filter((feature): feature is LineStringFeature => feature.geometry.type === 'LineString')
@@ -566,6 +609,7 @@ export const useMap = () => {
     plotPostponedSections,
     plotPerspective,
     plotCompteurs,
+    getCompteursFeatures,
     fitBounds
   };
 };

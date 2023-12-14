@@ -99,8 +99,8 @@ export const useTooltip = () => {
       </div>
       <div class='px-2 py-1 divide-y text-gray-800'>
          <div>
-           <div class='text-base font-bold'>${properties.lastRecordDate}</div>
-           <div >${properties.lastRecordValue} passages</div>
+           <div class='text-left text-base font-bold'>${properties.lastRecordDate}</div>
+           <div class="text-left text-base">${properties.lastRecordValue}</div>
          </div>
       </div>  
     `;
