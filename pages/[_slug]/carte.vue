@@ -31,7 +31,10 @@ const { data: voie } = await useAsyncData(() => {
     .findOne();
 });
 
-const features = voie.value.features;
+const features = voie.value.features.map((feature, index) => ({
+  id: index,
+  ...feature
+}));
 
 const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
 useHead({
