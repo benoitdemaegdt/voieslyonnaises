@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 10
 line: 10
 color: "#9A8A4B"
 from: Tassin
@@ -13,9 +14,9 @@ cover: https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png
 
 ### Tassin - Valvert à Tête d'Or - Verguin
 Sur toute la moitié Ouest de son itinéraire, la Voie Lyonnaise 10 est en tronçon commun avec d'autres Voies Lyonnaises :
- - [Voie Lyonnaise 8](https://cyclopolis.fr/voie-lyonnaise-8) du boulevard du Valvert à l'avenue Victor Hugo
- - [Voie Lyonnaise 5](https://cyclopolis.fr/voie-lyonnaise-5) pour la traversée de Vaise
- - [Voie Lyonnaise 4](https://cyclopolis.fr/voie-lyonnaise-4) du pont Clémenceau à l'avenue Verguin
+ - :line-link{line=8} du boulevard du Valvert à l'avenue Victor Hugo
+ - :line-link{line=5} pour la traversée de Vaise
+ - :line-link{line=4} du pont Clémenceau à l'avenue Verguin
 
 Se référer à la page de chaque ligne pour davantage d'informations.
 
@@ -24,8 +25,7 @@ Cette portion sera aménagée en provisoire dans l'attente des travaux du projet
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
 ### Boulevard des Belges - de Waldeck Rousseau à Lafayette
-Cette section est en tronçon commun avec la Voie Lyonnaise 2.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=2}.
 
 ### Pôle d'échange Part-Dieu
 Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.  
@@ -67,17 +67,17 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
 ***Meyzieu***
  - entre l'avenue du Carreau et l'avenue de la Libération, la voie sera ponctuellement élargie pour séparer piétons et cyclistes
  - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire de traverser 2 fois les voies du tram grâce à la création d'un cheminement modes actifs qui dessert le nouveau groupe scolaire
- - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionelle
+ - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionnelle
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf)
 
 ## Budget prévisionnel
 
 Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.  
-_source: [page 27 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/0d412b496818cea0a801e3f6455861d2beb77d39.pdf){target=_blank}_
+_source: [page 27 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf){target=_blank}_
 
 
 ## Calendrier prévisionnel

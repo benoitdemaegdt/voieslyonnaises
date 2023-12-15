@@ -1,0 +1,34 @@
+name: Update Counters
+
+on:
+  schedule:
+    - cron: '0 6 1 * *' # every 1st day of each month
+
+jobs:
+  update_counters:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Update Counters Script
+        run: node .github/scripts/update-counters.js
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: "[Automatique] Mise à jour des compteurs"
+          title: "Compteurs - Mise à jour automatique"
+          body: "Mise à jour automatique des compteurs via une github action."
+          base: main
+          branch: update-counters-${{ github.run_id }}
+          delete-branch: true

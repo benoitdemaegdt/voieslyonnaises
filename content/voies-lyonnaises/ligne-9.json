@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 9,
-        "color": "#EAAB50",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
       "geometry": {
@@ -16,10 +16,20 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 9,
-        "color": "#EAAB50",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.935443409157358, 45.80200016581372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
         "name": "Jonage",
-        "distance": 1850,
         "status": "planned"
       },
       "geometry": {
@@ -55,9 +65,7 @@
       "properties": {
         "id": "variante2",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Canal de Jonage – variante Nord",
-        "distance": 4850,
         "status": "variante",
         "text": "variante nord"
       },
@@ -133,9 +141,7 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Canal de Jonage – variante Sud",
-        "distance": 5000,
         "status": "variante",
         "text": "variante sud"
       },
@@ -206,9 +212,7 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Digue EDF",
-        "distance": 609,
         "status": "planned"
       },
       "geometry": {
@@ -233,10 +237,9 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Promenade des Îles",
-        "distance": 3481,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -310,14 +313,12 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Parc de Miribel",
-        "distance": 2045,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.948713183403015, 45.79823311027086],
           [4.943557977676392, 45.7980199296554],
           [4.942705035209656, 45.7980797699105],
@@ -351,9 +352,7 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Le long de l'A42",
-        "distance": 4250,
         "status": "planned"
       },
       "geometry": {
@@ -431,9 +430,7 @@
       "properties": {
         "id": "CanalSport-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Doua Est",
-        "distance": 1600,
         "status": "planned"
       },
       "geometry": {
@@ -441,15 +438,10 @@
         "coordinates": [
           [4.877184598792468, 45.78224643596138],
           [4.877489805221558, 45.7823395687411],
-          [4.877489805221558, 45.7823395687411],
           [4.882489442825317, 45.783454396536264],
           [4.888851642608643, 45.784853511283764],
           [4.889259338378906, 45.78493581105778],
           [4.890460968017578, 45.78290820852276],
-          [4.890460604990494, 45.7829123833576],
-          [4.890322612215471, 45.78278296608198],
-          [4.8903368873312445, 45.782617046059016],
-          [4.890512947078207, 45.782527449040856],
           [4.890741348912826, 45.7825805435877],
           [4.890879341687793, 45.782603772435465],
           [4.89109822677915, 45.78256395154693],
@@ -465,9 +457,7 @@
       "properties": {
         "id": "SportStalingrad-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Doua Ouest",
-        "distance": 1550,
         "status": "planned"
       },
       "geometry": {
@@ -491,9 +481,7 @@
       "properties": {
         "id": "StalingradSud-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Stalingrad Sud",
-        "distance": 750,
         "status": "wip"
       },
       "geometry": {
@@ -512,9 +500,7 @@
       "properties": {
         "id": "Verguin-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Avenue Verguin",
-        "distance": 375,
         "status": "planned"
       },
       "geometry": {
@@ -530,9 +516,7 @@
       "properties": {
         "id": "BelgesNord-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Belges - Duquesne Verguin",
-        "distance": 219,
         "status": "planned"
       },
       "geometry": {
@@ -542,15 +526,13 @@
           [4.8539436079958875, 45.772371140907964]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "DuquesneEst-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Duquesne - Garibaldi Belges",
-        "distance": 132,
         "status": "postponed"
       },
       "geometry": {
@@ -560,15 +542,13 @@
           [4.851483106613159, 45.77334156874087]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "GaribaldiNord-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Duquesne Vauban",
-        "distance": 850,
         "status": "planned"
       },
       "geometry": {
@@ -592,10 +572,9 @@
       "properties": {
         "id": "VaubanBonnel-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Vauban Bonnel",
-        "distance": 400,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -620,10 +599,9 @@
       "properties": {
         "id": "GaribaldiPartDieu-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Part Dieu",
-        "distance": 575,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -640,10 +618,9 @@
       "properties": {
         "id": "GaribaldiPBArménie-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Paul Bert Arménie",
-        "distance": 250,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -661,9 +638,7 @@
       "properties": {
         "id": "GaribaldiPhase3-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -692,9 +667,7 @@
       "properties": {
         "id": "GaribaldiBlandan-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - Blandan",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -715,9 +688,7 @@
       "properties": {
         "id": "GaribaldiCROUS-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Garibaldi - CROUS",
-        "distance": 50,
         "status": "planned"
       },
       "geometry": {
@@ -733,9 +704,7 @@
       "properties": {
         "id": "MarcBloch-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Rue Marc Bloch",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -759,10 +728,8 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Avenue Jean Jaurès",
-        "distance": 3250,
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
@@ -821,9 +788,7 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "color": "#EAAB50",
         "name": "Passerelle Oullins-Gerland",
-        "distance": 800,
         "status": "postponed"
       },
       "geometry": {
@@ -846,10 +811,9 @@
       "properties": {
         "id": "YzeronEst-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Berge Yzeron Est",
-        "distance": 300,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -866,9 +830,7 @@
       "properties": {
         "id": "OullinsEst-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 755,
         "status": "variante",
         "text": "variante A"
       },
@@ -918,9 +880,7 @@
       "properties": {
         "id": "GareOullins-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario B",
-        "distance": 100,
         "status": "variante",
         "text": "variante B"
       },
@@ -940,9 +900,7 @@
       "properties": {
         "id": "variante2",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Yzeron - scénario B",
-        "distance": 800,
         "status": "variante",
         "text": "variante B"
       },
@@ -979,9 +937,7 @@
       "properties": {
         "id": "OullinsOuest-commun",
         "line": 9,
-        "color": "#EAAB50",
         "name": "Oullins Ouest",
-        "distance": 2550,
         "status": "planned"
       },
       "geometry": {

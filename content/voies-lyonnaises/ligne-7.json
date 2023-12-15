@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png"
       },
       "geometry": {
@@ -16,8 +16,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/caluire-voie-verte-dombe.png"
       },
       "geometry": {
@@ -28,8 +28,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png"
       },
       "geometry": {
@@ -40,8 +40,32 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 7,
-        "color": "#75BCAE",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8498458975414565, 45.77265407496435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 7,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.853886436374921, 45.74973461504163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png"
       },
       "geometry": {
@@ -52,8 +76,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png"
       },
       "geometry": {
@@ -64,8 +88,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 7,
-        "color": "#75BCAE",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png"
       },
       "geometry": {
@@ -77,14 +101,12 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Osterode",
-        "distance": 1310,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.905079443516456, 45.82318243866072],
           [4.9050862483152, 45.82336263793522],
           [4.9062498692736085, 45.82351675354673],
@@ -124,14 +146,13 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Parc linéaire Est",
-        "distance": 596,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.901182902606067, 45.8193720941528],
           [4.901628421753287, 45.81943273168946],
           [4.901827848744205, 45.81938235797949],
@@ -161,9 +182,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Parc linéaire Ouest",
-        "distance": 920,
         "status": "planned"
       },
       "geometry": {
@@ -209,9 +228,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Giratoire De Gaulle",
-        "distance": 75,
         "status": "wip"
       },
       "geometry": {
@@ -229,9 +246,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Loup Pendu",
-        "distance": 314,
         "status": "planned"
       },
       "geometry": {
@@ -252,10 +267,9 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Mercières - Loup Pendu",
-        "distance": 193,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -271,9 +285,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Carrefour Mercières",
-        "distance": 22,
         "status": "planned"
       },
       "geometry": {
@@ -288,10 +300,9 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Avenue du 8 Mai - Mercières",
-        "distance": 385,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -311,9 +322,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rillieux - Carrefour Avenue du 8 Mai",
-        "distance": 28,
         "status": "planned"
       },
       "geometry": {
@@ -328,10 +337,9 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Chemin Petit - Avenue Hippodrome",
-        "distance": 2241,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -398,9 +406,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Voie verte de la Dombes",
-        "distance": 2682,
         "status": "postponed"
       },
       "geometry": {
@@ -432,9 +438,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Boulevard des Canuts Nord",
-        "distance": 555,
         "status": "planned"
       },
       "geometry": {
@@ -458,14 +462,12 @@
           [4.836363071709599, 45.78778524212155]
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Boulevard des Canuts Sud",
-        "distance": 850,
         "status": "planned"
       },
       "geometry": {
@@ -496,9 +498,7 @@
       "properties": {
         "id": "variante2",
         "line": 7,
-        "color": "#75BCAE",
         "name": "variante Rue de Cuire",
-        "distance": 425,
         "status": "variante",
         "text": "variante"
       },
@@ -531,9 +531,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "variante Bd des Canuts",
-        "distance": 300,
         "status": "variante",
         "text": "variante"
       },
@@ -552,9 +550,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Place des Tapis",
-        "distance": 200,
         "status": "planned"
       },
       "geometry": {
@@ -574,16 +570,15 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Montée de la Boucle",
-        "distance": 1000,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.841284157843177, 45.7794759009174],
-          [4.841246583909161, 45.77949240204536],
+          [4.841161108812599, 45.77899783094253],
+          [4.840965719347409, 45.77907260485894],
+          [4.84104115832573, 45.77924620490319],
           [4.841221399761579, 45.77951170887489],
           [4.841175069863681, 45.77956440483919],
           [4.841092044407361, 45.779671888665064],
@@ -634,21 +629,16 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "CarrefourBoucle-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Carrefour Boucle - Pont Churchill",
-        "distance": 96,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.841267125351919, 45.779476961533945],
-          [4.841205615993365, 45.779459515341884],
-          [4.841150796771483, 45.77938374603179],
-          [4.84104115832573, 45.77924620490319],
-          [4.840965719347409, 45.77907260485894],
-          [4.841491033833762, 45.77892869588673]
+          [4.841161108812599, 45.77899783094253],
+          [4.841326071323181, 45.778953598439955]
         ]
       }
     },
@@ -656,14 +646,14 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Pont Churchill",
-        "distance": 231,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.841326071323181, 45.778953598439955],
           [4.841491033833762, 45.77892869588673],
           [4.842457551310332, 45.778585154508534],
           [4.844120655341129, 45.777954861972894]
@@ -674,9 +664,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Pont Churchill - Tête d'Or",
-        "distance": 156,
         "status": "planned"
       },
       "geometry": {
@@ -701,9 +689,7 @@
       "properties": {
         "id": "TetedOr157-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Tête d'Or",
-        "distance": 30,
         "status": "planned"
       },
       "geometry": {
@@ -718,9 +704,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Belges Ouest",
-        "distance": 505,
         "status": "postponed"
       },
       "geometry": {
@@ -744,14 +728,12 @@
       "properties": {
         "id": "GaribaldiNord-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi Nord",
-        "distance": 116,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.849516596241243, 45.77420764786202],
           [4.849632065419625, 45.77392805521873],
           [4.849685838944023, 45.77364850887993],
@@ -764,9 +746,7 @@
       "properties": {
         "id": "GaribaldiNord-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Duquesne Vauban",
-        "distance": 850,
         "status": "planned"
       },
       "geometry": {
@@ -790,10 +770,9 @@
       "properties": {
         "id": "VaubanBonnel-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Vauban Bonnel",
-        "distance": 400,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -818,14 +797,13 @@
       "properties": {
         "id": "GaribaldiPartDieu-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Part Dieu",
-        "distance": 575,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [        
+        "coordinates": [
           [4.851693701983152, 45.76211126433797],
           [4.852191056502392, 45.75942555398832],
           [4.852309327380084, 45.75868991382791],
@@ -838,14 +816,13 @@
       "properties": {
         "id": "GaribaldiPBArménie-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Paul Bert Arménie",
-        "distance": 250,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [   
+        "coordinates": [
           [4.852604647040714, 45.75702532674457],
           [4.852683932212145, 45.75655378858779],
           [4.85287864934751, 45.75548477953271],
@@ -859,14 +836,12 @@
       "properties": {
         "id": "GaribaldiPhase3-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [   
+        "coordinates": [
           [4.853021154692783, 45.75472358127449],
           [4.8531706441379185, 45.75393394586883],
           [4.853344408201217, 45.75297728839992],
@@ -890,14 +865,12 @@
       "properties": {
         "id": "GaribaldiBlandan-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Blandan",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [4.853483407954911, 45.749095728606925],
           [4.852744241397119, 45.74844672000619],
           [4.85215206020483, 45.747970934392626],
@@ -913,14 +886,12 @@
       "properties": {
         "id": "GaribaldiCROUS-commun",
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - CROUS",
-        "distance": 50,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [           
+        "coordinates": [
           [4.849045157403808, 45.74546816612944],
           [4.848846416511655, 45.745242820628334]
         ]
@@ -930,14 +901,12 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Garibaldi - Sud",
-        "distance": 225,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [4.848846416511655, 45.745242820628334],
           [4.848135861742209, 45.74443842610103],
           [4.847831104197393, 45.74411767720586],
@@ -950,10 +919,9 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Rue Paul Duvivier",
-        "distance": 675,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -984,9 +952,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Route de Vienne",
-        "distance": 3075,
         "status": "planned"
       },
       "geometry": {
@@ -1044,9 +1010,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Saint-Fons",
-        "distance": 725,
         "status": "unknown"
       },
       "geometry": {
@@ -1061,9 +1025,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Boulevard Yves Farge",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {
@@ -1123,14 +1085,12 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Feyzin Nord",
-        "distance": 950,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.861153820012987, 45.68457059735766],
           [4.861224623944906, 45.683838479406745],
           [4.861360065773027, 45.683062922081945],
@@ -1149,9 +1109,7 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "color": "#75BCAE",
         "name": "Feyzin Centre",
-        "distance": 350,
         "status": "unknown"
       },
       "geometry": {

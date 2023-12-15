@@ -2,13 +2,9 @@
   "name": "Pont de la Mulatière",
   "description": "Le compteur vélo du Pont de la Mulatière mesure la fréquentation cycliste du pont du même nom.",
   "arrondissement": "Lyon 2",
-  "imageUrl": "https://source.unsplash.com/AoSAOV2Vtro",
   "idPdc": 100032516,
-  "flowIds": "353399187;353399188;353399190;353399191",
-  "coordinates": [
-    4.816630482673646,
-    45.731827222149356
-  ],
+  "coordinates": [4.816630482673646, 45.731827222149356],
+  "lines": [6],
   "counts": [
     {
       "month": "2016/07/01",
@@ -357,6 +353,14 @@
     {
       "month": "2023/09/01",
       "count": 102313
+    },
+    {
+      "month": "2023/10/01",
+      "count": 91807
+    },
+    {
+      "month": "2023/11/01",
+      "count": 69886
     }
   ]
 }

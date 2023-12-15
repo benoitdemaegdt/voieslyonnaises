@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 8
 line: 8
 color: "#7E6D98"
 from: La Tour-de-Salvagny
@@ -30,7 +31,7 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20210825_dossier_concertation-routedeparis.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
 
 #### Tassin - Montcelard à Valvert
 Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissement des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
@@ -64,14 +65,16 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220902_voieslyonnaises_ligne8_dossier.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_La%20Tour%20de%20Salvagny_Tassin%20Valvert.pdf){:target="_blank"}
 
 
 ### Tassin Nord à Barthélémy Buyer
 #### Tassin Victor Hugo à République - Hespérides
-Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la piste cyclable bidirectionnelle de l'avenue Victor Hugo pour rejoindre l'avenue Vincent Serre. Pour cela, 2 variantes sont proposées :
+Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la piste cyclable bidirectionnelle de l'avenue Victor Hugo pour rejoindre l'avenue Vincent Serre. Pour cela, 2 variantes ont été proposées :
  - par Avenue Vincent Serre Nord, avec la création d'une piste cyclable bidirectionnelle de 3m de large côté Est, l'élargissement du trottoir Est, la suppression de la bande de stationnement et la mise en sens unique montant de la rue.
  - par la rue de la Pépinière, aménagée en vélorue compte-tenu du faible trafic automobile, avec la suppression du stationnement et l'élargissement des trottoirs.
+
+Suite à la concertation, la Métropole a décidé de retenir la variante par l'avenue Vincent Serre Nord dans [sa délibération](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS) de la commission permanente du 16 octobre 2023.
 
 Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour continuer à travers le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
 
@@ -107,20 +110,18 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Ouest_Tassin_Buyer.pdf){:target="_blank"}
 
 ### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
-Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=12}.
 
 ### Traversée de la Presqu'Île de Lyon
 Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
 
-Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la ligne 12, via le pont Bonaparte et la place Bellecour.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
+Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la :line-link{line=12}, via le pont Bonaparte et la place Bellecour.  
 
 ### Pont Université à Mermoz-Pinel
-Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la ligne 6 jusqu'au pont de l'Université. Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-6) pour davantage d'informations.
+Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la :line-link{line=6} jusqu'au pont de l'Université.
 
 #### Pont de l'Université
 La Voie Lyonnaise 8 va totalement réaménager le pont qui sera débarrassé de ses vieilles bandes cyclables bilatérales sur trottoir. Les 4 voies de circulation actuelles seront réduites à 2, un couloir de bus à contre-sens sera créé et une large piste cyclable bidirectionnelle prendra place côté Sud.
@@ -162,7 +163,7 @@ Concernant la circulation automobile et le traitement du pont, deux variantes so
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
 #### Rue Marius Berliet
-L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui degraderaait les performances de la ligne C25. Les deux couloirs de bus bilatéraux ouverts aux cyclistes aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui dégraderait les performances de la ligne C25. Les deux couloirs de bus bilatéraux ouverts aux cyclistes aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### Avenue Jean Mermoz
 Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie du stationnement.
@@ -175,11 +176,11 @@ credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
-Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivé du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une successions de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une succession de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)
 
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
 #### Avenue Mermoz - Pinel à Lionel Terray
@@ -204,7 +205,7 @@ credit: Street Architecture / Métropole de Lyon
 #### Boulevard de l'Université
 Sur ce boulevard très routier, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 4m de large côté Sud :
  - sur la voirie, en lieu et place d'une voie de circulation *VARIANTE VALIDEE*
- - sur l'espace vert dans le bas côté
+ - sur l'espace vert dans le bas-côté
 
 ::image
 ---
@@ -241,14 +242,14 @@ credit: Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/516cf865cb48b7172e476564c0237fe7e9b87821.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}
 
 ## Budget prévisionnel
  - **25 600 000 € HT** au total dont :
-   - **3 200 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
-     <br>_source: [page 33 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/bd50d56d86221d7c4daf56f310abe3cb77aff211.pdf)_
+   - **3 700 000 € HT** pour le tronçon situé entre Tassin-Victor Hugo et Pierre Audry
+     <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS)_
    - **7 150 000 € HT** pour le tronçon situé entre Le Pont de l'Université et l’intersection de l’avenue Jean Mermoz avec le boulevard Pinel.
-     <br>_source: [page 49 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/6deefc38a1ec8a5c1c91e2d153dc6565cf61e978.pdf)_
+     <br>_source: [page 49 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)_
    - **1 450 000 € HT** pour le tronçon situé entre Mermoz-Pinel et St Priest.
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
 

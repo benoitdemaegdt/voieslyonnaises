@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
-        "color": "#DC8953",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png"
       },
       "geometry": {
@@ -16,8 +16,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
-        "color": "#DC8953",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg"
       },
       "geometry": {
@@ -28,8 +28,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
-        "color": "#DC8953",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg"
       },
       "geometry": {
@@ -40,8 +40,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
-        "color": "#DC8953",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg"
       },
       "geometry": {
@@ -52,8 +52,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 4,
-        "color": "#DC8953",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg"
       },
       "geometry": {
@@ -65,9 +65,7 @@
       "type": "Feature",
       "properties": {
         "line": 4,
-        "color": "#DC8953",
         "name": "Lissieu - Limonest",
-        "distance": 3900,
         "status": "planned"
       },
       "geometry": {
@@ -141,9 +139,7 @@
       "type": "Feature",
       "properties": {
         "line": 4,
-        "color": "#DC8953",
         "name": "Limonest - Champagne",
-        "distance": 6150,
         "status": "planned"
       },
       "geometry": {
@@ -218,9 +214,7 @@
       "properties": {
         "id": "variante2",
         "line": 4,
-        "color": "#DC8953",
         "name": "Variante Lanessan",
-        "distance": 750,
         "status": "variante-postponed"
       },
       "geometry": {
@@ -239,9 +233,7 @@
       "type": "Feature",
       "properties": {
         "line": 4,
-        "color": "#DC8953",
         "name": "Porte de Vaise - Valmy",
-        "distance": 900,
         "status": "unknown"
       },
       "geometry": {
@@ -257,9 +249,7 @@
       "properties": {
         "id": "ValmyEst-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Valmy Est",
-        "distance": 250,
         "status": "unknown"
       },
       "geometry": {
@@ -275,10 +265,9 @@
       "properties": {
         "id": "PontClemenceau-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Pont Georges Clemenceau",
-        "distance": 150,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -294,9 +283,7 @@
       "properties": {
         "id": "Tunnel-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Tunnel de la Croix-Rousse",
-        "distance": 2171,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -318,11 +305,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "PontdeLattre-commun",
+        "id": "PontTassigny-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Pont de Lattre de Tassigny",
-        "distance": 179,
         "status": "planned"
       },
       "geometry": {
@@ -330,7 +315,8 @@
         "coordinates": [
           [4.838597774505615, 45.77273915597167],
           [4.838678240776062, 45.77261193753607],
-          [4.840775728225708, 45.77244355974861]
+          [4.840775728225708, 45.77244355974861],
+          [4.840983187350588, 45.77242608867986]
         ]
       }
     },
@@ -339,15 +325,13 @@
       "properties": {
         "id": "Duquesne-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Avenue Duquesne",
-        "distance": 700,
         "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.840797185897827, 45.77244730148273],
+          [4.840983187350588, 45.77242608867986],
           [4.841446280479431, 45.77240614239346],
           [4.849792007818984, 45.77318833600917]
         ]
@@ -358,9 +342,7 @@
       "properties": {
         "id": "DuquesneEst-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Duquesne - Garibaldi Belges",
-        "distance": 132,
         "status": "postponed"
       },
       "geometry": {
@@ -376,9 +358,7 @@
       "properties": {
         "id": "BelgesNord-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Belges - Duquesne Verguin",
-        "distance": 219,
         "status": "planned"
       },
       "geometry": {
@@ -394,9 +374,7 @@
       "properties": {
         "id": "Verguin-commun",
         "line": 4,
-        "color": "#DC8953",
         "name": "Avenue Verguin",
-        "distance": 375,
         "status": "planned"
       },
       "geometry": {
@@ -411,9 +389,7 @@
       "type": "Feature",
       "properties": {
         "line": 4,
-        "color": "#DC8953",
         "name": "Villeurbanne",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {

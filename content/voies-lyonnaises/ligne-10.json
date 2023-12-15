@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 10,
-        "color": "#9A8A4B",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png"
       },
       "geometry": {
@@ -18,9 +18,7 @@
       "properties": {
         "id": "Valvert-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Boulevard du Valvert",
-        "distance": 1750,
         "status": "planned"
       },
       "geometry": {
@@ -93,10 +91,9 @@
       "properties": {
         "id": "VictorHugoLeRoy-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Tassin - Victor Hugo",
-        "distance": 50,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -111,9 +108,7 @@
       "properties": {
         "id": "VictorHugoNord-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Vaise - Tassin",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -139,9 +134,7 @@
       "properties": {
         "id": "ValmyOuest-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Valmy Ouest",
-        "distance": 1108,
         "status": "unknown"
       },
       "geometry": {
@@ -158,9 +151,7 @@
       "properties": {
         "id": "ValmyEst-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Valmy Est",
-        "distance": 250,
         "status": "unknown"
       },
       "geometry": {
@@ -176,10 +167,9 @@
       "properties": {
         "id": "PontClemenceau-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Pont Georges Clemenceau",
-        "distance": 150,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -195,10 +185,9 @@
       "properties": {
         "id": "Tunnel-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Tunnel de la Croix-Rousse",
-        "distance": 2171,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -218,19 +207,18 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "PontdeLattre-commun",
+        "id": "PontTassigny-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Pont de Lattre de Tassigny",
-        "distance": 179,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.838597774505615, 45.77273915597167],
           [4.838678240776062, 45.77261193753607],
-          [4.840775728225708, 45.77244355974861]
+          [4.840775728225708, 45.77244355974861],
+          [4.840983187350588, 45.77242608867986]
         ]
       }
     },
@@ -239,15 +227,13 @@
       "properties": {
         "id": "Duquesne-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue Duquesne",
-        "distance": 700,
         "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.840797185897827, 45.77244730148273],
+          [4.840983187350588, 45.77242608867986],
           [4.841446280479431, 45.77240614239346],
           [4.849792007818984, 45.77318833600917]
         ]
@@ -258,9 +244,7 @@
       "properties": {
         "id": "DuquesneEst-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Duquesne - Garibaldi Belges",
-        "distance": 132,
         "status": "postponed"
       },
       "geometry": {
@@ -270,15 +254,13 @@
           [4.851483106613159, 45.77334156874087]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "BelgesNord-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Belges - Duquesne Verguin",
-        "distance": 219,
         "status": "planned"
       },
       "geometry": {
@@ -293,9 +275,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Belges Centre",
-        "distance": 525,
         "status": "planned"
       },
       "geometry": {
@@ -320,10 +300,9 @@
       "properties": {
         "id": "BelgesSud-commun",
         "line": 10,
-        "color": "#9A8A4B",
-        "name": "Belges Sud",
-        "distance": 600,
-        "status": "planned"
+        "name": "Belges de Waldeck-Rousseau à Fournet",
+        "status": "done",
+        "doneAt": "31/10/2023"
       },
       "geometry": {
         "type": "LineString",
@@ -334,7 +313,22 @@
           [4.859198004856708, 45.76638150573918],
           [4.85923869646907, 45.76590619994349],
           [4.859211458247469, 45.76580346394656],
-          [4.858830214147742, 45.76511979218779],
+          [4.858924921845796, 45.76529997791977]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BelgesSudSud-commun",
+        "line": 10,
+        "name": "Belges de Fournet à Lafayette",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.858924921845796, 45.76529997791977],
           [4.858373750754061, 45.76424639246519],
           [4.858235497511661, 45.76399353781251],
           [4.858179861280421, 45.76386933701856],
@@ -346,14 +340,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Part-Dieu Nord en surface",
-        "distance": 283,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.858040096829654, 45.76124226531752],
           [4.857926424062384, 45.7620038756518],
           [4.857848881924724, 45.76257906099292],
@@ -368,9 +361,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Part-Dieu Sud en surface",
-        "distance": 511,
         "status": "planned"
       },
       "geometry": {
@@ -398,9 +389,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue de la Villette",
-        "distance": 213,
         "status": "planned"
       },
       "geometry": {
@@ -417,9 +406,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue Lacassagne",
-        "distance": 800,
         "status": "planned"
       },
       "geometry": {
@@ -441,9 +428,7 @@
       "properties": {
         "id": "DauphineVerne-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Dauphiné - Jules Verne",
-        "distance": 689,
         "status": "planned"
       },
       "geometry": {
@@ -464,15 +449,13 @@
           [4.86973791484462, 45.75280220778939]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "VerneBalzac-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Jules Verne - Reconnaissance Balzac",
-        "distance": 541,
         "status": "planned"
       },
       "geometry": {
@@ -498,9 +481,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Reconnaissance Balzac - variante 1",
-        "distance": 75,
         "status": "variante",
         "text": "variante 1"
       },
@@ -523,9 +504,7 @@
       "properties": {
         "id": "Balzac-commun",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Reconnaissance Balzac - variante 2",
-        "distance": 60,
         "status": "variante",
         "text": "variante 2"
       },
@@ -543,9 +522,7 @@
       "properties": {
         "id": "variante2",
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Reconnaissance Balzac - variante 2",
-        "distance": 50,
         "status": "variante",
         "text": "variante 2"
       },
@@ -561,14 +538,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue George Sand",
-        "distance": 435,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.890992339664052, 45.75569067428361],
           [4.890462138426386, 45.75562072226194],
           [4.88983929905956, 45.755538081250506],
@@ -594,32 +570,28 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Carrefour T6/T3",
-        "distance": 23,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.891280664926796, 45.755719537302184],
           [4.890992339664052, 45.75569067428361]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Promenade de la Gare",
-        "distance": 316,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-
           [4.895266609649525, 45.75629433901989],
           [4.894374011396906, 45.75616760137737],
           [4.894106758675775, 45.75611882388077],
@@ -637,9 +609,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue de la Ligne de l'Est",
-        "distance": 1170,
         "status": "planned"
       },
       "geometry": {
@@ -678,10 +648,9 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Jean Bertin",
-        "distance": 845,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -699,9 +668,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Vaulx - La Soie",
-        "distance": 220,
         "status": "planned"
       },
       "geometry": {
@@ -719,10 +686,9 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue des Canuts",
-        "distance": 522,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -738,9 +704,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Marius Grosso & carrefour T9",
-        "distance": 339,
         "status": "planned"
       },
       "geometry": {
@@ -756,10 +720,9 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "BUE - Roosevelt",
-        "distance": 277,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -773,14 +736,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "PUP D-Side",
-        "distance": 463,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [              
+        "coordinates": [
           [4.942414778783615, 45.76618747785059],
           [4.937010886274265, 45.764847489565454],
           [4.936790142784929, 45.76478853957846]
@@ -791,14 +752,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "D-Side - Wilson",
-        "distance": 110,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.9437530707515975, 45.766525892568666],
           [4.942414778783615, 45.76618747785059]
         ]
@@ -808,14 +767,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Wilson - Berlioz",
-        "distance": 439,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [              
+        "coordinates": [
           [4.94898384823631, 45.76802198649145],
           [4.948557495693052, 45.76785677163983],
           [4.947735282468756, 45.767566322585935],
@@ -830,14 +787,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Berlioz - Michelet",
-        "distance": 67,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [4.949708454447148, 45.76834122616634],
           [4.9496356807485995, 45.76830420241794],
           [4.949331538629025, 45.76817249580506],
@@ -849,33 +805,30 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Michelet - Paul Bert",
-        "distance": 124,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [4.950965506840419, 45.769021402324285],
           [4.950664736218272, 45.76883638592349],
           [4.950192944577395, 45.768575782064346],
           [4.949708454447148, 45.76834122616634]
         ]
       }
-    },    
-    {    
+    },
+    {
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Paul Bert - Jaurès",
-        "distance": 146,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.952414272679022, 45.76986121070149],
           [4.951955325893124, 45.76958639224168],
           [4.951686933547819, 45.769426127797715],
@@ -888,14 +841,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Carrefour Jean Jaurès",
-        "distance": 43,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [        
+        "coordinates": [
           [4.9528357400242555, 45.770118191424956],
           [4.952414272679022, 45.76986121070149]
         ]
@@ -905,14 +856,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Emile Bertrand",
-        "distance": 273,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.955531513684235, 45.77169174033699],
           [4.954351468115732, 45.77099958047086],
           [4.9528357400242555, 45.770118191424956]
@@ -923,14 +873,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Arrêt Décines Centre",
-        "distance": 129,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.956770803641888, 45.772438817016166],
           [4.956491024493488, 45.77226384434536],
           [4.956319867085682, 45.77215897960892],
@@ -943,14 +891,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Décines - Centre à Grand Large",
-        "distance": 1871,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.977265501024789, 45.77438717797017],
           [4.976903658662337, 45.77447418256949],
           [4.976341891942752, 45.77465876965283],
@@ -1003,14 +950,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Grand Large - Route de Jonage",
-        "distance": 420,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [        
+        "coordinates": [
           [4.982257773256123, 45.773587609117385],
           [4.982257773256123, 45.773587609117385],
           [4.982229128122469, 45.773593809760854],
@@ -1035,14 +980,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Route de Jonage - Avenue du Carreau",
-        "distance": 690,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [       
+        "coordinates": [
           [4.991120318007887, 45.77264845311214],
           [4.990819671689991, 45.77269581487397],
           [4.990598396183202, 45.7727709380797],
@@ -1065,14 +1009,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue du Carreau - Meyzieu Gare",
-        "distance": 1769,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [4.9986175043984815, 45.771822526218614],
           [4.998196085158668, 45.77187069009244],
           [4.997859222915224, 45.77186450674654],
@@ -1090,14 +1032,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Gare de Meyzieu",
-        "distance": 160,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [5.00064909530721, 45.77158100392566],
           [4.999458167549591, 45.77172622651855],
           [4.9986175043984815, 45.771822526218614]
@@ -1108,14 +1049,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Avenue Libération - Rue Arago",
-        "distance": 1020,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [   
+        "coordinates": [
           [5.01142805596308, 45.77018146793321],
           [5.0089721090808155, 45.77048048544859],
           [5.007113166652317, 45.77070566064586],
@@ -1136,14 +1075,13 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Rue Arago Est",
-        "distance": 99,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [       
+        "coordinates": [
           [5.01268847543264, 45.77002691526951],
           [5.01142805596308, 45.77018146793321]
         ]
@@ -1153,15 +1091,12 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Projet Arrêt T3 - Lycée Beltrame",
-        "distance": 86,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [       
-
+        "coordinates": [
           [5.013515274729514, 45.76978207498564],
           [5.0134483202946285, 45.76977095075131],
           [5.012869465389855, 45.769837757648446],
@@ -1174,10 +1109,9 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "color": "#9A8A4B",
         "name": "Meyzieu ZI",
-        "distance": 1947,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",

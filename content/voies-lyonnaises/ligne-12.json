@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png"
       },
       "geometry": {
@@ -16,8 +16,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png"
       },
       "geometry": {
@@ -28,8 +28,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png"
       },
       "geometry": {
@@ -40,8 +40,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png"
       },
       "geometry": {
@@ -52,8 +52,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png"
       },
       "geometry": {
@@ -64,8 +64,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png"
       },
       "geometry": {
@@ -76,10 +76,20 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 12,
-        "color": "#DBABB7",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.897780330072379, 45.73717757321509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
         "name": "Valmy - Gorge de Loup",
-        "distance": 1050,
         "status": "planned"
       },
       "geometry": {
@@ -102,10 +112,9 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "color": "#DBABB7",
         "name": "Rue Pierre Audry Nord",
-        "distance": 625,
-        "status": "done"
+        "status": "done",
+        "doneAt": "01/04/2022"
       },
       "geometry": {
         "type": "LineString",
@@ -128,10 +137,9 @@
       "properties": {
         "id": "Audry-commun",
         "line": 12,
-        "color": "#DBABB7",
         "name": "Rue Pierre Audry Sud",
-        "distance": 325,
-        "status": "done"
+        "status": "done",
+        "doneAt": "01/04/2022"
       },
       "geometry": {
         "type": "LineString",
@@ -154,9 +162,7 @@
       "properties": {
         "id": "BuyerEst-commun",
         "line": 12,
-        "color": "#DBABB7",
         "name": "Barthélémy Buyer Est",
-        "distance": 150,
         "status": "planned"
       },
       "geometry": {
@@ -180,9 +186,7 @@
       "properties": {
         "id": "StJust-commun",
         "line": 12,
-        "color": "#DBABB7",
         "name": "Saint-Just & Saint-Jean",
-        "distance": 1825,
         "status": "planned"
       },
       "geometry": {
@@ -269,9 +273,7 @@
       "properties": {
         "id": "Presquile-commun",
         "line": 12,
-        "color": "#DBABB7",
         "name": "Traversée Presqu'île (par Bellecour)",
-        "distance": 750,
         "status": "planned"
       },
       "geometry": {
@@ -289,9 +291,7 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "color": "#DBABB7",
         "name": "Pont de la Guillotière - Cours Gambetta",
-        "distance": 1950,
         "status": "planned"
       },
       "geometry": {
@@ -313,9 +313,7 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "color": "#DBABB7",
         "name": "Cours Albert Thomas, Av. Rockefeller et Av. Franklin Roosevelt",
-        "distance": 3925,
         "status": "planned"
       },
       "geometry": {

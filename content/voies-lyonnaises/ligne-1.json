@@ -4,32 +4,56 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
-        "color": "#60A75B",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.893801991148365, 45.78325660243033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [4.898739136706951, 45.782609832751604]
+        "coordinates": [4.88567054271698, 45.784153953910014]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
-        "color": "#60A75B",
-        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [4.837237041095932, 45.752294318387726]
+        "coordinates": [4.842989394523215, 45.77551430270552]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
-        "color": "#60A75B",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.835268799786462, 45.74996686975683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png"
       },
       "geometry": {
@@ -40,8 +64,32 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 1,
-        "color": "#60A75B",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.824461549207683, 45.72733739783587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 1,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.844865239014865, 45.71314321772542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg"
       },
       "geometry": {
@@ -55,9 +103,7 @@
       "properties": {
         "id": "PeriCanal-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Vaulx-en-Velin",
-        "distance": 2500,
         "status": "planned"
       },
       "geometry": {
@@ -66,18 +112,13 @@
           [4.894331793476027, 45.78353734045618],
           [4.894719132367499, 45.783720818643616],
           [4.896323975752836, 45.784130747461546],
-          [4.896804571279773, 45.7842767531439],
-          [4.896952080796609, 45.78424357006753],
-          [4.897094739758614, 45.784126874671784],
-          [4.897260482765432, 45.78397592961551],
           [4.897428559950299, 45.78382638730076],
-          [4.8975917036901535, 45.783717818368785],
           [4.897819906414952, 45.78362549697195],
           [4.898184639028614, 45.78334916787807],
           [4.8986624519571365, 45.78280037981193],
-          [4.89908800549199, 45.78160697815591],
-          [4.899369688182105, 45.78086693451141],
-          [4.899780414092135, 45.77999508208492],
+          [4.899314216827975, 45.78192249474424],
+          [4.899686384052757, 45.78088586580364],
+          [4.899879947079825, 45.780001392616526],
           [4.900844700802736, 45.7800016342847],
           [4.90144678139194, 45.7799919673331],
           [4.901834562091352, 45.779991141714305],
@@ -107,9 +148,7 @@
       "properties": {
         "id": "CanalSport-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Doua Est",
-        "distance": 1600,
         "status": "planned"
       },
       "geometry": {
@@ -117,15 +156,10 @@
         "coordinates": [
           [4.877184598792468, 45.78224643596138],
           [4.877489805221558, 45.7823395687411],
-          [4.877489805221558, 45.7823395687411],
           [4.882489442825317, 45.783454396536264],
           [4.888851642608643, 45.784853511283764],
           [4.889259338378906, 45.78493581105778],
           [4.890460968017578, 45.78290820852276],
-          [4.890460604990494, 45.7829123833576],
-          [4.890322612215471, 45.78278296608198],
-          [4.8903368873312445, 45.782617046059016],
-          [4.890512947078207, 45.782527449040856],
           [4.890741348912826, 45.7825805435877],
           [4.890879341687793, 45.782603772435465],
           [4.89109822677915, 45.78256395154693],
@@ -142,9 +176,7 @@
       "properties": {
         "id": "SportStalingrad-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Doua Ouest",
-        "distance": 1550,
         "status": "planned"
       },
       "geometry": {
@@ -169,9 +201,7 @@
       "properties": {
         "id": "StalingradNord-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Stalingrad Nord",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -201,9 +231,7 @@
       "properties": {
         "id": "Bonnevay127-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Transbordeur",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -220,9 +248,7 @@
       "properties": {
         "id": "Lignon-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Allée Achille Lignon",
-        "distance": 1650,
         "status": "planned"
       },
       "geometry": {
@@ -249,9 +275,7 @@
       "properties": {
         "id": "TetedOr157-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Tête d'Or",
-        "distance": 30,
         "status": "planned"
       },
       "geometry": {
@@ -268,9 +292,7 @@
       "properties": {
         "id": "GdeBretagne-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Avenue de Grande-Bretagne",
-        "distance": 425,
         "status": "done",
         "doneAt": "28/03/2023"
       },
@@ -292,9 +314,7 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Quai de Serbie",
-        "distance": 525,
         "status": "done",
         "doneAt": "28/03/2023"
       },
@@ -317,10 +337,9 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont Morand - Rue Cuvier",
-        "distance": 225,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -336,10 +355,8 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Rue Cuvier - Rue de Bonnel",
-        "distance": 600,
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -357,10 +374,8 @@
       "properties": {
         "id": "QuaiAugagneur-commun",
         "line": 1,
-        "color": "#60A75B",
         "name": "Rue de Bonnel - Pont Wilson",
-        "distance": 150,
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -375,10 +390,8 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont Wilson - Pont de la Guillotière",
-        "distance": 450,
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -400,9 +413,7 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont de la Guillotière - Pont Gallieni",
-        "distance": 1050,
         "status": "done",
         "doneAt": "08/07/2022"
       },
@@ -430,9 +441,7 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Pont Gallieni - Stade de Gerland",
-        "distance": 3050,
         "status": "planned"
       },
       "geometry": {
@@ -473,9 +482,7 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "color": "#60A75B",
         "name": "Stade de Gerland - St-Fons",
-        "distance": 3700,
         "status": "planned"
       },
       "geometry": {

@@ -4,10 +4,56 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 5,
-        "color": "#AF7392",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl5/bron-parc-du-chene.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.933453598317158, 45.7355167001966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 5,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.93531114961155, 45.74861775309677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 5,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl5/bvd-emile-zola.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.793816748604058, 45.72149672437965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 5,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl5/bd-de-l-yzeron.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.813742033669797, 45.718106757111286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
         "name": "Liaison VL7",
-        "distance": 500,
         "status": "unknown"
       },
       "geometry": {
@@ -22,9 +68,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Saint-Fons",
-        "distance": 3375,
         "status": "planned"
       },
       "geometry": {
@@ -104,11 +148,10 @@
       "type": "Feature",
       "properties": {
         "id": "CheminBarrage-commun",
-        "line": 3,
-        "color": "#AF7392",
+        "line": 5,
         "name": "Chemin du Barrage",
-        "distance": 756,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -131,10 +174,8 @@
       "type": "Feature",
       "properties": {
         "id": "PierreBenite-commun",
-        "line": 3,
-        "color": "#AF7392",
+        "line": 5,
         "name": "Pierre Bénite",
-        "distance": 1923,
         "status": "planned"
       },
       "geometry": {
@@ -162,11 +203,10 @@
       "type": "Feature",
       "properties": {
         "id": "OullinsJaurès-commun",
-        "line": 3,
-        "color": "#AF7392",
+        "line": 5,
         "name": "Oullins - Avenue Jaurès",
-        "distance": 342,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -181,10 +221,8 @@
       "type": "Feature",
       "properties": {
         "id": "OullinsSaulaie-commun",
-        "line": 3,
-        "color": "#AF7392",
+        "line": 5,
         "name": "Oullins - La Saulaie",
-        "distance": 881,
         "status": "planned"
       },
       "geometry": {
@@ -214,9 +252,7 @@
       "properties": {
         "id": "OullinsEst-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 755,
         "status": "variante",
         "text": "variante A"
       },
@@ -266,9 +302,7 @@
       "properties": {
         "id": "GareOullins-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Yzeron - scénario A",
-        "distance": 100,
         "status": "variante",
         "text": "variante A"
       },
@@ -288,9 +322,7 @@
       "properties": {
         "id": "variante2",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Yzeron - scénario B",
-        "distance": 800,
         "status": "variante",
         "text": "variante B"
       },
@@ -327,9 +359,7 @@
       "properties": {
         "id": "OullinsOuest-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Oullins Ouest",
-        "distance": 2550,
         "status": "planned"
       },
       "geometry": {
@@ -403,10 +433,9 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Beaunant",
-        "distance": 437,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -423,9 +452,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Alaï - Francheville",
-        "distance": 2851,
         "status": "postponed"
       },
       "geometry": {
@@ -471,9 +498,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Traversée de Tassin",
-        "distance": 1549,
         "status": "postponed"
       },
       "geometry": {
@@ -488,9 +513,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Place de l'Horloge",
-        "distance": 50,
         "status": "wip"
       },
       "geometry": {
@@ -505,16 +528,15 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
-        "distance": 350,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.781732160397894, 45.76409834077933],
-          [4.784645564656998, 45.766661077931104]
+          [4.786261253158671, 45.768117789710715]
         ]
       }
     },
@@ -523,15 +545,14 @@
       "properties": {
         "id": "VictorHugoCentre-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
-        "distance": 325,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.784645564656998, 45.766661077931104],
+          [4.786261253158671, 45.768117789710715],
           [4.787285147713966, 45.76894360480924]
         ]
       }
@@ -541,10 +562,9 @@
       "properties": {
         "id": "VictorHugoLeRoy-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tassin - Victor Hugo",
-        "distance": 50,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -559,9 +579,7 @@
       "properties": {
         "id": "VictorHugoNord-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Vaise - Tassin",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -587,9 +605,7 @@
       "properties": {
         "id": "ValmyOuest-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Valmy Ouest",
-        "distance": 1108,
         "status": "unknown"
       },
       "geometry": {
@@ -606,9 +622,7 @@
       "properties": {
         "id": "ValmyEst-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Valmy Est",
-        "distance": 250,
         "status": "unknown"
       },
       "geometry": {
@@ -624,10 +638,9 @@
       "properties": {
         "id": "PontClemenceau-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Pont Georges Clemenceau",
-        "distance": 150,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -643,9 +656,7 @@
       "properties": {
         "id": "Tunnel-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tunnel de la Croix-Rousse",
-        "distance": 2171,
         "status": "done",
         "doneAt": "31/12/2019"
       },
@@ -667,11 +678,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Tunnel-commun",
+        "id": "PontTassigny-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny",
-        "distance": 179,
         "status": "planned"
       },
       "geometry": {
@@ -679,7 +688,8 @@
         "coordinates": [
           [4.838597774505615, 45.77273915597167],
           [4.838678240776062, 45.77261193753607],
-          [4.840775728225708, 45.77244355974861]
+          [4.840775728225708, 45.77244355974861],
+          [4.840983187350588, 45.77242608867986]
         ]
       }
     },
@@ -687,10 +697,9 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Pont de Lattre de Tassigny - VL1",
-        "distance": 111,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -702,8 +711,7 @@
           [4.841138552576318, 45.77262470969256],
           [4.841125165136308, 45.772539247251075],
           [4.841095262144663, 45.77248604007454],
-          [4.840983187350588, 45.77242608867986],
-          [4.840899489036417, 45.772425673618194]
+          [4.840983187350588, 45.77242608867986]
         ]
       }
     },
@@ -712,9 +720,7 @@
       "properties": {
         "id": "GdeBretagne-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Avenue de Grande-Bretagne",
-        "distance": 425,
         "status": "done",
         "doneAt": "28/03/2023"
       },
@@ -736,9 +742,7 @@
       "properties": {
         "id": "TetedOr157-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Tête d'Or",
-        "distance": 30,
         "status": "planned"
       },
       "geometry": {
@@ -754,9 +758,7 @@
       "properties": {
         "id": "Lignon-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Allée Achille Lignon",
-        "distance": 1650,
         "status": "planned"
       },
       "geometry": {
@@ -782,9 +784,7 @@
       "properties": {
         "id": "Bonnevay127-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Transbordeur",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -799,9 +799,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Boulevard Laurent Bonnevay",
-        "distance": 394,
         "status": "planned"
       },
       "geometry": {
@@ -825,11 +823,9 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
         "name": "Campus Doua",
-        "distance": 1322,
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/08/2021"
       },
       "geometry": {
         "type": "LineString",
@@ -858,9 +854,7 @@
       "properties": {
         "id": "CanalSport-commun",
         "line": 5,
-        "color": "#AF7392",
         "name": "Doua Est",
-        "distance": 1600,
         "status": "planned"
       },
       "geometry": {
@@ -868,15 +862,10 @@
         "coordinates": [
           [4.877184598792468, 45.78224643596138],
           [4.877489805221558, 45.7823395687411],
-          [4.877489805221558, 45.7823395687411],
           [4.882489442825317, 45.783454396536264],
           [4.888851642608643, 45.784853511283764],
           [4.889259338378906, 45.78493581105778],
           [4.890460968017578, 45.78290820852276],
-          [4.890460604990494, 45.7829123833576],
-          [4.890322612215471, 45.78278296608198],
-          [4.8903368873312445, 45.782617046059016],
-          [4.890512947078207, 45.782527449040856],
           [4.890741348912826, 45.7825805435877],
           [4.890879341687793, 45.782603772435465],
           [4.89109822677915, 45.78256395154693],
@@ -892,9 +881,7 @@
       "properties": {
         "id": "PeriCanal-commun",
         "line": 5,
-        "color": "#AF7392",
-        "name": "Vaulx-en-Velin",
-        "distance": 2500,
+        "name": "Vaulx-en-Velin Ouest",
         "status": "planned"
       },
       "geometry": {
@@ -903,18 +890,13 @@
           [4.894331793476027, 45.78353734045618],
           [4.894719132367499, 45.783720818643616],
           [4.896323975752836, 45.784130747461546],
-          [4.896804571279773, 45.7842767531439],
-          [4.896952080796609, 45.78424357006753],
-          [4.897094739758614, 45.784126874671784],
-          [4.897260482765432, 45.78397592961551],
           [4.897428559950299, 45.78382638730076],
-          [4.8975917036901535, 45.783717818368785],
           [4.897819906414952, 45.78362549697195],
           [4.898184639028614, 45.78334916787807],
           [4.8986624519571365, 45.78280037981193],
-          [4.89908800549199, 45.78160697815591],
-          [4.899369688182105, 45.78086693451141],
-          [4.899780414092135, 45.77999508208492],
+          [4.899314216827975, 45.78192249474424],
+          [4.899686384052757, 45.78088586580364],
+          [4.899879947079825, 45.780001392616526],
           [4.900844700802736, 45.7800016342847],
           [4.90144678139194, 45.7799919673331],
           [4.901834562091352, 45.779991141714305],
@@ -942,9 +924,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "color": "#AF7392",
-        "name": "Vaulx-en-Velin - Bron",
-        "distance": 7325,
+        "name": "Vaulx-en-Velin Est",
         "status": "planned"
       },
       "geometry": {
@@ -972,7 +952,21 @@
           [4.932442903518677, 45.76875034575978],
           [4.932593107223511, 45.76775496965838],
           [4.9337479498331325, 45.760090753466066],
-          [4.932875485536684, 45.75577523156049],
+          [4.933434524069511, 45.75849294266628]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "name": "Boulevard Urbain Est",
+        "status": "wip"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.933434524069511, 45.75849294266628],
           [4.93238680215709, 45.7536263244979],
           [4.93215373975092, 45.75255631866195],
           [4.932037950317104, 45.75199599955167],

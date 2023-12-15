@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
-        "color": "#4DADC9",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg"
       },
       "geometry": {
@@ -16,10 +16,56 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 11,
-        "color": "#4DADC9",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.845909806301535, 45.761660087433796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.850512186763041, 45.76200108428742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.856647914209333, 45.75707914768623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 11,
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.86801899088826, 45.752565699288795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 11,
         "name": "Point-du-jour",
-        "distance": 1100,
         "status": "planned"
       },
       "geometry": {
@@ -56,9 +102,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Liaison Point-du-jour - Lyon 5",
-        "distance": 200,
         "status": "unknown"
       },
       "geometry": {
@@ -74,9 +118,7 @@
       "properties": {
         "id": "StJust-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Saint-Just & Saint-Jean",
-        "distance": 1825,
         "status": "planned"
       },
       "geometry": {
@@ -163,9 +205,7 @@
       "properties": {
         "id": "Presquile-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Traversée Presqu'île (par Bellecour)",
-        "distance": 750,
         "status": "planned"
       },
       "geometry": {
@@ -184,9 +224,7 @@
       "properties": {
         "id": "Perrache-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Traversée Presqu'île (par Perrache)",
-        "distance": 1025,
         "status": "postponed"
       },
       "geometry": {
@@ -233,9 +271,7 @@
       "properties": {
         "id": "GuillotièreWilson-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Pont Wilson - Pont Guillotière",
-        "distance": 325,
         "status": "planned"
       },
       "geometry": {
@@ -244,7 +280,7 @@
           [4.836979675803831, 45.75727786359188],
           [4.837398827075958, 45.75805099316031],
           [4.837712645530701, 45.75896981838305],
-          [4.838023781776428, 45.7601169251743]
+          [4.83784446472157, 45.760176946792484]
         ]
       }
     },
@@ -252,18 +288,16 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Pont Wilson",
-        "distance": 225,
-        "status": "done"
+        "status": "done",
+        "doneAt": "28/02/2022"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.838053755280953, 45.76019173236108],
+          [4.83784446472157, 45.760176946792484],
           [4.838404175874047, 45.760150986430716],
           [4.8407982531882965, 45.760030305887454],
-          [4.840843377426978, 45.76006304674658],
           [4.840999150690919, 45.76000667966187]
         ]
       }
@@ -273,10 +307,8 @@
       "properties": {
         "id": "QuaiAugagneur-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Rue de Bonnel - Pont Wilson",
-        "distance": 150,
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -290,9 +322,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Rue de Bonnel",
-        "distance": 825,
         "status": "planned"
       },
       "geometry": {
@@ -317,10 +347,9 @@
       "properties": {
         "id": "GaribaldiPartDieu-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Garibaldi - Part Dieu",
-        "distance": 575,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -336,9 +365,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Rue Paul Bert",
-        "distance": 475,
         "status": "planned"
       },
       "geometry": {
@@ -359,9 +386,7 @@
       "properties": {
         "id": "VivierMerle-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Vivier Merle Nord",
-        "distance": 400,
         "status": "planned"
       },
       "geometry": {
@@ -376,9 +401,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Vivier Merle - Dauphiné",
-        "distance": 925,
         "status": "planned"
       },
       "geometry": {
@@ -407,10 +430,8 @@
       "type": "Feature",
       "properties": {
         "id": "DauphineVerne-commun",
-        "line": 10,
-        "color": "#4DADC9",
+        "line": 11,
         "name": "Dauphiné - Jules Verne",
-        "distance": 689,
         "status": "planned"
       },
       "geometry": {
@@ -431,15 +452,13 @@
           [4.86973791484462, 45.75280220778939]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "VerneBalzac-commun",
-        "line": 10,
-        "color": "#4DADC9",
+        "line": 11,
         "name": "Jules Verne - Reconnaissance Balzac",
-        "distance": 541,
         "status": "planned"
       },
       "geometry": {
@@ -466,9 +485,7 @@
       "properties": {
         "id": "Balzac-commun",
         "line": 11,
-        "color": "#4DADC9",
         "name": "Reconnaissance Balzac - variante 2",
-        "distance": 60,
         "status": "variante",
         "text": "variante 2"
       },
@@ -485,9 +502,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Reconnaissane Balzac - Porte de Montchat",
-        "distance": 1750,
         "status": "planned"
       },
       "geometry": {
@@ -523,9 +538,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Porte de Montchat - Sept Chemins",
-        "distance": 2175,
         "status": "planned"
       },
       "geometry": {
@@ -578,9 +591,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Chassieu",
-        "distance": 2850,
         "status": "planned"
       },
       "geometry": {
@@ -633,9 +644,7 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "color": "#4DADC9",
         "name": "Avenue du Dauphiné",
-        "distance": 700,
         "status": "postponed"
       },
       "geometry": {

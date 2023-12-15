@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 11
 line: 11
 color: "#4DADC9"
 from: Point-du-Jour
@@ -17,12 +18,10 @@ La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du
 *Aucune information publique n'existe à ce jour sur ce tronçon.*
 
 ### Traversée de Saint-Just<br/>Traversée de Saint-Jean
-Cette section est en tronçon commun avec la Voie Lyonnaise 12.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-12) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=12}.
 
 ### Traversée de la Presqu'Île de Lyon
-Cette section est en tronçon commun avec la Voie Lyonnaise 8.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-8) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=8}.
 
 ### Pont Wilson
 Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
@@ -52,11 +51,10 @@ credit: Métropole de Lyon
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
-[Voir le dossier de concertation (p.13 à p.19)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+[Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Rue Garibaldi - *Bonnel à Paul Bert*
-Cette section est en tronçon commun avec la Voie Lyonnaise 7.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-7) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=7}.
 
 ### Rue Paul Bert - *Garibaldi à Vivier-Merle*
 Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marqué sur le trottoir Nord à l'été 2018, puis supprimée à l'été 2021 au profit de deux bandes cyclables bilatérales sur la chaussée à la place d'une voie de circulation.
@@ -72,11 +70,10 @@ credit: Métropole de Lyon
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
-[Voir le dossier de concertation (p.20 à p.24)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+[Voir le dossier de concertation (p.20 à p.24)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
-Cette section est en tronçon commun avec la Voie Lyonnaise 2.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-2) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=2}.
 
 ### Avenue Félix Faure - *Vivier Merle à Esplanade Mandela*
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
@@ -103,11 +100,10 @@ credit: Métropole de Lyon
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
-[Voir le dossier de concertation (p.25 à p.31)](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)
+[Voir le dossier de concertation (p.25 à p.31)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Dauphiné - Lacassagne à Reconnaissance - Balzac
-Cette section est en tronçon commun avec la Voie Lyonnaise 10.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-10) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=10}.
 
 ### Reconnaissance - Balzac à Bron - Sept Chemins
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins sur la route de Genas. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
@@ -149,15 +145,15 @@ Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usinge
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 
 ## Budget prévisionnel
  - plus de **10 000 000 € HT** au total dont :
    - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne  
-*source: [page 33 de ce dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20230608_voieslyonnaises_ligne11_dossier.pdf)*
-   - **2 000 000 € HT** pour la section à Chassieu  
-_source: [page 20 de ce dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/2a4ea62cc45978b872edb9bb3acc38b915245e14.pdf){:target="_blank"}_
+*source: [page 33 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)*
+   - **1 200 000 € HT** pour la section à Chassieu  
+_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HU5IVKPM26FR%2BQ5NXRjB9F2%2Bc3TocC2uS){:target="_blank"}_
 
 ## Calendrier prévisionnel
 

@@ -1,7 +1,7 @@
 name: Check Data Health
 
 on:
-  pull_request:
+  push:
     branches:
       - main
 

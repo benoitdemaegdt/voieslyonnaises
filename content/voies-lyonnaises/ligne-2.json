@@ -4,8 +4,20 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
-        "color": "#AC4D35",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.859350965174372, 45.777942473521335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 2,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg"
       },
       "geometry": {
@@ -16,8 +28,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
-        "color": "#AC4D35",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg"
       },
       "geometry": {
@@ -28,8 +40,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
-        "color": "#AC4D35",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/av-viviani.jpg"
       },
       "geometry": {
@@ -40,8 +52,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 2,
-        "color": "#AC4D35",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl2/av-charles-de-gaulle.jpg"
       },
       "geometry": {
@@ -54,9 +66,7 @@
       "properties": {
         "id": "FontaineBarbe-commun",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Île barbe - Pont Leclerc",
-        "distance": 4600,
         "status": "planned"
       },
       "geometry": {
@@ -125,9 +135,7 @@
       "properties": {
         "id": "variante2",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Variante - Gde Rue de Saint Robert",
-        "distance": 200,
         "status": "variante"
       },
       "geometry": {
@@ -158,9 +166,7 @@
       "properties": {
         "id": "StRambert-commun",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Variante - Quai Raoul Carrié",
-        "distance": 125,
         "status": "variante"
       },
       "geometry": {
@@ -176,9 +182,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Caluire-et-Cuire",
-        "distance": 3050,
         "status": "unknown"
       },
       "geometry": {
@@ -196,9 +200,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Pont Poincaré",
-        "distance": 700,
         "status": "planned"
       },
       "geometry": {
@@ -228,9 +230,7 @@
       "properties": {
         "id": "Bonnevay127-commun",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Transbordeur",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
@@ -246,9 +246,7 @@
       "properties": {
         "id": "StalingradNord-commun",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Stalingrad Nord",
-        "distance": 600,
         "status": "planned"
       },
       "geometry": {
@@ -277,9 +275,7 @@
       "properties": {
         "id": "StalingradSud-commun",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Stalingrad Centre",
-        "distance": 750,
         "status": "wip"
       },
       "geometry": {
@@ -297,9 +293,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Stalingrad Sud",
-        "distance": 307,
         "status": "wip"
       },
       "geometry": {
@@ -315,9 +309,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Waldeck-Rousseau",
-        "distance": 136,
         "status": "wip"
       },
       "geometry": {
@@ -333,10 +325,9 @@
       "properties": {
         "id": "BelgesSud-commun",
         "line": 2,
-        "color": "#AC4D35",
-        "name": "Belges Sud",
-        "distance": 600,
-        "status": "planned"
+        "name": "Belges de Waldeck-Rousseau à Fournet",
+        "status": "done",
+        "doneAt": "31/10/2023"
       },
       "geometry": {
         "type": "LineString",
@@ -347,7 +338,22 @@
           [4.859198004856708, 45.76638150573918],
           [4.85923869646907, 45.76590619994349],
           [4.859211458247469, 45.76580346394656],
-          [4.858830214147742, 45.76511979218779],
+          [4.858924921845796, 45.76529997791977]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BelgesSudSud-commun",
+        "line": 2,
+        "name": "Belges de Fournet à Lafayette",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.858924921845796, 45.76529997791977],
           [4.858373750754061, 45.76424639246519],
           [4.858235497511661, 45.76399353781251],
           [4.858179861280421, 45.76386933701856],
@@ -359,9 +365,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Part-Dieu en tunnel",
-        "distance": 750,
         "status": "planned"
       },
       "geometry": {
@@ -386,9 +390,7 @@
       "properties": {
         "id": "VivierMerle-commun",
         "line": 2,
-        "color": "#AC4D35",
         "name": "Vivier Merle Nord",
-        "distance": 400,
         "status": "planned"
       },
       "geometry": {
@@ -403,9 +405,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Vivier Merle Sud",
-        "distance": 459,
         "status": "wip"
       },
       "geometry": {
@@ -424,9 +424,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Tchécoslovaques",
-        "distance": 1038,
         "status": "planned"
       },
       "geometry": {
@@ -459,9 +457,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Avenue Berthelot",
-        "distance": 306,
         "status": "planned"
       },
       "geometry": {
@@ -476,9 +472,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Boulevard des États-Unis",
-        "distance": 1922,
         "status": "planned"
       },
       "geometry": {
@@ -495,9 +489,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Avenue Viviani",
-        "distance": 906,
         "status": "planned"
       },
       "geometry": {
@@ -513,9 +505,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Traversée du périphérique",
-        "distance": 360,
         "status": "done",
         "doneAt": "24/05/2019"
       },
@@ -540,16 +530,14 @@
           [4.885298298040141, 45.720199867446155]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Avenue Jules Guesde",
-        "distance": 229,
         "status": "done",
-        "doneAt": "2018-09-01"
+        "doneAt": "01/09/2018"
       },
       "geometry": {
         "type": "LineString",
@@ -567,9 +555,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "color": "#AC4D35",
         "name": "Parilly - Saint-Priest",
-        "distance": 4077,
         "status": "planned"
       },
       "geometry": {

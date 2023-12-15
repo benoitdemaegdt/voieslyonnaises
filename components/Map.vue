@@ -2,33 +2,41 @@
   <div class="relative">
     <LegendModal ref="legendModalComponent" />
     <div id="map" class="rounded-lg h-full w-full" />
-    <img class="my-0 absolute bottom-0 right-0" src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png" width="75" height="75" alt="logo la ville à vélo">
+    <img class="my-0 absolute bottom-0 right-0 z-10" src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png" width="75" height="75" alt="logo la ville à vélo">
   </div>
 </template>
 
 <script setup>
-import maplibregl from 'maplibre-gl'
-import 'maplibre-gl/dist/maplibre-gl.css'
-import style from '@/assets/style.json'
-import LegendControl from '@/maplibre/LegendControl'
-import FullscreenControl from '@/maplibre/FullscreenControl'
-import ShrinkControl from '@/maplibre/ShrinkControl'
+import maplibregl from 'maplibre-gl';
+import 'maplibre-gl/dist/maplibre-gl.css';
+import style from '@/assets/style.json';
+import LegendControl from '@/maplibre/LegendControl';
+import FullscreenControl from '@/maplibre/FullscreenControl';
+import ShrinkControl from '@/maplibre/ShrinkControl';
 
-const { features, options } = defineProps({
+// const config = useRuntimeConfig();
+// const maptilerKey = config.public.maptilerKey;
+
+const { features, options: providedOptions } = defineProps({
   features: { type: Array, required: true },
   options: {
     type: Object,
     required: false,
-    default: () => ({
-      fullscreen: false,
-      onFullscreenControlClick: () => {},
-      shrink: false,
-      onShrinkControlClick: () => {}
-    })
+    default: () => ({})
   }
-})
+});
 
-const legendModalComponent = ref(null)
+const defaultOptions = {
+  legend: true,
+  fullscreen: false,
+  onFullscreenControlClick: () => {},
+  shrink: false,
+  onShrinkControlClick: () => {}
+};
+
+const options = { ...defaultOptions, ...providedOptions };
+
+const legendModalComponent = ref(null);
 
 const {
   plotDoneSections,
@@ -38,78 +46,91 @@ const {
   plotVariantePostponedSections,
   plotUnknownSections,
   plotPostponedSections,
-  plotPois,
+  plotPerspective,
+  plotCompteurs,
   fitBounds
-} = useMap()
+} = useMap();
 
-const { getTooltipHtml, getTooltipPoi } = useTooltip()
+const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 onMounted(() => {
   const map = new maplibregl.Map({
     container: 'map',
     style,
+    // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
     center: [4.8312188, 45.757198],
     zoom: 12,
     attributionControl: false
-  })
-  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left')
-  map.addControl(new maplibregl.AttributionControl(), 'bottom-left')
+  });
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
+  map.addControl(new maplibregl.AttributionControl({ compact: false }), 'bottom-left');
   if (options.fullscreen) {
     const fullscreenControl = new FullscreenControl({
       onClick: () => options.onFullscreenControlClick()
-    })
-    map.addControl(fullscreenControl, 'top-right')
+    });
+    map.addControl(fullscreenControl, 'top-right');
   }
   if (options.shrink) {
     const shrinkControl = new ShrinkControl({
       onClick: () => options.onShrinkControlClick()
-    })
-    map.addControl(shrinkControl, 'top-right')
+    });
+    map.addControl(shrinkControl, 'top-right');
   }
-  const legendControl = new LegendControl({
-    onClick: () => legendModalComponent.value.openModal()
-  })
-  map.addControl(legendControl, 'top-right')
+  if (options.legend) {
+    const legendControl = new LegendControl({
+      onClick: () => legendModalComponent.value.openModal()
+    });
+    map.addControl(legendControl, 'top-right');
+  }
 
   map.on('load', () => {
-    plotDoneSections({ map, features })
-    plotPlannedSections({ map, features })
-    plotVarianteSections({ map, features })
-    plotVariantePostponedSections({ map, features })
-    plotWipSections({ map, features })
-    plotUnknownSections({ map, features })
-    plotPostponedSections({ map, features })
-    plotPois({ map, features })
+    plotDoneSections({ map, features });
+    plotPlannedSections({ map, features });
+    plotVarianteSections({ map, features });
+    plotVariantePostponedSections({ map, features });
+    plotWipSections({ map, features });
+    plotUnknownSections({ map, features });
+    plotPostponedSections({ map, features });
+    plotPerspective({ map, features });
+    plotCompteurs({ map, features });
 
-    fitBounds({ map, features })
-  })
+    fitBounds({ map, features });
+  });
 
   // must do this to avoid multiple popups
   map.on('click', (e) => {
     // console.log('e.lngLat >>', e.lngLat)
     const features = map
       .queryRenderedFeatures(e.point)
-      .filter(({ layer }) => layer.source !== 'openmaptiles')
+      .filter(({ layer }) => !['maptiler_planet', 'openmaptiles'].includes(layer.source));
 
     if (features.length === 0) {
-      return
+      return;
     }
 
-    const isPoiLayerClicked = features.some(({ layer }) => layer.id === 'pois')
-    if (isPoiLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'pois')
+    const isPerspectiveLayerClicked = features.some(({ layer }) => layer.id === 'perspectives');
+    const isCompteurLayerClicked = features.some(({ layer }) => layer.id === 'compteurs');
+
+    if (isPerspectiveLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'perspectives');
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipPoi(feature.properties))
-        .addTo(map)
+        .setHTML(getTooltipPerspective(feature.properties))
+        .addTo(map);
+    } else if (isCompteurLayerClicked) {
+      const feature = features.find(({ layer }) => layer.id === 'compteurs');
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML(getTooltipCompteur(feature.properties))
+        .addTo(map);
     } else {
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(features[0].properties))
-        .addTo(map)
+        .setHTML(getTooltipHtml(features[0]))
+        .addTo(map);
     }
-  })
-})
+  });
+});
 </script>
 
 <style>

@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 4
 line: 4
 color: "#DC8953"
 from: Lissieu
@@ -30,7 +31,7 @@ credit: Noémie Gratien / Métropole de Lyon
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/a234c28f80d78dcb4a790ef86f0f61b9440073d2.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
 
 ### La Garde - Porte de Lyon à Mouillard - Porte de Vaise<br/>*via Techlid et Champagne-au-Mont-d'Or*
@@ -71,7 +72,7 @@ Cette portion en pente sera totalement réaménagée : une piste cyclable bidrec
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf){:target="_blank"}
 
 ### Traversée de Vaise
 Aucune information publique n'existe à ce jour sur ce tronçon.
@@ -86,7 +87,7 @@ Après la pérénisation des voies bus ouvertes aux vélos sur l'avenue Duquesne
 La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
 
 *La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/b95836ccf1beaa70be26cefeb7a521322f484d77.pdf)*
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
 
 ### Boulevard des Belges à rue Flachet
 #### Avenue Verguin
@@ -111,7 +112,7 @@ Ce projet nécessite la suppression du stationnement du côté de la piste cycla
 Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
 
 *La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 
 ::image
@@ -177,16 +178,16 @@ credit: Dossier de concertation - Métropole de Lyon
 ### Concertation publique
 Le 26 octobre 2023
 
-Réunion de concertation pour le tronçon central, du Pont Churchill à la rue Garibaldi.
+Réunion de concertation pour le tronçon central, du Pont Clemenceau au Boulevard des Belges.
 
-[Voir le dossier de concertatio](https://jeparticipe.grandlyon.com/project/ligne-7-rillieux-la-pape-solaize-section-lyon-churchill-garibaldi/step/comprendre-le-projet-pour-participer){:target="_blank"}
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf){:target="_blank"}
 
 ### Concertation publique
 14 octobre 2022
 
 Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-est_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 ### Concertation publique
 29 septembre 2022
@@ -194,4 +195,4 @@ Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 Réunion de concertation pour le tronçon Limonest - Mont d'Or - Vaise.  
 Première réunion publique houleuse avec de vifs débats.
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne4-nord_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf)

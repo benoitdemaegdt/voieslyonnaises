@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
-        "color": "#3B7B64",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png"
       },
       "geometry": {
@@ -16,8 +16,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
-        "color": "#3B7B64",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg"
       },
       "geometry": {
@@ -28,8 +28,20 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
-        "color": "#3B7B64",
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.809522194049322, 45.78091386249062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "perspective",
+        "line": 3,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg"
       },
       "geometry": {
@@ -40,8 +52,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
-        "color": "#3B7B64",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg"
       },
       "geometry": {
@@ -52,8 +64,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
-        "color": "#3B7B64",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png"
       },
       "geometry": {
@@ -64,8 +76,8 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "perspective",
         "line": 3,
-        "color": "#3B7B64",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png"
       },
       "geometry": {
@@ -77,9 +89,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Route du Grand Veissieux",
-        "distance": 2103,
         "status": "postponed"
       },
       "geometry": {
@@ -132,9 +142,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quincieux - Neuville-sur-Saône",
-        "distance": 6915,
         "status": "planned"
       },
       "geometry": {
@@ -186,9 +194,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pont de Neuville-sur-Saône",
-        "distance": 208,
         "status": "postponed"
       },
       "geometry": {
@@ -205,9 +211,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Neuville - Quais de Saône",
-        "distance": 641,
         "status": "planned"
       },
       "geometry": {
@@ -226,10 +230,8 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
-        "name": "Genay - Neuville-sur-Saône",
-        "distance": 2754,
-        "status": "done"
+        "name": "Neuville - Avenue Sadi Carnot",
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
@@ -240,6 +242,21 @@
           [4.832708482253423, 45.88546079905214],
           [4.830206684705814, 45.88747792773063],
           [4.828029595942098, 45.889249818892495],
+          [4.825596785059901, 45.89065348113678]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Genay - Rte de Trévoux",
+        "status": "done",
+        "doneAt": "30/04/2021"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.825596785059901, 45.89065348113678],
           [4.825081641785118, 45.89077391809289],
           [4.824920356072283, 45.89119124482869],
@@ -262,9 +279,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Couzon - Neuville-sur-Saône",
-        "distance": 2523,
         "status": "planned"
       },
       "geometry": {
@@ -295,9 +310,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Couzon Nord",
-        "distance": 850,
         "status": "done",
         "doneAt": "25/01/2023"
       },
@@ -320,9 +333,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Couzon Sud",
-        "distance": 900,
         "status": "done",
         "doneAt": "31/11/2019"
       },
@@ -342,9 +353,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Saint-Romain",
-        "distance": 1497,
         "status": "planned"
       },
       "geometry": {
@@ -369,9 +378,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Collonges - Gare",
-        "distance": 250,
         "status": "planned"
       },
       "geometry": {
@@ -388,9 +395,7 @@
       "properties": {
         "id": "FontaineBarbe-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Île barbe - Pont Leclerc",
-        "distance": 4600,
         "status": "planned"
       },
       "geometry": {
@@ -459,9 +464,7 @@
       "properties": {
         "id": "variante2",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Variante - Gde Rue de Saint Rambert",
-        "distance": 200,
         "status": "variante"
       },
       "geometry": {
@@ -492,9 +495,7 @@
       "properties": {
         "id": "StRambert-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Variante - Quai Raoul Carrié",
-        "distance": 125,
         "status": "variante"
       },
       "geometry": {
@@ -510,9 +511,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Île Barbe - Laborde",
-        "distance": 1950,
         "status": "planned"
       },
       "geometry": {
@@ -539,9 +538,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Laborde - Pont Schuman",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -561,9 +558,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pont Schuman - Pont Georges Clemenceau",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -588,9 +583,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pont Clemenceau - Pont Koenig",
-        "distance": 650,
         "status": "planned"
       },
       "geometry": {
@@ -612,14 +605,12 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pont Koenig - Pont Bonaparte",
-        "distance": 2300,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.8280060273045535, 45.75972816081131],
           [4.828421473503113, 45.76057351576926],
           [4.828689694404602, 45.761333244297774],
@@ -651,10 +642,9 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quai Fulchiron",
-        "distance": 1000,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
@@ -676,9 +666,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pont Marchand - Pont de la Mulatière",
-        "distance": 2800,
         "status": "postponed"
       },
       "geometry": {
@@ -709,9 +697,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quai Pierre Sémard Nord",
-        "distance": 310,
         "status": "planned"
       },
       "geometry": {
@@ -728,14 +714,13 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quai Sémard - Parc urbain",
-        "distance": 160,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.816323724803709, 45.72679826780165],
           [4.816774008447993, 45.7254272693623]
         ]
@@ -745,14 +730,12 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quai Sémard - Points durs",
-        "distance": 142,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.816774008447993, 45.7254272693623],
           [4.817110359960509, 45.72417145381871]
         ]
@@ -762,14 +745,13 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quai Sémard - Friche SNCF",
-        "distance": 459,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.817110359960509, 45.72417145381871],
           [4.8175048828125, 45.722435331204174],
           [4.818019866943359, 45.72009085697924]
@@ -780,14 +762,12 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Quai Sémard - Péri Yzeron",
-        "distance": 132,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [    
+        "coordinates": [
           [4.818019866943359, 45.72009085697924],
           [4.818293452262878, 45.71891858297453]
         ]
@@ -798,14 +778,13 @@
       "properties": {
         "id": "YzeronEst-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Berge Yzeron Est",
-        "distance": 300,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [          
+        "coordinates": [
           [4.818293452262878, 45.71891858297453],
           [4.8181915283203125, 45.71880996848313],
           [4.814962148666382, 45.71830434652],
@@ -818,14 +797,12 @@
       "properties": {
         "id": "GareOullins-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Yzeron - Gare Oullins",
-        "distance": 100,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [                    
+        "coordinates": [
           [4.8147569596767426, 45.71829404676581],
           [4.814874976873398, 45.71790827278646],
           [4.81494203209877, 45.71783711030515],
@@ -833,20 +810,18 @@
           [4.815123081207275, 45.7172359709913]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "OullinsSaulaie-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Oullins - La Saulaie",
-        "distance": 881,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [                    
+        "coordinates": [
           [4.815123081207275, 45.7172359709913],
           [4.8151445388793945, 45.71695599891663],
           [4.815235733985901, 45.7163969869322],
@@ -871,33 +846,30 @@
       "properties": {
         "id": "OullinsJaurès-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Oullins - Avenue Jaurès",
-        "distance": 342,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [            
+        "coordinates": [
           [4.819998907589138, 45.711520632000436],
           [4.820326566696167, 45.7101875515061],
           [4.821351980925613, 45.70862103842957]
         ]
       }
-    },          
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "PierreBenite-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pierre Bénite",
-        "distance": 1923,
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [  
+        "coordinates": [
           [4.821351980925613, 45.70862103842957],
           [4.821474552154541, 45.70779761057024],
           [4.820852279663086, 45.70537759760452],
@@ -921,14 +893,13 @@
       "properties": {
         "id": "CheminBarrage-commun",
         "line": 3,
-        "color": "#3B7B64",
         "name": "Chemin du Barrage",
-        "distance": 756,
-        "status": "done"
+        "status": "done",
+        "doneAt": "31/12/2019"
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [             
+        "coordinates": [
           [4.828566312789917, 45.69360569999303],
           [4.828587770462036, 45.69412278636186],
           [4.828780889511108, 45.69427266557501],
@@ -947,9 +918,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "color": "#3B7B64",
         "name": "Pierre bénite - Givors",
-        "distance": 17250,
         "status": "postponed"
       },
       "geometry": {

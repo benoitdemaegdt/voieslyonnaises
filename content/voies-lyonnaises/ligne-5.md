@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 5
 line: 5
 color: "#AF7392"
 from: Saint-Fons
@@ -15,7 +16,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 #### Bron Charles-de-Gaulle à Chassieu Route de Lyon<br/>*le long du Parc du Chêne*
 Le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du tramway T5, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
 
-*Les travaux pourraient avoir lieu au premier semestre 2024.*
+*Les travaux ont lieu entre novembre 2023 et mars 2024.*
 
 ::image
 ---
@@ -28,7 +29,7 @@ credit: Métropole de Lyon
 #### Chassieu Route de Lyon à Décines Franklin Roosevelt
 Sur cette section du BUE inaugurée entre 1988 et 1990, l'aménagement actuel est une piste cyclable bilatérale, marquée directement sur le trottoir de chaque côté de la chaussée. Le projet va créer une piste cyclable de 3m et un trottoir de 2m côté Ouest jusqu'à l'entrée charretière du n°32, puis le trottoir Ouest existant de 3.20m sera réaménagé en voie verte jusqu'à l'avenue Roosevelt. Le carrefour avec la rue Elisée Reclus sera amélioré.
 
-*Les travaux pourraient avoir lieu au premier trimestre 2024.*
+*Les travaux ont lieu entre novembre 2023 et mars 2024.*
 
 ::image
 ---
@@ -41,7 +42,7 @@ credit: Métropole de Lyon
 #### Avenue Franklin Roosevelt à Rue Auguste Brunel prolongée
 Sur ce boulevard créé en 2015, une piste cyclable de 3m de large et un trottoir de 1.80m ont été aménagés jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m a été créée au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
 
-*Les travaux pourraient avoir lieu au premier trimestre 2024.*
+*Les travaux ont lieu entre novembre 2023 et mars 2024.*
 
 #### Rue Auguste Brunel prolongée à Vaulx-en-Velin - Gabriel Péri
 Sur cette section, la Voie Lyonnaise 5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
@@ -54,27 +55,24 @@ Au niveau du carrefour avec l'avenue Gabriel Péri, la piste basculera du côté
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
 L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
-[Voir la présentation du projet du tram T9](https://www.sytral.fr/626-le-projet.htm)  
+[Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm)  
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 #### Vaulx-en-Velin - Gabriel Péri à La Doua - Croix-Luizet
-Cette section est en tronçon commun avec la Voie Lyonnaise 1.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-1) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=1}.
 
 #### Traversée du campus de la Doua
 La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante en stabilisé au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
 
 #### *Concertation*
 La concertation sur ce tronçon (hors tram T9) s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
-Cette section est en tronçon commun avec la Voie Lyonnaise 1.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-1) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=1}.
 
 ### Pont De Lattre de Tassigny à Pont Clémenceau
-Cette section est en tronçon commun avec la Voie Lyonnaise 4.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-4) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=4}.
 
 ### Traversée de Vaise
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
@@ -90,7 +88,7 @@ Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste
 Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge monumentale au centre, fait l'objet d'un réaménagement depuis juin 2023. Le projet prévoit un resserrement de l'anneau routier pour créer un anneau cyclable unidirectionnel de 3m de large, ainsi que de la végétalisation. Les travaux devraient se terminer en décembre 2023.
 
 ### Tassin Sud
-*L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagements cyclables aujourd'hui.*
+*L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagement cyclable aujourd'hui.*
 
 La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais (TEOL) attendu à l'horizon 2032. Le tracé à venir reste flou, avec plusieurs variantes inconnues étudiées par les services de la Métropole de Lyon. *C'est une mauvaise nouvelle pour les cyclistes de l'Ouest lyonnais qui ne pourront pas traverser Tassin du Nord au Sud en sécurité avant de nombreuses années.*
 
@@ -135,11 +133,10 @@ credit: Métropole de Lyon
 
 #### Concertation
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[Voir le dossier de concertation (p.56 à p.80)](https://jeparticipe.grandlyon.com/media/default/0001/01/1a4f5783222d6be99e21f46056a55be8f81dd87b.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5_Oullins.pdf)
 
 ### Gare d'Oullins à Pierre-Bénite Barrage
-Cette section est en tronçon commun avec la Voie Lyonnaise 3.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-3) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=3}.
 
 ### Traversée Vallée de la Chimie
 La Voie Lyonnaise 5 empruntera :
@@ -180,4 +177,4 @@ caption: calendrier prévisionnel du tronçon Est de la Voie Lyonnaise 5.
 
 Réunion de concertation sur le tronçon Villeurbanne - Vaulx-en-Velin - Bron.
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne5-nord-est_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)

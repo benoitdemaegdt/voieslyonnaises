@@ -1,4 +1,5 @@
 ---
+name: Voie Lyonnaise 9
 line: 9
 color: "#EAAB50"
 from: Jonage
@@ -12,8 +13,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 ## Les tronçons (d'Ouest en Est)
 ### Traversée d'Oullins
 Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est.   
-Cette section est en tronçon commun avec la Voie Lyonnaise 5.  
-Se référer à [la page de la ligne](https://cyclopolis.fr/voie-lyonnaise-5) pour davantage d'informations.
+Cette section est en tronçon commun avec la :line-link{line=5}.
 
 ### Franchissement du Rhône
 La Voie Lyonnaise 9 passera des berges de l'Yzeron au parc de Gerland via une nouvelle passerelle mode actifs qui traversera la M7 et le Rhône. Elle fera 7m de large, avec une piste cyclable bidirectionnelle de 4m de large pour les cyclistes et un cheminement de 3m pour les piétons. Plusieurs scénarios de raccordement aux berges ont été proposés à la concertation, avec des rampes de 4 à 6% de pente.
@@ -23,7 +23,7 @@ Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passe
 Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
 *La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*  
-[Voir le dossier de concertation](https://jeparticipe.grandlyon.com/media/default/0001/01/04919aa7c24cd845169b1c0ad56825d88e4b6c11.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Passerelle_Oullins_Gerland.pdf)
 
 *La suite de la concertation publique est attendue courant 2024.*  
 *Les travaux sont prévus entre 2026 et 2028.*
@@ -32,15 +32,15 @@ Un tel ouvrage d'art nécessite de longues années d'études et de procédures a
 L'itinéraire remontera l'avenue du Sud au Nord jusqu'à la rue de l'Université, en traversant les quartiers de Gerland, Jean Jaurès et Jean Macé.  
 Historiquement, deux pistes cyclables bilatérales avaient été peintes sur trottoir dans les années 2000. A l'été 2020, la voirie est passée de 2x2 voies à 2x1 voies automobiles avec la création en provisoire d'un couloir bus-vélo dans le sens Sud>Nord et d'une large bande cyclable dans le sens Nord>Sud. Cet aménagement a été pérénisé à l'été 2021, entrainant la suppression des pistes sur les trottoirs.
 
-<!--*La Métropole de Lyon a annoncé le XX/XX/2023 que ce tronçon serait reporté à un mandat ultérieur, de manière à privilégier à court-terme les transports en commun sur cet axe. Les cyclistes continueront donc à circuler sans séparation physique avec les véhicules, en partageant cet itinéraire avec les bus, taxis et autres véhicules d'urgence pendant de nombreuses années.*-->
+*La Métropole de Lyon a annoncé le 14/11/2023 que ce tronçon serait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sans séparation physique avec les véhicules, en partageant cet itinéraire avec les bus, taxis et autres véhicules d'urgence pendant de nombreuses années.*
 
 ### Jean Macé à Villeurbanne - St-Jean
 L'itinéraire est en tronçon commun avec d'autres Voies Lyonnaises :
- - [Voie Lyonnaise 8](https://cyclopolis.fr/voie-lyonnaise-8) sur rue Marc Bloch
- - [Voie Lyonnaise 7](https://cyclopolis.fr/voie-lyonnaise-7) sur rue Garibaldi de route de Vienne à rue Duquesne
- - [Voie Lyonnaise 4](https://cyclopolis.fr/voie-lyonnaise-4) sur rue Duquesne Est, boulevard des Belges et avenue Verguin
- - [Voie Lyonnaise 2](https://cyclopolis.fr/voie-lyonnaise-2) sur boulevard Stalingrad de Verguin à 11 Novembre
- - [Voie Lyonnaise 1](https://cyclopolis.fr/voie-lyonnaise-1) sur boulevard du 11 Novembre 1918, avenue Einstein et franchissement du canal de Jonage
+ - :line-link{line=8} sur rue Marc Bloch
+ - :line-link{line=7} sur rue Garibaldi de route de Vienne à rue Duquesne
+ - :line-link{line=4} sur rue Duquesne Est, boulevard des Belges et avenue Verguin
+ - :line-link{line=2} sur boulevard Stalingrad de Verguin à 11 Novembre
+ - :line-link{line=1} sur boulevard du 11 Novembre 1918, avenue Einstein et franchissement du canal de Jonage
 
 Se référer à la page de chaque ligne pour davantage d'informations.
 
@@ -94,7 +94,7 @@ Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. 
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne9_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)
 
 
 ## Budget prévisionnel
@@ -119,4 +119,4 @@ caption: Voie Lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.
 
 Réunion de concertation sur la section nord-est de la voie lyonnaise n°9 à la salle des fêtes de Meyzieu.
 
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220916_voieslyonnaises_ligne9_dossier.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)

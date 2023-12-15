@@ -44,6 +44,11 @@ export default defineNuxtConfig({
       ]
     }
   },
+  runtimeConfig: {
+    public: {
+      maptilerKey: process.env.MAPTILER_KEY
+    }
+  },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
   content: {
     markdown: {
