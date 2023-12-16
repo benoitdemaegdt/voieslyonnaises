@@ -30,7 +30,10 @@
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
         <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
-          <div class="bg-lvv-blue-100">
+          <div class="relative bg-lvv-blue-100">
+            <div v-if="isLastRecordMax(counter)" class="absolute top-2 right-2 bg-lvv-pink text-sm text-white font-semibold rounded-xl px-1.5">
+              record
+            </div>
             <div class="px-4 py-4 flex flex-col">
               <div class="text-base font-medium text-lvv-blue-600">
                 {{ counter.arrondissement }}
@@ -77,6 +80,13 @@ function getCounterLastRecord(counter) {
     date: new Date(counter.counts.at(-1).month).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
     value: counter.counts.at(-1).count.toLocaleString('fr-FR')
   };
+}
+
+function isLastRecordMax(counter) {
+  const lastRecord = counter.counts.at(-1);
+  return counter.counts
+    .filter(count => new Date(count.month).getMonth() === new Date(lastRecord.month).getMonth())
+    .some(count => count.count > lastRecord.count);
 }
 
 // get record of same month of last record but previous year
