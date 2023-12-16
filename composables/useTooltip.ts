@@ -32,15 +32,15 @@ type CompteurProperties = {
 
 function getStatusText(status: Status, doneAt?: string): string {
   const statusText = {
-    done: `Terminé (${getDoneAtText(doneAt!)})`,
-    wip: 'En travaux',
-    planned: 'Prévu',
-    postponed: 'Reporté après 2026',
-    variante: 'Variante',
-    'variante-postponed': 'Variante reportée après 2026',
-    unknown: 'Tracé à définir'
+    done: () => `Terminé (${getDoneAtText(doneAt!)})`,
+    wip: () => 'En travaux',
+    planned: () => 'Prévu',
+    postponed: () => 'Reporté après 2026',
+    variante: () => 'Variante',
+    'variante-postponed': () => 'Variante reportée après 2026',
+    unknown: () => 'Tracé à définir'
   };
-  return statusText[status];
+  return statusText[status]();
 }
 
 function getDoneAtText(doneAt: string): string {
