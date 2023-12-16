@@ -8,6 +8,9 @@
         <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
           Suivi des compteurs vélo de l'agglomération lyonnaise
         </h2>
+        <p class="mt-8 text-xl text-gray-500 leading-8">
+          Chaque début de mois, nous remontons les données de {{ counters.length }} compteurs à vélo de l'agglomération lyonnaise.
+        </p>
         <ClientOnly>
           <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
         </ClientOnly>
