@@ -9,6 +9,7 @@ type Feature = {
     line: number;
     name: string;
     status: Status;
+    doneAt?: string;
   };
   geometry: {
     type: string;
@@ -29,9 +30,9 @@ type CompteurProperties = {
   lastRecordValue: string;
 };
 
-function getStatusText(status: Status): string {
+function getStatusText(status: Status, doneAt?: string): string {
   const statusText = {
-    done: 'Terminé',
+    done: `Terminé (le ${doneAt})`,
     wip: 'En travaux',
     planned: 'Prévu',
     postponed: 'Reporté après 2026',
@@ -63,7 +64,7 @@ export const useTooltip = () => {
           </div>
            <div>
             <div class='text-sm font-bold'>statut</div>
-            <div>${getStatusText(feature.properties.status)}</div>
+            <div>${getStatusText(feature.properties.status, feature.properties.doneAt)}</div>
           </div>
            <div>
             <div class='text-sm font-bold'>distance</div>
