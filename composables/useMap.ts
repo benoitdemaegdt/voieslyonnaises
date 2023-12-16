@@ -103,6 +103,10 @@ export const useMap = () => {
     if (sections.length === 0) {
       return;
     }
+    if (map.getSource('done-sections')) {
+      map.getSource('done-sections').setData({ type: 'FeatureCollection', features: sections });
+      return;
+    }
     map.addSource('done-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
