@@ -17,7 +17,7 @@ import ShrinkControl from '@/maplibre/ShrinkControl';
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
 
-const { features, options: providedOptions } = defineProps({
+const props = defineProps({
   features: { type: Array, required: true },
   options: {
     type: Object,
@@ -34,7 +34,7 @@ const defaultOptions = {
   onShrinkControlClick: () => {}
 };
 
-const options = { ...defaultOptions, ...providedOptions };
+const options = { ...defaultOptions, ...props.options };
 
 const legendModalComponent = ref(null);
 
@@ -52,6 +52,18 @@ const {
 } = useMap();
 
 const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
+
+function plotFeatures({ map, features }) {
+  plotDoneSections({ map, features });
+  plotPlannedSections({ map, features });
+  plotVarianteSections({ map, features });
+  plotVariantePostponedSections({ map, features });
+  plotWipSections({ map, features });
+  plotUnknownSections({ map, features });
+  plotPostponedSections({ map, features });
+  plotPerspective({ map, features });
+  plotCompteurs({ map, features });
+}
 
 onMounted(() => {
   const map = new maplibregl.Map({
@@ -84,17 +96,12 @@ onMounted(() => {
   }
 
   map.on('load', () => {
-    plotDoneSections({ map, features });
-    plotPlannedSections({ map, features });
-    plotVarianteSections({ map, features });
-    plotVariantePostponedSections({ map, features });
-    plotWipSections({ map, features });
-    plotUnknownSections({ map, features });
-    plotPostponedSections({ map, features });
-    plotPerspective({ map, features });
-    plotCompteurs({ map, features });
+    plotFeatures({ map, features: props.features });
+    fitBounds({ map, features: props.features });
+  });
 
-    fitBounds({ map, features });
+  watch(() => props.features, (newFeatures) => {
+    plotFeatures({ map, features: newFeatures });
   });
 
   // must do this to avoid multiple popups

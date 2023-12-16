@@ -1,0 +1,125 @@
+{
+  "name": "Passage France Péjot",
+  "description": "Le compteur vélo du passage France Péjot, entre la place Carnot et la place des Archives.",
+  "arrondissement": "Lyon 2",
+  "idPdc": 300017513,
+  "coordinates": [
+    4.825186729431153,
+    45.74797099244221
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2021/08/01",
+      "count": 9310
+    },
+    {
+      "month": "2021/09/01",
+      "count": 30255
+    },
+    {
+      "month": "2021/10/01",
+      "count": 30115
+    },
+    {
+      "month": "2021/11/01",
+      "count": 25225
+    },
+    {
+      "month": "2021/12/01",
+      "count": 17418
+    },
+    {
+      "month": "2022/01/01",
+      "count": 20194
+    },
+    {
+      "month": "2022/02/01",
+      "count": 21246
+    },
+    {
+      "month": "2022/03/01",
+      "count": 27812
+    },
+    {
+      "month": "2022/04/01",
+      "count": 25759
+    },
+    {
+      "month": "2022/05/01",
+      "count": 34575
+    },
+    {
+      "month": "2022/06/01",
+      "count": 29524
+    },
+    {
+      "month": "2022/07/01",
+      "count": 25700
+    },
+    {
+      "month": "2022/08/01",
+      "count": 19085
+    },
+    {
+      "month": "2022/09/01",
+      "count": 29886
+    },
+    {
+      "month": "2022/10/01",
+      "count": 34763
+    },
+    {
+      "month": "2022/11/01",
+      "count": 29456
+    },
+    {
+      "month": "2022/12/01",
+      "count": 19498
+    },
+    {
+      "month": "2023/01/01",
+      "count": 25895
+    },
+    {
+      "month": "2023/02/01",
+      "count": 24523
+    },
+    {
+      "month": "2023/03/01",
+      "count": 29293
+    },
+    {
+      "month": "2023/04/01",
+      "count": 24834
+    },
+    {
+      "month": "2023/05/01",
+      "count": 29609
+    },
+    {
+      "month": "2023/06/01",
+      "count": 28493
+    },
+    {
+      "month": "2023/07/01",
+      "count": 26264
+    },
+    {
+      "month": "2023/08/01",
+      "count": 18048
+    },
+    {
+      "month": "2023/09/01",
+      "count": 32076
+    },
+    {
+      "month": "2023/10/01",
+      "count": 34832
+    },
+    {
+      "month": "2023/11/01",
+      "count": 27957
+    }
+  ]
+}
