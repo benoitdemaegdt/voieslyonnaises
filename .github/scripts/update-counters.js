@@ -17,6 +17,15 @@ const path = require('path');
     const updatedCounts = await getUpdatedCounts({ idPdc: counter.idPdc, flowIds });
     updateFile({ file, counter: { ...counter, counts: updatedCounts } });
   }
+
+  if (allCounters.length !== trackedCounters.length) {
+    console.log(`\n${allCounters.length - trackedCounters.length} counters not tracked yet:`);
+    for (const counter of allCounters) {
+      if (!trackedCounters.find(c => c.counter.idPdc === counter.idPdc)) {
+        console.log(counter.name);
+      }
+    }
+  }
 })();
 
 async function getAllCounters() {

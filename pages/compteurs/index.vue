@@ -82,10 +82,10 @@ function getCounterLastRecordPreviousYear(counter) {
   const lastRecordMonth = new Date(counter.counts.at(-1).month).getMonth();
   const lastRecordYear = new Date(counter.counts.at(-1).month).getFullYear();
   const lastRecordMonthPreviousYear = new Date(lastRecordYear - 1, lastRecordMonth, 1);
-  const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime()).count;
+  const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime())?.count;
   return {
     month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
-    value: lastRecordMonthPreviousYearCount.toLocaleString('fr-FR')
+    value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0
   };
 }
 
