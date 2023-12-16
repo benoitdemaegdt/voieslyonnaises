@@ -32,7 +32,7 @@ type CompteurProperties = {
 
 function getStatusText(status: Status, doneAt?: string): string {
   const statusText = {
-    done: `Terminé (le ${doneAt})`,
+    done: `Terminé (${getDoneAtText(doneAt!)})`,
     wip: 'En travaux',
     planned: 'Prévu',
     postponed: 'Reporté après 2026',
@@ -41,6 +41,16 @@ function getStatusText(status: Status, doneAt?: string): string {
     unknown: 'Tracé à définir'
   };
   return statusText[status];
+}
+
+function getDoneAtText(doneAt: string): string {
+  const [day, month, year] = doneAt.split('/');
+  const isBeforeMandat =
+    new Date(Number(year), Number(month) - 1, Number(day)).getTime() < new Date(2020, 0, 1).getTime();
+  if (isBeforeMandat) {
+    return 'avant 2020';
+  }
+  return `le ${doneAt}`;
 }
 
 export const useTooltip = () => {
@@ -70,7 +80,7 @@ export const useTooltip = () => {
             <div class='text-sm font-bold'>distance</div>
             <div>${Math.round(getDistance({ features: [feature] }) / 25) * 25}m</div>
           </div>
-        </div>      
+        </div>
       </div>
     `;
   }
@@ -103,7 +113,7 @@ export const useTooltip = () => {
            <div class='text-left text-base font-bold'>${properties.lastRecordDate}</div>
            <div class="text-left text-base">${properties.lastRecordValue}</div>
          </div>
-      </div>  
+      </div>
     `;
   }
 
