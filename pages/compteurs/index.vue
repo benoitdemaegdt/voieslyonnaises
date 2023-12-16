@@ -84,7 +84,7 @@ function getCounterLastRecord(counter) {
 
 function isLastRecordMax(counter) {
   const lastRecord = counter.counts.at(-1);
-  return counter.counts
+  return !counter.counts
     .filter(count => new Date(count.month).getMonth() === new Date(lastRecord.month).getMonth())
     .some(count => count.count > lastRecord.count);
 }
