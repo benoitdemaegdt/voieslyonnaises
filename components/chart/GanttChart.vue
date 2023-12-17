@@ -8,12 +8,16 @@ const chartOptions = {
   title: {
     text: 'Calendrier des travaux des Voies Lyonnaises'
   },
-  // xAxis: [{
-  //   grid: { // default setting
-  //     enabled: true
-  //   },
-  //   tickInterval: 1000 * 60 * 60 * 24 * 7 // week
-  // }],
+
+  xAxis: [{
+    tickInterval: 24 * 3600 * 1000 * 365,
+    currentDateIndicator: {
+      enable: true,
+      label: {
+        format: "Aujourd'hui (%d %b %Y)"
+      }
+    }
+  }],
 
   series: [{
     name: 'Voies Lyonnaises',
