@@ -1,8 +1,7 @@
 <template>
   <div>
-    <div v-for="section in calendrier.sections" :key="section.name">
-      {{ section.name }}
-    </div>
+    <h1>Calendrier de la voie lyonnaise 1</h1>
+    <ChartGanttChart />
   </div>
 </template>
 
@@ -23,8 +22,11 @@ const { data: calendrier } = await useAsyncData(`${path}`, () => {
     .findOne();
 });
 
-// if (!calendrier.value) {
-//   const router = useRouter();
-//   router.push({ path: '/404' });
-// }
+if (!calendrier.value) {
+  const router = useRouter();
+  router.push({ path: '/404' });
+}
+
+// console.log('calendrier >>', calendrier);
+
 </script>
