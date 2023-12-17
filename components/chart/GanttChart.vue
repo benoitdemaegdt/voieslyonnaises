@@ -6,8 +6,14 @@
 <script setup>
 const chartOptions = {
   title: {
-    text: 'Calendrier des travaux de la Voie Lyonnaise n°1'
+    text: 'Calendrier des travaux des Voies Lyonnaises'
   },
+  // xAxis: [{
+  //   grid: { // default setting
+  //     enabled: true
+  //   },
+  //   tickInterval: 1000 * 60 * 60 * 24 * 7 // week
+  // }],
 
   series: [{
     name: 'Voies Lyonnaises',
@@ -15,7 +21,7 @@ const chartOptions = {
       {
         name: 'Voie Lyonnaise n°1',
         id: 'voie-lyonnaise-1',
-        color: '#60A75B'
+        pointWidth: 0
       },
       {
         name: 'Tronçon central',
@@ -33,7 +39,7 @@ const chartOptions = {
       {
         name: 'Voie Lyonnaise n°2',
         id: 'voie-lyonnaise-2',
-        color: '#AC4D35'
+        pointWidth: 0
       }, {
         name: 'Tronçon central',
         parent: 'voie-lyonnaise-2',

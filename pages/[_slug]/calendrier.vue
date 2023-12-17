@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Calendrier de la voie lyonnaise 1</h1>
     <ChartGanttChart />
   </div>
 </template>
