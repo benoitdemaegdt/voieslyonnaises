@@ -100,7 +100,9 @@ export const useMap = () => {
           ...feature.properties
         }
       }));
-    if (sections.length === 0) {
+    // si il n'y a rien a afficher et que la couche n'existe pas, on ne fait rien
+    // si elle existe déjà, on la maj (carte dynamique par année)
+    if (sections.length === 0 && !map.getLayer('done-sections')) {
       return;
     }
     if (map.getSource('done-sections')) {
@@ -139,7 +141,7 @@ export const useMap = () => {
           ...feature.properties
         }
       }));
-    if (sections.length === 0) {
+    if (sections.length === 0 && !map.getLayer('wip-sections')) {
       return;
     }
     map.addSource('wip-sections', {
@@ -202,7 +204,7 @@ export const useMap = () => {
         }
       }));
 
-    if (sections.length === 0) {
+    if (sections.length === 0 && !map.getLayer('planned-sections')) {
       return;
     }
     map.addSource('planned-sections', {
@@ -238,7 +240,7 @@ export const useMap = () => {
           ...feature.properties
         }
       }));
-    if (sections.length === 0) {
+    if (sections.length === 0 && !map.getLayer('variante-sections')) {
       return;
     }
     map.addSource('variante-sections', {
@@ -292,7 +294,7 @@ export const useMap = () => {
           ...feature.properties
         }
       }));
-    if (sections.length === 0) {
+    if (sections.length === 0 && !map.getLayer('variante-postponed-sections')) {
       return;
     }
     map.addSource('variante-postponed-sections', {
@@ -346,7 +348,7 @@ export const useMap = () => {
           ...feature.properties
         }
       }));
-    if (sections.length === 0) {
+    if (sections.length === 0 && !map.getLayer('unknown-sections')) {
       return;
     }
     map.addSource('unknown-sections', {
