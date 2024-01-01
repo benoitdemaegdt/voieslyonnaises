@@ -34,7 +34,7 @@ Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bir
 #### Boulevard Stalingrad Sud<br/>*entre boulevard du 11 Novembre 1918 et avenue Verguin*
 La Voie Lyonnaise 2 va prendre la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle sera réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard Stalingrad (Villeurbanne)
@@ -66,7 +66,7 @@ La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 
 
 *A noter qu'entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.*
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard Vivier Merle (Lyon 3)
@@ -93,7 +93,7 @@ La voie lyonnaise empruntera l'avenue Berthelot sur 300m en y aménageant une pi
 Sur cette section, la Métropole de Lyon envisage d'insérer une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place de la voie de bus actuelle, côté Ouest du boulevard. La voie de bus sera alors déplacée sur une des deux voies de circulation existantes côté Ouest.  
 Côté Est, l'ensemble de la voirie actuelle ne sera pas modifiée.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard des États-Unis (Lyon 8)
@@ -106,7 +106,7 @@ credit: Métropole de Lyon
 #### Avenue Viviani
 Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/av-viviani.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - avenue Viviani (Lyon 8/Vénissieux)
@@ -120,7 +120,7 @@ Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voi
 #### Avenue Charles de Gaulle
 La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisés pour créer une piste cyclable bidirectionnelle de 3m de large bien séparée du flux de circulation.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/av-charles-de-gaulle.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - avenue Charles de Gaulle (Vénissieux)
@@ -148,14 +148,14 @@ La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/calendrier-central.png
 caption: Calendrier prévisionnel du tronçon central de la Voie Lyonnaise 2 de St-Clair à Berthelot.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/calendrier-sud.png
 caption: Calendrier prévisionnel du tronçon sud de la Voie Lyonnaise 2 de Berthelot à Saint-Priest.

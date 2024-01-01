@@ -82,7 +82,7 @@ _source: [page 27 de ce dossier de concertation](https://cyclopolis.lavilleavelo
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl10/calendrier-est.png
 caption: Voie Lyonnaise 10 - Calendrier prévisionnel du tronçon Est.

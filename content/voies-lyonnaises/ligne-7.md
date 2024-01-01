@@ -19,7 +19,7 @@ La Voie Lyonnaise 7 débute de la ZAC de Sermenaz et traverse l'A46 à travers d
 
 Elle rejoint ensuite la route du Mas Rillier sous la forme de deux pistes cyclables bilatérales. Les pistes actuelles de 2m de large aménagées en 2009 seront élargies à 3m. A partir du chemin de la Croix, l'aménagement bascule en piste bidirectionnelle côté Sud. La piste de 3m datant de 2010 sera élargie à 3.20m avec amélioration du cheminement piéton.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png
 caption: Aperçu de la Voie Lyonnaise 7 - route du Mas Rillier (Rillieux-la-Pape)
@@ -53,7 +53,7 @@ Entre avenue Jean Monnet et chemin du Penthod, 2 scénarios proposés :
 
 **La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait de la forte opposition des élus locaux au projet. C'est une mauvaise nouvelle pour tous les usagers de cette voie verte. Faute d'alternative crédible, le trafic vélo va continuer à augmenter, accroissant le caractère inconfortable de l'aménagement pour tous pendant encore de nombreuses années.**
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/caluire-voie-verte-dombe.png
 caption: Aperçu de la Voie Lyonnaise 7 - Voie verte de la Dombe (Caluire-et-Cuire)
@@ -71,7 +71,7 @@ Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable b
 Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
 caption: Photo de la Voie Lyonnaise 7 - Montée de la Boucle (Caluire-et-Cuire)
@@ -94,7 +94,7 @@ Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
 
 Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
 caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
@@ -118,7 +118,7 @@ L'aménagement du boulevard des Belges entre les quais du Rhône et la rue Garib
 Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud sur cette rue. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.  
 Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actuellement en épi en stationnement longitudinal.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi (Lyon 6)
@@ -136,7 +136,7 @@ La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
 Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png
 caption: Aperçu de la Voie Lyonnaise 7 - rue Garibaldi le long de place Stalingrad (Lyon 7)
@@ -154,7 +154,7 @@ Entre la Grande Rue de la Guillotière et la route de Vienne, il est prévu une 
 
 Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la piste cyclable bidirectionnelle existante de 3m de large le long du trottoir Ouest, mais le confort sera amélioré avec le remplacement du stationnement automobile par de la végétalisation.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud (Lyon 7)
@@ -170,7 +170,7 @@ Sur cette longue séquence aujourd'hui partiellement aménagée avec des bandes 
 
 La traversée du périphérique sera reprise et sécurisée pour les cyclistes avec la suppression des voies de shunt d'insertion et de sortie et la création de carrefours à feux orthogonalisés.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png
 caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne (Lyon 8)
@@ -181,7 +181,7 @@ credit: Métropole de Lyon
 #### Avenue Jean Jaurès
 Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Ouest, en lieu et place de la bande de stationnement actuelle.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png
 caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
@@ -201,7 +201,7 @@ De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa cr
 
 *Les travaux devraient s'étendre entre 2024 et fin 2025.*
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/boulevard-yves-farge.jpg
 caption: Aperçu de la Voie Lyonnaise 7 - Route de Lyon (Feyzin)
@@ -233,21 +233,21 @@ A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/calendrier-nord.png
 caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Nord.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/calendrier-pont-churchill-garibaldi.png
 caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Centrale.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/calendrier-sud.png
 caption: Voie Lyonnaise n°7 - calendrier prévisionnel de la section Sud.

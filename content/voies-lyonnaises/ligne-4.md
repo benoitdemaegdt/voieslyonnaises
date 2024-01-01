@@ -21,7 +21,7 @@ Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:
 #### Porte de Lyon<br/>*via Parc Relais TCL et pont sur A6*
 A partir du giratoire de la Maison Carrée, la Voie Lyonnaise devient une piste cyclable bidirectionnelle de 3m de large. Elle traverse le parc relais TCL côté Ouest, puis bascule côté Est en amont de l'avenue de la Porte de Lyon. Elle rejoint ensuite cette avenue pour traverser l'A6 côté nord du pont, puis rejoint le giratoire devant l'hypermarché Auchan.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue de la Porte de Lyon (Dardilly)
@@ -39,7 +39,7 @@ La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.
 #### Avenue Porte de Lyon à Chemin de St-Didier
 Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.821406,+4.766743), la Voie Lyonnaise 4 continue de suivre la D306 en direction du Sud. Elle prendra la forme d'une piste cyclable bidirectionnelle de 3m de large située côté Est, à la place d'un des deux couloirs bus. L'emplacement des couloirs bus sera optimisé de manière à ne pas impacter la performance des lignes de transport en commun du secteur. L'ensemble des carrefours seront sécurisés, et en particulier le lien vers la zone d'emploi de Techlid côté Ouest. Le giratoire du Puy d'Or vers Limonest et le rond point des Monts d'Or au Sud seront réaménagés dans une configuration hollandaise pour sécuriser leurs traversées.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue Lanessan (Champagne-au-Mont-d’Or)
@@ -56,7 +56,7 @@ Cette section faisait l'objet de 2 variantes pendant la concertation :
 
 Finalement, le choix de la Métropole s'est porté sur la variante République et la Voie Lyonnaise 4 fera donc un "crochet" en évitant le centre de Champagne-au-Mont-d'Or.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Boulevard de la République (Champagne)
@@ -93,7 +93,7 @@ La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de 
 #### Avenue Verguin
 Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or. La Voie Lyonnaise 4 devrait prendre la forme de deux pistes cyclables unidirectionnelles de part et d'autre de l'alignement d'arbre, de 2 à 2.50m de large chacune. Le stationnement sera maintenu du côté opposé à la piste cyclable, tandis que l'avenue sera réduite à 3 voies de circulation automobile au lieu de 4 actuellement.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - avenue de Verguin (Lyon 6)
@@ -115,7 +115,7 @@ Sur l'ensemble de cette section, la concertation laissait le choix de l'insertio
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - rue Francis de Pressensé (Villeurbanne)
@@ -141,7 +141,7 @@ credit: Passagers des Villes / Métropole de Lyon
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-lissieu-la-garde.png
 caption: Calendrier prévisionnel du tronçon Lissieu - La Garde de la Voie Lyonnaise 4.
@@ -149,7 +149,7 @@ credit: Dossier de concertation - Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-garde-porte-de-vaise.png
 caption: Calendrier prévisionnel du tronçon La Garde - Porte de Vaise de la Voie Lyonnaise 4.
@@ -157,7 +157,7 @@ credit: Dossier de concertation - Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-pont-clemenceau-bvd-des-belges.png
 caption: Calendrier prévisionnel du tronçon Pont Clemenceau - Boulevard des Belges de la Voie Lyonnaise 4.
@@ -165,7 +165,7 @@ credit: Dossier de concertation - Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-verguin-villeurbanne.png
 caption: Calendrier prévisionnel du tronçon Verguin - Villeurbanne de la Voie Lyonnaise 4.

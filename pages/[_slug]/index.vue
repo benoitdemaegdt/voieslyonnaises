@@ -13,7 +13,8 @@
           {{ voie.line }}
         </div>
       </h1>
-    </template><h2>Aperçu</h2>
+    </template>
+    <h2>Aperçu</h2>
     <Overview :voie="voie" />
     <ContentRenderer :value="voie" />
   </ContentFrame>

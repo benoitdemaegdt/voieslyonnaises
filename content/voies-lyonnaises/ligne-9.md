@@ -53,7 +53,7 @@ Sur cette route faisant office de voie de sortie du parking des Puces du Canal, 
 #### Promenade le long de l'A42
 Sur ce tronçon, il est prévu d'élargir la voie verte existante qui fait 2.50m à 3.00m de large. La Voie Lyonnaise 9 cheminerait donc à travers une voie verte de 4m de large, qui serait mieux masquée de l'autoroute grace à de nouvelles plantes grimpantes sur les clotures de la digue du canal.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg
 caption: Aperçu de la Voie Lyonnaise 9 - le long de l'A42 (Vaulx-en-Velin)
@@ -64,7 +64,7 @@ credit: Métropole de Lyon
 #### Allée du Morlet
 Une fois entré à l'intérieur du parc de Miribel-Jonage, le projet prévoit de fusionner la piste cyclable existante de 3m de large et le cheminement piéton de 2m pour en faire une large voie verte de 5m de large.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 caption: Aperçu de la Voie Lyonnaise 9 - Allée du Morlet (Vaulx-en-Velin)
@@ -105,7 +105,7 @@ Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl9/calendrier-nord-est.png
 caption: Voie Lyonnaise n°9 - calendrier prévisionnel du tronçon nord-est.

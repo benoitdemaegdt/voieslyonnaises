@@ -19,7 +19,7 @@ Sur cette rue aujourd'hui à fort trafic et sans aménagements cyclables, il est
 
 Cet aménagement très attendu permettra d'enfin sécuriser les déplacements des cyclistes entre la place Valmy et le pôle multimodal de Gorge de Loup.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue du Sergent Berthet (Lyon 9)
@@ -30,7 +30,7 @@ credit: Métropole de Lyon
 #### Rue Pierre Audry
 Cette rue a fait l'objet d'un vaste projet de requalification qui s'est achevé au printemps 2022. Dans le sens montant, une piste cyclable unidirectionnelle de 2m de large a été aménagée, sauf dans les 150 derniers mètres où elle se transforme en voie bus ouverte aux vélos. Dans le sens descendant, une bande cyclable de 1.90m de large, colorée en résine beige, s'élargie aussi en voie bus dans les 150 derniers mètres.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/pierre-audry.jpg
 caption: Photo de la Voie Lyonnaise 12 - rue Pierre Audry (Lyon 9)
@@ -51,7 +51,7 @@ Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement
 
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue de Trion (Lyon 5)
@@ -69,7 +69,7 @@ Le projet prévoit de relier le pont Bonaparte sur la Saône avec le pont de la 
 
 En plus de la création de cet aménagement cyclable sécurisé, le projet prévoit d'élargir les deux trottoirs sur la rue du Colonel Chambonnet, d'élargir le trottoir Nord le long de la place Bellecour en y plantant des arbres et de conserver une bande technique pour les taxis et les livraisons rue de la Barre.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png
 caption: Aperçu de la Voie Lyonnaise 12 - Place Bellecour (Lyon 2)
@@ -83,7 +83,7 @@ L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle 
 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png
 caption: Aperçu de la Voie Lyonnaise 12 - place Gabriel Péri (Lyon 7)
@@ -91,7 +91,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 caption: Aperçu de la Voie Lyonnaise 12 - Cours Gambetta (Lyon 7)
@@ -104,7 +104,7 @@ De Grange Blanche au boulevard Ambroise Paré, la Voie Lyonnaise 12 continuera �
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, l'avenue Rockefeller est plus étroite et l'insertion de la Voie Lyonnaise en piste bidirectionnelle au Nord ne peut se faire qu'en supprimant la voie de circulation vers l'Ouest, obligeant la circulation de transit à se reporter dans les rues plus au Nord. Les stationnements supprimés le long de la piste seront végétalisés.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Rockefeller (Lyon 3/Lyon 8)
@@ -115,7 +115,7 @@ credit: Métropole de Lyon
 ### Boulevard Pinel à Bron - Boutasse
 Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable bidirectionnelle existante de 3m de large le long du tramway entre en conflit avec les piétons à chaque arrêt. Le projet prévoit donc de rendre cet espace aux piétons et d'aménager une nouvelle piste bidirectionnelle de 4m de large sur le côté Nord de la chaussée actuelle, en réduisant la circulation automobile à 2x1 voies au lieu de 2x2 voies aujourd'hui.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Franklin Roosevelt (Bron)
@@ -133,7 +133,7 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/calendrier.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 12

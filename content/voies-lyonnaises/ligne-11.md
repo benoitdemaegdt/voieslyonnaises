@@ -34,7 +34,7 @@ Le projet prévoit un réaménagement ambitieux avec :
  - côté Nord : l'élargissement du trottoir et la création d'une piste cyclable bidirectionnelle de 3m séparée de la chaussée par une bande technique qui accueillera les livraisons et de la végétalisation
  - côté Sud : le maintien d'une unique voie de circulation et une voie bus, en conservant le trottoir existant
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
@@ -42,7 +42,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
@@ -61,7 +61,7 @@ Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marq
 
 Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclables en une piste cyclable bidirectionnelle de 3 à 4m de large côté Nord. En parallèle, l'étroit trottoir Sud sera agrandi.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue Paul Bert (Lyon 3)
@@ -91,7 +91,7 @@ Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté N
 
 Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue du Dauphiné (Lyon 3)
@@ -129,7 +129,7 @@ Les travaux auront lieu entre fin 2024 et 2025.
 #### Avenue Mermoz et Route de Lyon
 La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet consiste à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable deviendra prioritaire sur les voitures dans le giratoire René Cassin.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg
 caption: Aperçu de la Voie Lyonnaise 11 - Route de Lyon (Chassieu)
@@ -158,14 +158,14 @@ _source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/p
 ## Calendrier prévisionnel
 
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/calendrier-lyon-3.png
 caption: Voie Lyonnaise 11 - Calendrier prévisionnel de la section Lyon 3.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/calendrier-chassieu.png
 caption: Voie Lyonnaise 11 - Calendrier prévisionnel de la section Chassieu.
