@@ -591,6 +591,10 @@ export const useMap = () => {
       .filter((feature): feature is PointFeature => feature.geometry.type === 'Point')
       .map(feature => feature.geometry.coordinates);
 
+    if (allPointsCoordinates.length === 0 && allLineStringsCoordinates.length === 0) {
+      return;
+    }
+
     if (features.length === 1 && allPointsCoordinates.length === 1) {
       map.flyTo({ center: allPointsCoordinates[0] });
     } else {
