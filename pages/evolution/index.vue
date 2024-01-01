@@ -3,8 +3,11 @@
     <ClientOnly>
       <Map :features="features" class="h-full w-full" />
     </ClientOnly>
-    <div class="py-5 px-5 md:px-8">
-      <div class="grid grid-cols-3 gap-3 sm:grid-cols-6">
+    <div>
+      <div class="py-2 px-5 md:px-8 text-white bg-lvv-blue-600 font-semibold text-base">
+        {{ doneDistance }} km de Voies Lyonnaises réalisés
+      </div>
+      <div class="py-5 px-5 md:px-8 grid grid-cols-3 gap-3 sm:grid-cols-6">
         <div
           v-for="year in years"
           :key="year.label"
@@ -26,6 +29,7 @@
 </template>
 
 <script setup>
+const { getAllUniqLineStrings, getDistance } = useStats();
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,
@@ -55,6 +59,13 @@ const features = computed(() => {
       const [,, featureYear] = feature.properties.doneAt.split('/');
       return selectedYear.some(year => year.match(Number(featureYear)));
     });
+});
+
+const doneDistance = computed(() => {
+  const allUniqFeatures = getAllUniqLineStrings([{ type: 'FeatureCollection', features: features.value }]);
+  // convert this in km
+  const doneDistance = getDistance({ features: allUniqFeatures });
+  return Math.round(doneDistance / 100) / 10;
 });
 
 // const years = ['2020', '2021', '2022', '2023', '2024'];
