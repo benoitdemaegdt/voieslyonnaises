@@ -102,7 +102,6 @@ onMounted(() => {
 
   watch(() => props.features, (newFeatures) => {
     plotFeatures({ map, features: newFeatures });
-    fitBounds({ map, features: newFeatures });
   });
 
   // must do this to avoid multiple popups
