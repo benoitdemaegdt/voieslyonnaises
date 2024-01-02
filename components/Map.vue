@@ -2,7 +2,14 @@
   <div class="relative">
     <LegendModal ref="legendModalComponent" />
     <div id="map" class="rounded-lg h-full w-full" />
-    <img class="my-0 absolute bottom-0 right-0 z-10" src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png" width="75" height="75" alt="logo la ville à vélo">
+    <img
+      v-if="options.logo"
+      class="my-0 absolute bottom-0 right-0 z-10"
+      src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png"
+      width="75"
+      height="75"
+      alt="logo la ville à vélo"
+    >
   </div>
 </template>
 
@@ -27,6 +34,7 @@ const props = defineProps({
 });
 
 const defaultOptions = {
+  logo: true,
   legend: true,
   fullscreen: false,
   onFullscreenControlClick: () => {},

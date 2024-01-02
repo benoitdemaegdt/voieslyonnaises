@@ -1,7 +1,7 @@
 <template>
   <div class="h-full w-full flex flex-col">
     <ClientOnly>
-      <Map :features="features" class="h-full w-full" />
+      <Map :features="features" :options="{ logo: false }" class="h-full w-full" />
     </ClientOnly>
     <div>
       <div class="py-2 px-5 md:px-8 text-white bg-lvv-blue-600 font-semibold text-base">
