@@ -9,11 +9,12 @@
 <script setup lang="ts">
 const props = defineProps({ data: { type: Object, required: true } });
 
-const years = [...new Set(props.data.counts.map(item => new Date(item.month).getFullYear()))].sort();
+type Count = { month: string, count: number };
+const years = [...new Set(props.data.counts.map((item: Count) => new Date(item.month).getFullYear()))].sort();
 const countsValues = years.map((year) => {
   return props.data.counts
-    .filter(item => new Date(item.month).getFullYear() === year)
-    .reduce((acc, item) => acc + item.count, 0);
+    .filter((item: Count) => new Date(item.month).getFullYear() === year)
+    .reduce((acc: number, item: Count) => acc + item.count, 0);
 });
 const max = Math.max(...countsValues);
 
