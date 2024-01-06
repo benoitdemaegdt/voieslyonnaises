@@ -7,9 +7,15 @@
 </template>
 
 <script setup lang="ts">
-const props = defineProps({ data: { type: Object, required: true } })
+const props = defineProps({ data: { type: Object, required: true } });
 
-const years = [...new Set(props.data.counts.map(item => new Date(item.month).getFullYear()))].sort()
+const years = [...new Set(props.data.counts.map(item => new Date(item.month).getFullYear()))].sort();
+const countsValues = years.map((year) => {
+  return props.data.counts
+    .filter(item => new Date(item.month).getFullYear() === year)
+    .reduce((acc, item) => acc + item.count, 0);
+});
+const max = Math.max(...countsValues);
 
 const chartOptions = {
   chart: { type: 'column' },
@@ -22,18 +28,15 @@ const chartOptions = {
     column: { pointPadding: 0.2, borderWidth: 0 },
     series: {
       dataLabels: {
-        enabled: true,
-        style: { color: '#152B68' }
+        enabled: true
       }
     }
   },
-  colors: ['#152B68'],
   series: [{
     name: 'passages',
-    data: years.map((year) => {
-      return props.data.counts
-        .filter(item => new Date(item.month).getFullYear() === year)
-        .reduce((acc, item) => acc + item.count, 0)
+    data: countsValues.map(y => {
+      const color = y === max ? '#C84271' : '#152B68';
+      return { y, color, dataLabels: { color } };
     })
   }],
   responsive: {
@@ -51,5 +54,5 @@ const chartOptions = {
       }
     ]
   }
-}
+};
 </script>

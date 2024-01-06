@@ -98,6 +98,9 @@ const years = computed(() => {
 });
 
 const chartOptions = computed(() => {
+  const countsValues = counts.value.map(count => count.count);
+  const max = Math.max(...countsValues);
+
   return {
     chart: { type: 'column' },
     title: { text: `Fréquentation cycliste en ${selectedMonth.value.name} - ${props.data.name}` },
@@ -109,15 +112,16 @@ const chartOptions = computed(() => {
       column: { pointPadding: 0.2, borderWidth: 0 },
       series: {
         dataLabels: {
-          enabled: true,
-          style: { color: '#152B68' }
+          enabled: true
         }
       }
     },
-    colors: ['#152B68'],
     series: [{
       name: 'fréquentation',
-      data: counts.value.map(count => count.count)
+      data: countsValues.map(y => {
+        const color = y === max ? '#C84271' : '#152B68';
+        return { y, color, dataLabels: { color } };
+      })
     }]
   };
 });
