@@ -1,0 +1,53 @@
+{
+  "name": "Quai Joseph Gillet",
+  "description": "Le compteur vélo du Joseph Gillet mesure la fréquentation du quai haut.",
+  "arrondissement": "Lyon 4",
+  "idPdc": 300030753,
+  "coordinates": [
+    4.812443554401399,
+    45.78129767093459
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2023/03/01",
+      "count": 0
+    },
+    {
+      "month": "2023/04/01",
+      "count": 0
+    },
+    {
+      "month": "2023/05/01",
+      "count": 25569
+    },
+    {
+      "month": "2023/06/01",
+      "count": 52112
+    },
+    {
+      "month": "2023/07/01",
+      "count": 44089
+    },
+    {
+      "month": "2023/08/01",
+      "count": 30459
+    },
+    {
+      "month": "2023/09/01",
+      "count": 50863
+    },
+    {
+      "month": "2023/10/01",
+      "count": 51030
+    },
+    {
+      "month": "2023/11/01",
+      "count": 48882
+    },
+    {
+      "month": "2023/12/01",
+      "count": 46129
+    }
+  ]
+}

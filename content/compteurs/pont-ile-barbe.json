@@ -1,0 +1,73 @@
+{
+  "name": "Pont de l'île Barbe",
+  "description": "Le compteur vélo du pont de l'île Barbe, rive Gauche.",
+  "arrondissement": "Caluire",
+  "idPdc": 300028348,
+  "coordinates": [
+    4.8317474126815805,
+    45.79607134623283
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2022/10/01",
+      "count": 17191
+    },
+    {
+      "month": "2022/11/01",
+      "count": 21212
+    },
+    {
+      "month": "2022/12/01",
+      "count": 13542
+    },
+    {
+      "month": "2023/01/01",
+      "count": 18473
+    },
+    {
+      "month": "2023/02/01",
+      "count": 17983
+    },
+    {
+      "month": "2023/03/01",
+      "count": 23376
+    },
+    {
+      "month": "2023/04/01",
+      "count": 21506
+    },
+    {
+      "month": "2023/05/01",
+      "count": 26107
+    },
+    {
+      "month": "2023/06/01",
+      "count": 28967
+    },
+    {
+      "month": "2023/07/01",
+      "count": 27384
+    },
+    {
+      "month": "2023/08/01",
+      "count": 20787
+    },
+    {
+      "month": "2023/09/01",
+      "count": 30810
+    },
+    {
+      "month": "2023/10/01",
+      "count": 28431
+    },
+    {
+      "month": "2023/11/01",
+      "count": 21430
+    },
+    {
+      "month": "2023/12/01",
+      "count": 17056
+    }
+  ]
+}

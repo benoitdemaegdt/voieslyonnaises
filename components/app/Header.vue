@@ -170,19 +170,19 @@
 </template>
 
 <script setup>
-import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue'
+import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue';
 
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Compteurs', path: '/compteurs' }
-]
+];
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('voies-lyonnaises').where({ _type: 'markdown' }).find()
-})
+  return queryContent('voies-lyonnaises').where({ _type: 'markdown' }).find();
+});
 
-function getVoieLyonnaisePath (line) {
-  return `/voie-lyonnaise-${line}`
+function getVoieLyonnaisePath(line) {
+  return `/voie-lyonnaise-${line}`;
 }
 </script>

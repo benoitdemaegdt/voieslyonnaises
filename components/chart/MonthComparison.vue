@@ -85,22 +85,26 @@ const lastRecordMonth = new Date(lastRecord.month).getMonth();
 
 const selectedMonth = ref(months.find(month => month.value === lastRecordMonth));
 
+type Count = { month: string, count: number };
 const counts = computed(() => {
-  return props.data.counts.filter((count) => {
+  return props.data.counts.filter((count: Count) => {
     const date = new Date(count.month);
     const month = date.getMonth();
-    return month === selectedMonth.value.value;
-  }).sort((count1, count2) => count1.month - count2.month);
+    return month === selectedMonth.value!.value;
+  }).sort((count1: Count, count2: Count) => new Date(count1.month).getTime() - new Date(count2.month).getTime());
 });
 
 const years = computed(() => {
-  return counts.value.map(count => new Date(count.month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }));
+  return counts.value.map((count: Count) => new Date(count.month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }));
 });
 
 const chartOptions = computed(() => {
+  const countsValues = counts.value.map((count: Count) => count.count);
+  const max = Math.max(...countsValues);
+
   return {
     chart: { type: 'column' },
-    title: { text: `Fréquentation cycliste en ${selectedMonth.value.name} - ${props.data.name}` },
+    title: { text: `Fréquentation cycliste en ${selectedMonth.value!.name} - ${props.data.name}` },
     credits: { enabled: false },
     legend: { enabled: false },
     xAxis: { categories: years.value },
@@ -109,15 +113,16 @@ const chartOptions = computed(() => {
       column: { pointPadding: 0.2, borderWidth: 0 },
       series: {
         dataLabels: {
-          enabled: true,
-          style: { color: '#152B68' }
+          enabled: true
         }
       }
     },
-    colors: ['#152B68'],
     series: [{
       name: 'fréquentation',
-      data: counts.value.map(count => count.count)
+      data: countsValues.map((y: number) => {
+        const color = y === max ? '#C84271' : '#152B68';
+        return { y, color, dataLabels: { color } };
+      })
     }]
   };
 });

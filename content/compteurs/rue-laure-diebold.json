@@ -1,0 +1,53 @@
+{
+  "name": "Rue Laure Diebold",
+  "description": "Le compteur vélo de la rue Laure Diebold.",
+  "arrondissement": "Lyon 9",
+  "idPdc": 300030757,
+  "coordinates": [
+    4.801390171051026,
+    45.77778930634867
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2023/03/01",
+      "count": 11950
+    },
+    {
+      "month": "2023/04/01",
+      "count": 9464
+    },
+    {
+      "month": "2023/05/01",
+      "count": 11020
+    },
+    {
+      "month": "2023/06/01",
+      "count": 12655
+    },
+    {
+      "month": "2023/07/01",
+      "count": 9705
+    },
+    {
+      "month": "2023/08/01",
+      "count": 7251
+    },
+    {
+      "month": "2023/09/01",
+      "count": 13128
+    },
+    {
+      "month": "2023/10/01",
+      "count": 12614
+    },
+    {
+      "month": "2023/11/01",
+      "count": 10553
+    },
+    {
+      "month": "2023/12/01",
+      "count": 8573
+    }
+  ]
+}

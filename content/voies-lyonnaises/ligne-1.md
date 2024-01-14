@@ -17,7 +17,7 @@ Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur t
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage (Villeurbanne)
@@ -31,7 +31,7 @@ L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}  
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'en 2026.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T9 - avenue Einstein (Villeurbanne)
@@ -51,7 +51,7 @@ De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'
 La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png
 caption: Aperçu de la Voie Lyonnaise 1 - boulevard du 11 Novembre 1918 (Villeurbanne)
@@ -73,7 +73,7 @@ Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et l
 
 *Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion avec les rampes vers les berges du Rhône.*
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png
 caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
@@ -90,7 +90,7 @@ Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable d
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.  
 Elle a été inaugurée début juillet 2022.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg
 caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
@@ -104,7 +104,7 @@ A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Ray
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.  
-[Voir le dossier de concertation](https://www.grandlyon.com/fileadmin/user_upload/media/pdf/grands-projets/concertation-reglementaire/20220311_voieslyonnaises_ligne1_dossier-concertation.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Centre_TetedOr_HalleGarnier.pdf)
 
 
 ### Halle Tony Garnier à St-Fons centre<br>*via Gerland et le nord de la vallée de la Chimie*
@@ -112,7 +112,7 @@ Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur t
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - avenue Tony Garnier (Lyon 7)
@@ -121,7 +121,7 @@ credit: Ilex / SYTRAL Mobilités
 ::
 
 Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphérique, le boulevard Sampaix et la rue Sembat, il s'agira d'une piste bidirectionnelle de 3.50m de large côté Sud ou Ouest de la chaussée.
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - boulevard Sampaix (Saint-Fons)
@@ -130,7 +130,7 @@ credit: Ilex / SYTRAL Mobilités
 ::
 
 Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - rue Charles Plasse (Saint-Fons)
@@ -145,14 +145,14 @@ L'enquête publique a eu lieu du 13 mars au 14 avril 2023.
 Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 
 ## Calendriers prévisionnels
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/calendrier-centre.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 1 entre la Cité Internationale et la Halle Tony Garnier à Lyon.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/calendrier-nord.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 1 sur le boulevard du 11 Novembre et l'avenue Einstein à Villeurbanne.

@@ -10,26 +10,26 @@
       </nav>
       <div class="mt-4 border-t border-gray-200 pt-4 md:flex md:items-center md:justify-between">
         <div class="flex justify-center space-x-6 md:order-2">
-          <a v-for="item in socials.lvv" :key="item.name" :href="item.href" target="_blank" class="text-gray-400 hover:text-gray-500">
+          <a v-for="item in socials.lvv" :key="item.name" :href="item.href" target="_blank" class="text-gray-500 hover:text-gray-500">
             <span class="sr-only">{{ item.name }}</span>
             <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
           </a>
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
-          <p class="text-center text-base text-gray-400">
+          <p class="text-center text-base text-gray-500">
             La Ville à Vélo
           </p>
         </div>
       </div>
       <div class="mt-8 border-t border-gray-200 pt-4 md:flex md:items-center md:justify-between">
         <div class="flex justify-center space-x-6 md:order-2">
-          <a v-for="item in socials.cyclopolis" :key="item.name" :href="item.href" target="_blank" class="text-gray-400 hover:text-gray-500">
+          <a v-for="item in socials.cyclopolis" :key="item.name" :href="item.href" target="_blank" class="text-gray-500 hover:text-gray-500">
             <span class="sr-only">{{ item.name }}</span>
             <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
           </a>
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
-          <p class="text-center text-base text-gray-400">
+          <p class="text-center text-base text-gray-500">
             Cyclopolis
           </p>
         </div>
@@ -43,7 +43,7 @@
 const links = [
   { name: 'Mentions légales', path: '/mentions-legales' },
   { name: 'Historique', path: '/historique' }
-]
+];
 
 const socials = {
   cyclopolis: [
@@ -95,5 +95,5 @@ const socials = {
       icon: 'mdi:email-outline'
     }
   ]
-}
+};
 </script>

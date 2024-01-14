@@ -3,8 +3,13 @@
   "description": "Le compteur vélo de la passerelle Masaryk mesure la fréquentation du quai ouest.",
   "arrondissement": "Lyon 9",
   "idPdc": 100042249,
-  "coordinates": [4.808332590112999, 45.77847191024936],
-  "lines": [3],
+  "coordinates": [
+    4.808332590112999,
+    45.77847191024936
+  ],
+  "lines": [
+    3
+  ],
   "counts": [
     {
       "month": "2016/02/01",
@@ -381,6 +386,10 @@
     {
       "month": "2023/11/01",
       "count": 15280
+    },
+    {
+      "month": "2023/12/01",
+      "count": 12367
     }
   ]
 }

@@ -39,10 +39,4 @@
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-lyonnaises').where({ _type: 'json' }).find();
 });
-
-useHead({
-  script: [
-    { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
-  ]
-});
 </script>

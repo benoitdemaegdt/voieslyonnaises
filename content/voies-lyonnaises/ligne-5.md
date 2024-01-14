@@ -18,7 +18,7 @@ Le projet consiste en un confortement de la piste cyclable existante située à 
 
 *Les travaux ont lieu entre novembre 2023 et mars 2024.*
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bron-parc-du-chene.png
 caption: Aperçu de la Voie Lyonnaise 5 - le long du Parc du Chêne (Bron)
@@ -31,7 +31,7 @@ Sur cette section du BUE inaugurée entre 1988 et 1990, l'aménagement actuel es
 
 *Les travaux ont lieu entre novembre 2023 et mars 2024.*
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 caption: Aperçu de la Voie Lyonnaise 5 - entre avenue Roosevelt et rue Elisée Reclus (Décines)
@@ -107,7 +107,7 @@ La Voie Lyonnaise 5 empruntera :
   - le parc naturel de l'Yzeron sous une voie verte de 2 à 3m de large,
   - le côté sud du boulevard Emile Zola, à partir de l'Intermarché jusqu'au pont Blanc, sous la forme d'une voie verte de 3 à 5m de large *(sauf point dur à moins de 2.5m sur 60m)*.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bvd-emile-zola.png
 caption: Aperçu de la Voie Lyonnaise 5 - boulevard Emile Zola (Oullins)
@@ -123,7 +123,7 @@ Ce tronçon fait l'objet de deux variantes d'itinéraires :
   - au Nord, en voie verte, par la traversée du Parc Chabrières-Arles jusqu'à la piscine municipale, puis 50m côté Ouest de la Grande Rue pour rejoindre la rue du Président Herriot et les berges Nord de l'Yzeron
   - au Sud, en voie verte sur le trottoir Nord du boulevard Emile Zola puis en piste cyclable bidirectionnelle sur la rue Pierre Sémard mise à sens unique avant de continuer sur l'avenue du Rhône
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bd-de-l-yzeron.png
 caption: Aperçu de la Voie Lyonnaise 5 - berges Nord de l'Yzeron (La Mulatière)
@@ -155,14 +155,14 @@ La Voie Lyonnaise 5 empruntera :
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-oullins.png
 caption: calendrier prévisionnel de la traversée d'Oullins de la Voie Lyonnaise 5.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-troncon-est.png
 caption: calendrier prévisionnel du tronçon Est de la Voie Lyonnaise 5.

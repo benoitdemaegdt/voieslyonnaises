@@ -36,7 +36,7 @@ Ce projet ambitieux sera réalisé en deux phases :
 #### Tassin - Montcelard à Valvert
 Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élargissement des trottoirs, la conservation de 3 voies de circulation dont une dédiée aux bus et la création d'une piste cyclable bidirectionnelle côté Sud de la chaussée de 2.80 à 4.00m de large.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
 caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris (Tassin)
@@ -55,7 +55,7 @@ Sur le chemin du Vallon, deux variantes ont été proposées :
  - la création d'une voie verte de 3.50 à 4.50m de large sur le trottoir Sud
  - la suppression du trottoir Nord le long du Leroy Merlin et la création d'une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.30m de large avec un point dur à 2.20m au niveau de la sortie du magasin de bricolage
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/chemin-du-vallon.png
 caption: Aperçu de la Voie Lyonnaise 8 - Chemin du Vallon (Tassin - variante piste cyclable)
@@ -78,7 +78,7 @@ Suite à la concertation, la Métropole a décidé de retenir la variante par l'
 
 Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour continuer à travers le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Vincent Serre (Tassin)
@@ -89,7 +89,7 @@ credit: Métropole de Lyon
 #### Avenue Barthélémy Buyer
 Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompera au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Barthélémy Buyer (Lyon 5 / Lyon 9)
@@ -100,7 +100,7 @@ credit: Métropole de Lyon
 #### Avenue Apollinaire et quartier de la Gravière
 La Voie Lyonnaise 8 sera donc déviée par l'avenue Apollinaire, avec la création d'une piste cyclable bidirectionnelle de 2.50m côté Est jusqu'à l'entrée du lotissement de la Gravière. Elle empruntera ensuite la rue de la Gravière puis la rue de la Persévérance. Ces voies privées avec peu de trafic automobile pourront être traitées en vélorue et embellies avec de la végétalisation.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de la Gravière (Lyon 9)
@@ -129,7 +129,7 @@ La Voie Lyonnaise 8 va totalement réaménager le pont qui sera débarrassé de 
 #### Rue de l'Université et rue Marc Bloch
 Le projet consiste en la suppression d'une à deux voies de circulation automobile et la création d'une large piste cyclable côté Sud qui sera séparée de la circulation automobile par une bande technique permettant d'accueillir le stationnement, les livraisons et de la végétalisation.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
@@ -137,7 +137,7 @@ credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
@@ -148,7 +148,7 @@ credit: Street Architecture / Métropole de Lyon
 #### Rue Camille Roy
 Cette courte rue sera réaménagée pour conserver le sens unique actuel et le stationnement côté Sud. Côté Nord, le stationnement en épi sera supprimé et une piste cyclable bidirectionnelle prendra place le long d'une large bande végétalisée et arborée.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Camille Roy (Lyon 7)
@@ -168,7 +168,7 @@ L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de
 #### Avenue Jean Mermoz
 Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie du stationnement.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz (Lyon 8)
@@ -194,7 +194,7 @@ Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deu
  - côté Ouest, à la place d'une voie de circulation et de la bande cyclable *VARIANTE VALIDEE*
  - côté Est, après le trottoir existant sur le terrain du campus
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png
 caption: Aperçu de la Voie Lyonnaise 8 - avenue Pierre Mendès-France (Bron)
@@ -207,7 +207,7 @@ Sur ce boulevard très routier, le projet prévoyait deux variantes pour la posi
  - sur la voirie, en lieu et place d'une voie de circulation *VARIANTE VALIDEE*
  - sur l'espace vert dans le bas-côté
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - boulevard de l'Université (Bron)
@@ -218,7 +218,7 @@ credit: Street Architecture / Métropole de Lyon
 #### Rue Paul Langevin
 La Voie Lyonnaise évitera le boulevard André Boulloche en faisant un détour par cette rue en transformant le trottoir Ouest en voie verte de 3.75m de large.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Paul Langevin (Bron)
@@ -232,7 +232,7 @@ L'itinéraire de la Voie Lyonnaise longera le tramway côté Nord. Une voie vert
 #### Cours du Professeur Jean Bernard
 Il est prévu de rejoindre la très large piste existante de 5.50m le long de l'arrêt "Porte des Alpes", puis de transformer les bandes cyclables bilatérales existantes de 1.50m en deux pistes cyclables axiales bilatérales de 2m le long de la plateforme tramway.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png
 caption: Aperçu de la Voie Lyonnaise 8 - Cours du Professeur Jean Bernard (St-Priest)
@@ -260,7 +260,7 @@ source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/we
  
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/calendrier-nord.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Tassin / Buyer
@@ -268,7 +268,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/calendrier-section-lyon.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Lyon 7 et 8
@@ -276,7 +276,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/calendrier-sud.png
 caption: Calendrier prévisionnel de la Voie Lyonnaise 8 - Section Sud

@@ -16,7 +16,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 #### Chemin de halage de Crépieux
 Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le tranformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/chemin-de-halage-rillieux-la-pape.png
 caption: Aperçu de la Voie Lyonnaise 6 - Chemin de Halage (Rillieux)
@@ -27,7 +27,7 @@ credit: Villes & Paysages / Métropole de Lyon
 #### Voie verte des berges du Rhône et du canal de Miribel<br/>*via le parc de St-Clair*
 Cette longue portion de 3km sera conservée en l'état. Il s'agit d'une voie verte avec revêtement béton qui fait 3 à 3.5m de large. L'éclairage existant sera conservé et ne sera donc présent que dans le parc de Saint-Clair et sur le quai Bellevue. On notera une partie étroite et inconfortable à environ 2m de large dans l'épingle qui permet de remonter sur la place Bellevue.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/parc-saint-clair-caluire.png
 caption: Aperçu de la Voie Lyonnaise 6 - Parc Saint-Clair (Caluire)
@@ -41,7 +41,7 @@ Trois variantes sont ici proposées à la concertation :
  - 2) l'aménagement du quai Bellevue avec une piste cyclable bidirectionnelle à la place d'une des deux voies de circulation côté Ouest, mais qui nécessiterait un détour important pour rejoindre le carrefour de la montée de la Boucle.
  - 3) la création d'une piste bidirectionnelle à la place de la voie de circulation Sud>Nord du cours Aristide Briand. Celle-ci serait déplacée dans la zone de rencontre actuelle qui deviendrait une voie de circulation à part entière. Le stationnement en épi côté Rhône serait aligné longitudinalement pour créer un cheminement piéton aujourd'hui inexistant sous l'alignement d'arbres à l'Ouest.  **Cette variante est privilégiée par La Ville à Vélo**
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-aristide-briand-caluire.png
 caption: Aperçu de la Voie Lyonnaise 6 - Cours Aristide Briand (Caluire) - Variante 3
@@ -56,7 +56,7 @@ Dans le sens Sud>Nord, deux variantes sont proposées à la concertation :
 
 Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unidirectionnelle de 2m à 2.25m de large à la place d'une voie de circulation côté Est de la chaussée.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-herbouville-lyon-4.png
 caption: Aperçu de la Voie Lyonnaise 6 - Cours d'Herbouville (Lyon 4) - Variante 2
@@ -87,7 +87,7 @@ Le projet définitif a été présenté début juin 2023.
 
 Les travaux devraient démarrer début 2025.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/quai-jules-courmont.png
 caption: Aperçu de la Voie Lyonnaise 6 - Quai Jules Courmont (Lyon 2)
@@ -103,7 +103,7 @@ La section rue du Belier - rue Casimir Périer a été réalisée à l'été 202
 La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.  
 La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et aucune information publique n'existe à ce jour sur ce tronçon.  
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/quai-perrache.png
 caption: Photo de la Voie Lyonnaise 6 - Quai Perrache (Lyon 2)
@@ -131,7 +131,7 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
      -  la rue de la Camille, sans aucun aménagement cyclable
      -  la rue Léon Bourgeois, avec un DSC en bande cyclable
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-1.png
 caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 1)
@@ -139,7 +139,7 @@ credit: Folia / Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/republique-scenario-1.png
 caption: Aperçu de la Voie Lyonnaise 6 - Rue de la République (Oullins - scénario 1)
@@ -151,7 +151,7 @@ credit: Folia / Métropole de Lyon
      -  *Sens Nord/Sud*, par la rue Bertholey en vélorue jusqu'à la rue Marceau puis sur une piste cyclable ; par la rue Voltaire en vélorue puis la rue Victor Hugo en zone de rencontre, avant d'emprunter la rue de la Camille dans un couloir bus ouvert aux vélos.
      -  *Sens Sud/Nord*, par la Grande Rue dans un couloir bus-vélos
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/bertholay-scenario-2.png
 caption: Aperçu de la Voie Lyonnaise 6 - Rue Narcisse Bertholey (Oullins - scénario 2)
@@ -159,7 +159,7 @@ credit: Folia / Métropole de Lyon
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-2.png
 caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 2)
@@ -173,7 +173,7 @@ La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 #### Rue de la Camille à Giratoire Gadagne
 Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/av-clemenceau.png
 caption: Aperçu de la Voie Lyonnaise 6 - avenue Clémenceau (St-Genis-Laval)
@@ -198,14 +198,14 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/calendrier-nord.png
 caption: Calendrier prévisionnel du tronçon Nord passant par Rillieux-la-Pape, Caluire-et-Cuire et Lyon 4.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/calendrier-sud.png
 caption: Calendrier prévisionnel du tronçon Sud traversant Oullins et St-Genis-Laval.

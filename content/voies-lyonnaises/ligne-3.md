@@ -19,7 +19,7 @@ Cette première branche devait commencer à la limite Ouest de Quincieux, au niv
 
 La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route de Varennes à l'entrée de Quincieux, puis continue vers le Sud sur une voie verte de 3.00 à 3.50m de large située côté Est de la route départementale 51. Elle rejoint la rive droite de la Saône à hauteur de la commune de Saint-Germain-au-Mont-d'Or et sa gare TER. Elle longe ensuite la Saône et les voies ferrées jusqu'au pont de Neuville.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png
 caption: Aperçu de la Voie Lyonnaise 3 entre St-Germain-au-Mont-d'Or et Neuville
@@ -37,7 +37,7 @@ Ce tronçon débute à l'entrée de la commune de Massieux entre les deux girato
 *Parcours commun avec la véloroute touristique "La Voie Bleue" au Sud du pont de Fontaine-sur-Saône (pont Général Leclerc)*<br/>  
 La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur les communes d'Albigny et Couzon, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Couzon-au-Mont-d'Or
@@ -65,7 +65,7 @@ L'objectif est de transformer la piste cyclable bidirectionnelle transitoire cr�
 #### Rue Antonin Laborde au pont Clémenceau
 Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur ce tronçon, créée progressivement entre 2013 et 2020. Elle sera ponctuellement élargie et améliorée. La concertation a fait remonter le besoin de supprimer la chicane en voie verte au niveau du n°16 du quai du Commerce. La Métropole de Lyon étudie actuellement la solution la plus pertinente pour améliorer ce point noir.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png
 caption: Photo de la Voie Lyonnaise 3 - Quai du Commerce (Lyon 9)
@@ -76,7 +76,7 @@ caption: Photo de la Voie Lyonnaise 3 - Quai du Commerce (Lyon 9)
 Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en sens unique Sud-Nord du quai, qui permettra de créer une piste cyclable bidirectionnelle de 3.50m de large le long de la Saône.
 
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Arloing (Lyon 9)
@@ -91,7 +91,7 @@ Entre le pont La Feuillée et le pont Bonaparte, la piste bidirectionnelle de 2.
 
 Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Fulchiron qui date de 2019 sera conservé dans son état actuel.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Fulchiron (Lyon 5)
@@ -112,7 +112,7 @@ L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens u
 
 La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais (TEOL) attendu à l'horizon 2032. *C'est une mauvaise nouvelle pour les cyclistes de ce quai qui ne pourront pas circuler en sécurité avant de nombreuses années. Le point noir majeur du bas de Choulans pourrait donc ne pas être traité avant longtemps.*
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Jean-Jacques Rousseau (La Mulatière)
@@ -133,7 +133,7 @@ La Voie Lyonnnaire 3 fera ici un léger détour en s'éloignant du Rhône via le
 Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.  
 Enfin, les cyclistes emprunteront la voie verte existante de 3m de large sur le Chemin du Barrage, qui date de 2018 et restera en l'état.
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png
 caption: Aperçu de la Voie Lyonnaise 3 - Boulevard de l’Europe (Pierre-Bénite)
@@ -186,21 +186,21 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 
 ## Calendrier prévisionnel
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/calendrier-nord-quincieux.png
 caption: Calendrier prévisionnel du tronçon Quincieux - Île Barbe de la Voie Lyonnaise 3.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/calendrier-central.png
 caption: Calendrier prévisionnel du tronçon Île Barbe - Pont Kitchener de la Voie Lyonnaise 3.
 ---
 ::
 
-::image
+::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/calendrier-sud.png
 caption: Calendrier prévisionnel du tronçon Pont de la Mulatière - Pierre-Bénite de la Voie Lyonnaise 3.

@@ -1,0 +1,53 @@
+{
+  "name": "Rue Antonin Laborde",
+  "description": "Le compteur vélo de la rue Antonin Laborde.",
+  "arrondissement": "Lyon 9",
+  "idPdc": 300030754,
+  "coordinates": [
+    4.81038898229599,
+    45.78729533130967
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2023/03/01",
+      "count": 4932
+    },
+    {
+      "month": "2023/04/01",
+      "count": 12996
+    },
+    {
+      "month": "2023/05/01",
+      "count": 15364
+    },
+    {
+      "month": "2023/06/01",
+      "count": 18527
+    },
+    {
+      "month": "2023/07/01",
+      "count": 3183
+    },
+    {
+      "month": "2023/08/01",
+      "count": 0
+    },
+    {
+      "month": "2023/09/01",
+      "count": 0
+    },
+    {
+      "month": "2023/10/01",
+      "count": 0
+    },
+    {
+      "month": "2023/11/01",
+      "count": 0
+    },
+    {
+      "month": "2023/12/01",
+      "count": 0
+    }
+  ]
+}

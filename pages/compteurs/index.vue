@@ -8,6 +8,9 @@
         <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
           Suivi des compteurs vélo de l'agglomération lyonnaise
         </h2>
+        <p class="mt-8 text-xl text-gray-500 leading-8">
+          Chaque début de mois, nous remontons les données de {{ counters.length }} compteurs à vélo de l'agglomération lyonnaise.
+        </p>
         <ClientOnly>
           <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
         </ClientOnly>
@@ -26,8 +29,11 @@
 
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
-        <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-          <div class="bg-lvv-blue-100">
+        <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
+          <div class="relative bg-lvv-blue-100">
+            <div v-if="isLastRecordMax(counter)" class="absolute top-2 right-2 bg-lvv-pink text-sm text-white font-semibold rounded-xl px-1.5">
+              record
+            </div>
             <div class="px-4 py-4 flex flex-col">
               <div class="text-base font-medium text-lvv-blue-600">
                 {{ counter.arrondissement }}
@@ -76,16 +82,23 @@ function getCounterLastRecord(counter) {
   };
 }
 
+function isLastRecordMax(counter) {
+  const lastRecord = counter.counts.at(-1);
+  return !counter.counts
+    .filter(count => new Date(count.month).getMonth() === new Date(lastRecord.month).getMonth())
+    .some(count => count.count > lastRecord.count);
+}
+
 // get record of same month of last record but previous year
 // ex : last record is November 2023. Should return record of November 2022
 function getCounterLastRecordPreviousYear(counter) {
   const lastRecordMonth = new Date(counter.counts.at(-1).month).getMonth();
   const lastRecordYear = new Date(counter.counts.at(-1).month).getFullYear();
   const lastRecordMonthPreviousYear = new Date(lastRecordYear - 1, lastRecordMonth, 1);
-  const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime()).count;
+  const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime())?.count;
   return {
     month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
-    value: lastRecordMonthPreviousYearCount.toLocaleString('fr-FR')
+    value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0
   };
 }
 

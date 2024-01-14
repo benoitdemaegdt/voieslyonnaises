@@ -9,6 +9,7 @@ type Feature = {
     line: number;
     name: string;
     status: Status;
+    doneAt?: string;
   };
   geometry: {
     type: string;
@@ -29,17 +30,27 @@ type CompteurProperties = {
   lastRecordValue: string;
 };
 
-function getStatusText(status: Status): string {
+function getStatusText(status: Status, doneAt?: string): string {
   const statusText = {
-    done: 'Terminé',
-    wip: 'En travaux',
-    planned: 'Prévu',
-    postponed: 'Reporté après 2026',
-    variante: 'Variante',
-    'variante-postponed': 'Variante reportée après 2026',
-    unknown: 'Tracé à définir'
+    done: () => `Terminé (${getDoneAtText(doneAt!)})`,
+    wip: () => 'En travaux',
+    planned: () => 'Prévu',
+    postponed: () => 'Reporté après 2026',
+    variante: () => 'Variante',
+    'variante-postponed': () => 'Variante reportée après 2026',
+    unknown: () => 'Tracé à définir'
   };
-  return statusText[status];
+  return statusText[status]();
+}
+
+function getDoneAtText(doneAt: string): string {
+  const [day, month, year] = doneAt.split('/');
+  const isBeforeMandat =
+    new Date(Number(year), Number(month) - 1, Number(day)).getTime() < new Date(2020, 0, 1).getTime();
+  if (isBeforeMandat) {
+    return 'avant 2020';
+  }
+  return `le ${doneAt}`;
 }
 
 export const useTooltip = () => {
@@ -63,13 +74,13 @@ export const useTooltip = () => {
           </div>
            <div>
             <div class='text-sm font-bold'>statut</div>
-            <div>${getStatusText(feature.properties.status)}</div>
+            <div>${getStatusText(feature.properties.status, feature.properties.doneAt)}</div>
           </div>
            <div>
             <div class='text-sm font-bold'>distance</div>
             <div>${Math.round(getDistance({ features: [feature] }) / 25) * 25}m</div>
           </div>
-        </div>      
+        </div>
       </div>
     `;
   }
@@ -102,7 +113,7 @@ export const useTooltip = () => {
            <div class='text-left text-base font-bold'>${properties.lastRecordDate}</div>
            <div class="text-left text-base">${properties.lastRecordValue}</div>
          </div>
-      </div>  
+      </div>
     `;
   }
 

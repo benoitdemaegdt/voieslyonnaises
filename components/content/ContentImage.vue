@@ -22,5 +22,5 @@ defineProps({
   imageUrl: { type: String, required: true },
   caption: { type: String, required: false },
   credit: { type: String, required: false }
-})
+});
 </script>
