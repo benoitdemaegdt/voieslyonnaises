@@ -17,7 +17,7 @@
     "eslint": "^8.56.0",
     "nuxt": "^3.9.0",
     "nuxt-icon": "^0.5.0",
-    "prettier": "^3.1.1",
+    "prettier": "^3.2.2",
     "sitemap": "^7.1.1",
     "vitest": "^1.1.1"
   },
