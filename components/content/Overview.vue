@@ -64,10 +64,7 @@ const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
     .findOne();
 });
 
-const features = geojson.value.features.map((feature, index) => ({
-  id: index,
-  ...feature
-}));
+const features = geojson.value.features;
 
 const doneFeatures = features.filter(feature => feature.properties.status === 'done');
 const doneDistance = getDistance({ features: doneFeatures });

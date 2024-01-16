@@ -1,6 +1,6 @@
 <template>
   <ClientOnly>
-    <Map :features="features" :options="mapOptions" class="h-full w-full" />
+    <Map :features="voie.features" :options="mapOptions" class="h-full w-full" />
   </ClientOnly>
 </template>
 
@@ -30,11 +30,6 @@ const { data: voie } = await useAsyncData(() => {
     .where({ _type: 'json', _path: `/voies-lyonnaises/ligne-${line}` })
     .findOne();
 });
-
-const features = voie.value.features.map((feature, index) => ({
-  id: index,
-  ...feature
-}));
 
 const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
 useHead({
