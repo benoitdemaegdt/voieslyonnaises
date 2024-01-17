@@ -171,7 +171,8 @@ export const useMap = () => {
       type: 'line',
       source: 'done-sections',
       paint: {
-        'line-width': 4,
+        'line-width': 3,
+        'line-gap-width': 4,
         'line-color': ['get', 'color']
       }
     });
