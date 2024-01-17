@@ -425,7 +425,7 @@
       "properties": {
         "line": 2,
         "name": "Tchécoslovaques",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
