@@ -105,9 +105,12 @@ export const useMap = () => {
       id: 'underline-sections',
       type: 'line',
       source: 'underline-sections',
+      layout: {
+        'line-cap': 'round'
+      },
       paint: {
-        'line-width': 8,
-        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#cbd5e1', '#FFFFFF']
+        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 8, 5],
+        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#d1d5db', '#FFFFFF']
       }
     });
 
