@@ -101,6 +101,17 @@ export const useMap = () => {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
     });
+
+    map.addLayer({
+      id: 'contour-sections',
+      type: 'line',
+      source: 'underline-sections',
+      paint: {
+        'line-gap-width': 4,
+        'line-width': 2,
+        'line-color': '#9ca3af'
+      }
+    });
     map.addLayer({
       id: 'underline-sections',
       type: 'line',
@@ -172,7 +183,6 @@ export const useMap = () => {
       source: 'done-sections',
       paint: {
         'line-width': 3,
-        'line-gap-width': 4,
         'line-color': ['get', 'color']
       }
     });
