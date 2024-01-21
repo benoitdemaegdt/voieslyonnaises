@@ -513,7 +513,7 @@ export const useMap = () => {
             'symbol-placement': 'line',
             'symbol-spacing': 1,
             'icon-image': `cross-${color}`,
-            'icon-size': 1
+            'icon-size': 1.2
           }
         });
         map.addLayer({
