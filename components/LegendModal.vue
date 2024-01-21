@@ -16,7 +16,7 @@
         <DialogTitle class="text-lg font-medium leading-6 text-gray-900"> Légende </DialogTitle>
         <div class="mt-2">
           <div class="grid grid-cols-[64px_1fr] gap-x-4">
-            <div class="my-auto">
+            <div class="my-auto rounded-md border-gray-500 border">
               <div class="h-1 relative">
                 <div class="absolute h-full w-full">
                   <div class="h-full bg-lvv-blue-600 dashed-line" />
@@ -25,12 +25,12 @@
             </div>
             <div>prévu pour 2026</div>
 
-            <div class="my-auto">
+            <div class="my-auto rounded-md border-gray-500 border">
               <div class="h-1 bg-lvv-blue-600" />
             </div>
             <div>terminé</div>
 
-            <div class="my-auto">
+            <div class="my-auto rounded-md border-gray-500 border">
               <div class="h-1 relative">
                 <div class="absolute h-full w-full">
                   <div class="h-full bg-lvv-blue-600 dashed-line animated-dashes" />
@@ -39,13 +39,15 @@
             </div>
             <div>en travaux</div>
 
-            <div class="my-auto">
-              <div class="h-2 bg-lvv-blue-600 opacity-30" />
+            <div class="h-4 my-auto rounded-md bg-lvv-blue-600 opacity-30 flex flex-col justify-center px-1">
+              <div class="border-gray-500 border">
+                <div class="h-1 rounded-md bg-white" />
+              </div>
             </div>
             <div>linéaire inconnu</div>
 
-            <div class="my-auto">
-              <div class="text-lvv-blue-600 font-bold">x x x x x</div>
+            <div class="my-auto rounded-md border-gray-500 border">
+              <div class="text-lvv-blue-600 font-bold leading-none">x x x x x</div>
             </div>
             <div>reporté après 2026</div>
           </div>
