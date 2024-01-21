@@ -90,60 +90,69 @@ export const useMap = () => {
       .filter(feature => feature.geometry.type === 'LineString')
       .map((feature, index) => ({ id: index, ...feature }));
 
-    if (sections.length === 0 && !map.getLayer('underline-sections')) {
+    if (sections.length === 0 && !map.getLayer('all-sections')) {
       return;
     }
-    if (map.getSource('underline-sections')) {
-      map.getSource('underline-sections').setData({ type: 'FeatureCollection', features: sections });
+    if (map.getSource('all-sections')) {
+      map.getSource('all-sections').setData({ type: 'FeatureCollection', features: sections });
       return;
     }
-    map.addSource('underline-sections', {
+    map.addSource('all-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
     });
 
     map.addLayer({
-      id: 'contour-sections',
+      id: 'highlight',
       type: 'line',
-      source: 'underline-sections',
+      source: 'all-sections',
+      layout: { 'line-cap': 'round' },
       paint: {
-        'line-gap-width': 4,
-        'line-width': 2,
-        'line-color': '#9ca3af'
+        'line-gap-width': 5,
+        'line-width': 4,
+        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#9ca3af', '#FFFFFF']
       }
     });
     map.addLayer({
-      id: 'underline-sections',
+      id: 'contour',
       type: 'line',
-      source: 'underline-sections',
-      layout: {
-        'line-cap': 'round'
-      },
+      source: 'all-sections',
+      layout: { 'line-cap': 'round' },
       paint: {
-        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 8, 5],
-        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#d1d5db', '#FFFFFF']
+        'line-gap-width': 4,
+        'line-width': 2,
+        'line-color': '#6b7280'
+      }
+    });
+    map.addLayer({
+      id: 'underline',
+      type: 'line',
+      source: 'all-sections',
+      paint: {
+        'line-width': 4,
+        'line-color': '#ffffff'
       }
     });
 
     let hoveredLineId: any = null;
-    map.on('mousemove', 'underline-sections', (e: any) => {
+    map.on('mousemove', 'highlight', (e: any) => {
       map.getCanvas().style.cursor = 'pointer';
       if (e.features.length > 0) {
         if (hoveredLineId !== null) {
-          map.setFeatureState({ source: 'underline-sections', id: hoveredLineId }, { hover: false });
+          map.setFeatureState({ source: 'all-sections', id: hoveredLineId }, { hover: false });
         }
         if (e.features[0].id !== undefined) {
           hoveredLineId = e.features[0].id;
           if (hoveredLineId !== null) {
-            map.setFeatureState({ source: 'underline-sections', id: hoveredLineId }, { hover: true });
+            map.setFeatureState({ source: 'all-sections', id: hoveredLineId }, { hover: true });
           }
         }
       }
     });
-    map.on('mouseleave', 'underline-sections', () => {
+    map.on('mouseleave', 'highlight', () => {
       map.getCanvas().style.cursor = '';
       if (hoveredLineId !== null) {
-        map.setFeatureState({ source: 'underline-sections', id: hoveredLineId }, { hover: false });
+        map.setFeatureState({ source: 'all-sections', id: hoveredLineId }, { hover: false });
       }
       hoveredLineId = null;
     });
@@ -182,7 +191,7 @@ export const useMap = () => {
       type: 'line',
       source: 'done-sections',
       paint: {
-        'line-width': 3,
+        'line-width': 4,
         'line-color': ['get', 'color']
       }
     });
