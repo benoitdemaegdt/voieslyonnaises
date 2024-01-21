@@ -13,9 +13,7 @@
         >
           <Icon name="mdi:close" class="h-6 w-6" aria-hidden="true" />
         </button>
-        <DialogTitle class="text-lg font-medium leading-6 text-gray-900">
-          Légende
-        </DialogTitle>
+        <DialogTitle class="text-lg font-medium leading-6 text-gray-900"> Légende </DialogTitle>
         <div class="mt-2">
           <div class="grid grid-cols-[64px_1fr] gap-x-4">
             <div class="my-auto">
@@ -47,9 +45,7 @@
             <div>linéaire inconnu</div>
 
             <div class="my-auto">
-              <div class="text-lvv-blue-600 font-bold">
-                x x x x x
-              </div>
+              <div class="text-lvv-blue-600 font-bold">x x x x x</div>
             </div>
             <div>reporté après 2026</div>
           </div>
@@ -60,44 +56,40 @@
 </template>
 
 <script setup>
-import {
-  Dialog,
-  DialogPanel,
-  DialogTitle
-} from '@headlessui/vue'
+import { Dialog, DialogPanel, DialogTitle } from '@headlessui/vue';
 
-const isOpen = ref(false)
+const isOpen = ref(false);
 
-function closeModal () {
-  isOpen.value = false
+function closeModal() {
+  isOpen.value = false;
 }
-function openModal () {
-  isOpen.value = true
+function openModal() {
+  isOpen.value = true;
 }
 
 defineExpose({
   openModal
-})
+});
 </script>
 
 <style>
 .dashed-line {
-    background-image: linear-gradient(to right, transparent 50%, white 50%);
-    background-position: 0 0;
-    background-repeat: repeat-x;
-    background-size: 12px 0.25rem;
+  background-image: linear-gradient(to right, transparent 50%, white 50%);
+  background-position: 0 0;
+  background-repeat: repeat-x;
+  background-size: 12px 0.25rem;
 }
 
 .animated-dashes {
-    animation: dash-animation 0.5s linear infinite;
+  animation: dash-animation 0.5s linear infinite;
 }
 
 @keyframes dash-animation {
-    0% {
-        background-position: 0 0;
-    }
-    100% {
-        background-position: 12px 0;
-    }
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 12px 0;
+  }
 }
 </style>
