@@ -90,7 +90,7 @@ export const useMap = () => {
       .filter(feature => feature.geometry.type === 'LineString')
       .map((feature, index) => ({ id: index, ...feature }));
 
-    if (sections.length === 0 && !map.getLayer('all-sections')) {
+    if (sections.length === 0 && !map.getLayer('highlight')) {
       return;
     }
     if (map.getSource('all-sections')) {
@@ -120,7 +120,7 @@ export const useMap = () => {
       layout: { 'line-cap': 'round' },
       paint: {
         'line-gap-width': 4,
-        'line-width': 2,
+        'line-width': 1,
         'line-color': '#6b7280'
       }
     });
