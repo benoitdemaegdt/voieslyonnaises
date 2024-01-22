@@ -1,6 +1,6 @@
 <template>
   <ClientOnly>
-    <Map :features="features" class="h-full w-full" />
+    <Map :features="features" :options="{ geolocation: true }" class="h-full w-full" />
   </ClientOnly>
 </template>
 
@@ -15,12 +15,16 @@ const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-lyonnaises').where({ _type: 'json' }).find();
 });
 
-const features = voies.value.map(voie => voie.features).flat().map((feature, index) => ({
-  id: index,
-  ...feature
-}));
+const features = voies.value
+  .map(voie => voie.features)
+  .flat()
+  .map((feature, index) => ({
+    id: index,
+    ...feature
+  }));
 
-const description = 'Découvrez la carte interactive des Voies Lyonnaises. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.';
+const description =
+  'Découvrez la carte interactive des Voies Lyonnaises. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.';
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 useHead({
   title: 'Carte à jour des Voies Lyonnaises',
