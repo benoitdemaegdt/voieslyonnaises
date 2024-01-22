@@ -36,6 +36,7 @@ const props = defineProps({
 const defaultOptions = {
   logo: true,
   legend: true,
+  geolocation: false,
   fullscreen: false,
   onFullscreenControlClick: () => {},
   shrink: false,
@@ -91,6 +92,18 @@ onMounted(() => {
       onClick: () => options.onFullscreenControlClick()
     });
     map.addControl(fullscreenControl, 'top-right');
+  }
+  if (options.geolocation) {
+    map.addControl(
+      new maplibregl.GeolocateControl({
+        positionOptions: { enableHighAccuracy: true },
+        // When active the map will receive updates to the device's location as it changes.
+        trackUserLocation: true,
+        // Draw an arrow next to the location dot to indicate which direction the device is heading.
+        showUserHeading: true
+      }),
+      'top-right'
+    );
   }
   if (options.shrink) {
     const shrinkControl = new ShrinkControl({
