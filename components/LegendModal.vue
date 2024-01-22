@@ -39,15 +39,16 @@
             </div>
             <div>en travaux</div>
 
-            <div class="h-4 my-auto rounded-md bg-lvv-blue-600 opacity-30 flex flex-col justify-center px-1">
-              <div class="border-gray-500 border">
-                <div class="h-1 rounded-md bg-white" />
+            <div class="my-auto h-4 rounded-md bg-lvv-blue-600 opacity-20 px-1">
+              <div class="flex items-center justify-center h-full">
+                <div class="h-1 w-full rounded-md border-2 border-gray-500" />
               </div>
             </div>
             <div>linéaire inconnu</div>
 
-            <div class="my-auto rounded-md border-gray-500 border">
-              <div class="text-lvv-blue-600 font-bold leading-none">x x x x x</div>
+            <div class="my-auto rounded-md border-gray-500 border relative">
+              <div class="h-1 bg-white" />
+              <div class="text-lvv-blue-600 font-bold leading-none absolute -top-2 leading-none">x x x x x</div>
             </div>
             <div>reporté après 2026</div>
           </div>
