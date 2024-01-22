@@ -85,6 +85,79 @@ function groupFeaturesByColor(features: Array<LineStringFeature & { properties: 
 export const useMap = () => {
   const { getLineColor } = useColors();
 
+  function plotUnderlinedSections({ map, features }: { map: any; features: LineStringFeature[] }) {
+    const sections = features
+      .filter(feature => feature.geometry.type === 'LineString')
+      .map((feature, index) => ({ id: index, ...feature }));
+
+    if (sections.length === 0 && !map.getLayer('highlight')) {
+      return;
+    }
+    if (map.getSource('all-sections')) {
+      map.getSource('all-sections').setData({ type: 'FeatureCollection', features: sections });
+      return;
+    }
+    map.addSource('all-sections', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features: sections }
+    });
+
+    map.addLayer({
+      id: 'highlight',
+      type: 'line',
+      source: 'all-sections',
+      layout: { 'line-cap': 'round' },
+      paint: {
+        'line-gap-width': 5,
+        'line-width': 4,
+        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#9ca3af', '#FFFFFF']
+      }
+    });
+    map.addLayer({
+      id: 'contour',
+      type: 'line',
+      source: 'all-sections',
+      layout: { 'line-cap': 'round' },
+      paint: {
+        'line-gap-width': 4,
+        'line-width': 1,
+        'line-color': '#6b7280'
+      }
+    });
+    map.addLayer({
+      id: 'underline',
+      type: 'line',
+      source: 'all-sections',
+      paint: {
+        'line-width': 4,
+        'line-color': '#ffffff'
+      }
+    });
+
+    let hoveredLineId: any = null;
+    map.on('mousemove', 'highlight', (e: any) => {
+      map.getCanvas().style.cursor = 'pointer';
+      if (e.features.length > 0) {
+        if (hoveredLineId !== null) {
+          map.setFeatureState({ source: 'all-sections', id: hoveredLineId }, { hover: false });
+        }
+        if (e.features[0].id !== undefined) {
+          hoveredLineId = e.features[0].id;
+          if (hoveredLineId !== null) {
+            map.setFeatureState({ source: 'all-sections', id: hoveredLineId }, { hover: true });
+          }
+        }
+      }
+    });
+    map.on('mouseleave', 'highlight', () => {
+      map.getCanvas().style.cursor = '';
+      if (hoveredLineId !== null) {
+        map.setFeatureState({ source: 'all-sections', id: hoveredLineId }, { hover: false });
+      }
+      hoveredLineId = null;
+    });
+  }
+
   function plotDoneSections({ map, features }: { map: any; features: LineStringFeature[] }) {
     const sections = features
       .filter(feature => feature.properties.status === 'done')
@@ -118,12 +191,10 @@ export const useMap = () => {
       type: 'line',
       source: 'done-sections',
       paint: {
-        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 6, 4],
+        'line-width': 4,
         'line-color': ['get', 'color']
       }
     });
-
-    applyHoverEffect({ map, layer: 'done-sections' });
   }
 
   function plotWipSections({ map, features }: { map: any; features: LineStringFeature[] }) {
@@ -153,7 +224,7 @@ export const useMap = () => {
       type: 'line',
       source: 'wip-sections',
       paint: {
-        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 6, 4],
+        'line-width': 4,
         'line-color': ['get', 'color'],
         'line-dasharray': [0, 2, 2]
       }
@@ -184,8 +255,6 @@ export const useMap = () => {
       requestAnimationFrame(animateDashArray);
     }
     animateDashArray(0);
-
-    applyHoverEffect({ map, layer: 'wip-sections' });
   }
 
   function plotPlannedSections({ map, features }: { map: any; features: LineStringFeature[] }) {
@@ -216,13 +285,11 @@ export const useMap = () => {
       type: 'line',
       source: 'planned-sections',
       paint: {
-        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 6, 4],
+        'line-width': 4,
         'line-color': ['get', 'color'],
         'line-dasharray': [2, 2]
       }
     });
-
-    applyHoverEffect({ map, layer: 'planned-sections' });
   }
 
   function plotVarianteSections({ map, features }: { map: any; features: LineStringFeature[] }) {
@@ -446,7 +513,7 @@ export const useMap = () => {
             'symbol-placement': 'line',
             'symbol-spacing': 1,
             'icon-image': `cross-${color}`,
-            'icon-size': 1
+            'icon-size': 1.2
           }
         });
         map.addLayer({
@@ -606,33 +673,8 @@ export const useMap = () => {
     }
   }
 
-  function applyHoverEffect({ map, layer }) {
-    let hoveredLineId = null;
-    map.on('mousemove', layer, e => {
-      map.getCanvas().style.cursor = 'pointer';
-
-      if (e.features.length > 0) {
-        if (hoveredLineId !== null) {
-          map.setFeatureState({ source: layer, id: hoveredLineId }, { hover: false });
-        }
-        if (e.features[0].id !== undefined) {
-          hoveredLineId = e.features[0].id;
-          if (hoveredLineId !== null) {
-            map.setFeatureState({ source: layer, id: hoveredLineId }, { hover: true });
-          }
-        }
-      }
-    });
-    map.on('mouseleave', layer, () => {
-      map.getCanvas().style.cursor = '';
-      if (hoveredLineId !== null) {
-        map.setFeatureState({ source: layer, id: hoveredLineId }, { hover: false });
-      }
-      hoveredLineId = null;
-    });
-  }
-
   return {
+    plotUnderlinedSections,
     plotDoneSections,
     plotWipSections,
     plotPlannedSections,

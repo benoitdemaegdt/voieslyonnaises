@@ -48,6 +48,7 @@ const options = { ...defaultOptions, ...props.options };
 const legendModalComponent = ref(null);
 
 const {
+  plotUnderlinedSections,
   plotDoneSections,
   plotWipSections,
   plotPlannedSections,
@@ -63,6 +64,7 @@ const {
 const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 function plotFeatures({ map, features }) {
+  plotUnderlinedSections({ map, features });
   plotDoneSections({ map, features });
   plotPlannedSections({ map, features });
   plotVarianteSections({ map, features });
