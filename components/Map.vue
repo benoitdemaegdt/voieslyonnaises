@@ -9,7 +9,7 @@
       width="75"
       height="75"
       alt="logo la ville à vélo"
-    />
+    >
   </div>
 </template>
 
@@ -120,7 +120,10 @@ onMounted(() => {
 
   map.on('load', () => {
     plotFeatures({ map, features: props.features });
-    fitBounds({ map, features: props.features });
+    const tailwindMdBreakpoint = 768;
+    if (window.innerWidth > tailwindMdBreakpoint) {
+      fitBounds({ map, features: props.features });
+    }
   });
 
   watch(
