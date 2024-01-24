@@ -514,7 +514,8 @@
       "properties": {
         "line": 5,
         "name": "Place de l'Horloge",
-        "status": "wip"
+        "status": "done",
+        "doneAt":"15/12/2023"
       },
       "geometry": {
         "type": "LineString",

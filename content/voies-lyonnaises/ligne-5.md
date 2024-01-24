@@ -85,7 +85,7 @@ Cette section a fait l'objet d'un aménagement transitoire fin 2020, avec le tra
 Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste cyclable bidirectionnelle de 3.50m côté Est de l'avenue Victor Hugo.
 
 #### Place Vauboin (Place de l'Horloge)
-Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge monumentale au centre, fait l'objet d'un réaménagement depuis juin 2023. Le projet prévoit un resserrement de l'anneau routier pour créer un anneau cyclable unidirectionnel de 3m de large, ainsi que de la végétalisation. Les travaux devraient se terminer en décembre 2023.
+Ce carrefour en rond-point emblématique de la ville de Tassin, avec son horloge monumentale au centre, a fait l'objet d'un réaménagement entre juin et décembre 2023. Il a consisté en un resserrement de l'anneau routier pour créer un anneau cyclable unidirectionnel de 3m de large, ainsi que de la végétalisation.
 
 ### Tassin Sud
 *L'objectif est de relier la place de l'Horloge et le quartier d'Alaï, sur un axe sans aucun aménagement cyclable aujourd'hui.*
