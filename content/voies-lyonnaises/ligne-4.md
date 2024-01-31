@@ -68,15 +68,30 @@ credit: Passagers des Villes / Métropole de Lyon
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
-Cette portion en pente sera totalement réaménagée : une piste cyclable bidrectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise qui sera sécurisé.
+Cette portion en pente sera totalement réaménagée : une piste cyclable bidrectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf){:target="_blank"}
 
 ### Traversée de Vaise
-Aucune information publique n'existe à ce jour sur ce tronçon.
-Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+#### Porte de Vaise
+La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger détour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation acceuillera notamment un hôtel de logistique urbain facilitant l'activité de livraison à vélo. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
+
+#### Rue de Bourgogne
+Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est de la chaussée.
+
+Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la chaussée en mixité avec les voitures et les nombreux bus qui desservent la gare de Vaise. Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises sera toutefois sensiblement améliorée avec la suppression du transit automobile via une action sur le plan de circulation du secteur. La circulation automobile y sera donc très faible, la rendant compatible avec une vélorue, mais la présence forte de nombreux bus articulés fera de cette section de 200m un passage délicat pour les cyclistes les moins chevronnés.
+
+#### Rue de la Corderie
+Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable bidirectionnelle de 3m de large côté Sud. Les trottoirs seront élargis et une large place sera consacrée à la végétalisation en conservant la majorité de l'offre de stationnement.
+
+#### Quais de Saône
+Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
+
+#### *Concertation*
+La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  
+[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Pont Clémenceau à Boulevard des Belges<br/>*via Tunnel mode doux et avenue Duquesne*
 Cette portion sera totalement réaménagée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à l'horizon 2030.  
