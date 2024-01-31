@@ -26,13 +26,48 @@
           </PopoverButton>
         </div>
         <PopoverGroup as="nav" class="hidden md:flex space-x-10">
-          <NuxtLink
-            to="/carte-interactive"
-            class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-          >
-            <span class="hidden lg:block">Carte interactive</span>
-            <span class="lg:hidden">Carte</span>
-          </NuxtLink>
+          <Popover v-slot="{ open }" class="relative">
+            <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
+              <span>Cartes détaillées</span>
+              <Icon name="mdi:chevron-down" :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
+            </PopoverButton>
+            <transition
+              enter-active-class="transition ease-out duration-200"
+              enter-from-class="opacity-0 translate-y-1"
+              enter-to-class="opacity-100 translate-y-0"
+              leave-active-class="transition ease-in duration-150"
+              leave-from-class="opacity-100 translate-y-0"
+              leave-to-class="opacity-0 translate-y-1"
+            >
+              <PopoverPanel v-slot="{ close }" class="absolute left-1/2 z-10 mt-3 w-screen md:w-max max-w-md -translate-x-1/2 transform px-2 sm:px-0">
+                <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 bg-white">
+                  <div class="p-4 flex flex-col gap-2">
+                    <NuxtLink
+                      to="/carte-interactive"
+                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      Carte interactive
+                    </NuxtLink>
+                    <NuxtLink
+                      to="/evolution"
+                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      Évolution du réseau
+                    </NuxtLink>
+                    <NuxtLink
+                      to="/plan-officiel"
+                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      Plan officiel
+                    </NuxtLink>
+                  </div>
+                </div>
+              </PopoverPanel>
+            </transition>
+          </Popover>
 
           <Popover v-slot="{ open }" class="relative">
             <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-lvv-blue-600 focus:outline-none focus:ring-2 focus:ring-lvv-blue-600 focus:ring-offset-2']">
@@ -66,13 +101,6 @@
             </transition>
           </Popover>
 
-          <NuxtLink
-            to="/plan-officiel"
-            class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-          >
-            <span class="hidden lg:block">Plan officiel</span>
-            <span class="lg:hidden">Plan</span>
-          </NuxtLink>
           <NuxtLink
             to="/compteurs"
             class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
