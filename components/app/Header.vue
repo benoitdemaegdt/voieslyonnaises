@@ -175,6 +175,7 @@ import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Plan officiel', path: '/plan-officiel' },
+  { name: 'Évolution du réseau', path: '/evolution' },
   { name: 'Compteurs', path: '/compteurs' }
 ];
 
