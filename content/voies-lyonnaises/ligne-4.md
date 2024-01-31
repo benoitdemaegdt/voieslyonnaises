@@ -76,7 +76,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 ### Traversée de Vaise
 #### Porte de Vaise
-La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger detour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation acceuillera notamment un hôtel de logitistique urbain facilitant la cyclologitique. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
+La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger détour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation acceuillera notamment un hôtel de logistique urbain facilitant l'activité de livraison à vélo. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
 
 #### Rue de Bourgogne
 Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est de la chaussée.
@@ -87,7 +87,7 @@ Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la cha
 Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable bidirectionnelle de 3m de large côté Sud. Les trottoirs seront élargis et une large place sera consacrée à la végétalisation en conservant la majorité de l'offre de stationnement.
 
 #### Quais de Saône
-Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tron commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
+Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
 
 #### *Concertation*
 La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  

@@ -76,7 +76,7 @@ Cette section est en tronçon commun avec la :line-link{line=4}.
 
 ### Traversée de Vaise
 #### Quais de Saône
-Le lien entre le pont Clémenceau et le centre de Vaise sera assuré en tron commun avec la :line-link{line=3} sur les quais de Saône, via le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
+Le lien entre le pont Clémenceau et le centre de Vaise sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, via le franchissement du carrefour des Monts d'Or avec la création d'une nouvelle traversée cyclable directe.
 
 #### Rue Roquette
 Le projet prévoit d'aménager une piste cyclable bidirectionelle de 3m de large côté Nord à la place d'une des deux voies de circulation et d'une rangée de stationnement. Le trottoir adjacent le long du parc sera aussi élargi.
@@ -84,7 +84,7 @@ Le projet prévoit d'aménager une piste cyclable bidirectionelle de 3m de large
 #### Rond-point de Valmy
 Ce point noir majeur du secteur devrait être traité à minima via la création d'un anneau cyclable unidirectionnel de 2m de large à l'extérieur du rond-point, marqué en résine beige. Faute de place disponible, les cheminements se feront avec peu de séparation avec les véhicules. La traversée se fera en plusieurs temps, coordonnée avec les temps de vert des différentes traversées piétonnes. Elle sera donc longue, peu sécurisée et peu fluide pour les cyclistes.
 
-*Pour éviter le détour peu réaliste et crédible via le point noir du rond-point de Valmy et la rue Roquette, la Ville à Vélo demande qu'une seconde alternative plus crédible soit étudiée via la place du Marché, la rue du Chapeau Rouge et la rue St-Pierre-de-Vaise.*
+*Pour éviter le détour peu réaliste et crédible via le point noir du giratoire de Valmy et la rue Roquette, la Ville à Vélo demande qu'une seconde alternative plus crédible soit étudiée via la place du Marché, la rue du Chapeau Rouge et la rue St-Pierre-de-Vaise.*
 
 #### Rue du Sergent Michel Berthet, le long de la place Valmy
 Cette section est en tronçon commun avec la :line-link{line=12}.
@@ -92,13 +92,14 @@ Cette section est en tronçon commun avec la :line-link{line=12}.
 #### Rue du Bourbonnais et rue du Souvenir
 La Voie Lyonnaise 5 empruntera la parallèle à la rue Marietton très routière via les rues du Bourbonnais puis du Souvenir. L'aménagement est prévu se faire en vélorue via la forte baisse du trafic automobile en :
  - passant la totalité de la rue du Bourbonnais en sens unique vers l'Ouest
- - passant la rue du Souvenir en sens unique vers l'Est entre l'ouvrage feroviaire et la rue du 24 mars 1852 **OU**
+ - passant la rue du Souvenir en sens unique vers l'Est entre l'ouvrage ferroviaire et la rue du 24 mars 1852 **OU**
  - en fermant la rue du Souvenir à la circulation motorisée sous l'ouvrage ferroviaire
 
 *L'aménagement en vélorue permet de conserver un maximum de stationnement, d'élargir un trottoir et de végétaliser, mais La Ville à Vélo sera très attentive à son bon fonctionnement, et pourra demander la création d'une piste cyclable bidirectionnelle à l'Est de l'ouvrage ferroviaire si la trafic automobile s'avérait encore trop fort.*
 
 #### Rue Marietton
-Entre la rue du Souvenir et les hôtels du pont d'Ecully, la rue Marietton et ses 2x2 voies routières sera reconfigurée avec la création d'une piste cyclable bidirectionnelle de 2,50 à 3m de large côté Est à la place d'une voie de circulation. Ce point noir cyclable majeur devrait être aménagée à l'été et l'automne 2024.
+Entre la rue du Souvenir et les hôtels du pont d'Ecully, la rue Marietton et ses 2x2 voies routières sera reconfigurée avec la création d'une piste cyclable bidirectionnelle de 2,50 à 3m de large côté Est à la place d'une voie de circulation.  
+*Ce point noir cyclable majeur devrait être aménagée à l'été et l'automne 2024.*
 
 #### *Concertation*
 La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  
