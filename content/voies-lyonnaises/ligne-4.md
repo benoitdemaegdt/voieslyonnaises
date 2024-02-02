@@ -83,6 +83,14 @@ Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la fo
 
 Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la chaussée en mixité avec les voitures et les nombreux bus qui desservent la gare de Vaise. Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises sera toutefois sensiblement améliorée avec la suppression du transit automobile via une action sur le plan de circulation du secteur. La circulation automobile y sera donc très faible, la rendant compatible avec une vélorue, mais la présence forte de nombreux bus articulés fera de cette section de 200m un passage délicat pour les cyclistes les moins chevronnés.
 
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/rue-bourgogne.png
+caption: Aperçu de la Voie Lyonnaise 4 - Rue de Bourgogne (Vaise)
+credit: Passagers des Villes / Métropole de Lyon
+---
+::
+
 #### Rue de la Corderie
 Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable bidirectionnelle de 3m de large côté Sud. Les trottoirs seront élargis et une large place sera consacrée à la végétalisation en conservant la majorité de l'offre de stationnement.
 
@@ -168,6 +176,14 @@ credit: Dossier de concertation - Métropole de Lyon
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-garde-porte-de-vaise.png
 caption: Calendrier prévisionnel du tronçon La Garde - Porte de Vaise de la Voie Lyonnaise 4.
+credit: Dossier de concertation - Métropole de Lyon
+---
+::
+
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/calendrier-vaise.png
+caption: Calendrier prévisionnel de la traversée de Vaise de la Voie Lyonnaise 4.
 credit: Dossier de concertation - Métropole de Lyon
 ---
 ::
