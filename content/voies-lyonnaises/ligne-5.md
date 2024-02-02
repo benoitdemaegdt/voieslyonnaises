@@ -86,6 +86,14 @@ Ce point noir majeur du secteur devrait être traité à minima via la création
 
 *Pour éviter le détour peu réaliste et crédible via le point noir du giratoire de Valmy et la rue Roquette, la Ville à Vélo demande qu'une seconde alternative plus crédible soit étudiée via la place du Marché, la rue du Chapeau Rouge et la rue St-Pierre-de-Vaise.*
 
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/place-valmy.png
+caption: Aperçu de la Voie Lyonnaise 5 - Place Valmy (Lyon 9)
+credit: Passagers des Villes / Métropole de Lyon
+---
+::
+
 #### Rue du Sergent Michel Berthet, le long de la place Valmy
 Cette section est en tronçon commun avec la :line-link{line=12}.
 
@@ -187,6 +195,13 @@ La Voie Lyonnaise 5 empruntera :
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-oullins.png
 caption: calendrier prévisionnel de la traversée d'Oullins de la Voie Lyonnaise 5.
+---
+::
+
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/calendrier-vaise.png
+caption: calendrier prévisionnel de la traversée de Vaise de la Voie Lyonnaise 5.
 ---
 ::
 
