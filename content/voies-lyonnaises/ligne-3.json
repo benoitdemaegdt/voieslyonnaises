@@ -252,7 +252,8 @@
         "line": 3,
         "name": "Genay - Rte de Trévoux",
         "status": "done",
-        "doneAt": "30/04/2021"
+        "doneAt": "30/04/2021",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -312,7 +313,8 @@
         "line": 3,
         "name": "Couzon Nord",
         "status": "done",
-        "doneAt": "25/01/2023"
+        "doneAt": "25/01/2023",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -335,7 +337,8 @@
         "line": 3,
         "name": "Couzon Sud",
         "status": "done",
-        "doneAt": "31/11/2019"
+        "doneAt": "31/11/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -644,7 +647,8 @@
         "line": 3,
         "name": "Quai Fulchiron",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -716,7 +720,8 @@
         "line": 3,
         "name": "Quai Sémard - Parc urbain",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -747,7 +752,8 @@
         "line": 3,
         "name": "Quai Sémard - Friche SNCF",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -780,7 +786,8 @@
         "line": 3,
         "name": "Berge Yzeron Est",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -848,7 +855,8 @@
         "line": 3,
         "name": "Oullins - Avenue Jaurès",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -895,7 +903,8 @@
         "line": 3,
         "name": "Chemin du Barrage",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",

@@ -290,7 +290,8 @@
         "line": 11,
         "name": "Pont Wilson",
         "status": "done",
-        "doneAt": "28/02/2022"
+        "doneAt": "28/02/2022",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -349,7 +350,8 @@
         "line": 11,
         "name": "Garibaldi - Part Dieu",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

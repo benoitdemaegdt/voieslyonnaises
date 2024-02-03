@@ -114,7 +114,8 @@
         "line": 12,
         "name": "Rue Pierre Audry Nord",
         "status": "done",
-        "doneAt": "01/04/2022"
+        "doneAt": "01/04/2022",
+        "type": "bilaterale"
       },
       "geometry": {
         "type": "LineString",
@@ -139,7 +140,8 @@
         "line": 12,
         "name": "Rue Pierre Audry Sud",
         "status": "done",
-        "doneAt": "01/04/2022"
+        "doneAt": "01/04/2022",
+        "type": "bilaterale"
       },
       "geometry": {
         "type": "LineString",

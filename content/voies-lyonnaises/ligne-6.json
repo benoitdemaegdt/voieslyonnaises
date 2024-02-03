@@ -154,7 +154,8 @@
         "line": 6,
         "name": "Parc de St-Clair - Seuil Feyssine",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -407,7 +408,8 @@
         "line": 6,
         "name": "Quai Perrache Nord",
         "status": "done",
-        "doneAt": "31/08/2021"
+        "doneAt": "31/08/2021",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
