@@ -507,7 +507,8 @@
         "line": 8,
         "name": "Tassin - Victor Hugo",
         "status": "done",
-        "doneAt": "31/12/2021"
+        "doneAt": "31/12/2021",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -659,7 +660,8 @@
         "line": 8,
         "name": "Rue Pierre Audry Sud",
         "status": "done",
-        "doneAt": "01/04/2022"
+        "doneAt": "01/04/2022",
+        "type": "bilaterale"
       },
       "geometry": {
         "type": "LineString",
@@ -1071,7 +1073,8 @@
         "line": 8,
         "name": "Pinel - A43",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -1271,7 +1274,8 @@
         "line": 8,
         "name": "Parking relais Porte des Alpes",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

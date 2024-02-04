@@ -361,7 +361,8 @@
         "line": 4,
         "name": "Pont Georges Clemenceau",
         "status": "done",
-        "doneAt": "16/09/2022"
+        "doneAt": "16/09/2022",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -379,7 +380,8 @@
         "line": 4,
         "name": "Tunnel de la Croix-Rousse",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

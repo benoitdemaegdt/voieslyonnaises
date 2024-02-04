@@ -286,7 +286,8 @@
         "line": 1,
         "name": "Avenue de Grande-Bretagne",
         "status": "done",
-        "doneAt": "28/03/2023"
+        "doneAt": "28/03/2023",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -307,7 +308,8 @@
         "line": 1,
         "name": "Quai de Serbie",
         "status": "done",
-        "doneAt": "28/03/2023"
+        "doneAt": "28/03/2023",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -329,7 +331,8 @@
         "line": 1,
         "name": "Pont Morand - Rue Cuvier",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -401,7 +404,8 @@
         "line": 1,
         "name": "Pont de la Guillotière - Pont Gallieni",
         "status": "done",
-        "doneAt": "08/07/2022"
+        "doneAt": "08/07/2022",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

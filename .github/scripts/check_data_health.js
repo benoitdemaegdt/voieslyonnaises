@@ -61,6 +61,24 @@ function checkGeoJsonDataHealth() {
                   process.exit(1);
                 }
 
+                if (properties.hasOwnProperty('type')) {
+                  const validTypes = [
+                    'bidirectionnelle',
+                    'bilaterale',
+                    'voie-bus',
+                    'voie-bus-elargie',
+                    'velorue',
+                    'voie-verte',
+                    'bandes-cyclables',
+                    'zone-de-rencontre',
+                    'inconnu'
+                  ];
+                  if (!validTypes.includes(properties.type)) {
+                    console.error(`Invalid type '${properties.type}' in LineString properties of file: ${filePath}`);
+                    process.exit(1);
+                  }
+                }
+
                 const dateRegex = /^\d{2}\/\d{2}\/\d{4}$/;
                 if (!dateRegex.test(properties.doneAt)) {
                   console.error(

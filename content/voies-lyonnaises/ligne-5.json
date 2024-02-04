@@ -151,7 +151,8 @@
         "line": 5,
         "name": "Chemin du Barrage",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -206,7 +207,8 @@
         "line": 5,
         "name": "Oullins - Avenue Jaurès",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -435,7 +437,8 @@
         "line": 5,
         "name": "Beaunant",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bilaterale"
       },
       "geometry": {
         "type": "LineString",
@@ -515,7 +518,8 @@
         "line": 5,
         "name": "Place de l'Horloge",
         "status": "done",
-        "doneAt":"15/12/2023"
+        "doneAt":"15/12/2023",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -531,7 +535,8 @@
         "line": 5,
         "name": "Tassin - Victor Hugo",
         "status": "done",
-        "doneAt": "31/12/2021"
+        "doneAt": "31/12/2021",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -548,7 +553,8 @@
         "line": 5,
         "name": "Tassin - Victor Hugo",
         "status": "done",
-        "doneAt": "31/12/2021"
+        "doneAt": "31/12/2021",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -565,7 +571,8 @@
         "line": 5,
         "name": "Tassin - Victor Hugo",
         "status": "done",
-        "doneAt": "31/12/2021"
+        "doneAt": "31/12/2021",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -658,7 +665,7 @@
           [4.805415015656813, 45.774275105396384]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -724,7 +731,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [   
+        "coordinates": [
           [4.807330498428769,45.77683140956103],
           [4.80777915558761,45.77690650986693]
         ]
@@ -755,7 +762,8 @@
         "line": 5,
         "name": "Pont Georges Clemenceau",
         "status": "done",
-        "doneAt": "16/09/2022"
+        "doneAt": "16/09/2022",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -773,7 +781,8 @@
         "line": 5,
         "name": "Tunnel de la Croix-Rousse",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -814,7 +823,8 @@
         "line": 5,
         "name": "Pont de Lattre de Tassigny - VL1",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -837,7 +847,8 @@
         "line": 5,
         "name": "Avenue de Grande-Bretagne",
         "status": "done",
-        "doneAt": "28/03/2023"
+        "doneAt": "28/03/2023",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -938,9 +949,10 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "name": "Campus Doua",
+        "name": "Boulevard Niels Bohr",
         "status": "done",
-        "doneAt": "31/08/2021"
+        "doneAt": "31/08/2021",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -953,6 +965,22 @@
           [4.871073961257935, 45.785089187585115],
           [4.873225092887878, 45.78549694264219],
           [4.875639081001282, 45.78602814200438],
+          [4.876567125320435, 45.78624136849364]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "name": "Rue des Sports",
+        "status": "done",
+        "doneAt": "31/08/2021",
+        "type": "bidirectionnelle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.876567125320435, 45.78624136849364],
           [4.876711964607238, 45.78599447458943],
           [4.876883625984192, 45.78591591720875],

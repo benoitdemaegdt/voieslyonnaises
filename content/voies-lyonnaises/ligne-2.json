@@ -327,7 +327,8 @@
         "line": 2,
         "name": "Belges de Waldeck-Rousseau à Fournet",
         "status": "done",
-        "doneAt": "31/10/2023"
+        "doneAt": "31/10/2023",
+        "type": "voie-bus-elargie"
       },
       "geometry": {
         "type": "LineString",
@@ -507,7 +508,8 @@
         "line": 2,
         "name": "Traversée du périphérique",
         "status": "done",
-        "doneAt": "24/05/2019"
+        "doneAt": "24/05/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -537,7 +539,8 @@
         "line": 2,
         "name": "Avenue Jules Guesde",
         "status": "done",
-        "doneAt": "01/09/2018"
+        "doneAt": "01/09/2018",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",

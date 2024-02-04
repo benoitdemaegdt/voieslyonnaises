@@ -93,7 +93,8 @@
         "line": 10,
         "name": "Tassin - Victor Hugo",
         "status": "done",
-        "doneAt": "31/12/2021"
+        "doneAt": "31/12/2021",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -283,7 +284,8 @@
         "line": 10,
         "name": "Pont Georges Clemenceau",
         "status": "done",
-        "doneAt": "16/09/2022"
+        "doneAt": "16/09/2022",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -301,7 +303,8 @@
         "line": 10,
         "name": "Tunnel de la Croix-Rousse",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -416,7 +419,8 @@
         "line": 10,
         "name": "Belges de Waldeck-Rousseau à Fournet",
         "status": "done",
-        "doneAt": "31/10/2023"
+        "doneAt": "31/10/2023",
+        "type": "voie-bus-elargie"
       },
       "geometry": {
         "type": "LineString",
@@ -456,7 +460,8 @@
         "line": 10,
         "name": "Part-Dieu Nord en surface",
         "status": "done",
-        "doneAt": "31/12/2022"
+        "doneAt": "31/12/2022",
+        "type": "voie-bus-elargie"
       },
       "geometry": {
         "type": "LineString",
@@ -654,7 +659,8 @@
         "line": 10,
         "name": "Rue George Sand",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -701,7 +707,8 @@
         "line": 10,
         "name": "Promenade de la Gare",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -764,7 +771,8 @@
         "line": 10,
         "name": "Rue Jean Bertin",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -802,7 +810,8 @@
         "line": 10,
         "name": "Avenue des Canuts",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -836,7 +845,8 @@
         "line": 10,
         "name": "BUE - Roosevelt",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -903,7 +913,8 @@
         "line": 10,
         "name": "Berlioz - Michelet",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -938,7 +949,8 @@
         "line": 10,
         "name": "Paul Bert - Jaurès",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -972,7 +984,8 @@
         "line": 10,
         "name": "Rue Emile Bertrand",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -1007,7 +1020,8 @@
         "line": 10,
         "name": "Décines - Centre à Grand Large",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -1096,7 +1110,8 @@
         "line": 10,
         "name": "Route de Jonage - Avenue du Carreau",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -1148,7 +1163,8 @@
         "line": 10,
         "name": "Gare de Meyzieu",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -1191,7 +1207,8 @@
         "line": 10,
         "name": "Rue Arago Est",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
@@ -1225,7 +1242,8 @@
         "line": 10,
         "name": "Meyzieu ZI",
         "status": "done",
-        "doneAt": "31/12/2019"
+        "doneAt": "31/12/2019",
+        "type": "voie-verte"
       },
       "geometry": {
         "type": "LineString",
