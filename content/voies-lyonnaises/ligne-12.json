@@ -88,14 +88,30 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "PlaceValmy-commun",
         "line": 12,
-        "name": "Valmy - Gorge de Loup",
+        "name": "Place Valmy",
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.805384241771264, 45.775141393425656],
+          [4.805386040078901, 45.77513261348585],
+          [4.805415015656813, 45.774275105396384]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "Rue du Sergent Berthet",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.805415015656813, 45.774275105396384],
           [4.805445789542247, 45.77198307260039],
           [4.8055305632362675, 45.77039593288927],
           [4.805601925885213, 45.76881417211928],
