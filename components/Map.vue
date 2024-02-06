@@ -160,9 +160,11 @@ onMounted(() => {
         .setHTML(getTooltipCompteur(feature.properties))
         .addTo(map);
     } else {
+      const { line, name } = features[0].properties;
+      const feature = props.features.find(feature => feature.properties.line === line && feature.properties.name === name);
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(features[0]))
+        .setHTML(getTooltipHtml(feature))
         .addTo(map);
     }
   });

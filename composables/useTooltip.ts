@@ -77,7 +77,7 @@ export const useTooltip = () => {
             <div>${getStatusText(feature.properties.status, feature.properties.doneAt)}</div>
           </div>
            <div>
-            <div class='text-sm font-bold'>distance</div>
+            <div class='text-sm font-bold'>Longueur</div>
             <div>${Math.round(getDistance({ features: [feature] }) / 25) * 25}m</div>
           </div>
         </div>
