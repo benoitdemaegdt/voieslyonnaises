@@ -173,7 +173,7 @@ onMounted(() => {
 
 <style>
 .maplibregl-popup-content {
-  @apply p-0;
+  @apply p-0 rounded-lg overflow-hidden;
 }
 
 .maplibregl-info {
