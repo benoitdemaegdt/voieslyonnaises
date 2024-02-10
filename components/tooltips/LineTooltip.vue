@@ -31,6 +31,11 @@
         <div>{{ Math.round(getDistance({ features: [feature] }) / 25) * 25 }}m</div>
       </div>
     </div>
+    <div class="bg-lvv-blue-600 flex justify-center">
+      <a class="p-1 text-white text-sm italic hover:underline" :href="`/voie-lyonnaise-${feature.properties.line}`" target="_blank">
+        voir le détail <Icon name="mdi:link-variant" class="h-4 w-4 text-white" />
+      </a>
+    </div>
   </div>
 </template>
 

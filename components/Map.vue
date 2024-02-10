@@ -14,7 +14,7 @@
 </template>
 
 <script setup>
-import { createApp, defineComponent, h } from 'vue';
+import { createApp, defineComponent, h, Suspense } from 'vue';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
@@ -172,7 +172,10 @@ onMounted(() => {
         .addTo(map);
 
       const popupInstance = createApp({
-        render: () => h(LineTooltipComponent, { feature })
+        render: () => h(Suspense, null, {
+          default: h(LineTooltipComponent, { feature }),
+          fallback: 'Chargement...'
+        })
       });
       popupInstance.mount('#line-tooltip-content');
       popup._update();
