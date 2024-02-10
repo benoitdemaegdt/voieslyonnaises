@@ -14,12 +14,14 @@
 </template>
 
 <script setup>
+import { createApp, defineComponent, h } from 'vue';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
+import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -61,7 +63,7 @@ const {
   fitBounds
 } = useMap();
 
-const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
+const { getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 function plotFeatures({ map, features }) {
   plotUnderlinedSections({ map, features });
@@ -162,10 +164,18 @@ onMounted(() => {
     } else {
       const { line, name } = features[0].properties;
       const feature = props.features.find(feature => feature.properties.line === line && feature.properties.name === name);
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+
+      const LineTooltipComponent = defineComponent(LineTooltip);
+      const popup = new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(feature))
+        .setHTML('<div id="line-tooltip-content"></div>')
         .addTo(map);
+
+      const popupInstance = createApp({
+        render: () => h(LineTooltipComponent, { feature })
+      });
+      popupInstance.mount('#line-tooltip-content');
+      popup._update();
     }
   });
 });

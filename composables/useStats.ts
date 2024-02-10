@@ -5,6 +5,7 @@ type Feature = {
     line: number;
     name: string;
     status: string;
+    doneAt?: string;
   };
   geometry: {
     type: string;
