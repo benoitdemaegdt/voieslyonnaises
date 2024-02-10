@@ -163,7 +163,11 @@ onMounted(() => {
         .addTo(map);
     } else {
       const { line, name } = features[0].properties;
+      // take care feature[0].geometry is truncated (to fit tile size). We need to find the full feature.
       const feature = props.features.find(feature => feature.properties.line === line && feature.properties.name === name);
+      const lines = feature.properties.id
+        ? [...new Set(features.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
+        : [feature.properties.line];
 
       const LineTooltipComponent = defineComponent(LineTooltip);
       const popup = new maplibregl.Popup({ closeButton: false, closeOnClick: true })
@@ -173,7 +177,7 @@ onMounted(() => {
 
       const popupInstance = createApp({
         render: () => h(Suspense, null, {
-          default: h(LineTooltipComponent, { feature }),
+          default: h(LineTooltipComponent, { feature, lines }),
           fallback: 'Chargement...'
         })
       });

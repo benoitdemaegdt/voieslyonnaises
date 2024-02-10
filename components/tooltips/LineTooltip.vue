@@ -4,11 +4,15 @@
       <div class="text-gray-900 font-bold text-lg">
         Voie Lyonnaise
       </div>
-      <div
-        class="h-6 w-6 rounded-full flex items-center justify-center text-white text-md font-bold"
-        :style="`background-color: ${getLineColor(feature.properties.line)}`"
-      >
-        {{ feature.properties.line }}
+      <div class="flex flex-row space-x-1">
+        <div
+          v-for="line in lines"
+          :key="line"
+          class="h-6 w-6 rounded-full flex items-center justify-center text-white text-md font-bold"
+          :style="`background-color: ${getLineColor(line)}`"
+        >
+          {{ line }}
+        </div>
       </div>
     </div>
     <div class="px-2 divide-y">
@@ -50,7 +54,7 @@ const { getLineColor } = useColors();
 const { getDistance } = useStats();
 
 type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
-const { feature } = defineProps<{
+const { feature, lines } = defineProps<{
   feature: {
     type: string;
     properties: {
@@ -65,6 +69,7 @@ const { feature } = defineProps<{
       coordinates: number[][];
     };
   }
+  lines: number[];
 }>();
 
 // function getDoneAtText(doneAt: string): string {
