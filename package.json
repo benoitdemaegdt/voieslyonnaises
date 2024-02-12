@@ -12,7 +12,7 @@
     "@headlessui/vue": "^1.7.19",
     "@nuxt/content": "^2.12.0",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
-    "@nuxtjs/tailwindcss": "^6.11.3",
+    "@nuxtjs/tailwindcss": "^6.11.4",
     "@tailwindcss/typography": "^0.5.10",
     "eslint": "^8.56.0",
     "nuxt": "^3.10.1",
