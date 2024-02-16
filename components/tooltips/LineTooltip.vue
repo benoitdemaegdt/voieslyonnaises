@@ -28,8 +28,13 @@
         <div class="text-base font-bold">
           statut
         </div>
-        <div class="text-sm">
-          {{ getStatusText(feature.properties.status) }}
+        <div>
+          <div class="text-sm" :class="getStatus(feature.properties).class">
+            {{ getStatus(feature.properties).label }}
+          </div>
+          <div v-if="getStatus(feature.properties).date" class="italic">
+            {{ getStatus(feature.properties).date }}
+          </div>
         </div>
       </div>
       <div class="py-1 flex items-center justify-between">
@@ -54,16 +59,18 @@ const { getLineColor } = useColors();
 const { getDistance } = useStats();
 
 type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
+type Properties = {
+  id?: string;
+  line: number;
+  name: string;
+  status: Status;
+  doneAt?: string;
+};
+
 const { feature, lines } = defineProps<{
   feature: {
     type: string;
-    properties: {
-      id?: string;
-      line: number;
-      name: string;
-      status: Status;
-      doneAt?: string;
-    };
+    properties: Properties;
     geometry: {
       type: string;
       coordinates: number[][];
@@ -72,26 +79,50 @@ const { feature, lines } = defineProps<{
   lines: number[];
 }>();
 
-// function getDoneAtText(doneAt: string): string {
-//   const [day, month, year] = doneAt.split('/');
-//   const isBeforeMandat =
-//     new Date(Number(year), Number(month) - 1, Number(day)).getTime() < new Date(2021, 0, 1).getTime();
-//   if (isBeforeMandat) {
-//     return 'avant 2021';
-//   }
-//   return `le ${doneAt}`;
-// }
+function getDoneAtText(doneAt: string): string {
+  const [day, month, year] = doneAt.split('/');
+  const isBeforeMandat =
+    new Date(Number(year), Number(month) - 1, Number(day)).getTime() < new Date(2021, 0, 1).getTime();
+  if (isBeforeMandat) {
+    return 'avant 2021';
+  }
+  return `le ${doneAt}`;
+}
 
-function getStatusText(status: Status): string {
-  const statusText = {
-    done: 'Terminé',
-    wip: 'En travaux',
-    planned: 'Prévu',
-    postponed: 'Reporté après 2026',
-    variante: 'Variante',
-    'variante-postponed': 'Variante reportée après 2026',
-    unknown: 'Tracé à définir'
+function getStatus(properties: Properties): { label: string, class: string; date?: string } {
+  const statusMapping = {
+    done: {
+      label: 'terminé',
+      date: properties.doneAt && getDoneAtText(properties.doneAt),
+      class: 'text-white bg-lvv-blue-600 rounded-xl px-2'
+    },
+    wip: {
+      label: 'en travaux',
+      class: 'text-lvv-blue-600 rounded-xl px-2 border border-dashed border-lvv-blue-600'
+    },
+    planned: {
+      label: 'prévu',
+      class: 'text-lvv-blue-600 rounded-xl px-2 border border-lvv-blue-600'
+    },
+    postponed: {
+      label: 'reporté',
+      date: 'après 2026',
+      class: 'text-white bg-lvv-pink rounded-xl px-2'
+    },
+    variante: {
+      label: 'variante',
+      class: ''
+    },
+    'variante-postponed': {
+      label: 'variante reportée',
+      date: 'après 2026',
+      class: 'text-white bg-lvv-pink rounded-xl px-2'
+    },
+    unknown: {
+      label: 'à définir',
+      class: 'text-gray-900 bg-gray-200 rounded-xl px-2'
+    }
   };
-  return statusText[status];
+  return statusMapping[properties.status];
 }
 </script>
