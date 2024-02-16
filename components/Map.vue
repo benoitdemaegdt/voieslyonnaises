@@ -14,12 +14,14 @@
 </template>
 
 <script setup>
+import { createApp, defineComponent, h, Suspense } from 'vue';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
+import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -61,7 +63,7 @@ const {
   fitBounds
 } = useMap();
 
-const { getTooltipHtml, getTooltipPerspective, getTooltipCompteur } = useTooltip();
+const { getTooltipPerspective, getTooltipCompteur } = useTooltip();
 
 function plotFeatures({ map, features }) {
   plotUnderlinedSections({ map, features });
@@ -161,11 +163,26 @@ onMounted(() => {
         .addTo(map);
     } else {
       const { line, name } = features[0].properties;
+      // take care feature[0].geometry is truncated (to fit tile size). We need to find the full feature.
       const feature = props.features.find(feature => feature.properties.line === line && feature.properties.name === name);
+      const lines = feature.properties.id
+        ? [...new Set(features.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
+        : [feature.properties.line];
+
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipHtml(feature))
+        .setHTML('<div id="line-tooltip-content"></div>')
         .addTo(map);
+
+      const LineTooltipComponent = defineComponent(LineTooltip);
+      nextTick(() => {
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(LineTooltipComponent, { feature, lines }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#line-tooltip-content');
+      });
     }
   });
 });
