@@ -169,20 +169,20 @@ onMounted(() => {
         ? [...new Set(features.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
         : [feature.properties.line];
 
-      const LineTooltipComponent = defineComponent(LineTooltip);
-      const popup = new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<div id="line-tooltip-content"></div>')
         .addTo(map);
 
-      const popupInstance = createApp({
-        render: () => h(Suspense, null, {
-          default: h(LineTooltipComponent, { feature, lines }),
-          fallback: 'Chargement...'
-        })
+      const LineTooltipComponent = defineComponent(LineTooltip);
+      nextTick(() => {
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(LineTooltipComponent, { feature, lines }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#line-tooltip-content');
       });
-      popupInstance.mount('#line-tooltip-content');
-      popup._update();
     }
   });
 });
