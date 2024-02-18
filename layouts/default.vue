@@ -32,3 +32,10 @@ function closeNewsBanner() {
   localStorage.setItem('newsBannerClosedAt', new Date().toISOString());
 }
 </script>
+
+<style>
+h1, h2, h3, h4, h5, h6 {
+  // TODO: compute navbar height
+  scroll-margin-top: 96px;
+}
+</style>

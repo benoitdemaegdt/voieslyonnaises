@@ -50,11 +50,7 @@ export default defineNuxtConfig({
     }
   },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
-  content: {
-    // markdown: {
-    //   tags: { h1: 'h1', h2: 'h2', h3: 'h3', h4: 'ProseH4', h5: 'h5', h6: 'h6' }
-    // }
-  },
+  content: {},
   tailwindcss: { viewer: false },
   nitro: {
     prerender: {
