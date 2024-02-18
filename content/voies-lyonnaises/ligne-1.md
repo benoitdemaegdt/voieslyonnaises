@@ -80,11 +80,17 @@ caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
 ---
 ::
 
-#### Quai Sarrail et Quai Augagneur *(Pont Morand <> Pont de la Guillotière)*
+#### Quai Sarrail et Quai Augagneur
+
+*(Pont Morand <> Pont de la Guillotière)*
+
 Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.  
 *Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.*
 
-#### Quai Claude Bernard *(Pont de la Guillotière <> Pont Gallieni)*
+#### Quai Claude Bernard
+
+*(Pont de la Guillotière <> Pont Gallieni)*
+
 La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.  
 Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.  
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.  

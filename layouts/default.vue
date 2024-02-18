@@ -31,4 +31,20 @@ function closeNewsBanner() {
   localStorage.setItem('isNewsBannerClosed', 'true');
   localStorage.setItem('newsBannerClosedAt', new Date().toISOString());
 }
+
+onBeforeMount(() => {
+  const navbar = document.getElementById('navigation-header');
+  const navbarHeight = navbar ? navbar.offsetHeight : 0;
+  document.documentElement.style.setProperty('--navbar-height', navbarHeight + 'px');
+});
 </script>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: calc(var(--navbar-height));
+}
+</style>

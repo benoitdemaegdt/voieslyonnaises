@@ -1,5 +1,5 @@
 <template>
-  <Popover class="relative z-50 bg-white shadow">
+  <Popover id="navigation-header" class="relative z-50 bg-white shadow">
     <div class="max-w-7xl mx-auto px-4 sm:px-6">
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">

@@ -52,7 +52,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
   content: {
     markdown: {
-      tags: { h1: 'h1', h2: 'h2', h3: 'h3', h4: 'h4', h5: 'h5', h6: 'h6' }
+      tags: { h1: 'h1', h5: 'h5', h6: 'h6' }
     }
   },
   tailwindcss: { viewer: false },
