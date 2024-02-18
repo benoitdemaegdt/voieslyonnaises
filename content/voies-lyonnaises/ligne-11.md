@@ -57,7 +57,7 @@ credit: Métropole de Lyon
 Cette section est en tronçon commun avec la :line-link{line=7}.
 
 ### Rue Paul Bert - *Garibaldi à Vivier-Merle*
-Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marqué sur le trottoir Nord à l'été 2018, puis supprimée à l'été 2021 au profit de deux bandes cyclables bilatérales sur la chaussée à la place d'une voie de circulation.
+Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marquée sur le trottoir Nord à l'été 2018, puis supprimée à l'été 2021 au profit de deux bandes cyclables bilatérales sur la chaussée à la place d'une voie de circulation.
 
 Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclables en une piste cyclable bidirectionnelle de 3 à 4m de large côté Nord. En parallèle, l'étroit trottoir Sud sera agrandi.
 
