@@ -31,11 +31,17 @@ function closeNewsBanner() {
   localStorage.setItem('isNewsBannerClosed', 'true');
   localStorage.setItem('newsBannerClosedAt', new Date().toISOString());
 }
+
+onBeforeMount(() => {
+  const navbar = document.getElementById('navigation-header');
+  const navbarHeight = navbar ? navbar.offsetHeight : 0;
+  document.documentElement.style.setProperty('--navbar-height', navbarHeight + 'px');
+});
+
 </script>
 
 <style>
 h1, h2, h3, h4, h5, h6 {
-  // TODO: compute navbar height
-  scroll-margin-top: 96px;
+  scroll-margin-top: calc(var(--navbar-height));
 }
 </style>
