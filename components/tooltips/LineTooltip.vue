@@ -47,7 +47,7 @@
       </div>
     </div>
     <div class="bg-lvv-blue-600 flex justify-center">
-      <a class="p-1 text-white text-base italic hover:underline" :href="`/voie-lyonnaise-${feature.properties.line}`" target="_blank">
+      <a class="p-1 text-white text-base italic hover:underline" :href="getSectionDetailsUrl(feature.properties)" target="_blank">
         voir le détail <Icon name="mdi:link-variant" class="h-4 w-4 text-white" />
       </a>
     </div>
@@ -65,6 +65,7 @@ type Properties = {
   name: string;
   status: Status;
   doneAt?: string;
+  anchor?: string
 };
 
 const { feature, lines } = defineProps<{
@@ -82,6 +83,14 @@ const { feature, lines } = defineProps<{
 const title = computed(() => {
   return lines.length > 1 ? 'Voies Lyonnaises' : 'Voie Lyonnaise';
 });
+
+function getSectionDetailsUrl(properties: Properties): string {
+  const baseUrl = `/voie-lyonnaise-${properties.line}`;
+  if (properties.anchor) {
+    return `${baseUrl}${properties.anchor}`;
+  }
+  return baseUrl;
+}
 
 function getDoneAtText(doneAt: string): string {
   const [day, month, year] = doneAt.split('/');
