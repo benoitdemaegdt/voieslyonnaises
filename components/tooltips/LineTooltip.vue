@@ -1,14 +1,14 @@
 <template>
   <div class="not-prose w-48">
     <div class="py-1 bg-zinc-100 flex flex-col items-center justify-center">
-      <div class="text-gray-900 font-bold text-lg">
-        Voie Lyonnaise
+      <div class="text-gray-900 font-bold text-base">
+        {{ title }}
       </div>
       <div class="flex flex-row space-x-1">
         <div
           v-for="line in lines"
           :key="line"
-          class="h-6 w-6 rounded-full flex items-center justify-center text-white text-md font-bold"
+          class="h-8 w-8 rounded-full flex items-center justify-center text-white text-base font-bold"
           :style="`background-color: ${getLineColor(line)}`"
         >
           {{ line }}
@@ -26,7 +26,7 @@
       </div>
       <div class="py-1 flex items-center justify-between">
         <div class="text-base font-bold">
-          statut
+          Statut
         </div>
         <div>
           <div class="text-sm" :class="getStatus(feature.properties).class">
@@ -78,6 +78,10 @@ const { feature, lines } = defineProps<{
   }
   lines: number[];
 }>();
+
+const title = computed(() => {
+  return lines.length > 1 ? 'Voies Lyonnaises' : 'Voie Lyonnaise';
+});
 
 function getDoneAtText(doneAt: string): string {
   const [day, month, year] = doneAt.split('/');
