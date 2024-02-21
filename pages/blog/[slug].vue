@@ -11,18 +11,18 @@
 </template>
 
 <script setup>
-const { path } = useRoute()
-const { withoutTrailingSlash } = useUrl()
+const { path } = useRoute();
+const { withoutTrailingSlash } = useUrl();
 
 const { data: article } = await useAsyncData(`article-${path}`, () => {
   return queryContent()
     .where({ _path: withoutTrailingSlash(path) })
-    .findOne()
-})
+    .findOne();
+});
 
 if (!article.value) {
-  const router = useRouter()
-  router.push({ path: '/404' })
+  const router = useRouter();
+  router.push({ path: '/404' });
 }
 
 useHead({
@@ -35,6 +35,6 @@ useHead({
     { hid: 'og:image', property: 'og:image', content: article.value.imageUrl },
     { hid: 'twitter:image', name: 'twitter:image', content: article.value.imageUrl }
   ]
-})
+});
 
 </script>
