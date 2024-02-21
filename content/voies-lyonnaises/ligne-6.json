@@ -523,7 +523,7 @@
         "line": 6,
         "name": "Oullins - scénario 2",
         "status": "variante",
-        "text": "variante 2 S>N"
+        "text": "variante 2"
       },
       "geometry": {
         "type": "LineString",
