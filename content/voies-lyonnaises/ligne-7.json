@@ -736,7 +736,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "GaribaldiNord-commun",
         "line": 7,
         "name": "Garibaldi Nord",
         "status": "planned"
