@@ -48,4 +48,4 @@ En cas de non-réélection de la majorité politique actuelle au Grand Lyon, les
 A l’occasion des campagnes pour les élections métropolitaines de 2026, la plateforme Cyclopolis évoluera pour comparer les programmes des différentes formations politiques candidates au sujet du réseau des Voies Lyonnaises à l’horizon 2032.
 
 ## Réutilisation du contenu du site
-Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » et du nom de l’association contributrice « La Ville à Vélo ».
+Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « La Ville à Vélo » (avec lien vers <a href="https://lavilleavelo.org" target="_blank">https://lavilleavelo.org</a>).
