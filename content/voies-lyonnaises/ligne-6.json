@@ -479,6 +479,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteOullins",
         "line": 6,
         "name": "Oullins - scénario 2 - sens Sud>Nord",
         "status": "variante",
@@ -502,6 +503,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteOullinsReport",
         "line": 6,
         "name": "Oullins - scénario 2 - sens Sud>Nord",
         "status": "postponed"
@@ -517,8 +519,9 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteOullins2",
         "line": 6,
-        "name": "Oullins - scénario 2 - sens Sud>Nord",
+        "name": "Oullins - scénario 2",
         "status": "variante",
         "text": "variante 2 S>N"
       },
@@ -533,7 +536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "varianteOullins",
         "line": 6,
         "name": "Oullins - scénario 2 - sens Nord>Sud",
         "status": "variante",
@@ -580,7 +583,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "varianteOullinsReport",
         "line": 6,
         "name": "Oullins - scénario 2 - sens Nord>Sud",
         "status": "postponed"
@@ -652,7 +655,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "varianteOullins2",
         "line": 6,
         "name": "Oullins - scénario 1",
         "status": "variante",
