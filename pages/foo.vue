@@ -1,8 +1,12 @@
 <template>
-  <h1>foo</h1>
+  <button @click="handleClick">
+    click
+  </button>
 </template>
 
 <script setup lang="ts">
-const { data } = await useFetch('/content');
-console.log(data);
+async function handleClick() {
+  const { data } = await useFetch('/content');
+  console.log(data);
+}
 </script>
