@@ -61,29 +61,25 @@ credit: Métropole de Lyon
 ---
 ::
 
-#### Métro Cuire et Montée de la Boucle
+#### Métro Cuire et Infirmerie Protestante
 Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
 
 La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du métro C.
 
-Entre la rue de la gare de Cuire et la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
-
-Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
-
-
-::content-image
----
-imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
-caption: Photo de la Voie Lyonnaise 7 - Montée de la Boucle (Caluire-et-Cuire)
-credit: La Ville à Vélo - Plateau Nord
----
-::
-
-#### Croix-Rousse
-Au nord du boulevard des Canuts, dans la continuité de ce qui sera fait au nord de la montée de la Boucle, la piste cyclable bidirectionnelle étroite sur trottoir sera réaménagée de chaque côté de l'alignement d'arbre existant avec deux pistes unidirectionnelles de 2 à 2.50m de large.
+#### Boulevard des Canuts
+Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
 Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste cyclable bidirectionnelle fera près de 4m de large.
 
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
+caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
+credit: Métropole de Lyon
+---
+::
+
+#### Croix-Rousse Centre
 Entre la rue Denfert-Rochereau et la rue Pelletier, le point dur du mur des Canuts pourra être franchi de 2 manières :
  - par un passage sous le porche du mur des Canuts, obligeant à une traversée du boulevard
  - par la création d'un alternat routier au niveau du mur des Canuts pour insérer la piste cyclable bidirectionnelle
@@ -94,11 +90,15 @@ Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
 
 Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
+#### Montée de la Boucle
+Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
+
+
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
-caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
-credit: Métropole de Lyon
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
+caption: Photo de la Voie Lyonnaise 7 - Montée de la Boucle (Caluire-et-Cuire)
+credit: La Ville à Vélo - Plateau Nord
 ---
 ::
 
