@@ -6,7 +6,7 @@
 
 <script setup lang="ts">
 async function handleClick() {
-  const { data } = await useFetch('/content');
-  console.log(data);
+  const contents = await $fetch('/api/_content/query');
+  console.log(contents);
 }
 </script>
