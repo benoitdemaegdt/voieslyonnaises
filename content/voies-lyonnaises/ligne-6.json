@@ -479,9 +479,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullins",
+        "id": "varianteOullins-commun",
         "line": 6,
-        "name": "Oullins - scénario 2 - sens Sud>Nord",
+        "name": "Scénario 2 - Grande Rue Nord - sens Sud>Nord",
         "status": "variante",
         "text": "variante 2 S>N"
       },
@@ -503,9 +503,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullinsReport",
+        "id": "varianteOullinsReport-commun",
         "line": 6,
-        "name": "Oullins - scénario 2 - sens Sud>Nord",
+        "name": "Scénario 2 - Grande Rue Sud - sens Sud>Nord",
         "status": "postponed"
       },
       "geometry": {
@@ -519,9 +519,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullins2",
+        "id": "varianteOullins2-commun",
         "line": 6,
-        "name": "Oullins - scénario 2",
+        "name": "Scénario 2 - Grande Rue",
         "status": "variante",
         "text": "variante 2"
       },
@@ -536,9 +536,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullins",
+        "id": "varianteOullins-commun",
         "line": 6,
-        "name": "Oullins - scénario 2 - sens Nord>Sud",
+        "name": "Scénario 2 - rues Bertholey/Hugo - sens Nord>Sud",
         "status": "variante",
         "text": "variante 2 N>S"
       },
@@ -583,9 +583,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullinsReport",
+        "id": "varianteOullinsReport-commun",
         "line": 6,
-        "name": "Oullins - scénario 2 - sens Nord>Sud",
+        "name": "Scénario 2 - rue de la Camille - sens Nord>Sud",
         "status": "postponed"
       },
       "geometry": {
@@ -611,9 +611,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullins",
+        "id": "varianteOullins-commun",
         "line": 6,
-        "name": "Oullins - scénario 1",
+        "name": "Scénario 1 - rues République et parking Camille",
         "status": "variante",
         "text": "variante 1"
       },
@@ -655,9 +655,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteOullins2",
+        "id": "varianteOullins2-commun",
         "line": 6,
-        "name": "Oullins - scénario 1",
+        "name": "Scénario 1 - rue Léon Bourgeois",
         "status": "variante",
         "text": "variante 1"
       },

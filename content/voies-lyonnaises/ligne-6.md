@@ -118,7 +118,8 @@ Après de longues années de revendications associatives, une étroite bande cyc
 Aucune information publique n'existe à ce jour sur le réaménagement de ce tronçon dans le cadre de la Voie Lyonnaise 6.
 
 #### Aquarium à Pont d'Oullins
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+*Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*  
+Cependant, compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous privilégions à ce stade un itinéraire par le Chemin du Pras qui est préféré aujourd'hui par les cyclistes du secteur.
 
 ### Pont d'Oullins à Saint-Genis-Laval
 #### Traversée d'Oullins Centre
@@ -168,7 +169,10 @@ credit: Folia / Métropole de Lyon
 ::
   
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)  
+
+Après de nombreux rebondissements politiques déplorables début 2024 où Mairie et Métropole se livraient une guéguerre politique ridicule sur le dos des citoyens, la Métropole a annoncé mi-février 2024 qu'elle renonçait à la mise en sens unique de la rue de la Camille et d'une partie de la Grande Rue entre la rue de la Camille et la rue du Perron. Le report du traitement de ces sections est une réponse de la Métropole aux demandes des collectifs de riverains et commerçants. La Ville à Vélo déplore une absence de solution cyclable sécurisée à court-terme pour traverser la commune d'Oullins sur ce mandat, qui empêchera un développment du vélo dans le Sud-Est lyonnais.
+
 
 #### Rue de la Camille à Giratoire Gadagne
 Sur cette section, le projet consiste en la transformation des deux bandes cyclables bilatérales existantes (depuis 2003) en une piste cyclable bidirectionnelle de 3m de large côté Ouest de la chaussée.
