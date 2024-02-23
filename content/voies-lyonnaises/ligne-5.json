@@ -391,7 +391,7 @@
       "properties": {
         "id": "GareOullins-commun",
         "line": 5,
-        "name": "Oullins Yzeron - scénario A",
+        "name": "Yzeron - Gare Oullins",
         "status": "variante",
         "text": "variante A"
       },
@@ -655,6 +655,7 @@
         "type": "LineString",
         "coordinates": [
           [4.770965878592818, 45.75210810283451],
+          [4.770138985525162, 45.754166424002705],
           [4.781364592746991,45.763849704604105]
         ]
       }
