@@ -123,6 +123,21 @@ function checkGeoJsonDataHealth() {
       process.exit(1);
     }
   }
+
+  // 6 - Check if all properties.name x properties.line is unique
+  const nameLineCount = allLineStrings.reduce((count, lineString) => {
+    const name = lineString.properties.name;
+    const line = lineString.properties.line;
+    const key = `${name}-${line}`;
+    count[key] = (count[key] || 0) + 1;
+    return count;
+  }, {});
+  for (const id in nameLineCount) {
+    if (nameLineCount[id] > 1) {
+      console.error(`Duplicate LineString with name-line '${id}'`);
+      process.exit(1);
+    }
+  }
 }
 
 function checkCompteursDataHealth() {
