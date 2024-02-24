@@ -486,9 +486,8 @@
       "properties": {
         "id": "Balzac-commun",
         "line": 11,
-        "name": "Reconnaissance Balzac - variante 2",
-        "status": "variante",
-        "text": "variante 2"
+        "name": "Reconnaissance Balzac Sud",
+        "status": "planned"
       },
       "geometry": {
         "type": "LineString",
