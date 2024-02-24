@@ -1255,8 +1255,10 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Givors Sud",
-        "status": "planned"
+        "name": "Quai Rosenberg - Avenue Anatole France",
+        "status": "done",
+        "doneAt": "15/12/2023",
+        "type": "bidirectionnelle"
       },
       "geometry": {
         "type": "LineString",
@@ -1269,7 +1271,21 @@
           [4.7868366345106494,45.57791912045289],
           [4.787304329948029,45.5776868940377],
           [4.787808756422493,45.57739906172367],
-          [4.788694119299436,45.57680290869013],
+          [4.788252712091435,45.57712045416176]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Givors Sud",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.788252712091435,45.57712045416176],
           [4.789397000058187,45.5763002055447],
           [4.790301739344329,45.57561997493761],
           [4.791001503466248,45.57502732902702],

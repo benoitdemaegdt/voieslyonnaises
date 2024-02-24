@@ -505,7 +505,7 @@
       "properties": {
         "id": "VictorHugoCentre-commun",
         "line": 8,
-        "name": "Tassin - Victor Hugo",
+        "name": "Tassin - Victor Hugo Nord",
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle"
@@ -522,7 +522,7 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "name": "Vincent Serre & carrefour Hespérides",
+        "name": "Avenue Vincent Serre",
         "status": "planned"
       },
       "geometry": {
@@ -539,12 +539,25 @@
           [4.785775042020816, 45.76604471591838],
           [4.785340668894435, 45.76469691926084],
           [4.78528167196751, 45.76452792042832],
+          [4.785017801100651, 45.764350291798536]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "Carrefour des Hespérides",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.785017801100651, 45.764350291798536],
           [4.785124159086337, 45.76421164159274],
           [4.785131679348353, 45.76412095667703],
           [4.785430341167995, 45.76413444700407],
           [4.785695823615583, 45.76414029919829],
-          [4.785840857232898, 45.764105074451265],
           [4.786058002774951, 45.76412257583769]
         ]
       }

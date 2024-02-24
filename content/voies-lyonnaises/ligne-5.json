@@ -751,7 +751,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "name": "Tassin - Victor Hugo",
+        "name": "Tassin - Victor Hugo Sud",
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle"
@@ -769,7 +769,7 @@
       "properties": {
         "id": "VictorHugoCentre-commun",
         "line": 5,
-        "name": "Tassin - Victor Hugo",
+        "name": "Tassin - Victor Hugo Nord",
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle"
@@ -787,7 +787,7 @@
       "properties": {
         "id": "VictorHugoLeRoy-commun",
         "line": 5,
-        "name": "Tassin - Victor Hugo",
+        "name": "Tassin - Leroy Merlin",
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle"
