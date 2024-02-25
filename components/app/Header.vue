@@ -102,7 +102,7 @@
           </Popover>
 
           <NuxtLink
-            to="/compteurs"
+            to="/compteurs/velo"
             class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
           >
             Compteurs
@@ -204,7 +204,7 @@ const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Évolution du réseau', path: '/evolution' },
-  { name: 'Compteurs', path: '/compteurs' }
+  { name: 'Compteurs', path: '/compteurs/velo' }
 ];
 
 const { data: voies } = await useAsyncData(() => {

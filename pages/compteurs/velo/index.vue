@@ -64,7 +64,7 @@
 const { getCompteursFeatures } = useMap();
 
 const { data: allCounters } = await useAsyncData(() => {
-  return queryContent('compteurs').find();
+  return queryContent('compteurs/velo').find();
 });
 
 const searchText = ref('');

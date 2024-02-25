@@ -50,9 +50,9 @@ async function getAllCounters() {
   }
 }
 function getTrackedCounters() {
-  const files = fs.readdirSync('content/compteurs');
+  const files = fs.readdirSync('content/compteurs/velo');
   return files.map(file => {
-    const filePath = path.join('content/compteurs', file);
+    const filePath = path.join('content/compteurs/velo', file);
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     return {
       file,
@@ -93,7 +93,7 @@ async function getUpdatedCounts({ idPdc, flowIds }) {
 }
 
 function updateFile({ file, counter }) {
-  const filePath = path.join('content/compteurs', file);
+  const filePath = path.join('content/compteurs/velo', file);
   fs.writeFileSync(filePath, JSON.stringify(counter, null, 2));
 }
 
