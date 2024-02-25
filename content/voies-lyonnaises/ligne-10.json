@@ -91,7 +91,7 @@
       "properties": {
         "id": "VictorHugoLeRoy-commun",
         "line": 10,
-        "name": "Tassin - Victor Hugo",
+        "name": "Tassin - Leroy Merlin",
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle"
@@ -608,7 +608,7 @@
       "properties": {
         "id": "Balzac-commun",
         "line": 10,
-        "name": "Reconnaissance Balzac - variante 2",
+        "name": "Reconnaissance Balzac Sud",
         "status": "variante",
         "text": "variante 2"
       },

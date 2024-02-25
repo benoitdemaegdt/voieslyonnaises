@@ -20,7 +20,7 @@ Cette section est en tronçon commun avec la :line-link{line=3}.
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 #### Caluire Centre à Saint-Clair
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon. Cependant, compte-tenu des containtes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste à confirmer.
 
 ### Pont Poincaré à avenue Berthelot<br/>*via Stalingrad, Vivier Merle et Tchécoslovaques*
 #### Carrefour Saint-Clair et Pont Poincaré
