@@ -111,7 +111,7 @@ caption: Photo de la Voie Lyonnaise 6 - Quai Perrache (Lyon 2)
 ::
 
 #### Pont autoroutier de la Mulatière
-Ce pont autoroutier constitue l'unique point de passage entre les communes du Sud-Est lyonnais et la ville de Lyon. Il concentre tous les flux dans un environnement très inconfortable pour les modes actifs.
+Ce pont autoroutier constitue l'unique point de passage entre les communes du Sud-Ouest lyonnais et la ville de Lyon. Il concentre tous les flux dans un environnement très inconfortable pour les modes actifs.
 
 Après de longues années de revendications associatives, une étroite bande cyclable unidirectionnelle a été tracée sur le trottoir Ouest du pont fin 2015. Il a fallu attendre fin 2020 pour que le minuscule trottoir Est soit légèrement élargi de manière à y tracer une bande cyclable dans l'autre sens. L'aménagement actuel reste très inconfortable et la place réduite allouée aux modes actifs sur ce pont conduit à des conflits entre piétons et vélos.
 
@@ -119,7 +119,7 @@ Aucune information publique n'existe à ce jour sur le réaménagement de ce tro
 
 #### Aquarium à Pont d'Oullins
 *Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*  
-Cependant, compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous privilégions à ce stade un itinéraire par le Chemin du Pras qui est préféré aujourd'hui par les cyclistes du secteur.
+Cependant, compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous pensons probable qu'un itinéraire par le Chemin du Pras soit privilégié. Il est d'ailleurs préféré aujourd'hui par les cyclistes du secteur.
 
 ### Pont d'Oullins à Saint-Genis-Laval
 #### Traversée d'Oullins Centre
@@ -171,7 +171,7 @@ credit: Folia / Métropole de Lyon
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)  
 
-Après de nombreux rebondissements politiques déplorables début 2024 où Mairie et Métropole se livraient une guéguerre politique ridicule sur le dos des citoyens, la Métropole a annoncé mi-février 2024 qu'elle renonçait à la mise en sens unique de la rue de la Camille et d'une partie de la Grande Rue entre la rue de la Camille et la rue du Perron. Le report du traitement de ces sections est une réponse de la Métropole aux demandes des collectifs de riverains et commerçants. La Ville à Vélo déplore une absence de solution cyclable sécurisée à court-terme pour traverser la commune d'Oullins sur ce mandat, qui empêchera un développment du vélo dans le Sud-Est lyonnais.
+Après de nombreux rebondissements politiques déplorables début 2024 où Mairie et Métropole se livraient une guéguerre politique ridicule sur le dos des citoyens, la Métropole a annoncé mi-février 2024 qu'elle renonçait à la mise en sens unique de la rue de la Camille et d'une partie de la Grande Rue entre la rue de la Camille et la rue du Perron. Le report du traitement de ces sections est une réponse de la Métropole aux demandes des collectifs de riverains et commerçants. La Ville à Vélo déplore une absence de solution cyclable sécurisée à court-terme pour traverser la commune d'Oullins sur ce mandat, qui empêchera un développment du vélo dans le Sud-Ouest lyonnais.
 
 
 #### Rue de la Camille à Giratoire Gadagne
