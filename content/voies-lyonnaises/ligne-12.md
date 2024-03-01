@@ -85,7 +85,7 @@ L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle 
 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
-**Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance**
+**Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance.**
 
 ::content-image
 ---
@@ -106,7 +106,7 @@ credit: Métropole de Lyon
 ### Place d'Arsonval
 Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller). 
 
-**Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélo sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus partagée est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années.**
+**Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années.**
 
 ### Grange Blanche à Boulevard Pinel<br/>*via avenue Rockefeller*
 De Grange Blanche au boulevard Ambroise Paré, la Voie Lyonnaise 12 continuera à être aménagée sous la forme d'une piste cyclable bidirectionnelle de 4m de large côté Nord de la voirie. Les stationnements côté Nord seront végétalisés, tandis que les stationnements côté Sud seront supprimés pour élargir le trottoir Sud actuellement étroit.
