@@ -430,7 +430,7 @@
       "properties": {
         "line": 12,
         "name": "Place d'Arsonval",
-        "status": "planned"
+        "status": "postponed"
       },
       "geometry": {
         "type": "LineString",
