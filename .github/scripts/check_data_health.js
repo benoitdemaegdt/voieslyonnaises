@@ -2,8 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 (function checkDataHealth() {
+  const anchors = getAllAnchors();
   checkJsonFilesAreValid();
-  checkGeoJsonDataHealth();
+  checkGeoJsonDataHealth({ anchors });
   checkCompteursDataHealth();
 })();
 
@@ -24,7 +25,39 @@ function checkJsonFilesAreValid(directory = 'content') {
   });
 }
 
-function checkGeoJsonDataHealth() {
+function getAllAnchors() {
+  const anchors = [];
+  const titleRegex = /^(#+)\s+(.*)/gm;
+
+  fs.readdirSync('content/voies-lyonnaises').forEach(file => {
+    if (file.endsWith('.md')) {
+      const filePath = path.join('content/voies-lyonnaises', file);
+      const markdownContent = fs.readFileSync(filePath, 'utf8');
+
+      let match;
+      while ((match = titleRegex.exec(markdownContent)) !== null) {
+        // Extracting the title
+        const title = match[2];
+        // Remove HTML tags if any
+        const cleanTitle = title
+          .replace(/<\/?[^>]+(>|$)/g, '')
+          .replace(/\*/g, '')
+          .replace(/[()]/g, '');
+        // Replace spaces with hyphens and convert to lower case
+        const anchor = cleanTitle
+          .trim()
+          .toLowerCase()
+          .replace(/\s+-\s+/g, '-')
+          .replace(/\s+/g, '-');
+        anchors.push(`#${anchor}`);
+      }
+    }
+  });
+
+  return anchors;
+}
+
+function checkGeoJsonDataHealth({ anchors }) {
   const allLineStrings = [];
   fs.readdirSync('content/voies-lyonnaises').forEach(file => {
     if (file.endsWith('.json')) {
@@ -54,13 +87,23 @@ function checkGeoJsonDataHealth() {
                 process.exit(1);
               }
 
-              // 4 - Check if all done section have a doneAt property
               if (properties.status === 'done') {
+                // 4.1 - Check if all done section have a doneAt property
                 if (!properties.hasOwnProperty('doneAt')) {
                   console.error(`Missing key 'doneAt' in VL ${properties.line}, tronçon: ${properties.name}`);
                   process.exit(1);
                 }
 
+                // 4.2 - Check if all done section have a valid doneAt date
+                const dateRegex = /^\d{2}\/\d{2}\/\d{4}$/;
+                if (!dateRegex.test(properties.doneAt)) {
+                  console.error(
+                    `Invalid doneAt format '${properties.doneAt}' in VL ${properties.line}, tronçon: ${properties.name}`
+                  );
+                  process.exit(1);
+                }
+
+                // 4.3 - Check if all done section have a type property
                 if (properties.hasOwnProperty('type')) {
                   const validTypes = [
                     'bidirectionnelle',
@@ -78,12 +121,12 @@ function checkGeoJsonDataHealth() {
                     process.exit(1);
                   }
                 }
+              }
 
-                const dateRegex = /^\d{2}\/\d{2}\/\d{4}$/;
-                if (!dateRegex.test(properties.doneAt)) {
-                  console.error(
-                    `Invalid doneAt format '${properties.doneAt}' in VL ${properties.line}, tronçon: ${properties.name}`
-                  );
+              // 5 - check if anchor actually exists
+              if (properties.anchor) {
+                if (!anchors.includes(properties.anchor)) {
+                  console.error(`Invalid anchor '${properties.anchor}' in LineString properties of file: ${filePath}`);
                   process.exit(1);
                 }
               }
