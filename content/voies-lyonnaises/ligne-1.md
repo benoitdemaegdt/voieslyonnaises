@@ -12,7 +12,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 
 ## Les tronçons (du Nord au Sud)
 
-### Vaulx-en-Velin Gabriel Péri à La Doua Croix-Luizet<br>*via Villeurbanne St-Jean*
+### Vaulx-en-Velin Gabriel Péri à La Doua Croix-Luizet
+
+*via Villeurbanne St-Jean*
+
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
@@ -40,7 +43,10 @@ credit: SYTRAL Mobilités
 ::
 
 
-### Sud du campus de la Doua<br>*sur avenue Einstein et Boulevard du 11 Novembre*
+### Sud du campus de la Doua
+
+*sur avenue Einstein et Boulevard du 11 Novembre*
+
 Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
@@ -62,12 +68,18 @@ credit: Passagers des Villes / Métropole de Lyon.
 ### Stalingrad Nord
 Cette section est en tronçon commun avec la :line-link{line=2}.
 
-### Cité Internationale à Halle Tony Garnier<br>*via Quais du Rhône rive gauche*
+### Cité Internationale à Halle Tony Garnier
+
+*via Quais du Rhône rive gauche*
+
 #### Allée Achille Lignon
 Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.  
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
-#### Quai de Grande-Bretagne et Quai de Serbie *(Tête d'Or <> Pont Morand)*
+#### Quai de Grande-Bretagne et Quai de Serbie
+
+*(Tête d'Or <> Pont Morand)*
+
 Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.  
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023. 
 
@@ -113,7 +125,10 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Centre_TetedOr_HalleGarnier.pdf)
 
 
-### Halle Tony Garnier à St-Fons centre<br>*via Gerland et le nord de la vallée de la Chimie*
+### Halle Tony Garnier à St-Fons centre
+
+*via Gerland et le nord de la vallée de la Chimie*
+
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T10.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 

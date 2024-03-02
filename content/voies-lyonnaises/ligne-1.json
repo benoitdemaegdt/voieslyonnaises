@@ -103,7 +103,8 @@
         "id": "PeriCanal-commun",
         "line": 1,
         "name": "Vaulx-en-Velin Ouest",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#vaulx-en-velin-gabriel-p%C3%A9ri-%C3%A0-la-doua-croix-luizet"
       },
       "geometry": {
         "type": "LineString",
@@ -147,7 +148,8 @@
         "id": "CroixLuizet-commun",
         "line": 1,
         "name": "Croix Luizet",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#vaulx-en-velin-gabriel-p%C3%A9ri-%C3%A0-la-doua-croix-luizet"
       },
       "geometry": {
         "type": "LineString",
@@ -172,7 +174,8 @@
         "id": "EinsteinE-commun",
         "line": 1,
         "name": "Einstein Est",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -188,7 +191,8 @@
         "id": "EinsteinI-commun",
         "line": 1,
         "name": "Einstein INSA",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -204,7 +208,8 @@
         "id": "EinsteinO-commun",
         "line": 1,
         "name": "Einstein Ouest",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -224,7 +229,8 @@
         "id": "11Nov-commun",
         "line": 1,
         "name": "Boulevard du 11 Nov. 1918",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -290,7 +296,8 @@
         "id": "Lignon-commun",
         "line": 1,
         "name": "Allée Achille Lignon",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#all%C3%A9e-achille-lignon"
       },
       "geometry": {
         "type": "LineString",
@@ -322,7 +329,8 @@
         "id": "TetedOr157-commun",
         "line": 1,
         "name": "Tête d'Or",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#quai-de-grande-bretagne-et-quai-de-serbie"
       },
       "geometry": {
         "type": "LineString",
@@ -343,7 +351,8 @@
         "name": "Avenue de Grande-Bretagne",
         "status": "done",
         "doneAt": "28/03/2023",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "anchor": "#quai-de-grande-bretagne-et-quai-de-serbie"
       },
       "geometry": {
         "type": "LineString",
@@ -366,7 +375,8 @@
         "name": "Quai de Serbie",
         "status": "done",
         "doneAt": "28/03/2023",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "anchor": "#quai-de-grande-bretagne-et-quai-de-serbie"
       },
       "geometry": {
         "type": "LineString",
@@ -389,7 +399,8 @@
         "name": "Pont Morand - Rue Cuvier",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "anchor": "#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -405,7 +416,8 @@
       "properties": {
         "line": 1,
         "name": "Rue Cuvier - Rue de Bonnel",
-        "status": "wip"
+        "status": "wip",
+        "anchor": "#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -423,7 +435,8 @@
         "id": "QuaiAugagneur-commun",
         "line": 1,
         "name": "Rue de Bonnel - Pont Wilson",
-        "status": "wip"
+        "status": "wip",
+        "anchor": "#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -438,7 +451,8 @@
       "properties": {
         "line": 1,
         "name": "Pont Wilson - Pont de la Guillotière",
-        "status": "wip"
+        "status": "wip",
+        "anchor": "#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -489,7 +503,8 @@
       "properties": {
         "line": 1,
         "name": "Avenue Leclerc",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#avenue-g%C3%A9n%C3%A9ral-leclerc"
       },
       "geometry": {
         "type": "LineString",
@@ -516,7 +531,8 @@
         "name": "Carrefour Pasteur",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "anchor": "#avenue-g%C3%A9n%C3%A9ral-leclerc"
       },
       "geometry": {
         "type": "LineString",
@@ -531,7 +547,8 @@
       "properties": {
         "line": 1,
         "name": "Tony Garnier Ouest",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#halle-tony-garnier-%C3%A0-st-fons-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -560,7 +577,8 @@
       "properties": {
         "line": 1,
         "name": "Stade de Gerland - St-Fons",
-        "status": "planned"
+        "status": "planned",
+        "anchor": "#halle-tony-garnier-%C3%A0-st-fons-centre"
       },
       "geometry": {
         "type": "LineString",
