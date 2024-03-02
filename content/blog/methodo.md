@@ -54,24 +54,24 @@ Toute réutilisation brute des cartographies interactives du site, des chiffres 
 ## TEST
 
 test travaux 
-::banner-wip
+::banner{type="wip"}
 Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
 ::
 
 test reporté
 
-::banner-postponed
+::banner{type="posponed"}
 La métropole a annoncé le 23 septembre 2023 que l'aménagement de la voie verte de la Dombe serait reporté à un prochain mandat en raison d'un désaccord avec la mairie de Caluire.
 ::
 
 test non sécurisé
 
-::banner-unsecured
+::banner{type="unsecured"}
 Cette section de 150m sera partagée avec le bus C7 dans un sens, tandis qu'une bande cyclable en contre-sens sera marquée au sol. Elle ne répond donc pas aux exigences de sécurité des Voies Lyonnaises.
 ::
 
 test modification
 
-::banner-modified
+::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d'urgence de circuler en toute circonstance.
 ::
