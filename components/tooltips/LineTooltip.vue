@@ -65,7 +65,7 @@ type Properties = {
   name: string;
   status: Status;
   doneAt?: string;
-  anchor?: string
+  link?: string
 };
 
 const { feature, lines } = defineProps<{
@@ -85,11 +85,10 @@ const title = computed(() => {
 });
 
 function getSectionDetailsUrl(properties: Properties): string {
-  const baseUrl = `/voie-lyonnaise-${properties.line}`;
-  if (properties.anchor) {
-    return `${baseUrl}${properties.anchor}`;
+  if (properties.link) {
+    return properties.link;
   }
-  return baseUrl;
+  return `/voie-lyonnaise-${properties.line}`;
 }
 
 function getDoneAtText(doneAt: string): string {

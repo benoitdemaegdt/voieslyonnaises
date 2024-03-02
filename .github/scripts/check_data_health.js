@@ -2,9 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 (function checkDataHealth() {
-  const anchors = getAllAnchors();
+  const links = getAllLinks();
   checkJsonFilesAreValid();
-  checkGeoJsonDataHealth({ anchors });
+  checkGeoJsonDataHealth({ links });
   checkCompteursDataHealth();
 })();
 
@@ -25,12 +25,14 @@ function checkJsonFilesAreValid(directory = 'content') {
   });
 }
 
-function getAllAnchors() {
-  const anchors = [];
+function getAllLinks() {
+  const links = [];
   const titleRegex = /^(#+)\s+(.*)/gm;
 
   fs.readdirSync('content/voies-lyonnaises').forEach(file => {
     if (file.endsWith('.md')) {
+      const voieLyonnaiseNumber = file.match(/\d+/g);
+
       const filePath = path.join('content/voies-lyonnaises', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
 
@@ -44,20 +46,20 @@ function getAllAnchors() {
           .replace(/\*/g, '')
           .replace(/[()]/g, '');
         // Replace spaces with hyphens and convert to lower case
-        const anchor = cleanTitle
+        const link = cleanTitle
           .trim()
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        anchors.push(`#${encodeURI(anchor)}`);
+        links.push(`/voie-lyonnaise-${voieLyonnaiseNumber}/#${encodeURI(link)}`);
       }
     }
   });
 
-  return anchors;
+  return links;
 }
 
-function checkGeoJsonDataHealth({ anchors }) {
+function checkGeoJsonDataHealth({ links }) {
   const allLineStrings = [];
   fs.readdirSync('content/voies-lyonnaises').forEach(file => {
     if (file.endsWith('.json')) {
@@ -123,10 +125,10 @@ function checkGeoJsonDataHealth({ anchors }) {
                 }
               }
 
-              // 5 - check if anchor actually exists
-              if (properties.anchor) {
-                if (!anchors.includes(properties.anchor)) {
-                  console.error(`Invalid anchor '${properties.anchor}' in LineString properties of file: ${filePath}`);
+              // 5 - check if link actually exists
+              if (properties.link) {
+                if (!links.includes(properties.link)) {
+                  console.error(`Invalid link '${properties.link}' in LineString properties of file: ${filePath}`);
                   process.exit(1);
                 }
               }
