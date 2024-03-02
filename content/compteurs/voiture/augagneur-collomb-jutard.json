@@ -1,0 +1,12 @@
+{
+  "name": "Quai Augagneur",
+  "description": "Ce compteur mesure le trafic Nord -> Sud sur les 3 voies du Quai Augagneur, juste devant le parking de la fosse aux ours.",
+  "arrondissement": "Lyon 3",
+  "idPdc": 1990,
+  "counts": [
+    {
+      "month": "2016/02/01",
+      "count": 0
+    }
+  ]
+}
