@@ -49,7 +49,7 @@ function getAllAnchors() {
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        anchors.push(`#${anchor}`);
+        anchors.push(`#${encodeURI(anchor)}`);
       }
     }
   });
