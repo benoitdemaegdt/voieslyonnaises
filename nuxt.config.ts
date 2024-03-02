@@ -38,7 +38,7 @@ export default defineNuxtConfig({
       script: [
         {
           src: 'https://beamanalytics.b-cdn.net/beam.min.js',
-          'data-token': 'a2aab44b-048b-4696-9171-c8b470bc8ba5',
+          'data-token': process.env.BEAM_ANALYTICS_TOKEN,
           async: true
         }
       ]
