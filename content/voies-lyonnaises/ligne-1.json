@@ -282,7 +282,7 @@
         "line": 1,
         "name": "Transbordeur",
         "status": "planned",
-        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
+        "link": "/voie-lyonnaise-2/#boulevard-stalingrad-nord"
       },
       "geometry": {
         "type": "LineString",
