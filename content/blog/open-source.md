@@ -10,7 +10,7 @@ Depuis le tout début de son histoire, en septembre 2022, Cyclopolis est un proj
 
 Le code est directement disponible sur [GitHub](https://github.com/benoitdemaegdt/voieslyonnaises) et réutilisable sous [licence MIT](https://github.com/benoitdemaegdt/voieslyonnaises/blob/main/LICENSE.md).
 
-Une association (ou même un particulier) peut donc tout à fait copier le code de la platefforme, le modifier, l'adapter à sa ville, et le publier sous un autre nom.
+Une association (ou même un particulier) peut donc tout à fait copier le code de la plateforme, le modifier, l'adapter à sa ville, et le publier sous un autre nom.
 
 ## Combien ça coûte d'avoir son propre Cyclopolis ?
 
@@ -19,7 +19,7 @@ La version actuelle de Cyclopolis demande peu de ressources et coûte donc très
 En particulier : 
 - il n'y a pas de base de données (les données sont stockées sur Github).
 - il n'y a pas de serveur dédié.
-- il n'y a pas besoin de logiciel tier payant.
+- il n'y a pas besoin de logiciel tiers payant.
 
 Aujourd'hui, le seul coût financier est le nom de domaine (~10€/an).
 
@@ -36,7 +36,7 @@ Voici la liste des outils tiers utilisés :
 
 ⚠️ *Attention, à partir d'ici ça devient un peu plus technique. L'aide d'un(e) développeur(euse) sera nécessaire.*
 
-### 1 - Contactez nous
+### 1 - Contactez-nous
 
 Ça nous fait toujours plaisir de savoir que notre plateforme sert à d'autres personnes.
 N'hésitez pas à nous envoyer un email. On pourra également vous donner quelques conseils.
@@ -67,7 +67,7 @@ http://localhost:3000
 
 #### Centrez la carte sur votre ville
 
-Depuis le fichier **Map.vue**, remplacez les coordonnez de Lyon par celles de votre ville.
+Depuis le fichier **Map.vue**, remplacez les coordonnées de Lyon par celles de votre ville.
 ```
 center: [4.8312188, 45.757198]
 ```
@@ -76,9 +76,9 @@ center: [4.8312188, 45.757198]
 
 Toutes les données de Cyclopolis sont stockées dans le code, dans le dossier **/content**.
 
-On y retrouve plusieurs sous dossiers :
+On y retrouve plusieurs sous-dossiers :
 - **/blog** - contient les articles du blog.
-- **/compteurs** - contient le relevés des compteurs vélo lyonnais.
+- **/compteurs** - contient le relevé des compteurs vélo lyonnais.
 - **/voies-lyonnaises** - contient le tracé et le descriptif de chacune des Voies Lyonnaises (pistes cyclables structurantes).
 
 
@@ -103,7 +103,7 @@ Build command : npm run generate
 Publish directory : dist
 ```
 
-Et voila !
+Et voilà!
 
 Vous pouvez ensuite : 
 - acheter un nom de domaine pour votre plateforme.
