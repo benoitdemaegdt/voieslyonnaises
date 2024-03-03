@@ -618,15 +618,57 @@ export const useMap = () => {
     map.on('mouseleave', 'compteurs', () => (map.getCanvas().style.cursor = ''));
   }
 
+  function findMonthBests(counts: Array<{ month: string; count: number }>) {
+    const monthBests = new Map();
+
+    counts.forEach(count => {
+      const month = new Date(count.month).getMonth();
+
+      if (!monthBests.has(month)) {
+        monthBests.set(month, 0);
+      }
+      if (count.count > monthBests.get(month)) {
+        monthBests.set(month, count.count);
+      }
+    });
+
+    return monthBests;
+  }
+
+  function findAbsoluteBest(counts: Array<{ month: string; count: number }>) {
+    return counts.toSorted((a, b) => (a.count > b.count ? 1 : a.count < b.count ? -1 : 0)).at(-1);
+  }
+
   function getCompteursFeatures({ counters }: { counters: Compteur[] }) {
     if (counters.length === 0) {
       return;
     }
+
     return counters.map(counter => {
-      const lastRecord = counter.counts.at(-1)!;
-      const date = new Date(lastRecord.month);
-      const daysInMonth = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
-      const averageDailyTraffic = Math.round(lastRecord.count / daysInMonth);
+      const absoluteBest = findAbsoluteBest(counter.counts)!;
+      const monthBests = findMonthBests(counter.counts);
+
+      const counts = counter.counts.map((c, i) => {
+        const date = new Date(c.month);
+        const daysInMonth = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
+        const averageDailyTraffic = Math.round(c.count / daysInMonth);
+        const clamp = 25;
+        const clampedDverageDailyTraffic = Math.round(averageDailyTraffic / clamp) * clamp;
+
+        return {
+          month: c.month,
+          count: c.count,
+          humanDate: new Date(c.month).toLocaleString('fr-Fr', {
+            month: 'long',
+            year: 'numeric'
+          }),
+          averageDailyTraffic: clampedDverageDailyTraffic,
+          isFirstMonth: i === 0,
+          isLastMonth: i === counter.counts.length - 1,
+          isMonthBest: c.count === monthBests.get(date.getMonth()),
+          isAbsoluteBest: c.month === absoluteBest.month
+        };
+      });
 
       return {
         type: 'Feature',
@@ -634,11 +676,7 @@ export const useMap = () => {
           type: 'compteur',
           name: counter.name,
           link: counter._path,
-          lastRecordDate: new Date(lastRecord.month).toLocaleString('fr-Fr', {
-            month: 'long',
-            year: 'numeric'
-          }),
-          lastRecordValue: `${averageDailyTraffic} passages par jour`
+          counts
         },
         geometry: {
           type: 'Point',

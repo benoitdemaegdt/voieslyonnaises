@@ -22,6 +22,7 @@ import LegendControl from '@/maplibre/LegendControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
+import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -63,7 +64,7 @@ const {
   fitBounds
 } = useMap();
 
-const { getTooltipPerspective, getTooltipCompteur } = useTooltip();
+const { getTooltipPerspective } = useTooltip();
 
 function plotFeatures({ map, features }) {
   plotUnderlinedSections({ map, features });
@@ -157,10 +158,21 @@ onMounted(() => {
         .addTo(map);
     } else if (isCompteurLayerClicked) {
       const feature = features.find(({ layer }) => layer.id === 'compteurs');
+
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipCompteur(feature.properties))
+        .setHTML('<div id="counter-tooltip-content"></div>')
         .addTo(map);
+
+      const CounterTooltipComponent = defineComponent(CounterTooltip);
+      nextTick(() => {
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(CounterTooltipComponent, { feature }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#counter-tooltip-content');
+      });
     } else {
       const { line, name } = features[0].properties;
       // take care feature[0].geometry is truncated (to fit tile size). We need to find the full feature.
