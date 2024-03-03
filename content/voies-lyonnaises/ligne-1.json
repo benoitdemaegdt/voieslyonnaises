@@ -251,7 +251,8 @@
         "id": "StalingradNord-commun",
         "line": 1,
         "name": "Stalingrad Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2/#boulevard-stalingrad-nord"
       },
       "geometry": {
         "type": "LineString",
@@ -280,7 +281,8 @@
         "id": "Bonnevay127-commun",
         "line": 1,
         "name": "Transbordeur",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
       },
       "geometry": {
         "type": "LineString",
