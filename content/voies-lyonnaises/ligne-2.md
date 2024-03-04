@@ -44,7 +44,7 @@ Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bir
 
 *entre boulevard du 11 Novembre 1918 et avenue Verguin*
 
-La Voie Lyonnaise 2 va prendre la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle sera réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
+La Voie Lyonnaise 2 prend la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle est réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
 
 ::content-image
 ---
@@ -62,7 +62,9 @@ credit: Métropole de Lyon
 
 Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
 
-*Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'à début 2024.*
+::banner{type="wip"}
+Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'au printemps 2024.
+::
 
 #### Boulevard des Belges
 
@@ -82,7 +84,9 @@ Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
 La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 à 5m de large située à l'ouest du boulevard, en lieu et place de l'ancien couloir bus en contre-allée. Cette voie de bus sera repositionnée sur la large voirie routière qui sera redimensionnée pour éviter des vitesses élevées et parfois séparée de la piste cyclable avec une bande arborée et végétalisée.
 
-*A noter qu'entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.*
+::banner{type="unsecured"}
+A noter qu'entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+::
 
 ::content-image
 ---
@@ -92,9 +96,11 @@ credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
-Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se poursuivront jusqu'en début d'année 2024.  
-Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024.*
+::banner{type="wip"}
+Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
+Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se poursuivront jusqu'en mars 2024.  
+Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.

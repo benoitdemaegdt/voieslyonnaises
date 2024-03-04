@@ -34,7 +34,7 @@ L'enquête publique a eu lieu du 4 septembre au 3 octobre 2023.
 Le projet a été validé et déclaré d'utilité publique le 26 février 2024.  
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}  
 
-::banner-wip
+::banner{type="wip"}
 Les premiers travaux sur les réseaux débutent en février 2024, et s'enchaineront avec les travaux d'aménagement en 2025-2026.
 ::
 
@@ -102,8 +102,8 @@ caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
 
 Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.  
 
-::banner-wip
-Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.*
+::banner{type="wip"}
+Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.
 ::
 
 #### Quai Claude Bernard
@@ -173,7 +173,7 @@ L'enquête publique a eu lieu du 13 mars au 14 avril 2023.
 Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.  
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)  
 
-::banner-wip
+::banner{type="wip"}
 Les premiers travaux sur les réseaux ont débuté en septembre 2023 et se poursuivent en 2024. Ils laisseront place aux travaux d'aménagement en 2025-2026.
 ::
 
