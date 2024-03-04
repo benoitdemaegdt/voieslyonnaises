@@ -30,9 +30,13 @@ credit: SYTRAL Mobilités
 
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
-L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
+L'enquête publique a eu lieu du 4 septembre au 3 octobre 2023.  
+Le projet a été validé et déclaré d'utilité publique le 26 février 2024.  
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}  
-Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'en 2026.
+
+::banner{type="wip"}
+Les premiers travaux sur les réseaux débutent en février 2024, et s'enchaineront avec les travaux d'aménagement en 2025-2026.
+::
 
 ::content-image
 ---
@@ -83,7 +87,7 @@ Pour desservir le quartier de la Cité Internationale, une piste cyclable bidire
 Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.  
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023. 
 
-*Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au second semestre 2023 pour améliorer la connexion avec les rampes vers les berges du Rhône.*
+*Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au premier semestre 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.*
 
 ::content-image
 ---
@@ -97,7 +101,10 @@ caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
 *(Pont Morand <> Pont de la Guillotière)*
 
 Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.  
-*Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.*
+
+::banner{type="wip"}
+Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.
+::
 
 #### Quai Claude Bernard
 
@@ -133,6 +140,7 @@ Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur t
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png
@@ -162,8 +170,12 @@ credit: Ilex / SYTRAL Mobilité
 La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
 La concertation continue s'est déroulée de janvier 2022 à février 2023.  
 L'enquête publique a eu lieu du 13 mars au 14 avril 2023.  
+Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.  
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)  
-Les premiers travaux sur les réseaux débutent en septembre 2023, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+
+::banner{type="wip"}
+Les premiers travaux sur les réseaux ont débuté en septembre 2023 et se poursuivent en 2024. Ils laisseront place aux travaux d'aménagement en 2025-2026.
+::
 
 ## Calendriers prévisionnels
 ::content-image
