@@ -1,13 +1,10 @@
 <template>
-  <div class="not-prose px-3 py-2 rounded-md" :class="banners[type].color">
+  <div class="not-prose px-3 py-2 rounded-md" :class="banners[type].class">
     <div class="flex items-center">
-      <Icon :name="banners[type].icon" class="h-5 w-5 text-gray-900" aria-hidden="true" />
-      <div class="ml-2 text-gray-900 font-semibold">
-        {{ banners[type].title }}
+      <Icon :name="banners[type].icon" class="h-8 w-8 text-gray-700" aria-hidden="true" />
+      <div class="ml-2 text-gray-800 text-base">
+        <slot />
       </div>
-    </div>
-    <div class="text-gray-800 text-base">
-      <slot />
     </div>
   </div>
 </template>
@@ -21,22 +18,22 @@ const banners = {
   modified: {
     title: 'Modification après concertation',
     icon: 'material-symbols:edit-square-outline',
-    color: 'bg-[#A3D5D3]'
+    class: 'border-4 border-[#A3D5D3]'
   },
   posponed: {
     title: 'Reporté',
     icon: 'ic:baseline-more-time',
-    color: 'bg-[#E8A0BF]'
+    class: 'border-4 border-[#E8A0BF]'
   },
   unsecured: {
     title: 'Non sécurisé',
     icon: 'ic:sharp-warning-amber',
-    color: 'bg-[#D1D1D1]'
+    class: 'border-4 border-[#D1D1D1]'
   },
   wip: {
     title: 'Travaux en cours',
     icon: 'lucide:traffic-cone',
-    color: 'bg-[#FBBE65]'
+    class: 'border-4 border-[#FBBE65]'
   }
 };
 </script>
