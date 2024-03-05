@@ -11,11 +11,11 @@
     </ClientOnly>
     <h2>Total des passages par année</h2>
     <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur voiture chaque année.</p>
-    <ChartTotalByYear :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+    <ChartTotalByYear :title="graphTitles.totalByYear" :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
     <h2>Comparaison des passages pour un mois donné</h2>
     <p>Choisissez un mois dans le menu déroulant ci-dessous pour visualiser l'évolution de la fréquentation voiture pour le même mois de chaque année.</p>
-    <ChartMonthComparison :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
+    <ChartMonthComparison :title="graphTitles.monthComparison" :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
     <template v-if="counter.limitation">
       <h2>Limitation</h2>
@@ -42,6 +42,11 @@ if (!counter.value) {
   const router = useRouter();
   router.push({ path: '/404' });
 }
+
+const graphTitles = {
+  totalByYear: `Fréquentation voiture annuelle - ${counter.value.name}`,
+  monthComparison: `Fréquentation voiture - ${counter.value.name}`
+};
 
 const features = getCompteursFeatures({ counters: [counter.value] });
 

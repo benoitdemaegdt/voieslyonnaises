@@ -63,7 +63,10 @@ import {
   ListboxOption
 } from '@headlessui/vue';
 
-const props = defineProps({ data: { type: Object, required: true } });
+const props = defineProps({
+  title: { type: String, required: true },
+  data: { type: Object, required: true }
+});
 
 const months = [
   { name: 'Janvier', value: 0 },
@@ -104,7 +107,7 @@ const chartOptions = computed(() => {
 
   return {
     chart: { type: 'column' },
-    title: { text: `Fréquentation cycliste en ${selectedMonth.value!.name} - ${props.data.name}` },
+    title: { text: `${props.title} - ${selectedMonth.value!.name}` },
     credits: { enabled: false },
     legend: { enabled: false },
     xAxis: { categories: years.value },

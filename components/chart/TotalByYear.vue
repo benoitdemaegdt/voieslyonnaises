@@ -7,7 +7,10 @@
 </template>
 
 <script setup lang="ts">
-const props = defineProps({ data: { type: Object, required: true } });
+const props = defineProps({
+  title: { type: String, required: true },
+  data: { type: Object, required: true }
+});
 
 type Count = { month: string, count: number };
 const years = [...new Set(props.data.counts.map((item: Count) => new Date(item.month).getFullYear()))].sort();
@@ -20,7 +23,7 @@ const max = Math.max(...countsValues);
 
 const chartOptions = {
   chart: { type: 'column' },
-  title: { text: `Fréquentation cycliste annuelle - ${props.data.name}` },
+  title: { text: props.title },
   credits: { enabled: false },
   legend: { enabled: false },
   xAxis: { categories: years },
