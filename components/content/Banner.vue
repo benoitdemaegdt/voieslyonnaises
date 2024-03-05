@@ -1,5 +1,5 @@
 <template>
-  <div class="not-prose max-w-lg px-3 py-2 rounded-md" :class="banners[type].color">
+  <div class="not-prose px-3 py-2 rounded-md" :class="banners[type].color">
     <div class="flex items-center">
       <Icon :name="banners[type].icon" class="h-5 w-5 text-gray-900" aria-hidden="true" />
       <div class="ml-2 text-gray-900 font-semibold">
