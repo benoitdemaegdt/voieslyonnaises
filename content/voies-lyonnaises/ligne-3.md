@@ -110,7 +110,9 @@ L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens u
 *La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)
 
+::banner{type="postponed"}
 La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait des impacts à venir du projet de Tram Express de l'Ouest Lyonnais (TEOL) attendu à l'horizon 2032. *C'est une mauvaise nouvelle pour les cyclistes de ce quai qui ne pourront pas circuler en sécurité avant de nombreuses années. Le point noir majeur du bas de Choulans pourrait donc ne pas être traité avant longtemps.*
+::
 
 ::content-image
 ---

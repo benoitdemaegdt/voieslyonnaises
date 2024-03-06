@@ -486,7 +486,7 @@
       "properties": {
         "line": 6,
         "name": "Chemin du Pras",
-        "status": "planned"
+        "status": "unknown"
       },
       "geometry": {
         "type": "LineString",
