@@ -1,8 +1,8 @@
 <template>
   <div class="not-prose px-3 py-2 rounded-md" :class="banners[type].class">
     <div class="flex items-center">
-      <Icon :name="banners[type].icon" class="h-8 w-8 text-gray-700" aria-hidden="true" />
-      <div class="ml-2 text-gray-800 text-base">
+      <Icon :name="banners[type].icon" class="h-10 w-10 text-gray-500" aria-hidden="true" />
+      <div class="ml-2 text-gray-500 text-justify text-lg">
         <slot />
       </div>
     </div>
@@ -20,7 +20,7 @@ const banners = {
     icon: 'material-symbols:edit-square-outline',
     class: 'border-4 border-[#A3D5D3]'
   },
-  posponed: {
+  postponed: {
     title: 'Reporté',
     icon: 'ic:baseline-more-time',
     class: 'border-4 border-[#E8A0BF]'
