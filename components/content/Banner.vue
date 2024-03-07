@@ -21,36 +21,36 @@ const banners = {
     title: 'Modification après concertation',
     icon: 'mdi:circle-edit-outline',
     color: {
-      banner: 'border-sky-400 bg-sky-50',
-      logo: 'text-sky-400',
-      text: 'text-sky-700'
+      banner: 'border-[#A3D5D3] bg-[#F2FFFF]',
+      logo: 'text-[#A3D5D3]',
+      text: 'text-[#79C2BE]'
     }
   },
   postponed: {
     title: 'Reporté',
     icon: 'mdi:clock-plus-outline',
     color: {
-      banner: 'border-orange-400 bg-orange-50',
-      logo: 'text-orange-400',
-      text: 'text-orange-700'
+      banner: 'border-[#E8A0BF] bg-[#FFF0F8]',
+      logo: 'text-[#E8A0BF]',
+      text: 'text-[#DB6E9D]'
     }
   },
   unsecured: {
     title: 'Non sécurisé',
     icon: 'mdi:alert-rhombus-outline',
     color: {
-      banner: 'border-red-400 bg-red-50',
-      logo: 'text-red-400',
-      text: 'text-red-700'
+      banner: 'border-gray-400 bg-gray-50',
+      logo: 'text-gray-400',
+      text: 'text-gray-700'
     }
   },
   wip: {
     title: 'Travaux en cours',
     icon: 'mdi:traffic-cone',
     color: {
-      banner: 'border-yellow-400 bg-yellow-50',
-      logo: 'text-yellow-400',
-      text: 'text-yellow-700'
+      banner: 'border-[#FBBE65] bg-[#FFF8E2]',
+      logo: 'text-[#FBBE65]',
+      text: 'text-[#F99D1C]'
     }
   }
 };
