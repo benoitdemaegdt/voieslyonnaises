@@ -57,12 +57,23 @@ Toute réutilisation brute des cartographies interactives du site, des chiffres 
 ::banner{type="wip"}
 Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
 ::
+
+test
+
 ::banner{type="postponed"}
 Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
 ::
+
+test
+
+
 ::banner{type="unsecured"}
 Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
 ::
+
+test
+
+
 ::banner{type="modified"}
 Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
 ::

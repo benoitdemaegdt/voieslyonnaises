@@ -1,8 +1,10 @@
 <template>
-  <div class="not-prose px-3 py-2 rounded-md" :class="banners[type].class">
+  <div class="not-prose border-l-4 p-4" :class="banners[type].color.banner">
     <div class="flex items-center">
-      <Icon :name="banners[type].icon" class="h-10 w-10 text-gray-500" aria-hidden="true" />
-      <div class="ml-2 text-gray-500 text-justify text-lg">
+      <div class="flex-shrink-0">
+        <Icon :name="banners[type].icon" class="h-6 w-6" :class="banners[type].color.logo" aria-hidden="true" />
+      </div>
+      <div class="ml-3 text-base" :class="banners[type].color.text">
         <slot />
       </div>
     </div>
@@ -17,23 +19,39 @@ const { type } = defineProps<{
 const banners = {
   modified: {
     title: 'Modification après concertation',
-    icon: 'material-symbols:edit-square-outline',
-    class: 'border-4 border-[#A3D5D3]'
+    icon: 'mdi:circle-edit-outline',
+    color: {
+      banner: 'border-sky-400 bg-sky-50',
+      logo: 'text-sky-400',
+      text: 'text-sky-700'
+    }
   },
   postponed: {
     title: 'Reporté',
-    icon: 'ic:baseline-more-time',
-    class: 'border-4 border-[#E8A0BF]'
+    icon: 'mdi:clock-plus-outline',
+    color: {
+      banner: 'border-orange-400 bg-orange-50',
+      logo: 'text-orange-400',
+      text: 'text-orange-700'
+    }
   },
   unsecured: {
     title: 'Non sécurisé',
-    icon: 'ic:sharp-warning-amber',
-    class: 'border-4 border-[#D1D1D1]'
+    icon: 'mdi:alert-rhombus-outline',
+    color: {
+      banner: 'border-red-400 bg-red-50',
+      logo: 'text-red-400',
+      text: 'text-red-700'
+    }
   },
   wip: {
     title: 'Travaux en cours',
-    icon: 'lucide:traffic-cone',
-    class: 'border-4 border-[#FBBE65]'
+    icon: 'mdi:traffic-cone',
+    color: {
+      banner: 'border-yellow-400 bg-yellow-50',
+      logo: 'text-yellow-400',
+      text: 'text-yellow-700'
+    }
   }
 };
 </script>
