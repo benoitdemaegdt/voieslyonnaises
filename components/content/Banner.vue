@@ -21,36 +21,36 @@ const banners = {
     title: 'Modification après concertation',
     icon: 'mdi:circle-edit-outline',
     color: {
-      banner: 'border-[#A3D5D3] bg-[#F2FFFF]',
-      logo: 'text-[#A3D5D3]',
-      text: 'text-[#79C2BE]'
+      banner: 'border-[#4B7977] bg-[#F1F8F8]',
+      logo: 'text-[#4B7977]',
+      text: 'text-[#436C6A]'
     }
   },
   postponed: {
     title: 'Reporté',
     icon: 'mdi:clock-plus-outline',
     color: {
-      banner: 'border-[#E8A0BF] bg-[#FFF0F8]',
-      logo: 'text-[#E8A0BF]',
-      text: 'text-[#DB6E9D]'
+      banner: 'border-[#994d6d] bg-[#FBF0F5]',
+      logo: 'text-[#994d6d]',
+      text: 'text-[#7A3D57]'
     }
   },
   unsecured: {
     title: 'Non sécurisé',
     icon: 'mdi:alert-rhombus-outline',
     color: {
-      banner: 'border-gray-400 bg-gray-50',
-      logo: 'text-gray-400',
-      text: 'text-gray-700'
+      banner: 'border-[#585858] bg-[#F9F9F9]',
+      logo: 'text-[#585858]',
+      text: 'text-[#4E4E4E]'
     }
   },
   wip: {
     title: 'Travaux en cours',
     icon: 'mdi:traffic-cone',
     color: {
-      banner: 'border-[#FBBE65] bg-[#FFF8E2]',
-      logo: 'text-[#FBBE65]',
-      text: 'text-[#F99D1C]'
+      banner: 'border-[#9C6211] bg-[#FEF5E8]',
+      logo: 'text-[#9C6211]',
+      text: 'text-[#8B570F]'
     }
   }
 };
