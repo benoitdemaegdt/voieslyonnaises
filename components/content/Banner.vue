@@ -4,7 +4,7 @@
       <div class="flex-shrink-0">
         <Icon :name="banners[type].icon" class="h-6 w-6" :class="banners[type].color.logo" aria-hidden="true" />
       </div>
-      <div class="ml-3 text-base" :class="banners[type].color.text">
+      <div class="ml-4 text-base text-justify" :class="banners[type].color.text">
         <slot />
       </div>
     </div>

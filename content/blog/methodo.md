@@ -49,39 +49,3 @@ A l’occasion des campagnes pour les élections métropolitaines de 2026, la pl
 
 ## Réutilisation du contenu du site
 Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « La Ville à Vélo » (avec lien vers <a href="https://lavilleavelo.org" target="_blank">https://lavilleavelo.org</a>).
-
-
-## TEST
-
-
-::banner{type="wip"}
-Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
-::
-
-test
-
-::banner{type="postponed"}
-Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
-::
-
-test
-
-
-::banner{type="unsecured"}
-Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
-::
-
-test
-
-
-::banner{type="modified"}
-Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
-::
-
-test
-
-
-::banner{type="info"}
-Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
-::
-

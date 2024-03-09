@@ -14,11 +14,14 @@ cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 
 ### Gare Dommartin-Lissieu à Parc relais Porte de Lyon
 
-#### Giratoire Chicotière à Giratoire Maison Carrée<br/>*via gare Dommartin-Lissieu et Dardilly Nord*
+#### Giratoire Chicotière à Giratoire Maison Carrée
+*via gare Dommartin-Lissieu et Dardilly Nord*
 
 Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la voie lyonnaise n°4 prend la direction du Sud-Est sous la forme d'une large voie verte de 3 à 5m de large le long de la partie Sud de l'ancienne RN6. Elle sera séparée de la voirie automobile par une large bande plantée et arborée, ou par une nouvelle voie de bus dédiée à améliorer les performances des transports en commun du secteur. Les voies de sortie et d'insertion de l'échangeur du Sémanet seront améliorées, tandis que les deux giratoires du parcours seront modifiés pour sécuriser leur traversée.
 
-#### Porte de Lyon<br/>*via Parc Relais TCL et pont sur A6*
+#### Porte de Lyon
+*via Parc Relais TCL et pont sur A6*
+
 A partir du giratoire de la Maison Carrée, la Voie Lyonnaise devient une piste cyclable bidirectionnelle de 3m de large. Elle traverse le parc relais TCL côté Ouest, puis bascule côté Est en amont de l'avenue de la Porte de Lyon. Elle rejoint ensuite cette avenue pour traverser l'A6 côté nord du pont, puis rejoint le giratoire devant l'hypermarché Auchan.
 
 ::content-image
@@ -34,7 +37,8 @@ La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
 
-### La Garde - Porte de Lyon à Mouillard - Porte de Vaise<br/>*via Techlid et Champagne-au-Mont-d'Or*
+### La Garde - Porte de Lyon à Mouillard - Porte de Vaise
+*via Techlid et Champagne-au-Mont-d'Or*
 
 #### Avenue Porte de Lyon à Chemin de St-Didier
 Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.821406,+4.766743), la Voie Lyonnaise 4 continue de suivre la D306 en direction du Sud. Elle prendra la forme d'une piste cyclable bidirectionnelle de 3m de large située côté Est, à la place d'un des deux couloirs bus. L'emplacement des couloirs bus sera optimisé de manière à ne pas impacter la performance des lignes de transport en commun du secteur. L'ensemble des carrefours seront sécurisés, et en particulier le lien vers la zone d'emploi de Techlid côté Ouest. Le giratoire du Puy d'Or vers Limonest et le rond point des Monts d'Or au Sud seront réaménagés dans une configuration hollandaise pour sécuriser leurs traversées.
@@ -52,9 +56,13 @@ Cette section faisait l'objet de 2 variantes pendant la concertation :
  - par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
  - par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
 
-*La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.*
+::banner{type="info"}
+La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.*
+::
 
+::banner{type="modified"}
 Finalement, le choix de la Métropole s'est porté sur la variante République et la Voie Lyonnaise 4 fera donc un "crochet" en évitant le centre de Champagne-au-Mont-d'Or.
+::
 
 ::content-image
 ---
@@ -70,6 +78,10 @@ Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la form
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidrectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
+::banner{type="wip"}
+Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une bonne partie de l'année.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf){:target="_blank"}
@@ -81,7 +93,11 @@ La traversée de cette zone très anxiogène avec un fort trafic lié à l'accè
 #### Rue de Bourgogne
 Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est de la chaussée.
 
-Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la chaussée en mixité avec les voitures et les nombreux bus qui desservent la gare de Vaise. Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises sera toutefois sensiblement améliorée avec la suppression du transit automobile via une action sur le plan de circulation du secteur. La circulation automobile y sera donc très faible, la rendant compatible avec une vélorue, mais la présence forte de nombreux bus articulés fera de cette section de 200m un passage délicat pour les cyclistes les moins chevronnés.
+Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la chaussée en mixité avec les voitures et les nombreux bus qui desservent la gare de Vaise. 
+
+::banner{type="unsecured"}
+Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises sera toutefois sensiblement améliorée avec la suppression du transit automobile via une action sur le plan de circulation du secteur. La circulation automobile y sera donc très faible, la rendant compatible avec une vélorue, mais la présence forte de nombreux bus articulés fera de cette section de 200m un passage délicat pour les cyclistes les moins chevronnés.
+::
 
 ::content-image
 ---
@@ -102,12 +118,21 @@ La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le
 [Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Pont Clémenceau à Boulevard des Belges<br/>*via Tunnel mode doux et avenue Duquesne*
-Cette portion sera totalement réaménagée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à l'horizon 2030.  
-Après la pérénisation des voies bus ouvertes aux vélos sur l'avenue Duquesne en 2021 et l'amélioration du pont Clémenceau en 2022, on peut s'attendre à quelques améliorations ponctuelles d'ici 2026 sur :
- - le pont de Lattre de Tassigny, avec l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m à la place d'une voie de circulation
- - le boulevard des Belges, entre l'avenue Duquesne et l'avenue Verguin, avec la création d'une piste bidirectionnelle de 3m de large côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
+Le **pont Clémenceau** avait été initialement réaménagé en 2013 avec deux pistes cyclables étroites unidirectionnelles sur trottoir. Celles-ci ne répondaient pas aux besoin des cyclistes car la traversée difficile de cette avenue à 5 voies très routières les obligeait à utiliser les pistes à contre-sens. En 2022, la situation a été sensiblement améliorée et deux larges pistes cyclables bidirectionnelles ont été créées de chaque côté du pont.
 
+Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conserver la piste cyclable bidirectionnelle existante de 3m de large à court terme.
+
+::banner{type="info"}
 La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
+::
+
+Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
+
+::banner{type="postponed"}
+L'**avenue Duquesne** ne sera pas réaménagée sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à utiliser les voies bus ouvertes aux vélos créée en 2020 puis pérénisées en 2021 pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre.
+::
+
+Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
 *La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
