@@ -57,8 +57,9 @@ Cette section faisait l'objet de 2 variantes pendant la concertation :
  - par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
 
 ::banner{type="info"}
-La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.*
+La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.
 ::
+
 
 ::banner{type="modified"}
 Finalement, le choix de la Métropole s'est porté sur la variante République et la Voie Lyonnaise 4 fera donc un "crochet" en évitant le centre de Champagne-au-Mont-d'Or.
@@ -129,7 +130,7 @@ La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de 
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
 ::banner{type="postponed"}
-L'**avenue Duquesne** ne sera pas réaménagée sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à utiliser les voies bus ouvertes aux vélos créée en 2020 puis pérénisées en 2021 pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre.
+L'**avenue Duquesne** ne sera pas réaménagée sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à utiliser les voies bus ouvertes aux vélos créées en 2020 puis pérénisées en 2021 pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
 ::
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
