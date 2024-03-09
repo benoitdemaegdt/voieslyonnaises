@@ -87,7 +87,9 @@ Pour desservir le quartier de la Cité Internationale, une piste cyclable bidire
 Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.  
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023. 
 
-*Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au premier semestre 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.*
+::banner{type="info"}
+Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au premier semestre 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
+::
 
 ::content-image
 ---
