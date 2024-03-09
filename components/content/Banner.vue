@@ -52,7 +52,7 @@ const banners = {
       logo: 'text-[#F99D1C]',
       text: 'text-[#A27233]'
     }
-  }
+  },
   info: {
     title: 'Informations',
     icon: 'mdi:information-slab-circle',
