@@ -19,7 +19,7 @@ const { type } = defineProps<{
 const banners = {
   modified: {
     title: 'Modification après concertation',
-    icon: 'mdi:circle-edit-outline',
+    icon: 'mdi:square-edit-outline',
     color: {
       banner: 'border-[#79C2BE] bg-[#F0FDFA]',
       logo: 'text-[#79C2BE]',
@@ -28,7 +28,7 @@ const banners = {
   },
   postponed: {
     title: 'Reporté',
-    icon: 'mdi:clock-plus-outline',
+    icon: 'ic:baseline-more-time',
     color: {
       banner: 'border-[#DB3E79] bg-[#FDF2F8]',
       logo: 'text-[#DB3E79]',
@@ -37,7 +37,7 @@ const banners = {
   },
   unsecured: {
     title: 'Non sécurisé',
-    icon: 'mdi:alert-rhombus-outline',
+    icon: 'mdi:alert',
     color: {
       banner: 'border-[#23356B] bg-[#EEEDF6]',
       logo: 'text-[#23356B]',
