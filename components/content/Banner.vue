@@ -21,36 +21,45 @@ const banners = {
     title: 'Modification après concertation',
     icon: 'mdi:circle-edit-outline',
     color: {
-      banner: 'border-[#4B7977] bg-[#F1F8F8]',
-      logo: 'text-[#4B7977]',
-      text: 'text-[#436C6A]'
+      banner: 'border-[#79C2BE] bg-[#F0FDFA]',
+      logo: 'text-[#79C2BE]',
+      text: 'text-[#0F766E]'
     }
   },
   postponed: {
     title: 'Reporté',
     icon: 'mdi:clock-plus-outline',
     color: {
-      banner: 'border-[#994d6d] bg-[#FBF0F5]',
-      logo: 'text-[#994d6d]',
-      text: 'text-[#7A3D57]'
+      banner: 'border-[#DB3E79] bg-[#FDF2F8]',
+      logo: 'text-[#DB3E79]',
+      text: 'text-[#BE185D]'
     }
   },
   unsecured: {
     title: 'Non sécurisé',
     icon: 'mdi:alert-rhombus-outline',
     color: {
-      banner: 'border-[#585858] bg-[#F9F9F9]',
-      logo: 'text-[#585858]',
-      text: 'text-[#4E4E4E]'
+      banner: 'border-[#23356B] bg-[#EEEDF6]',
+      logo: 'text-[#23356B]',
+      text: 'text-[#4B4475]'
     }
   },
   wip: {
     title: 'Travaux en cours',
     icon: 'mdi:traffic-cone',
     color: {
-      banner: 'border-[#9C6211] bg-[#FEF5E8]',
-      logo: 'text-[#9C6211]',
-      text: 'text-[#8B570F]'
+      banner: 'border-[#F99D1C] bg-[#FFF7EC]',
+      logo: 'text-[#F99D1C]',
+      text: 'text-[#A27233]'
+    }
+  }
+  info: {
+    title: 'Informations',
+    icon: 'mdi:information-slab-circle',
+    color: {
+      banner: 'border-[#C5C4C4] bg-[#F9FAFB]',
+      logo: 'text-[#C5C4C4]',
+      text: 'text-[#646464]'
     }
   }
 };

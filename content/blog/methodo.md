@@ -78,3 +78,10 @@ test
 Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
 ::
 
+test
+
+
+::banner{type="info"}
+Les travaux sur cette section ont démarré le 14 novembre 2023 et se poursuivront jusqu'à l'été 2024.
+::
+
