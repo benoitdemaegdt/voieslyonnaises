@@ -1,5 +1,5 @@
 <template>
-  <div class="not-prose border-l-4 p-4" :class="banners[type].color.banner">
+  <div class="my-5 not-prose border-l-4 p-4" :class="banners[type].color.banner">
     <div class="flex items-center">
       <div class="flex-shrink-0">
         <Icon :name="banners[type].icon" class="h-6 w-6" :class="banners[type].color.logo" aria-hidden="true" />
@@ -12,11 +12,23 @@
 </template>
 
 <script setup lang="ts">
+type Type = 'modified' | 'postponed' | 'unsecured' | 'wip' | 'info';
 const { type } = defineProps<{
-  type: string;
+  type: Type
 }>();
 
-const banners = {
+type Banner = {
+  [key in Type]: {
+    title: string;
+    icon: string;
+    color: {
+      banner: string;
+      logo: string;
+      text: string;
+    }
+  }
+}
+const banners: Banner = {
   modified: {
     title: 'Modification après concertation',
     icon: 'mdi:square-edit-outline',
