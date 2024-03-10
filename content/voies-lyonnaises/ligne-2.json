@@ -67,7 +67,8 @@
         "id": "FontaineBarbe-commun",
         "line": 2,
         "name": "Île barbe - Pont Leclerc",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -136,7 +137,8 @@
         "id": "variante2",
         "line": 2,
         "name": "Variante - Gde Rue de Saint Robert",
-        "status": "variante"
+        "status": "variante",
+        "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -167,7 +169,8 @@
         "id": "StRambert-commun",
         "line": 2,
         "name": "Variante - Quai Raoul Carrié",
-        "status": "variante"
+        "status": "variante",
+        "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -183,7 +186,8 @@
       "properties": {
         "line": 2,
         "name": "Traversée de Caluire-et-Cuire",
-        "status": "unknown"
+        "status": "unknown",
+        "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
       },
       "geometry": {
         "type": "LineString",
@@ -206,7 +210,8 @@
       "properties": {
         "line": 2,
         "name": "Pont Poincaré",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#pont-poincaré-à-avenue-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -236,7 +241,8 @@
         "id": "Bonnevay127-commun",
         "line": 2,
         "name": "Transbordeur",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#carrefour-saint-clair-et-pont-poincaré"
       },
       "geometry": {
         "type": "LineString",
@@ -252,6 +258,7 @@
         "id": "StalingradNord-commun",
         "line": 2,
         "name": "Stalingrad Nord",
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord",
         "status": "planned"
       },
       "geometry": {
@@ -281,7 +288,8 @@
         "id": "StalingradSud-commun",
         "line": 2,
         "name": "Stalingrad Centre",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
       },
       "geometry": {
         "type": "LineString",
@@ -299,7 +307,8 @@
       "properties": {
         "line": 2,
         "name": "Stalingrad Sud",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-sud"
       },
       "geometry": {
         "type": "LineString",
@@ -315,7 +324,8 @@
       "properties": {
         "line": 2,
         "name": "Waldeck-Rousseau",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-2#rue-waldeck-rousseau"
       },
       "geometry": {
         "type": "LineString",
@@ -332,6 +342,7 @@
         "line": 2,
         "name": "Belges de Waldeck-Rousseau à Fournet",
         "status": "done",
+        "link": "/voie-lyonnaise-2#boulevard-des-belges",
         "doneAt": "31/10/2023",
         "type": "voie-bus-elargie"
       },
@@ -354,7 +365,8 @@
         "id": "BelgesSudSud-commun",
         "line": 2,
         "name": "Belges de Fournet à Lafayette",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#boulevard-des-belges"
       },
       "geometry": {
         "type": "LineString",
@@ -372,7 +384,8 @@
       "properties": {
         "line": 2,
         "name": "Part-Dieu en tunnel",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#tunnel-vivier-merle"
       },
       "geometry": {
         "type": "LineString",
@@ -397,7 +410,8 @@
         "id": "VivierMerle-commun",
         "line": 2,
         "name": "Vivier Merle Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {
         "type": "LineString",
@@ -412,7 +426,8 @@
       "properties": {
         "line": 2,
         "name": "Vivier Merle Sud",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {
         "type": "LineString",
@@ -431,7 +446,8 @@
       "properties": {
         "line": 2,
         "name": "Tchécoslovaques",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {
         "type": "LineString",
@@ -464,7 +480,8 @@
       "properties": {
         "line": 2,
         "name": "Avenue Berthelot",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#avenue-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -479,7 +496,8 @@
       "properties": {
         "line": 2,
         "name": "Boulevard des États-Unis",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
         "type": "LineString",
@@ -496,7 +514,8 @@
       "properties": {
         "line": 2,
         "name": "Avenue Viviani",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#avenue-viviani"
       },
       "geometry": {
         "type": "LineString",
@@ -513,6 +532,7 @@
         "line": 2,
         "name": "Traversée du périphérique",
         "status": "done",
+        "link": "/voie-lyonnaise-2#quartier-de-parilly",
         "doneAt": "24/05/2019",
         "type": "voie-verte"
       },
@@ -544,6 +564,7 @@
         "line": 2,
         "name": "Avenue Jules Guesde",
         "status": "done",
+        "link": "/voie-lyonnaise-2#quartier-de-parilly",
         "doneAt": "01/09/2018",
         "type": "bidirectionnelle"
       },
@@ -564,7 +585,8 @@
       "properties": {
         "line": 2,
         "name": "Parilly",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
         "type": "LineString",
@@ -594,7 +616,8 @@
       "properties": {
         "line": 2,
         "name": "Parilly - Alouettes",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#avenue-charles-de-gaulle"
       },
       "geometry": {
         "type": "LineString",
@@ -618,7 +641,8 @@
       "properties": {
         "line": 2,
         "name": "Alouettes - Diderot",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#route-de-lyon-et-avenue-aristide-briand"
       },
       "geometry": {
         "type": "LineString",
