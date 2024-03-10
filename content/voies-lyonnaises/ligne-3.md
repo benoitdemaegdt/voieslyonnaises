@@ -164,18 +164,20 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 ### Irigny à Givors<br>*via Vernaison et Grigny*
 *Tronçon commun avec la véloroute touristique ViaRhôna*
 
-Ce long tronçon de 18km doit cheminer sur les berges du Rhône en rive droite et constitue l'un des derniers tronçons manquants de l'itinéraire de la ViaRhôna qui chemine le long du Rhône entre le lac Léman et la cote méditerranéenne.
+Ce long tronçon de 18km doit cheminer sur les berges du Rhône en voie verte le long de la rive droite et constitue l'un des derniers tronçons manquants de l'itinéraire de la ViaRhôna qui chemine le long du Rhône entre le lac Léman et la cote méditerranéenne.
 
-Initialement porté par la Région Auvergne-Rhône-Alpes, il avait fait l'objet d'une large concertation en juin 2019 dont le bilan a été dressé en décembre 2019. Après une pause de 18 mois liée à la crise sanitaire, le projet a pu reprendre en octobre 2021 avec l'enquête préalable à la déclaration d’utilité publique. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En juillet 2022, la Région Auvergne-Rhône-Alpes annonce finalement renoncer à son projet, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
+::banner{type="postponed"}
+Initialement porté par la Région Auvergne-Rhône-Alpes, le projet avait fait l'objet d'une large concertation en juin 2019 dont le bilan a été dressé en décembre 2019. Après une pause de 18 mois liée à la crise sanitaire, le projet a pu reprendre en octobre 2021 avec l'enquête préalable à la déclaration d’utilité publique. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En juillet 2022, la Région Auvergne-Rhône-Alpes annonce finalement renoncer à son projet, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
+::
 
 #### Pour en savoir plus
-La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)
+La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.  
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)  
 [Voir le bilan de la concertation publique.](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_Bilan201912.pdf)
 
-L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.
-[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)
-[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)
+L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.  
+[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)  
+[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)  
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
 
