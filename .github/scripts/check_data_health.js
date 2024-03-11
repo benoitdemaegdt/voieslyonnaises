@@ -44,14 +44,15 @@ function getAllLinks() {
         const cleanTitle = title
           .replace(/<\/?[^>]+(>|$)/g, '')
           .replace(/\*/g, '')
-          .replace(/[()]/g, '');
+          .replace(/'/g, '');
+
         // Replace spaces with hyphens and convert to lower case
         const link = cleanTitle
           .trim()
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        links.push(`/voie-lyonnaise-${voieLyonnaiseNumber}/#${encodeURI(link)}`);
+        links.push(`/voie-lyonnaise-${voieLyonnaiseNumber}#${link}`);
       }
     }
   });
