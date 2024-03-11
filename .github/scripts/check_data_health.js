@@ -44,7 +44,8 @@ function getAllLinks() {
         const cleanTitle = title
           .replace(/<\/?[^>]+(>|$)/g, '')
           .replace(/\*/g, '')
-          .replace(/'/g, '');
+          .replace(/'/g, '')
+          .replace(/\//g, '');
 
         // Replace spaces with hyphens and convert to lower case
         const link = cleanTitle
