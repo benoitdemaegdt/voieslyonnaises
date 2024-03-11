@@ -104,7 +104,7 @@
         "line": 1,
         "name": "Vaulx-en-Velin Ouest",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#vaulx-en-velin-gabriel-p%C3%A9ri-%C3%A0-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-1#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
       },
       "geometry": {
         "type": "LineString",
@@ -149,7 +149,7 @@
         "line": 1,
         "name": "Croix Luizet",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#vaulx-en-velin-gabriel-p%C3%A9ri-%C3%A0-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-1#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
       },
       "geometry": {
         "type": "LineString",
@@ -175,7 +175,7 @@
         "line": 1,
         "name": "Einstein Est",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#sud-du-campus-de-la-doua"
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -192,7 +192,7 @@
         "line": 1,
         "name": "Einstein INSA",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#sud-du-campus-de-la-doua"
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -209,7 +209,7 @@
         "line": 1,
         "name": "Einstein Ouest",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#sud-du-campus-de-la-doua"
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -230,7 +230,7 @@
         "line": 1,
         "name": "Boulevard du 11 Nov. 1918",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#sud-du-campus-de-la-doua"
+        "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
@@ -252,7 +252,7 @@
         "line": 1,
         "name": "Stalingrad Nord",
         "status": "planned",
-        "link": "/voie-lyonnaise-2/#boulevard-stalingrad-nord"
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
       },
       "geometry": {
         "type": "LineString",
@@ -282,7 +282,7 @@
         "line": 1,
         "name": "Transbordeur",
         "status": "planned",
-        "link": "/voie-lyonnaise-2/#boulevard-stalingrad-nord"
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
       },
       "geometry": {
         "type": "LineString",
@@ -299,7 +299,7 @@
         "line": 1,
         "name": "Allée Achille Lignon",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#all%C3%A9e-achille-lignon"
+        "link": "/voie-lyonnaise-1#allée-achille-lignon"
       },
       "geometry": {
         "type": "LineString",
@@ -332,7 +332,7 @@
         "line": 1,
         "name": "Tête d'Or",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#quai-de-grande-bretagne-et-quai-de-serbie"
+        "link": "/voie-lyonnaise-1#quai-de-grande-bretagne-et-quai-de-serbie"
       },
       "geometry": {
         "type": "LineString",
@@ -354,7 +354,7 @@
         "status": "done",
         "doneAt": "28/03/2023",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1/#quai-de-grande-bretagne-et-quai-de-serbie"
+        "link": "/voie-lyonnaise-1#quai-de-grande-bretagne-et-quai-de-serbie"
       },
       "geometry": {
         "type": "LineString",
@@ -378,7 +378,7 @@
         "status": "done",
         "doneAt": "28/03/2023",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1/#quai-de-grande-bretagne-et-quai-de-serbie"
+        "link": "/voie-lyonnaise-1#quai-de-grande-bretagne-et-quai-de-serbie"
       },
       "geometry": {
         "type": "LineString",
@@ -402,7 +402,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1/#quai-sarrail-et-quai-augagneur"
+        "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -419,7 +419,7 @@
         "line": 1,
         "name": "Rue Cuvier - Rue de Bonnel",
         "status": "wip",
-        "link": "/voie-lyonnaise-1/#quai-sarrail-et-quai-augagneur"
+        "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -438,7 +438,7 @@
         "line": 1,
         "name": "Rue de Bonnel - Pont Wilson",
         "status": "wip",
-        "link": "/voie-lyonnaise-1/#quai-sarrail-et-quai-augagneur"
+        "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -454,7 +454,7 @@
         "line": 1,
         "name": "Pont Wilson - Pont de la Guillotière",
         "status": "wip",
-        "link": "/voie-lyonnaise-1/#quai-sarrail-et-quai-augagneur"
+        "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
       "geometry": {
         "type": "LineString",
@@ -479,7 +479,7 @@
         "status": "done",
         "doneAt": "08/07/2022",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1/#quai-claude-bernard"
+        "link": "/voie-lyonnaise-1#quai-claude-bernard"
       },
       "geometry": {
         "type": "LineString",
@@ -506,7 +506,7 @@
         "line": 1,
         "name": "Avenue Leclerc",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#avenue-g%C3%A9n%C3%A9ral-leclerc"
+        "link": "/voie-lyonnaise-1#avenue-général-leclerc"
       },
       "geometry": {
         "type": "LineString",
@@ -534,7 +534,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1/#avenue-g%C3%A9n%C3%A9ral-leclerc"
+        "link": "/voie-lyonnaise-1#avenue-général-leclerc"
       },
       "geometry": {
         "type": "LineString",
@@ -550,7 +550,7 @@
         "line": 1,
         "name": "Tony Garnier Ouest",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#halle-tony-garnier-%C3%A0-st-fons-centre"
+        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -580,7 +580,7 @@
         "line": 1,
         "name": "Stade de Gerland - St-Fons",
         "status": "planned",
-        "link": "/voie-lyonnaise-1/#halle-tony-garnier-%C3%A0-st-fons-centre"
+        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre"
       },
       "geometry": {
         "type": "LineString",
