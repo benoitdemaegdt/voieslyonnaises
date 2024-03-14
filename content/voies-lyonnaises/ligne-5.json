@@ -657,7 +657,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bilaterale",
-        "link": "/voie-lyonnaise-5#travers%C3%A9e-ouest-est-doullins"
+        "link": "/voie-lyonnaise-5#traversée-ouest-est-doullins"
       },
       "geometry": {
         "type": "LineString",
