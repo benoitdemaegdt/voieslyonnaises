@@ -114,7 +114,8 @@
       "properties": {
         "line": 6,
         "name": "Chemin de Halage de Crépieux",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#chemin-de-halage-de-crépieux"
       },
       "geometry": {
         "type": "LineString",
@@ -155,7 +156,8 @@
         "name": "Parc de St-Clair - Seuil Feyssine",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "voie-verte"
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-6#voie-verte-des-berges-du-rhône-et-du-canal-de-miribelvia-le-parc-de-st-clair"
       },
       "geometry": {
         "type": "LineString",
@@ -197,7 +199,8 @@
       "properties": {
         "line": 6,
         "name": "Caluire - Cours Aristide Briand",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#cours-aristide-briand"
       },
       "geometry": {
         "type": "LineString",
@@ -221,7 +224,8 @@
         "id": "CarrefourBoucle-commun",
         "line": 6,
         "name": "Carrefour Boucle - Pont Churchill",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
         "type": "LineString",
@@ -246,7 +250,8 @@
       "properties": {
         "line": 6,
         "name": "Cours d'Herbouville",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
         "type": "LineString",
@@ -262,7 +267,8 @@
       "properties": {
         "line": 6,
         "name": "Jonction Quais du Rhône Centre - VL4",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#jonction-vers-rhône-rive-droite-et-vl4"
       },
       "geometry": {
         "type": "LineString",
@@ -284,7 +290,8 @@
       "properties": {
         "line": 6,
         "name": "Rhône Rive Droite Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -300,7 +307,8 @@
       "properties": {
         "line": 6,
         "name": "Passerelle du Collège - Pont Wilson",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -318,7 +326,8 @@
         "id": "GuillotièreWilson-commun",
         "line": 6,
         "name": "Pont Wilson - Pont Guillotière",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -336,7 +345,8 @@
         "id": "UniversitéGuillotière-commun",
         "line": 6,
         "name": "Pont Guillotière - Pont Université",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -353,7 +363,8 @@
       "properties": {
         "line": 6,
         "name": "Pont de l'Université - Condé",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -368,7 +379,8 @@
       "properties": {
         "line": 6,
         "name": "Condé - Pont Gallieni",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -383,7 +395,8 @@
       "properties": {
         "line": 6,
         "name": "Traversée échangeur M6-M7",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
@@ -401,7 +414,8 @@
         "name": "Quai Perrache Nord",
         "status": "done",
         "doneAt": "31/08/2021",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
@@ -420,7 +434,8 @@
       "properties": {
         "line": 6,
         "name": "Quai Perrache Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
@@ -443,7 +458,8 @@
       "properties": {
         "line": 6,
         "name": "Pont de la Mulatière",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-autoroutier-de-la-mulatière"
       },
       "geometry": {
         "type": "LineString",
@@ -466,7 +482,8 @@
         "id": "QuaiLiberation-commun",
         "line": 6,
         "name": "Quai de la Libération",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -486,7 +503,8 @@
       "properties": {
         "line": 6,
         "name": "Chemin du Pras",
-        "status": "unknown"
+        "status": "unknown",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -536,7 +554,8 @@
         "id": "OullinsHerriot-commun",
         "line": 6,
         "name": "Oullins Herriot",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -553,7 +572,8 @@
       "properties": {
         "line": 6,
         "name": "Pont d'Oullins",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -570,7 +590,8 @@
         "line": 6,
         "name": "Scénario 2 - Grande Rue Nord - sens Sud>Nord",
         "status": "variante",
-        "text": "variante 2 S>N"
+        "text": "variante 2 S>N",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -593,7 +614,8 @@
         "id": "varianteOullinsReport-commun",
         "line": 6,
         "name": "Scénario 2 - Grande Rue Sud - sens Sud>Nord",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -610,7 +632,8 @@
         "line": 6,
         "name": "Scénario 2 - Grande Rue",
         "status": "variante",
-        "text": "variante 2"
+        "text": "variante 2",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -627,7 +650,8 @@
         "line": 6,
         "name": "Scénario 2 - rues Bertholey/Hugo - sens Nord>Sud",
         "status": "variante",
-        "text": "variante 2 N>S"
+        "text": "variante 2 N>S",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -671,7 +695,8 @@
         "id": "varianteOullinsReport-commun",
         "line": 6,
         "name": "Scénario 2 - rue de la Camille - sens Nord>Sud",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -700,7 +725,8 @@
         "line": 6,
         "name": "Scénario 1 - rues République et parking Camille",
         "status": "variante",
-        "text": "variante 1"
+        "text": "variante 1",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -744,7 +770,8 @@
         "line": 6,
         "name": "Scénario 1 - rue Léon Bourgeois",
         "status": "variante",
-        "text": "variante 1"
+        "text": "variante 1",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -767,7 +794,8 @@
       "properties": {
         "line": 6,
         "name": "Oullins Bourgeois - St-Genis-Laval Gadagne",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#rue-de-la-camille-à-giratoire-gadagne"
       },
       "geometry": {
         "type": "LineString",
@@ -795,7 +823,8 @@
       "properties": {
         "line": 6,
         "name": "Traversée de St-Genis-Laval",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-6#giratoire-gadagne-à-chemin-des-barolles"
       },
       "geometry": {
         "type": "LineString",

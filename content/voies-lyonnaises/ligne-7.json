@@ -102,7 +102,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Osterode",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -149,7 +150,8 @@
         "name": "Rillieux - Parc linéaire Est",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -184,7 +186,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Parc linéaire Ouest",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -230,7 +233,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Giratoire De Gaulle",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -248,7 +252,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Loup Pendu",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -271,7 +276,8 @@
         "name": "Mercières - Loup Pendu",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -288,7 +294,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Carrefour Mercières",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -305,7 +312,8 @@
         "name": "Avenue du 8 Mai - Mercières",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -326,7 +334,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Carrefour Avenue du 8 Mai",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -343,7 +352,8 @@
         "name": "Chemin Petit - Avenue Hippodrome",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -411,7 +421,8 @@
       "properties": {
         "line": 7,
         "name": "Voie verte de la Dombes",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
         "type": "LineString",
@@ -443,7 +454,8 @@
       "properties": {
         "line": 7,
         "name": "Cuire - Infirmerie Protestante",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
       },
       "geometry": {
         "type": "LineString",
@@ -467,7 +479,8 @@
       "properties": {
         "line": 7,
         "name": "Boulevard des Canuts Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -499,7 +512,8 @@
       "properties": {
         "line": 7,
         "name": "Boulevard des Canuts Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -520,7 +534,8 @@
         "line": 7,
         "name": "variante Rue de Cuire",
         "status": "variante",
-        "text": "variante"
+        "text": "variante",
+        "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -553,7 +568,8 @@
         "line": 7,
         "name": "variante Bd des Canuts",
         "status": "variante",
-        "text": "variante"
+        "text": "variante",
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -571,7 +587,8 @@
       "properties": {
         "line": 7,
         "name": "Place des Tapis",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -591,7 +608,8 @@
       "properties": {
         "line": 7,
         "name": "Montée de la Boucle",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#montée-de-la-boucle"
       },
       "geometry": {
         "type": "LineString",
@@ -649,7 +667,8 @@
         "id": "CarrefourBoucle-commun",
         "line": 7,
         "name": "Carrefour Boucle - Pont Churchill",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
         "type": "LineString",
@@ -676,7 +695,8 @@
         "name": "Pont Churchill",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
         "type": "LineString",
@@ -697,7 +717,8 @@
         "id": "TetedOr157-commun",
         "line": 7,
         "name": "Tête d'Or",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
         "type": "LineString",
@@ -715,7 +736,8 @@
       "properties": {
         "line": 7,
         "name": "Belges Ouest",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
         "type": "LineString",
@@ -738,7 +760,8 @@
       "properties": {
         "line": 7,
         "name": "Garibaldi Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
         "type": "LineString",
@@ -755,7 +778,8 @@
         "id": "GaribaldiNord-commun",
         "line": 7,
         "name": "Garibaldi - Duquesne Vauban",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#rue-garibaldi-belges-à-vauban"
       },
       "geometry": {
         "type": "LineString",
@@ -780,7 +804,8 @@
         "name": "Garibaldi - Vauban Bonnel",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#rue-garibaldi-vauban-à-arménie"
       },
       "geometry": {
         "type": "LineString",
@@ -808,7 +833,8 @@
         "name": "Garibaldi - Part Dieu",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-11#rue-garibaldi-bonnel-à-paul-bert"
       },
       "geometry": {
         "type": "LineString",
@@ -828,7 +854,8 @@
         "name": "Garibaldi - Paul Bert Arménie",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
       "geometry": {
         "type": "LineString",
@@ -847,7 +874,8 @@
         "id": "GaribaldiPhase3-commun",
         "line": 7,
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
       "geometry": {
         "type": "LineString",
@@ -876,7 +904,8 @@
         "id": "GaribaldiBlandan-commun",
         "line": 7,
         "name": "Garibaldi - Blandan",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -897,7 +926,8 @@
         "id": "GaribaldiCROUS-commun",
         "line": 7,
         "name": "Garibaldi - CROUS",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -912,7 +942,8 @@
       "properties": {
         "line": 7,
         "name": "Garibaldi - Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -932,7 +963,8 @@
         "name": "Rue Paul Duvivier",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#rue-paul-duvivier"
       },
       "geometry": {
         "type": "LineString",
@@ -964,7 +996,8 @@
       "properties": {
         "line": 7,
         "name": "Route de Vienne",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
         "type": "LineString",
@@ -987,7 +1020,8 @@
       "properties": {
         "line": 7,
         "name": "St-Fons - Avenue Jaurès Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#avenue-jean-jaurès"
       },
       "geometry": {
         "type": "LineString",
@@ -1003,7 +1037,8 @@
       "properties": {
         "line": 7,
         "name": "Saint-Fons Centre",
-        "status": "unknown"
+        "status": "unknown",
+        "link": "/voie-lyonnaise-7#saint-fons-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -1018,7 +1053,8 @@
       "properties": {
         "line": 7,
         "name": "Boulevard Yves Farge",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
       "geometry": {
         "type": "LineString",
@@ -1052,7 +1088,8 @@
       "properties": {
         "line": 7,
         "name": "Traversée Boulevard Urbain Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
       "geometry": {
         "type": "LineString",
@@ -1121,7 +1158,8 @@
       "properties": {
         "line": 7,
         "name": "Feyzin Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {
         "type": "LineString",
@@ -1145,7 +1183,8 @@
       "properties": {
         "line": 7,
         "name": "Feyzin Centre",
-        "status": "unknown"
+        "status": "unknown",
+        "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {
         "type": "LineString",
