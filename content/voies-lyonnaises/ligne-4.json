@@ -66,7 +66,8 @@
       "properties": {
         "line": 4,
         "name": "RN6 Lissieu - Dardilly Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
       "geometry": {
         "type": "LineString",
@@ -123,7 +124,8 @@
       "properties": {
         "line": 4,
         "name": "Porte de Lyon",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#porte-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -154,7 +156,8 @@
       "properties": {
         "line": 4,
         "name": "RN6 Techlid",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-chemin-de-st-didier"
       },
       "geometry": {
         "type": "LineString",
@@ -179,7 +182,8 @@
       "properties": {
         "line": 4,
         "name": "Champagne - Montlouis",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",
@@ -198,7 +202,8 @@
       "properties": {
         "line": 4,
         "name": "Champagne - République Mairie",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",
@@ -226,7 +231,8 @@
         "id": "variante2",
         "line": 4,
         "name": "Variante Lanessan",
-        "status": "variante-postponed"
+        "status": "variante-postponed",
+        "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",
@@ -245,7 +251,8 @@
       "properties": {
         "line": 4,
         "name": "Champagne - Lanessan Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#rue-juttet-à-avenue-de-champagne"
       },
       "geometry": {
         "type": "LineString",
@@ -262,7 +269,8 @@
       "properties": {
         "line": 4,
         "name": "Avenue du 25e RTS",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#avenue-du-25e-régiment-de-tirailleurs-sénégalais"
       },
       "geometry": {
         "type": "LineString",
@@ -299,7 +307,8 @@
       "properties": {
         "line": 4,
         "name": "Rue Mouillard",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#porte-de-vaise"
       },
       "geometry": {
         "type": "LineString",
@@ -322,7 +331,8 @@
       "properties": {
         "line": 4,
         "name": "Friche SNCF",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#porte-de-vaise"
       },
       "geometry": {
         "type": "LineString",
@@ -348,7 +358,8 @@
       "properties": {
         "line": 4,
         "name": "Bourgogne Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#rue-de-bourgogne"
       },
       "geometry": {
         "type": "LineString",
@@ -363,7 +374,8 @@
       "properties": {
         "line": 4,
         "name": "Bourgogne Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#rue-de-bourgogne"
       },
       "geometry": {
         "type": "LineString",
@@ -379,7 +391,8 @@
       "properties": {
         "line": 4,
         "name": "Rue de la Corderie",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#rue-de-la-corderie"
       },
       "geometry": {
         "type": "LineString",
@@ -396,7 +409,8 @@
         "id": "CarrefourMtdOr-commun",
         "line": 4,
         "name": "Carrefour des Monts d'Or",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#quais-de-saône"
       },
       "geometry": {
         "type": "LineString",
@@ -412,7 +426,8 @@
         "id" :"Jayr-commun",
         "line": 4,
         "name": "Quai Jaÿr Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#quais-de-saône"
       },
       "geometry": {
         "type": "LineString",
@@ -432,7 +447,8 @@
         "name": "Pont Georges Clemenceau",
         "status": "done",
         "doneAt": "16/09/2022",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belgesvia-tunnel-mode-doux-et-avenue-duquesne"
       },
       "geometry": {
         "type": "LineString",
@@ -451,7 +467,8 @@
         "name": "Tunnel de la Croix-Rousse",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belgesvia-tunnel-mode-doux-et-avenue-duquesne"
       },
       "geometry": {
         "type": "LineString",
@@ -474,7 +491,8 @@
         "id": "PontTassigny-commun",
         "line": 4,
         "name": "Pont de Lattre de Tassigny",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belgesvia-tunnel-mode-doux-et-avenue-duquesne"
       },
       "geometry": {
         "type": "LineString",
@@ -492,7 +510,8 @@
         "id": "Duquesne-commun",
         "line": 4,
         "name": "Avenue Duquesne",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belgesvia-tunnel-mode-doux-et-avenue-duquesne"
       },
       "geometry": {
         "type": "LineString",
@@ -509,7 +528,8 @@
         "id": "DuquesneEst-commun",
         "line": 4,
         "name": "Duquesne - Garibaldi Belges",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belgesvia-tunnel-mode-doux-et-avenue-duquesne"
       },
       "geometry": {
         "type": "LineString",
@@ -525,7 +545,8 @@
         "id": "BelgesNord-commun",
         "line": 4,
         "name": "Belges - Duquesne Verguin",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belgesvia-tunnel-mode-doux-et-avenue-duquesne"
       },
       "geometry": {
         "type": "LineString",
@@ -541,7 +562,8 @@
         "id": "Verguin-commun",
         "line": 4,
         "name": "Avenue Verguin",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#avenue-verguin"
       },
       "geometry": {
         "type": "LineString",
@@ -556,7 +578,8 @@
       "properties": {
         "line": 4,
         "name": "Villeurbanne",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-4#cours-andré-philip-et-rue-francis-de-pressensé"
       },
       "geometry": {
         "type": "LineString",
