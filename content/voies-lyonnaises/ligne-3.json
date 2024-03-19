@@ -614,7 +614,7 @@
           [4.80777915558761,45.77690650986693]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -741,7 +741,7 @@
         "line": 3,
         "name": "Quai de la Libération",
         "status": "planned",
-        "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénitevia-oullins-la-saulaie-et-pierre-bénite-centre"
+        "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",

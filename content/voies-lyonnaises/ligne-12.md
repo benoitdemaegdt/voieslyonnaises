@@ -13,7 +13,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 
 ## Les tronçons (d'Ouest en Est)
 
-### Valmy à Place de Trion<br/>*via Gorge de Loup*
+### Valmy à Place de Trion
+
+*via Gorge de Loup*
+
 #### Rue du Sergent Michel Berthet
 Sur cette rue aujourd'hui à fort trafic et sans aménagements cyclables, il est prévu d'aménager une piste cyclable bidirectionnelle de 2.50 à 4.00m de large côté Est de la chaussée, en lieu et place de la bande de stationnement et parfois d'une voie de circulation. Au niveau de la place Dumas de Loire, l'étroitesse ponctuelle de la rue nécessitera la mise en place d'un alternat routier de circulation.
 
@@ -80,7 +83,10 @@ credit: Métropole de Lyon
 ::
 
 
-### Pont de la Guillotière à Grange Blanche<br/>*via Cours Gambetta et Albert Thomas*
+### Pont de la Guillotière à Grange Blanche
+
+*via Cours Gambetta et Albert Thomas*
+
 L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle de 4m de large côté Nord de la chaussée, séparée de la circulation par une bande technique permettant d'accueillir les livraisons, le stationnement et de la végétalisation. Les anciens stationnements côté Nord seront entièrement végétalisés, tandis que la voirie sera réduite à une voie bus vers l'Est et une voie générale vers l'Ouest.
 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
@@ -104,11 +110,14 @@ credit: Métropole de Lyon
 ::
 
 ### Place d'Arsonval
-Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller). 
+Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller).
 
 **Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années.**
 
-### Grange Blanche à Boulevard Pinel<br/>*via avenue Rockefeller*
+### Grange Blanche à Boulevard Pinel
+
+*via avenue Rockefeller*
+
 De Grange Blanche au boulevard Ambroise Paré, la Voie Lyonnaise 12 continuera à être aménagée sous la forme d'une piste cyclable bidirectionnelle de 4m de large côté Nord de la voirie. Les stationnements côté Nord seront végétalisés, tandis que les stationnements côté Sud seront supprimés pour élargir le trottoir Sud actuellement étroit.
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, l'avenue Rockefeller est plus étroite et l'insertion de la Voie Lyonnaise en piste bidirectionnelle au Nord ne peut se faire qu'en supprimant la voie de circulation vers l'Ouest, obligeant la circulation de transit à se reporter dans les rues plus au Nord. Les stationnements supprimés le long de la piste seront végétalisés.
@@ -137,7 +146,7 @@ La traversée du périphérique sera améliorée avec la suppression d'une des 3
 Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolition des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefour à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
 
 ### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.  
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl12/VL12_Valmy_Bron.pdf)
 
 ## Calendrier prévisionnel

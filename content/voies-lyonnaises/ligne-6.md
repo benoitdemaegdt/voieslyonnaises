@@ -12,7 +12,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 
 ## Les tronçons (du Nord au Sud)
 
-### de Crépieux-la-Pape à Lyon - Herbouville<br/>*via Saint-Clair et Bellevue*
+### de Crépieux-la-Pape à Lyon - Herbouville
+
+*via Saint-Clair et Bellevue*
+
 #### Chemin de halage de Crépieux
 Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le tranformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
 
@@ -24,7 +27,10 @@ credit: Villes & Paysages / Métropole de Lyon
 ---
 ::
 
-#### Voie verte des berges du Rhône et du canal de Miribel<br/>*via le parc de St-Clair*
+#### Voie verte des berges du Rhône et du canal de Miribel
+
+*via le parc de St-Clair*
+
 Cette longue portion de 3km sera conservée en l'état. Il s'agit d'une voie verte avec revêtement béton qui fait 3 à 3.5m de large. L'éclairage existant sera conservé et ne sera donc présent que dans le parc de Saint-Clair et sur le quai Bellevue. On notera une partie étroite et inconfortable à environ 2m de large dans l'épingle qui permet de remonter sur la place Bellevue.
 
 ::content-image
@@ -70,19 +76,19 @@ A l'extrémité Sud du cours d'Herbouville, deux aménagements sont prévus pour
  - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davantage de traversées de carrefours aux extrémités.
 
 #### Concertation
-La concertation publique sur ce tronçon se tient du 20/11 au 31/12/2023.  
+La concertation publique sur ce tronçon se tient du 20/11 au 31/12/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6Nord_Herbouville_Crepieux.pdf)
 
 ### Pont de Lattre à Pont Gallieni (Lyon Rive Droite)
 Ce tronçon de la Voie Lyonnaise 6 s'inscrit dans le grand projet de réaménagement de la Rive Droite du Rhône porté par la ville de Lyon.
 
-Le projet consiste en l'aménagement d'une piste cyclable bidirectionnelle au centre de la chaussée actuelle au sein du double alignement arboré de platanes qui sert aujourd'hui de stationnement automobile.  
+Le projet consiste en l'aménagement d'une piste cyclable bidirectionnelle au centre de la chaussée actuelle au sein du double alignement arboré de platanes qui sert aujourd'hui de stationnement automobile.
 A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera requalifiée. Le reste du linéaire sera tout de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
 
-La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.  
+La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_Concertation.pdf)
 
-Le projet définitif a été présenté début juin 2023.  
+Le projet définitif a été présenté début juin 2023.
 [Voir le dossier de presse détaillé](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_ProjetFinal.pdf)
 
 Les travaux devraient démarrer début 2025.
@@ -95,13 +101,16 @@ credit: Métropole de Lyon
 ---
 ::
 
-### Pont Gallieni à Pont d'Oullins<br/>*via Confluence, Pont et bas quartiers de la Mulatière*
+### Pont Gallieni à Pont d'Oullins
+
+*via Confluence, Pont et bas quartiers de la Mulatière*
+
 #### Quai Perrache
 Après être passée sous la M7 dans des modalités qui restent à définir, la Voie Lyonnaise 6 empruntera le quai Perrache via une piste cyclable bidirectionnelle située le long des façades.
 
-La section rue du Belier - rue Casimir Périer a été réalisée à l'été 2021.  
-La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.  
-La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et aucune information publique n'existe à ce jour sur ce tronçon.  
+La section rue du Belier - rue Casimir Périer a été réalisée à l'été 2021.
+La section rue Casimir Périer - rue Emile Duployé a été aménagée en transitoire à l'été 2022 en attendant la fin des travaux des immeubles de la seconde tranche d'aménagement du quartier Confluence.
+La section rue Duployé - pont de la Mulatière ne comporte aucun aménagement cyclable à ce jour, et aucune information publique n'existe à ce jour sur ce tronçon.
 
 ::content-image
 ---
@@ -118,7 +127,7 @@ Après de longues années de revendications associatives, une étroite bande cyc
 Aucune information publique n'existe à ce jour sur le réaménagement de ce tronçon dans le cadre de la Voie Lyonnaise 6.
 
 #### Aquarium à Pont d'Oullins
-*Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*  
+*Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*
 Cependant, compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous pensons probable qu'un itinéraire par le Chemin du Pras soit privilégié. Il est d'ailleurs préféré aujourd'hui par les cyclistes du secteur.
 
 ### Pont d'Oullins à Saint-Genis-Laval
@@ -167,9 +176,9 @@ caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 2)
 credit: Folia / Métropole de Lyon
 ---
 ::
-  
-La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)  
+
+La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)
 
 Après de nombreux rebondissements politiques déplorables début 2024 où Mairie et Métropole se livraient une guéguerre politique ridicule sur le dos des citoyens, la Métropole a annoncé mi-février 2024 qu'elle renonçait à la mise en sens unique de la rue de la Camille et d'une partie de la Grande Rue entre la rue de la Camille et la rue du Perron. Le report du traitement de ces sections est une réponse de la Métropole aux demandes des collectifs de riverains et commerçants. La Ville à Vélo déplore une absence de solution cyclable sécurisée à court-terme pour traverser la commune d'Oullins sur ce mandat, qui empêchera un développment du vélo dans le Sud-Ouest lyonnais.
 
@@ -185,7 +194,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
+La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_St-Genis-Laval.pdf)
 
 #### Giratoire Gadagne à Chemin des Barolles
@@ -195,7 +204,7 @@ Cette portion sans aménagements cyclables continus, pourtant annoncée pour 202
 
 
 ## Budget prévisionnel
-- **17 300 000 € HT** au total dont : 
+- **17 300 000 € HT** au total dont :
     - **3 800 000 € HT** pour le tronçon Nord
       <br>_source: [page 54 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6Nord_Herbouville_Crepieux.pdf)_
 
