@@ -30,7 +30,7 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et le chemin du Siroux, l'aménagement sera réalisé en transitoire d'ici 2026, et le réaménagement définitif prévu ultérieurement
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
-*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*  
+*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
 
 #### Tassin - Montcelard à Valvert
@@ -64,7 +64,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.  
+La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_La%20Tour%20de%20Salvagny_Tassin%20Valvert.pdf){:target="_blank"}
 
 
@@ -109,16 +109,19 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Ouest_Tassin_Buyer.pdf){:target="_blank"}
 
-### Rue Pierre Audry<br/>Traversée de Saint-Just<br>Traversée de Saint-Jean
+### Rue Pierre Audry
+
+*Traversée de Saint-Just - Traversée de Saint-Jean*
+
 Cette section est en tronçon commun avec la :line-link{line=12}.
 
 ### Traversée de la Presqu'Île de Lyon
 Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
 
-Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la :line-link{line=12}, via le pont Bonaparte et la place Bellecour.  
+Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la :line-link{line=12}, via le pont Bonaparte et la place Bellecour.
 
 ### Pont Université à Mermoz-Pinel
 Depuis la place Bellecour, la Voie Lyonnaise 8 descendra la rive droite du Rhône en tronc commun avec la :line-link{line=6} jusqu'au pont de l'Université.
@@ -157,7 +160,7 @@ credit: Street Architecture / Métropole de Lyon
 ::
 
 #### Rue et Pont de l'Epargne
-Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord à l'Ouest du pont et côté Sud à l'Est.  
+Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord à l'Ouest du pont et côté Sud à l'Est.
 Concernant la circulation automobile et le traitement du pont, deux variantes sont soumises à concertation :
  - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchecoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
@@ -179,7 +182,7 @@ credit: Street Architecture / Métropole de Lyon
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une succession de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)
 
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
@@ -241,7 +244,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.  
+La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}
 
 ## Budget prévisionnel
@@ -254,10 +257,10 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
 
  A ce budget se rajoutent :
- - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières  
+ - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières
 source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
 
- 
+
 ## Calendrier prévisionnel
 
 ::content-image

@@ -33,7 +33,7 @@ credit: Noémie Gratien / Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.  
+La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
 
@@ -84,7 +84,7 @@ Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une 
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf){:target="_blank"}
 
 ### Traversée de Vaise
@@ -94,7 +94,7 @@ La traversée de cette zone très anxiogène avec un fort trafic lié à l'accè
 #### Rue de Bourgogne
 Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est de la chaussée.
 
-Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la chaussée en mixité avec les voitures et les nombreux bus qui desservent la gare de Vaise. 
+Entre la rue de la Claire et la rue de la Corderie, les vélos seront sur la chaussée en mixité avec les voitures et les nombreux bus qui desservent la gare de Vaise.
 
 ::banner{type="unsecured"}
 Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises sera toutefois sensiblement améliorée avec la suppression du transit automobile via une action sur le plan de circulation du secteur. La circulation automobile y sera donc très faible, la rendant compatible avec une vélorue, mais la présence forte de nombreux bus articulés fera de cette section de 200m un passage délicat pour les cyclistes les moins chevronnés.
@@ -115,10 +115,13 @@ Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable
 Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
 
 #### *Concertation*
-La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  
+La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
 [Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
-### Pont Clémenceau à Boulevard des Belges<br/>*via Tunnel mode doux et avenue Duquesne*
+### Pont Clémenceau à Boulevard des Belges
+
+*via Tunnel mode doux et avenue Duquesne*
+
 Le **pont Clémenceau** avait été initialement réaménagé en 2013 avec deux pistes cyclables étroites unidirectionnelles sur trottoir. Celles-ci ne répondaient pas aux besoin des cyclistes car la traversée difficile de cette avenue à 5 voies très routières les obligeait à utiliser les pistes à contre-sens. En 2022, la situation a été sensiblement améliorée et deux larges pistes cyclables bidirectionnelles ont été créées de chaque côté du pont.
 
 Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conserver la piste cyclable bidirectionnelle existante de 3m de large à court terme.
@@ -135,7 +138,7 @@ L'**avenue Duquesne** ne sera pas réaménagée sur le mandat dans l'attente du 
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
-*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
+*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
 
 ### Boulevard des Belges à rue Flachet
@@ -151,16 +154,16 @@ credit: Passagers des Villes / Métropole de Lyon
 ::
 
 #### Cours André Philip et rue Francis de Pressensé
-Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large avant d'arriver sur le rond-point des Charpennes. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle d'environ 4m de large sur la rue Francis de Pressensé. 
+Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large avant d'arriver sur le rond-point des Charpennes. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle d'environ 4m de large sur la rue Francis de Pressensé.
 
-Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.  
+Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.
 
 Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. <!--Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.-->
 
 #### *Concertation*
 Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
 
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 
@@ -249,7 +252,7 @@ Réunion de concertation pour le tronçon Lyon 6 - Villeurbanne.
 ### Concertation publique
 29 septembre 2022
 
-Réunion de concertation pour le tronçon Limonest - Mont d'Or - Vaise.  
+Réunion de concertation pour le tronçon Limonest - Mont d'Or - Vaise.
 Première réunion publique houleuse avec de vifs débats.
 
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf)
