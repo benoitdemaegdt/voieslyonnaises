@@ -146,6 +146,9 @@ Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usinge
 La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
+::banner{type="wip"}
+Les travaux sur cette section ont lieu entre mars et juin 2024.  
+::
 
 ## Budget prévisionnel
  - plus de **10 000 000 € HT** au total dont :
