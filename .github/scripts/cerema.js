@@ -13,38 +13,114 @@
  *
  * Script toujours en WIP
  */
+const fs = require('fs');
+const path = require('path');
 
 (async () => {
-  // await getAllCeremaCounters();
-  await getCompteurData();
+  const trackedCounters = getTrackedCounters();
+  for (const { file, counter } of trackedCounters) {
+    console.log(`<<<<<<< ${counter.name} >>>>>>>`);
+    const counts = await getCompteurData({ idPdc: counter.idPdc });
+    updateFile({ file, counter: { ...counter, counts } });
+  }
 })();
+
+function getTrackedCounters() {
+  const files = fs.readdirSync('content/compteurs/voiture');
+  return files.map(file => {
+    const filePath = path.join('content/compteurs/voiture', file);
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    return {
+      file,
+      counter: data
+    };
+  });
+}
 
 /**
  * récupération des données d'un compteur
  */
-async function getCompteurData() {
-  const params = new URLSearchParams({
-    count_point_ids: 1990, // Sortie_Voies_Nord_XRousse
-    as_vehicle_nb: true,
-    start_time: '2017-01-01T00:00:00+01:00',
-    end_time: '2017-01-31T23:59:59+01:00',
-    time_zone: 'Europe/Paris',
-    limit: 10000 // un point toutes les 6 minutes
-  });
-  const URL = 'https://avatar.cerema.fr/api/fixed_measures/?' + params.toString();
-  const res = await fetch(URL, {
-    headers: {
-      'X-Fields': 'id,count_point_name,station_name,op_road_name'
+async function getCompteurData({ idPdc }) {
+  const months = getAllMonths();
+
+  const counts = [];
+
+  for (const month of months) {
+    const params = new URLSearchParams({
+      count_point_ids: idPdc,
+      as_vehicle_nb: true,
+      start_time: month.start_time,
+      end_time: month.end_time,
+      time_zone: 'Europe/Paris',
+      limit: 10000 // un point toutes les 6 minutes
+    });
+    const URL = 'https://avatar.cerema.fr/api/fixed_measures/?' + params.toString();
+    const res = await fetch(URL, {
+      headers: { 'X-Fields': 'id,count_point_name,station_name,op_road_name' }
+    });
+    if (res.ok) {
+      const data = await res.json();
+      const count = data.reduce((acc, item) => acc + item.q, 0);
+      console.log({ month: getFirstDayOfMonth(month.start_time), count });
+      counts.push({ month: getFirstDayOfMonth(month.start_time), count });
+      await new Promise(resolve => setTimeout(resolve, 60000));
+    } else {
+      console.log(res.statusText);
+      console.error('[getCompteurData] An error happened while fetching counter data');
+      process.exit(1);
     }
-  });
-  if (res.ok) {
-    const data = await res.json();
-    console.log(data.reduce((acc, item) => acc + item.q, 0));
-  } else {
-    console.log(res.statusText);
-    console.error('[getCompteurData] An error happened while fetching counter data');
-    process.exit(1);
   }
+
+  return counts;
+}
+
+function getAllMonths() {
+  const startDate = new Date('2018-01-01');
+  const endDate = new Date('2024-03-01');
+
+  const result = [];
+
+  let currentDate = new Date(startDate);
+  while (currentDate < endDate) {
+    const startOfMonth = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1);
+    const endOfMonth = new Date(currentDate.getFullYear(), currentDate.getMonth() + 1, 0, 23, 59, 59);
+
+    result.push({
+      start_time: convertDate(startOfMonth.toISOString()),
+      end_time: convertDate(endOfMonth.toISOString())
+    });
+
+    currentDate.setMonth(currentDate.getMonth() + 1);
+  }
+
+  return result;
+}
+
+// no timezone
+function convertDate(isoString) {
+  const date = new Date(isoString);
+  const year = date.getFullYear();
+  const month = ('0' + (date.getMonth() + 1)).slice(-2); // Adding 1 because months are zero-based
+  const day = ('0' + date.getDate()).slice(-2);
+  const hours = ('0' + date.getHours()).slice(-2);
+  const minutes = ('0' + date.getMinutes()).slice(-2);
+  const seconds = ('0' + date.getSeconds()).slice(-2);
+
+  return `${year}-${month}-${day}T${hours}:${minutes}:${seconds}`;
+}
+
+function getFirstDayOfMonth(start_time) {
+  const startDate = new Date(start_time);
+  const year = startDate.getFullYear();
+  const month = startDate.getMonth() + 1; // Note: getMonth() returns 0-based index
+  const formattedMonth = month < 10 ? '0' + month : month; // Ensure double digits for month
+
+  return `${year}/${formattedMonth}/01`;
+}
+
+function updateFile({ file, counter }) {
+  const filePath = path.join('content/compteurs/voiture', file);
+  fs.writeFileSync(filePath, JSON.stringify(counter, null, 2));
 }
 
 /**

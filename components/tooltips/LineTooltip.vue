@@ -1,7 +1,7 @@
 <template>
-  <div class="not-prose w-48">
+  <div class="not-prose text-gray-900 w-48">
     <div class="py-1 bg-zinc-100 flex flex-col items-center justify-center">
-      <div class="text-gray-900 font-bold text-base">
+      <div class="font-bold text-base">
         {{ title }}
       </div>
       <div class="flex flex-row space-x-1">
@@ -65,7 +65,7 @@ type Properties = {
   name: string;
   status: Status;
   doneAt?: string;
-  link?: string
+  link?: string;
 };
 
 const { feature, lines } = defineProps<{
@@ -106,7 +106,7 @@ function getStatus(properties: Properties): { label: string, class: string; date
     done: {
       label: 'terminé',
       date: properties.doneAt && getDoneAtText(properties.doneAt),
-      class: 'text-white bg-lvv-blue-600 rounded-xl px-2'
+      class: 'text-white bg-lvv-blue-600 rounded-xl px-2 w-fit'
     },
     wip: {
       label: 'en travaux',

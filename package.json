@@ -10,18 +10,18 @@
   },
   "devDependencies": {
     "@headlessui/vue": "^1.7.19",
-    "@nuxt/content": "^2.12.0",
+    "@nuxt/content": "^2.12.1",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@tailwindcss/typography": "^0.5.10",
     "eslint": "^8.57.0",
-    "nuxt": "^3.10.3",
+    "nuxt": "^3.11.1",
     "nuxt-icon": "^0.5.0",
     "prettier": "^3.2.5",
     "sitemap": "^7.1.1"
   },
   "dependencies": {
-    "highcharts-vue": "^1.4.3",
+    "highcharts-vue": "^2.0.1",
     "maplibre-gl": "^3.6.2"
   }
 }

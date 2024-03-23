@@ -90,7 +90,8 @@
       "properties": {
         "line": 3,
         "name": "Route du Grand Veissieux",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -143,7 +144,8 @@
       "properties": {
         "line": 3,
         "name": "Quincieux - Neuville-sur-Saône",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#quincieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -195,7 +197,8 @@
       "properties": {
         "line": 3,
         "name": "Pont de Neuville-sur-Saône",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -212,7 +215,8 @@
       "properties": {
         "line": 3,
         "name": "Neuville - Quais de Saône",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -231,7 +235,8 @@
       "properties": {
         "line": 3,
         "name": "Neuville - Avenue Sadi Carnot",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -253,7 +258,8 @@
         "name": "Genay - Rte de Trévoux",
         "status": "done",
         "doneAt": "30/04/2021",
-        "type": "voie-verte"
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -281,7 +287,8 @@
       "properties": {
         "line": 3,
         "name": "Couzon - Neuville-sur-Saône",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -314,7 +321,8 @@
         "name": "Couzon Nord",
         "status": "done",
         "doneAt": "25/01/2023",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -338,7 +346,8 @@
         "name": "Couzon Sud",
         "status": "done",
         "doneAt": "31/11/2019",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -357,7 +366,8 @@
       "properties": {
         "line": 3,
         "name": "Saint-Romain",
-        "status": "wip"
+        "status": "wip",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -382,7 +392,8 @@
       "properties": {
         "line": 3,
         "name": "Collonges - Gare",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -399,7 +410,8 @@
         "id": "FontaineBarbe-commun",
         "line": 3,
         "name": "Île barbe - Pont Leclerc",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -468,7 +480,8 @@
         "id": "variante2",
         "line": 3,
         "name": "Variante - Gde Rue de Saint Rambert",
-        "status": "variante"
+        "status": "variante",
+        "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -499,7 +512,8 @@
         "id": "StRambert-commun",
         "line": 3,
         "name": "Variante - Quai Raoul Carrié",
-        "status": "variante"
+        "status": "variante",
+        "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -515,7 +529,8 @@
       "properties": {
         "line": 3,
         "name": "Île Barbe - Laborde",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#île-barbe-à-rue-antonin-laborde"
       },
       "geometry": {
         "type": "LineString",
@@ -542,7 +557,8 @@
       "properties": {
         "line": 3,
         "name": "Laborde - Pont Schuman",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
         "type": "LineString",
@@ -562,7 +578,8 @@
       "properties": {
         "line": 3,
         "name": "Quai Jaÿr Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
         "type": "LineString",
@@ -585,7 +602,8 @@
         "id" :"Jayr-commun",
         "line": 3,
         "name": "Quai Jaÿr Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
         "type": "LineString",
@@ -596,12 +614,13 @@
           [4.80777915558761,45.77690650986693]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 3,
         "name": "Pont Clemenceau - Pont Koenig",
+        "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
         "status": "planned"
       },
       "geometry": {
@@ -624,6 +643,7 @@
       "properties": {
         "line": 3,
         "name": "Pont Koenig - Pont Bonaparte",
+        "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "status": "planned"
       },
       "geometry": {
@@ -662,6 +682,7 @@
         "line": 3,
         "name": "Quai Fulchiron",
         "status": "done",
+        "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle"
       },
@@ -686,7 +707,8 @@
       "properties": {
         "line": 3,
         "name": "Quai des Etroits - Quai Jean-Jacques Rousseau",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-3#quai-jean-jacques-rousseau-et-quai-des-etroits"
       },
       "geometry": {
         "type": "LineString",
@@ -718,7 +740,8 @@
         "id": "QuaiLiberation-commun",
         "line": 3,
         "name": "Quai de la Libération",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -739,6 +762,7 @@
         "line": 3,
         "name": "Quai Pierre Semard - Parc urbain",
         "status": "done",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -762,6 +786,7 @@
       "properties": {
         "line": 3,
         "name": "Quai Semard - Points durs",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "status": "planned"
       },
       "geometry": {
@@ -778,6 +803,7 @@
         "line": 3,
         "name": "Quai Semard - Friche SNCF",
         "status": "done",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -795,7 +821,8 @@
       "properties": {
         "line": 3,
         "name": "Quai Sémard - Péri Yzeron",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard"
       },
       "geometry": {
         "type": "LineString",
@@ -811,6 +838,7 @@
         "id": "YzeronEst-commun",
         "line": 3,
         "name": "Berge Yzeron Est",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
@@ -831,7 +859,8 @@
         "id": "GareOullins-commun",
         "line": 3,
         "name": "Yzeron - Gare Oullins",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
         "type": "LineString",
@@ -850,7 +879,8 @@
         "id": "OullinsSaulaie-commun",
         "line": 3,
         "name": "Oullins - La Saulaie",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
         "type": "LineString",
@@ -881,6 +911,7 @@
         "line": 3,
         "name": "Oullins - Avenue Jaurès",
         "status": "done",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -902,7 +933,8 @@
         "id": "PierreBeniteN-commun",
         "line": 3,
         "name": "Pierre Bénite Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -920,7 +952,8 @@
         "id": "BoulEurope-commun",
         "line": 3,
         "name": "Boulevard de l'Europe",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -943,7 +976,8 @@
         "id": "A450-commun",
         "line": 3,
         "name": "Traversée A450",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -977,6 +1011,7 @@
         "line": 3,
         "name": "Chemin du Barrage",
         "status": "done",
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -1009,7 +1044,8 @@
       "properties": {
         "line": 3,
         "name": "Irigny - Givors",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
         "type": "LineString",
@@ -1257,6 +1293,7 @@
         "line": 3,
         "name": "Quai Rosenberg - Avenue Anatole France",
         "status": "done",
+        "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny",
         "doneAt": "15/12/2023",
         "type": "bidirectionnelle"
       },
@@ -1280,7 +1317,8 @@
       "properties": {
         "line": 3,
         "name": "Givors Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
         "type": "LineString",

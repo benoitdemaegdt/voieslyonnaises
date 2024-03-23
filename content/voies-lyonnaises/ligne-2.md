@@ -23,7 +23,11 @@ Cette section est en tronçon commun avec la :line-link{line=3}.
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 #### Caluire Centre à Saint-Clair
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon. Cependant, compte-tenu des containtes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste à confirmer.
+Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon. 
+
+::banner{type="info"}
+Compte-tenu des containtes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste indéfini dans les détails et à confirmer par la Métropole de Lyon.
+::
 
 ### Pont Poincaré à avenue Berthelot
 
@@ -31,7 +35,10 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 
 #### Carrefour Saint-Clair et Pont Poincaré
 Le carrefour routier de Saint-Clair devrait faire l'objet d'un réaménagement pour sécuriser le cheminement des cyclistes en provenance de la route de Strasbourg, du centre de Caluire et des berges du Rhône. Il sera relié à une nouvelle piste bidirectionnelle sécurisée qui traversera le pont Poincaré côté Ouest pour se connecter aux futurs aménagements cyclables de la Cité Internationale, du campus de la Doua et du boulevard Stalingrad.  
-*Ce tronçon, très attendu par les cyclistes du plateau Nord, permettra de supprimer un des points noirs majeurs du secteur.*  
+
+::banner{type="info"}
+Ce tronçon, très attendu par les cyclistes du plateau Nord, permettra de supprimer un des points noirs majeurs du secteur.
+::
 
 #### Boulevard Stalingrad Nord
 
@@ -44,7 +51,7 @@ Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bir
 
 *entre boulevard du 11 Novembre 1918 et avenue Verguin*
 
-La Voie Lyonnaise 2 va prendre la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle sera réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
+La Voie Lyonnaise 2 prend la place de l'ancienne contre-allée de stationnement le long du parc de la Tête d'Or. Elle est réaménagée en une piste cyclable bidirectionnelle de 3m de large le long du mur SNCF, et un cheminement piéton végétalisé de 2m de large le long de l'alignement d'arbres existant.
 
 ::content-image
 ---
@@ -54,7 +61,10 @@ credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux sur cette section ont eu lieu entre juillet et décembre 2023.*
+::banner{type="wip"}
+Les travaux sur cette section ont eu lieu entre juillet et décembre 2023.  
+L'ouverture du tronçon à la circulation est prévu au printemps 2024.
+::
 
 #### Rue Waldeck-Rousseau
 
@@ -62,7 +72,9 @@ credit: Métropole de Lyon
 
 Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
 
-*Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'à début 2024.*
+::banner{type="wip"}
+Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'au printemps 2024.
+::
 
 #### Boulevard des Belges
 
@@ -71,18 +83,24 @@ Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle 
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
-*La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu au second semestre 2024.*
+::banner{type="info"}
+La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu au second semestre 2024.
+::
 
 #### Tunnel Vivier-Merle
 La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la gare de la Part-Dieu qui a ouvert en 2020. Une des deux voies de circulation actuelle, côté Ouest, sera transformée en piste cyclable bidirectionnelle de 2.50 à 3.00m de large.  
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.  
 
-*L'aménagement d'un tunnel routier nécessite des autorisations spécifiques de l'Etat, et les travaux seront décalés par rapport au reste de la ligne, avec une échéance probable courant 2025.*
+::banner{type="info"}
+L'aménagement d'un tunnel routier nécessite des autorisations spécifiques de l'Etat, et les travaux seront décalés par rapport au reste de la ligne, avec une échéance probable courant 2025.
+::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
 La Voie Lyonnaise 2 prendra la forme d'une piste cyclable bidirectionnelle de 3 à 5m de large située à l'ouest du boulevard, en lieu et place de l'ancien couloir bus en contre-allée. Cette voie de bus sera repositionnée sur la large voirie routière qui sera redimensionnée pour éviter des vitesses élevées et parfois séparée de la piste cyclable avec une bande arborée et végétalisée.
 
-*A noter qu'entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.*
+::banner{type="unsecured"}
+Entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se transformera temporairement en couloir bus ouvert aux vélos dans le sens Nord-Sud avec un double-sens cyclable marqué en bande dans l'autre sens. Sur ce petit tronçon de 150m de long, l'aménagement ne sera donc malheureusement pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+::
 
 ::content-image
 ---
@@ -92,9 +110,11 @@ credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
-Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se poursuivront jusqu'en début d'année 2024.  
-Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024.*
+::banner{type="wip"}
+Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
+Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se poursuivront jusqu'en mars 2024.  
+Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
@@ -110,7 +130,9 @@ La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
 
 La voie lyonnaise empruntera l'avenue Berthelot sur 300m en y aménageant une piste cyclable bidirectionnelle de 3m de large côté Sud, en lieu et place d'une des 3 voies de circulation.
 
-*Les travaux sur cette section auront probablement lieu à l'été 2024.*
+::banner{type="wip"}
+Les travaux sur cette section auront probablement lieu à l'été 2024.
+::
 
 #### Boulevard des États-Unis
 Sur cette section, la Métropole de Lyon envisage d'insérer une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place de la voie de bus actuelle, côté Ouest du boulevard. La voie de bus sera alors déplacée sur une des deux voies de circulation existantes côté Ouest.  
@@ -124,7 +146,9 @@ credit: Métropole de Lyon
 ---
 ::
 
-*Les travaux de ce tronçon devraient commencer courant 2024.*
+::banner{type="wip"}
+Les travaux de ce tronçon devraient commencer au printemps 2024.
+::
 
 #### Avenue Viviani
 Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
