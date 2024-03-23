@@ -622,30 +622,20 @@ export const useMap = () => {
     if (counters.length === 0) {
       return;
     }
-    return counters.map(counter => {
-      const lastRecord = counter.counts.at(-1)!;
-      const date = new Date(lastRecord.month);
-      const daysInMonth = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
-      const averageDailyTraffic = Math.round(lastRecord.count / daysInMonth);
 
-      return {
-        type: 'Feature',
-        properties: {
-          type: 'compteur',
-          name: counter.name,
-          link: counter._path,
-          lastRecordDate: new Date(lastRecord.month).toLocaleString('fr-Fr', {
-            month: 'long',
-            year: 'numeric'
-          }),
-          lastRecordValue: `${averageDailyTraffic} passages par jour`
-        },
-        geometry: {
-          type: 'Point',
-          coordinates: counter.coordinates
-        }
-      };
-    });
+    return counters.map(counter => ({
+      type: 'Feature',
+      properties: {
+        type: 'compteur',
+        name: counter.name,
+        link: counter._path,
+        counts: counter.counts
+      },
+      geometry: {
+        type: 'Point',
+        coordinates: counter.coordinates
+      }
+    }));
   }
 
   function fitBounds({ map, features }: { map: any; features: Array<LineStringFeature | PointFeature> }) {

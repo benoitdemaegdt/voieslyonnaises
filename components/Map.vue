@@ -22,6 +22,7 @@ import LegendControl from '@/maplibre/LegendControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
+import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -63,7 +64,7 @@ const {
   fitBounds
 } = useMap();
 
-const { getTooltipPerspective, getTooltipCompteur } = useTooltip();
+const { getTooltipPerspective } = useTooltip();
 
 function plotFeatures({ map, features }) {
   plotUnderlinedSections({ map, features });
@@ -138,35 +139,47 @@ onMounted(() => {
   // must do this to avoid multiple popups
   map.on('click', e => {
     // console.log('e.lngLat >>', e.lngLat)
-    const features = map
+    const layers = map
       .queryRenderedFeatures(e.point)
       .filter(({ layer }) => !['maptiler_planet', 'openmaptiles'].includes(layer.source));
 
-    if (features.length === 0) {
+    if (layers.length === 0) {
       return;
     }
 
-    const isPerspectiveLayerClicked = features.some(({ layer }) => layer.id === 'perspectives');
-    const isCompteurLayerClicked = features.some(({ layer }) => layer.id === 'compteurs');
+    const isPerspectiveLayerClicked = layers.some(({ layer }) => layer.id === 'perspectives');
+    const isCompteurLayerClicked = layers.some(({ layer }) => layer.id === 'compteurs');
 
     if (isPerspectiveLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'perspectives');
+      const feature = layers.find(({ layer }) => layer.id === 'perspectives');
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML(getTooltipPerspective(feature.properties))
         .addTo(map);
     } else if (isCompteurLayerClicked) {
-      const feature = features.find(({ layer }) => layer.id === 'compteurs');
+      const layer = layers.find(({ layer }) => layer.id === 'compteurs');
+      const feature = props.features.find(f => f.properties.name === layer.properties.name);
+
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipCompteur(feature.properties))
+        .setHTML('<div id="counter-tooltip-content"></div>')
         .addTo(map);
+
+      const CounterTooltipComponent = defineComponent(CounterTooltip);
+      nextTick(() => {
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(CounterTooltipComponent, { feature }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#counter-tooltip-content');
+      });
     } else {
-      const { line, name } = features[0].properties;
-      // take care feature[0].geometry is truncated (to fit tile size). We need to find the full feature.
+      const { line, name } = layers[0].properties;
+      // take care layers[0].geometry is truncated (to fit tile size). We need to find the full feature.
       const feature = props.features.find(feature => feature.properties.line === line && feature.properties.name === name);
       const lines = feature.properties.id
-        ? [...new Set(features.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
+        ? [...new Set(layers.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
         : [feature.properties.line];
 
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
