@@ -157,7 +157,8 @@ onMounted(() => {
         .setHTML(getTooltipPerspective(feature.properties))
         .addTo(map);
     } else if (isCompteurLayerClicked) {
-      const feature = layers.find(({ layer }) => layer.id === 'compteurs');
+      const layer = layers.find(({ layer }) => layer.id === 'compteurs');
+      const feature = props.features.find(f => f.properties.name === layer.properties.name);
 
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
