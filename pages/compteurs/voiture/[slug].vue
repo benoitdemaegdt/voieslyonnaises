@@ -1,7 +1,7 @@
 <template>
   <ContentFrame
     v-if="counter"
-    header="compteur vélo"
+    header="compteur voiture"
     :title="counter.name"
     :description="counter.description"
     :image-url="counter.imageUrl"
@@ -10,11 +10,11 @@
       <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
     </ClientOnly>
     <h2>Total des passages par année</h2>
-    <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur vélo chaque année.</p>
+    <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur voiture chaque année.</p>
     <ChartTotalByYear :title="graphTitles.totalByYear" :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
     <h2>Comparaison des passages pour un mois donné</h2>
-    <p>Choisissez un mois dans le menu déroulant ci-dessous pour visualiser l'évolution de la fréquentation cyclable pour le même mois de chaque année.</p>
+    <p>Choisissez un mois dans le menu déroulant ci-dessous pour visualiser l'évolution de la fréquentation voiture pour le même mois de chaque année.</p>
     <ChartMonthComparison :title="graphTitles.monthComparison" :data="counter" class="mt-8 lg:p-4 lg:rounded-lg lg:shadow-md" />
 
     <template v-if="counter.limitation">
@@ -22,17 +22,8 @@
       <p>{{ counter.limitation }}</p>
     </template>
 
-    <template v-if="counter && counter.lines && counter.lines.length > 0">
-      <h2>Voies Lyonnaises mesurées par ce compteur</h2>
-      <ul>
-        <li v-for="line in counter.lines" :key="line">
-          <LineLink :line="String(line)" />
-        </li>
-      </ul>
-    </template>
-
     <h2>Source des données</h2>
-    <p>Les données proviennent de <a href="https://data.eco-counter.com/ParcPublic/?id=3902#" target="_blank">data.eco-counter.com</a>.</p>
+    <p>Les données proviennent du <a href="https://avatar.cerema.fr/cartographie" target="_blank">Cerema</a>.</p>
   </ContentFrame>
 </template>
 
@@ -53,13 +44,13 @@ if (!counter.value) {
 }
 
 const graphTitles = {
-  totalByYear: `Fréquentation cycliste annuelle - ${counter.value.name}`,
-  monthComparison: `Fréquentation cycliste - ${counter.value.name}`
+  totalByYear: `Fréquentation voiture annuelle - ${counter.value.name}`,
+  monthComparison: `Fréquentation voiture - ${counter.value.name}`
 };
 
 const features = getCompteursFeatures({ counters: [counter.value] });
 
-const DESCRIPTION = `Compteur vélo ${counter.value.name}`;
+const DESCRIPTION = `Compteur voiture ${counter.value.name}`;
 const IMAGE_URL = counter.value.imageUrl;
 useHead({
   meta: [

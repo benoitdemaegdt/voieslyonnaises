@@ -662,7 +662,7 @@
       "properties": {
         "line": 11,
         "name": "Chassieu - Route de Lyon",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -691,7 +691,7 @@
       "properties": {
         "line": 11,
         "name": "Avenue du Dauphiné Ouest",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",

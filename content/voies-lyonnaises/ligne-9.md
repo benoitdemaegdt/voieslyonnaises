@@ -12,7 +12,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 
 ## Les tronçons (d'Ouest en Est)
 ### Traversée d'Oullins
-Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est.   
+Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est.
 Cette section est en tronçon commun avec la :line-link{line=5}.
 
 ### Franchissement du Rhône
@@ -22,14 +22,14 @@ Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passe
 
 Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
-*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*  
+*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Passerelle_Oullins_Gerland.pdf)
 
-*La suite de la concertation publique est attendue courant 2024.*  
+*La suite de la concertation publique est attendue courant 2024.*
 *Les travaux sont prévus entre 2026 et 2028.*
 
 ### Avenue Jean Jaurès
-L'itinéraire remontera l'avenue du Sud au Nord jusqu'à la rue de l'Université, en traversant les quartiers de Gerland, Jean Jaurès et Jean Macé.  
+L'itinéraire remontera l'avenue du Sud au Nord jusqu'à la rue de l'Université, en traversant les quartiers de Gerland, Jean Jaurès et Jean Macé.
 Historiquement, deux pistes cyclables bilatérales avaient été peintes sur trottoir dans les années 2000. A l'été 2020, la voirie est passée de 2x2 voies à 2x1 voies automobiles avec la création en provisoire d'un couloir bus-vélo dans le sens Sud>Nord et d'une large bande cyclable dans le sens Nord>Sud. Cet aménagement a été pérénisé à l'été 2021, entrainant la suppression des pistes sur les trottoirs.
 
 *La Métropole de Lyon a annoncé le 14/11/2023 que ce tronçon serait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sans séparation physique avec les véhicules, en partageant cet itinéraire avec les bus, taxis et autres véhicules d'urgence pendant de nombreuses années.*
@@ -44,7 +44,9 @@ L'itinéraire est en tronçon commun avec d'autres Voies Lyonnaises :
 
 Se référer à la page de chaque ligne pour davantage d'informations.
 
-### Villeurbanne St-Jean à Jonage<br/>*via parc de Miribel-Jonage*
+### Villeurbanne St-Jean à Jonage
+
+*via parc de Miribel-Jonage*
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
 #### Rue du Canal
@@ -81,7 +83,7 @@ Dans cette impasse qui dessert uniquement le parking du Fontanil, le projet vien
 Sur cette section à enjeu environnemental plus marqué, la voie verte existante de 3m de large sera conservée en l'état.
 
 #### Digue EDF le long du Grand Large
-La voie verte existante de 3m de large sera élargie à 4m compte-tenu de la convergence des accès au parc de Miribel-Jonage sur cette section.  
+La voie verte existante de 3m de large sera élargie à 4m compte-tenu de la convergence des accès au parc de Miribel-Jonage sur cette section.
 En outre, le revêtement en sable stabilisé sera remplacé par un enrobé lisse plus confortable.
 
 #### Pont d'Herbens à Pont de Jonage
@@ -93,14 +95,14 @@ Sur ce tronçon, deux variantes d'itinéraires sont proposées :
 Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)
 
 
 ## Budget prévisionnel
  - **7 300 000 € HT** au total
 
-Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland  
+Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland
 *source : [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363338398542783_6291.pdf)*
 
 ## Calendrier prévisionnel

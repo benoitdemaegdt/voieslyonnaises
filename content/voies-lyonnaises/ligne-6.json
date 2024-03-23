@@ -114,7 +114,8 @@
       "properties": {
         "line": 6,
         "name": "Chemin de Halage de Crépieux",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#chemin-de-halage-de-crépieux"
       },
       "geometry": {
         "type": "LineString",
@@ -155,7 +156,8 @@
         "name": "Parc de St-Clair - Seuil Feyssine",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "voie-verte"
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-6#voie-verte-des-berges-du-rhône-et-du-canal-de-miribel"
       },
       "geometry": {
         "type": "LineString",
@@ -197,12 +199,13 @@
       "properties": {
         "line": 6,
         "name": "Caluire - Cours Aristide Briand",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#cours-aristide-briand"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.84134270103425,45.77941320769169],
+          [4.84134270103425, 45.77941320769169],
           [4.842029343022205, 45.780358475651525],
           [4.842565567433155, 45.78113079089724],
           [4.843416524910481, 45.78216323694727],
@@ -221,23 +224,24 @@
         "id": "CarrefourBoucle-commun",
         "line": 6,
         "name": "Carrefour Boucle - Pont Churchill",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.841323480781121,45.778951788769334],
-          [4.8413993934485795,45.77897384535653],
-          [4.841495195653875,45.77914821475267],
-          [4.841440102886778,45.7792294956889],
-          [4.8414668751886865,45.7793050674354],
-          [4.8413963228614065,45.77933749006493],
-          [4.84134270103425,45.77941320769169],
-          [4.841181844132578,45.77947214913],
-          [4.841048938677325,45.779235255472976],
-          [4.841137473867622,45.779040284607206],
-          [4.84119214806131,45.778987991106476],
-          [4.841323480781121,45.778951788769334]
+          [4.841323480781121, 45.778951788769334],
+          [4.8413993934485795, 45.77897384535653],
+          [4.841495195653875, 45.77914821475267],
+          [4.841440102886778, 45.7792294956889],
+          [4.8414668751886865, 45.7793050674354],
+          [4.8413963228614065, 45.77933749006493],
+          [4.84134270103425, 45.77941320769169],
+          [4.841181844132578, 45.77947214913],
+          [4.841048938677325, 45.779235255472976],
+          [4.841137473867622, 45.779040284607206],
+          [4.84119214806131, 45.778987991106476],
+          [4.841323480781121, 45.778951788769334]
         ]
       }
     },
@@ -246,14 +250,15 @@
       "properties": {
         "line": 6,
         "name": "Cours d'Herbouville",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.838555559405393, 45.77387060801536],
           [4.8398611459267045, 45.776407307664186],
-          [4.84119214806131,45.778987991106476]
+          [4.84119214806131, 45.778987991106476]
         ]
       }
     },
@@ -262,7 +267,8 @@
       "properties": {
         "line": 6,
         "name": "Jonction Quais du Rhône Centre - VL4",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#jonction-vers-rhône-rive-droite-et-vl4"
       },
       "geometry": {
         "type": "LineString",
@@ -284,7 +290,8 @@
       "properties": {
         "line": 6,
         "name": "Rhône Rive Droite Nord",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -294,13 +301,14 @@
           [4.838095708858418, 45.77074336120836]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 6,
         "name": "Passerelle du Collège - Pont Wilson",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -318,14 +326,15 @@
         "id": "GuillotièreWilson-commun",
         "line": 6,
         "name": "Pont Wilson - Pont Guillotière",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.836761844916594,45.75730585999979],
-          [4.837095010312083,45.75807099031397],
-          [4.837471885076411,45.75897381774759],
+          [4.836761844916594, 45.75730585999979],
+          [4.837095010312083, 45.75807099031397],
+          [4.837471885076411, 45.75897381774759],
           [4.83784446472157, 45.760176946792484]
         ]
       }
@@ -336,15 +345,16 @@
         "id": "UniversitéGuillotière-commun",
         "line": 6,
         "name": "Pont Guillotière - Pont Université",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8338006768830155,45.753082372135076],
-          [4.834404648277484,45.7539941241597],
-          [4.83588314859162,45.75582217405276],
-          [4.836761844916594,45.75730585999979]
+          [4.8338006768830155, 45.753082372135076],
+          [4.834404648277484, 45.7539941241597],
+          [4.83588314859162, 45.75582217405276],
+          [4.836761844916594, 45.75730585999979]
         ]
       }
     },
@@ -353,12 +363,13 @@
       "properties": {
         "line": 6,
         "name": "Pont de l'Université - Condé",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8338006768830155,45.753082372135076],
+          [4.8338006768830155, 45.753082372135076],
           [4.832063064909362, 45.750593356342044]
         ]
       }
@@ -368,7 +379,8 @@
       "properties": {
         "line": 6,
         "name": "Condé - Pont Gallieni",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
         "type": "LineString",
@@ -383,7 +395,8 @@
       "properties": {
         "line": 6,
         "name": "Traversée échangeur M6-M7",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
@@ -401,7 +414,8 @@
         "name": "Quai Perrache Nord",
         "status": "done",
         "doneAt": "31/08/2021",
-        "type": "bidirectionnelle"
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
@@ -420,7 +434,8 @@
       "properties": {
         "line": 6,
         "name": "Quai Perrache Sud",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
@@ -443,7 +458,8 @@
       "properties": {
         "line": 6,
         "name": "Pont de la Mulatière",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#pont-autoroutier-de-la-mulatière"
       },
       "geometry": {
         "type": "LineString",
@@ -466,99 +482,103 @@
         "id": "QuaiLiberation-commun",
         "line": 6,
         "name": "Quai de la Libération",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.815337657928467,45.729456929754214],
-          [4.815665327967224,45.7290793455451],
-          [4.816080626827045,45.72787636722866],
-          [4.81618008422717,45.72745452293236],
-          [4.816106100032769,45.72734229848851],
-          [4.816110345566095,45.727281045698874],
-          [4.8161502007688455,45.72724285638159]
+          [4.815337657928467, 45.729456929754214],
+          [4.815665327967224, 45.7290793455451],
+          [4.816080626827045, 45.72787636722866],
+          [4.81618008422717, 45.72745452293236],
+          [4.816106100032769, 45.72734229848851],
+          [4.816110345566095, 45.727281045698874],
+          [4.8161502007688455, 45.72724285638159]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 6,
         "name": "Chemin du Pras",
-        "status": "planned"
+        "status": "unknown",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.810829311581557, 45.71794687970882],
-          [4.812814708017839,45.71835562816156],
-          [4.812888476261463,45.71841743287041],
-          [4.81293765422393,45.7200174648041],
-          [4.813237645463943,45.72116424044219],
-          [4.813217973932382,45.72132904456262],
-          [4.81318354875188,45.721425180074704],
-          [4.813090108976667,45.72151101521399],
-          [4.8129622440210085,45.72157281643263],
-          [4.812795036002171,45.72162088399935],
-          [4.812726185641196,45.721706718837964],
-          [4.812716349875842,45.72181315385433],
-          [4.8128786400120305,45.722283525531765],
-          [4.812942573526982,45.72236249179471],
-          [4.813262235915829,45.722451758839014],
-          [4.813395018754193,45.72252729238056],
-          [4.8135573088902674,45.72280539226696],
-          [4.813758942089606,45.7229495916628],
-          [4.813999918352067,45.72331695510846],
-          [4.814117947841908,45.723402788034264],
-          [4.814235977031387,45.72354698588819],
-          [4.81434908833819,45.72369804990771],
-          [4.814447445996137,45.72402764271348],
-          [4.81447695329382,45.72414780627406],
-          [4.814580229061448,45.72505760848031],
-          [4.814708094016339,45.7252052352388],
-          [4.81483104108932,45.72553138599753],
-          [4.814894973566737,45.725826636620354],
-          [4.814909727215678,45.72611845256367],
-          [4.8149490702788,45.726169949336594],
-          [4.815175292893201,45.72622144606203],
-          [4.815155621776,45.72633473973832],
-          [4.815563806057298,45.72666775007468],
-          [4.815922811509267,45.72698016002849],
-          [4.816099855294283,45.72720330892571],
-          [4.8161502007688455,45.72724285638159]
+          [4.812814708017839, 45.71835562816156],
+          [4.812888476261463, 45.71841743287041],
+          [4.81293765422393, 45.7200174648041],
+          [4.813237645463943, 45.72116424044219],
+          [4.813217973932382, 45.72132904456262],
+          [4.81318354875188, 45.721425180074704],
+          [4.813090108976667, 45.72151101521399],
+          [4.8129622440210085, 45.72157281643263],
+          [4.812795036002171, 45.72162088399935],
+          [4.812726185641196, 45.721706718837964],
+          [4.812716349875842, 45.72181315385433],
+          [4.8128786400120305, 45.722283525531765],
+          [4.812942573526982, 45.72236249179471],
+          [4.813262235915829, 45.722451758839014],
+          [4.813395018754193, 45.72252729238056],
+          [4.8135573088902674, 45.72280539226696],
+          [4.813758942089606, 45.7229495916628],
+          [4.813999918352067, 45.72331695510846],
+          [4.814117947841908, 45.723402788034264],
+          [4.814235977031387, 45.72354698588819],
+          [4.81434908833819, 45.72369804990771],
+          [4.814447445996137, 45.72402764271348],
+          [4.81447695329382, 45.72414780627406],
+          [4.814580229061448, 45.72505760848031],
+          [4.814708094016339, 45.7252052352388],
+          [4.81483104108932, 45.72553138599753],
+          [4.814894973566737, 45.725826636620354],
+          [4.814909727215678, 45.72611845256367],
+          [4.8149490702788, 45.726169949336594],
+          [4.815175292893201, 45.72622144606203],
+          [4.815155621776, 45.72633473973832],
+          [4.815563806057298, 45.72666775007468],
+          [4.815922811509267, 45.72698016002849],
+          [4.816099855294283, 45.72720330892571],
+          [4.8161502007688455, 45.72724285638159]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "id": "OullinsHerriot-commun",
         "line": 6,
         "name": "Oullins Herriot",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8098826452401795,45.717970514067844],
+          [4.8098826452401795, 45.717970514067844],
           [4.810234396297375, 45.71792595688325],
           [4.810563950513341, 45.717940903168625],
           [4.810829311581557, 45.71794687970882]
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
         "line": 6,
         "name": "Pont d'Oullins",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8098826452401795,45.717970514067844],
+          [4.8098826452401795, 45.717970514067844],
           [4.809653451120909, 45.717523535665066]
         ]
       }
@@ -570,7 +590,8 @@
         "line": 6,
         "name": "Scénario 2 - Grande Rue Nord - sens Sud>Nord",
         "status": "variante",
-        "text": "variante 2 S>N"
+        "text": "variante 2 S>N",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -583,7 +604,7 @@
           [4.809661790838106, 45.71624832382099],
           [4.80962899031428, 45.7160646111067],
           [4.809548922866185, 45.7159862813796],
-          [4.805382072540112,45.71355024967718]
+          [4.805382072540112, 45.71355024967718]
         ]
       }
     },
@@ -593,13 +614,14 @@
         "id": "varianteOullinsReport-commun",
         "line": 6,
         "name": "Scénario 2 - Grande Rue Sud - sens Sud>Nord",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.805382072540112,45.71355024967718],
-          [4.802711908914716,45.71203317181793]
+          [4.805382072540112, 45.71355024967718],
+          [4.802711908914716, 45.71203317181793]
         ]
       }
     },
@@ -610,12 +632,13 @@
         "line": 6,
         "name": "Scénario 2 - Grande Rue",
         "status": "variante",
-        "text": "variante 2"
+        "text": "variante 2",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.802711908914716,45.71203317181793],
+          [4.802711908914716, 45.71203317181793],
           [4.801440330405114, 45.711285479851796]
         ]
       }
@@ -627,7 +650,8 @@
         "line": 6,
         "name": "Scénario 2 - rues Bertholey/Hugo - sens Nord>Sud",
         "status": "variante",
-        "text": "variante 2 N>S"
+        "text": "variante 2 N>S",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -671,7 +695,8 @@
         "id": "varianteOullinsReport-commun",
         "line": 6,
         "name": "Scénario 2 - rue de la Camille - sens Nord>Sud",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -700,7 +725,8 @@
         "line": 6,
         "name": "Scénario 1 - rues République et parking Camille",
         "status": "variante",
-        "text": "variante 1"
+        "text": "variante 1",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -744,7 +770,8 @@
         "line": 6,
         "name": "Scénario 1 - rue Léon Bourgeois",
         "status": "variante",
-        "text": "variante 1"
+        "text": "variante 1",
+        "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -767,7 +794,8 @@
       "properties": {
         "line": 6,
         "name": "Oullins Bourgeois - St-Genis-Laval Gadagne",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-6#rue-de-la-camille-à-giratoire-gadagne"
       },
       "geometry": {
         "type": "LineString",
@@ -795,7 +823,8 @@
       "properties": {
         "line": 6,
         "name": "Traversée de St-Genis-Laval",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-6#giratoire-gadagne-à-chemin-des-barolles"
       },
       "geometry": {
         "type": "LineString",
