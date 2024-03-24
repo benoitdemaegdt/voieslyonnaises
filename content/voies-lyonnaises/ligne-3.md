@@ -182,6 +182,16 @@ L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s
 [Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
+### Givors Sud
+A la demande de la mairie de Givors, la Métropole réalise un aménagement cyclable sur les quais au Sud de la ville pour faciliter la liaison entre le centre-ville et le collège Paul Vallon. Dans ce cadre, une piste cyclable bidirectionnelle de 3.5m de large est en train d'être aménagée entre le pont de Chasse et le chemin du Freyssinet. Elle est située côté Nord du quai Rosenberg qui devient avenue Anatole France plus au Sud. 
+
+::banner{type="info"}
+Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'est relié à absolument aucun aménagement cyclable à ses extrémités, ce qui y mettra en difficulté les cyclistes circulant du Nord vers le Sud. La Ville à Vélo espère vivement la reprise des études puis des travaux de la ViaRhôna entre Givors et Irigny dans les meilleurs délais pour créer une continuité cyclable et sécurisée tant attendue par les habitants et cyclotouristes du secteur.
+::
+
+::banner{type="wip"}
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux est prévue courant 2024 jusqu'au chemin de Freyssinet.
+::
 
 ## Budget prévisionnel
 - **32 200 000 € HT** au total dont :
