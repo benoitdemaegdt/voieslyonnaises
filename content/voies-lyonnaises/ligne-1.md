@@ -18,7 +18,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 
 Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera les quartiers du Mas du Taureau à Vaulx-en-Velin et de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
+Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera le Sud de la future ZAC Mas du Taureau à Vaulx-en-Velin et la quartier de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
 
 ::content-image
 ---

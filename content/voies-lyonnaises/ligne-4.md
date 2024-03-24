@@ -116,7 +116,7 @@ Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc
 
 #### *Concertation*
 La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
-[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
+[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}  
 
 ### Pont Clémenceau à Boulevard des Belges
 
@@ -138,7 +138,7 @@ L'**avenue Duquesne** ne sera pas réaménagée sur le mandat dans l'attente du 
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
-*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
+*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
 
 ### Boulevard des Belges à rue Flachet
@@ -163,7 +163,7 @@ Ce projet nécessite la suppression du stationnement du côté de la piste cycla
 #### *Concertation*
 Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
 
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 

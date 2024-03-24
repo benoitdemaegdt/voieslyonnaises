@@ -120,7 +120,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
 
-*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)
 
 ::banner{type="postponed"}
@@ -173,13 +173,13 @@ Initialement porté par la Région Auvergne-Rhône-Alpes, le projet avait fait l
 ::
 
 #### Pour en savoir plus
-La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)
+La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.  
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)  
 [Voir le bilan de la concertation publique.](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_Bilan201912.pdf)
 
-L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.
-[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)
-[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)
+L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.  
+[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)  
+[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)  
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
 ### Givors Sud
