@@ -1275,7 +1275,7 @@
         "line": 5,
         "name": "Einstein INSA",
         "status": "planned",
-        "link": "/voie-lyonnaise-5#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
         "type": "LineString",
@@ -1292,7 +1292,7 @@
         "line": 5,
         "name": "Einstein Est",
         "status": "planned",
-        "link": "/voie-lyonnaise-5#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
         "type": "LineString",
@@ -1309,7 +1309,7 @@
         "line": 5,
         "name": "Croix Luizet",
         "status": "planned",
-        "link": "/voie-lyonnaise-5#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
         "type": "LineString",
@@ -1335,7 +1335,7 @@
         "line": 5,
         "name": "Vaulx-en-Velin Ouest",
         "status": "planned",
-        "link": "/voie-lyonnaise-5#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
         "type": "LineString",
@@ -1379,7 +1379,7 @@
         "line": 5,
         "name": "Vaulx-en-Velin Est",
         "status": "planned",
-        "link": "/voie-lyonnaise-5#vaulx-en-velin-gabriel-péri-à-la-doua-croix-luizet"
+        "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
         "type": "LineString",
