@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Canal de Jonage",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Einstein (Villeurbanne)",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg"
       },
@@ -29,6 +31,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue de Grande-Bretagne",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png"
       },
@@ -41,6 +44,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Quai Claude Bernard (Lyon 7)",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg"
       },
@@ -53,6 +57,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Boulevard du 11 Novembre",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png"
       },
@@ -65,6 +70,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Tony Garnier",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png"
       },
@@ -77,6 +83,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Boulevard Sampaix",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png"
       },
@@ -89,6 +96,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue Charles Plasse",
         "line": 1,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg"
       },

@@ -1,12 +1,18 @@
 <template>
-  <div class="h-10 flex items-center not-prose text-black" :style="`background-color: ${color}`">
-    <div class="p-2">
-      <a class="text-white font-bold text-lg hover:underline" :href="href">
-        Voie Lyonnaise {{ feature.properties.line }}
-      </a>
+  <div class="not-prose flex items-center justify-center" :style="`background-color: ${color}`">
+    <div class="p-1 text-white text-lg font-black">
+      Voie Lyonnaise
+      <span
+        class="h-6 w-6 text-sm rounded-full inline-flex items-center justify-center border-2 border-white"
+      >
+        {{ feature.properties.line }}
+      </span>
     </div>
   </div>
   <img :src="feature.properties.imgUrl" class="my-0">
+  <div v-if="feature.properties.name" class="p-1 bg-zinc-100 text-gray-900 text-sm font-medium italic text-center">
+    {{ feature.properties.name }}
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -16,7 +22,8 @@ const { feature } = defineProps<{
   feature: {
     type: 'Feature';
     properties: {
-      'type': 'perspective';
+      type: 'perspective';
+      name?: string;
       line: string;
       imgUrl: string;
     };
@@ -29,5 +36,4 @@ const { feature } = defineProps<{
 }>();
 
 const color = getLineColor(Number(feature.properties.line));
-const href = `/voie-lyonnaise-${feature.properties.line}`;
 </script>
