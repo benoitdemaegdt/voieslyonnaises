@@ -23,6 +23,7 @@ import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
+import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -63,8 +64,6 @@ const {
   plotCompteurs,
   fitBounds
 } = useMap();
-
-const { getTooltipPerspective } = useTooltip();
 
 function plotFeatures({ map, features }) {
   plotUnderlinedSections({ map, features });
@@ -151,11 +150,27 @@ onMounted(() => {
     const isCompteurLayerClicked = layers.some(({ layer }) => layer.id === 'compteurs');
 
     if (isPerspectiveLayerClicked) {
-      const feature = layers.find(({ layer }) => layer.id === 'perspectives');
+      const layer = layers.find(({ layer }) => layer.id === 'perspectives');
+      const feature = props.features.find(f => {
+        return f.properties.type === 'perspective' &&
+          f.properties.line === layer.properties.line &&
+          f.properties.imgUrl === layer.properties.imgUrl;
+      });
+
       new maplibregl.Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML(getTooltipPerspective(feature.properties))
+        .setHTML('<div id="perspective-tooltip-content"></div>')
         .addTo(map);
+
+      const PerspectiveTooltipComponent = defineComponent(PerspectiveTooltip);
+      nextTick(() => {
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(PerspectiveTooltipComponent, { feature }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#perspective-tooltip-content');
+      });
     } else if (isCompteurLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'compteurs');
       const feature = props.features.find(f => f.properties.name === layer.properties.name);
