@@ -91,7 +91,8 @@
         "id": "PlaceValmy-commun",
         "line": 12,
         "name": "Place Valmy",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#valmy-à-place-de-trion"
       },
       "geometry": {
         "type": "LineString",
@@ -106,7 +107,8 @@
       "properties": {
         "line": 12,
         "name": "Rue du Sergent Berthet",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#rue-du-sergent-michel-berthet"
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +133,8 @@
         "name": "Rue Pierre Audry Nord",
         "status": "done",
         "doneAt": "01/04/2022",
-        "type": "bilaterale"
+        "type": "bilaterale",
+        "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
         "type": "LineString",
@@ -157,7 +160,8 @@
         "name": "Rue Pierre Audry Sud",
         "status": "done",
         "doneAt": "01/04/2022",
-        "type": "bilaterale"
+        "type": "bilaterale",
+        "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
         "type": "LineString",
@@ -181,7 +185,8 @@
         "id": "BuyerEst-commun",
         "line": 12,
         "name": "Trion - Quatre Colonnes",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
       },
       "geometry": {
         "type": "LineString",
@@ -205,7 +210,8 @@
         "id": "StJust-commun",
         "line": 12,
         "name": "Saint-Just",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
         "type": "LineString",
@@ -255,7 +261,8 @@
         "id": "ChNeuf-commun",
         "line": 12,
         "name": "Montée du Chemin Neuf",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
         "type": "LineString",
@@ -299,7 +306,8 @@
         "id": "StJean-commun",
         "line": 12,
         "name": "Saint-Jean",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -321,7 +329,8 @@
         "id": "AdolpheMax-commun",
         "line": 12,
         "name": "Avenue Adolphe Max",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -338,7 +347,8 @@
         "id": "Bonaparte-commun",
         "line": 12,
         "name": "Pont Bonaparte",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -354,7 +364,8 @@
         "id": "Presquile-commun",
         "line": 12,
         "name": "Traversée Presqu'île (par Bellecour)",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -371,7 +382,8 @@
       "properties": {
         "line": 12,
         "name": "Pont de la Guillotière",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
         "type": "LineString",
@@ -387,7 +399,8 @@
       "properties": {
         "line": 12,
         "name": "Cours Gambetta",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
         "type": "LineString",
@@ -407,7 +420,8 @@
       "properties": {
         "line": 12,
         "name": "Cours Albert Thomas",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
         "type": "LineString",
@@ -430,7 +444,8 @@
       "properties": {
         "line": 12,
         "name": "Place d'Arsonval",
-        "status": "postponed"
+        "status": "postponed",
+        "link": "/voie-lyonnaise-12#place-darsonval"
       },
       "geometry": {
         "type": "LineString",
@@ -450,7 +465,8 @@
       "properties": {
         "line": 12,
         "name": "Avenue Rockefeller",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
       },
       "geometry": {
         "type": "LineString",
@@ -471,7 +487,8 @@
       "properties": {
         "line": 12,
         "name": "Avenue Franklin Roosevelt",
-        "status": "planned"
+        "status": "planned",
+        "link": "/voie-lyonnaise-12#boulevard-pinel-à-bron-boutasse"
       },
       "geometry": {
         "type": "LineString",

@@ -1293,7 +1293,7 @@
         "line": 3,
         "name": "Quai Rosenberg - Avenue Anatole France",
         "status": "done",
-        "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny",
+        "link": "/voie-lyonnaise-3#givors-sud",
         "doneAt": "15/12/2023",
         "type": "bidirectionnelle"
       },
@@ -1318,7 +1318,7 @@
         "line": 3,
         "name": "Givors Sud",
         "status": "planned",
-        "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
+        "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
         "type": "LineString",
@@ -1329,9 +1329,7 @@
           [4.791001503466248,45.57502732902702],
           [4.793555251480029,45.57289455486935],
           [4.795201308075832,45.57151606507773],
-          [4.79735602819872,45.56969195472354],
-          [4.795214463712966,45.56949389129798],
-          [4.796445220937841,45.567621594429596]
+          [4.79735602819872,45.56969195472354]
         ]
       }
     }

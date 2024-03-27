@@ -12,12 +12,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 
 ## Les tronçons (dans le sens antihoraire)
 
-### Bron Décathlon à Pont Poincaré
+### Boulevard Urbain Est
 
-*via Boulevard Urbain Est, Vaulx-en-Velin et la Doua*
-
-#### Boulevard Urbain Est
-**Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu**, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du tramway T5, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
+#### Bron Decathlon à Chassieu Golf
+Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du tramway T5, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
 
 ::content-image
 ---
@@ -27,7 +25,8 @@ credit: Métropole de Lyon
 ---
 ::
 
-**Entre la route de Lyon à Chassieu et l'avenue Franklin Roosevelt à Décines**, l'aménagement d'origine est une piste cyclable bilatérale marquée directement sur le trottoir de chaque côté de la chaussée. Sur cette section du BUE inaugurée entre 1988 et 1990, le projet va créer une piste cyclable de 3m et un trottoir de 2m côté Ouest jusqu'à l'entrée charretière du n°32, puis le trottoir Ouest existant de 3.20m de large sera réaménagé en voie verte jusqu'à l'avenue Roosevelt. Le carrefour avec la rue Elisée Reclus sera amélioré.
+#### Chassieu Golf à Avenue Roosevelt
+Entre la route de Lyon à Chassieu et l'avenue Franklin Roosevelt, l'aménagement d'origine est une piste cyclable bilatérale marquée directement sur le trottoir de chaque côté de la chaussée. Sur cette section du BUE inaugurée entre 1988 et 1990, le projet va créer une piste cyclable de 3m et un trottoir de 2m côté Ouest jusqu'à l'entrée charretière du n°32, puis le trottoir Ouest existant de 3.20m de large sera réaménagé en voie verte jusqu'à l'avenue Roosevelt. Le carrefour avec la rue Elisée Reclus sera amélioré.
 
 ::content-image
 ---
@@ -37,15 +36,20 @@ credit: Métropole de Lyon
 ---
 ::
 
-**Entre l'avenue Franklin Roosevelt et la rue Auguste Brunel prolongée**, le boulevard a été créé en 2015 avec une piste cyclable de 3m de large et un trottoir de 1.80m jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
+#### Avenue Roosevelt à tram T9
+Entre l'avenue Franklin Roosevelt et la rue Auguste Brunel prolongée, le boulevard a été créé en 2015 avec une piste cyclable de 3m de large et un trottoir de 1.80m jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
+
+#### *Concertation*
+La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+[Voir le dossier de concertation (p. 18 à 23)](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ::banner{type="wip"}
-Les travaux ont lieu entre novembre 2023 et mars 2024.
+Les travaux ont eu lieu entre novembre 2023 et mars 2024.
 ::
 
-#### Rue Auguste Brunel prolongée à Vaulx-en-Velin - Gabriel Péri
+### Vaulx-en-Velin Est
 ::banner{type="info"}
-Sur cette section, la Voie Lyonnaise 5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette longue section de 3.5km qui reliera la cité TASE au centre-ville, la Voie Lyonnaise 5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 ::
 
 Entre la rue Brunel et l'avenue Marcellin, il s'agira d'une piste cyclable bidirectionnelle de 4m de large située à l'ouest de la plateforme tramway.
@@ -62,15 +66,15 @@ L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.
 Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
 ::
 
-#### Vaulx-en-Velin - Gabriel Péri à La Doua - Croix-Luizet
+### Vaulx-en-Velin Ouest
 Cette section est en tronçon commun avec la :line-link{line=1}.
 
-#### Traversée du campus de la Doua
-La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante en stabilisé au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
+### Traversée du campus de la Doua
+La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
 
 #### *Concertation*
-La concertation sur ce tronçon (hors tram T9) s'est tenue du 19/09 au 21/10/2022.
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
+La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+[Voir le dossier de concertation (p. 14 à 16)](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
 Cette section est en tronçon commun avec la :line-link{line=1}.
