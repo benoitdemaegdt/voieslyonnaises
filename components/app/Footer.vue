@@ -49,7 +49,7 @@ const socials = {
   cyclopolis: [
     {
       name: 'Twitter',
-      href: 'https://twitter.com/benoit_demaegdt',
+      href: 'https://twitter.com/benoit_dmgdt',
       icon: 'mdi:twitter'
     },
     {
