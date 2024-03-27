@@ -496,7 +496,7 @@
       "properties": {
         "line": 2,
         "name": "Boulevard des États-Unis",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
