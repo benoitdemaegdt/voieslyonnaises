@@ -178,6 +178,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025.
+::
+
 #### Avenue Jean Jaurès
 Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Ouest, en lieu et place de la bande de stationnement actuelle.
 
