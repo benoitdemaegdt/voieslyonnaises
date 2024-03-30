@@ -4,7 +4,7 @@ type Feature = {
     id?: string;
     line: number;
     name: string;
-    status: string;
+    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
     doneAt?: string;
   };
   geometry: {
