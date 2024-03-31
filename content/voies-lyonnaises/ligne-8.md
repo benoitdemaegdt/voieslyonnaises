@@ -132,7 +132,7 @@ Cette section est en tronçon commun avec la :line-link{line=12}.
 Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. 
 
 ::banner{type="postponed"}
-Compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
+Compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un futur mandat.
 ::
 
 Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la :line-link{line=12}, via le pont Bonaparte et la place Bellecour.

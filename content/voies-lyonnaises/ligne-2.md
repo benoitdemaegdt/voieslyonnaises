@@ -83,6 +83,10 @@ Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étend
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
 
+::banner{type="unsecured"}
+Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon ne sera pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+::
+
 ::banner{type="info"}
 La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu au second semestre 2024.
 ::

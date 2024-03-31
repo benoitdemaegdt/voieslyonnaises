@@ -115,7 +115,7 @@ Cette section est en tronçon commun avec la :line-link{line=12}.
 La Voie Lyonnaise 5 empruntera la parallèle à la rue Marietton très routière via les rues du Bourbonnais puis du Souvenir. L'aménagement est prévu se faire en vélorue via la forte baisse du trafic automobile en :
  - passant la totalité de la rue du Bourbonnais en sens unique vers l'Ouest
  - passant la rue du Souvenir en sens unique vers l'Est entre l'ouvrage ferroviaire et la rue du 24 mars 1852 **OU**
- - en fermant la rue du Souvenir à la circulation motorisée sous l'ouvrage ferroviaire
+ - en fermant la rue du Souvenir à la circulation motorisée sous l'ouvrage ferroviaire *(option privilégiée par La Ville à Vélo)*
 
 ::banner{type="info"}
 L'aménagement en vélorue permet de conserver un maximum de stationnement, d'élargir un trottoir et de végétaliser, mais La Ville à Vélo sera très attentive à son bon fonctionnement, et pourra demander la création d'une piste cyclable bidirectionnelle à l'Est de l'ouvrage ferroviaire si la trafic automobile s'avérait encore trop fort.

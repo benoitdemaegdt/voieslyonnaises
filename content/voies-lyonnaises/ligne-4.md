@@ -132,8 +132,11 @@ La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de 
 
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
+
+L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérénisé à l'été 2021.
+
 ::banner{type="postponed"}
-L'**avenue Duquesne** ne sera pas réaménagée sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à utiliser les voies bus ouvertes aux vélos créées en 2020 puis pérénisées en 2021 pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
+Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
 ::
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.

@@ -137,7 +137,7 @@ credit: Passagers des Villes / Métropole de Lyon
 
 ### Pont de la Mulatière au Barrage de Pierre-Bénite
 
-*via Oullins-La Saulaie et Pierre-Bénite Centre*
+*via Oullins-La Saulaie et Pierre-Bénite Centre*  
 *Tronçon commun avec la véloroute touristique ViaRhôna*
 
 #### Quai Pierre Sémard

@@ -24,7 +24,7 @@ Cette section est en tronçon commun avec la :line-link{line=12}.
 Cette section est en tronçon commun avec la :line-link{line=8}.
 
 ### Pont Wilson
-Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
+Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la :line-link{line=6}, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
 
 ### Rue de Bonnel
 Cette large rue est aujourd'hui qualifiée d'autoroute urbaine avec ses 4 voies de circulation, dont une convertie en couloir bus-vélos à l'été 2020.
@@ -119,7 +119,7 @@ L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.
 
 ::banner{type="wip"}
 Les premiers travaux sur les réseaux ont débuté au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
-::.
+::
 
 ### Bron - Sept Chemins à Boulevard Urbain Est
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec la future Ligne de l'Est Lyonnais (LEL) entre La Soie et l'aéroport Saint-Exupéry sur l'avenue Mermoz. Sa réalisation sera traitée en même temps que les travaux de cette ligne de bus, sous maitrise d'ouvrage SYTRAL Mobilités.

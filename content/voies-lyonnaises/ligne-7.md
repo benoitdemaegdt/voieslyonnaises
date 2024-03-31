@@ -121,10 +121,10 @@ La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchi
 Elle continuera ensuite sur l'avenue de Grande Bretagne jusqu'au boulevard des Belges avec la création d'une nouvelle piste cyclable bidirectionnelle de 4m de large à la place d'une voie de circulation dans chaque sens. L'ancienne piste cyclable entre les arbres sera rendue aux piétons.  
 
 #### Boulevard des Belges - Quais du Rhône à Garibaldi
-L'aménagement actuel de ce tronçon consiste en une voie automobile et une bande cyclable dans le Est>Ouest, et une voie automobile et une voie de bus partagée avec les vélos dans le sens Est>Ouest.
+L'aménagement actuel de ce tronçon consiste en une voie automobile et une bande cyclable dans le sens Est>Ouest, et une voie automobile et une voie de bus partagée avec les vélos dans le sens Est>Ouest.
 
 ::banner{type="postponed"}
-L'aménagement d'une alternative sécurisée pour les cyclistes du boulevard des Belges entre les quais du Rhône et la rue Garibaldi est reporté à un mandat ultérieur, car l'aménagement d'une piste cyclable sécurisée nécessite la mise en sens unique de la portion de manière à conserver la voie dédiée aux bus. Cette possibilité sera étudiée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et projeté à l'horizon 2030. En attendant, les cyclistes continueront donc à se déplacer sur une bande cyclable étroite vers l'Est, et dans un couloir de bus ouvert aux vélos vers l'Ouest.
+La création d'une alternative sécurisée pour les cyclistes sur ce tronçon du boulevard est reporté à un mandat ultérieur, car celui-ci nécessite la mise en sens unique de la portion de manière à conserver la voie dédiée aux bus. Cette possibilité sera étudiée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et projeté à un horizon incertain. En attendant, les cyclistes continueront donc à se déplacer sur un aménagement non séparé physiquement des autres véhicules.
 ::
 
 #### Rue Garibaldi - Belges à Vauban

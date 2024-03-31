@@ -98,7 +98,7 @@ Les différents carrefours majeurs de la section (place Gabriel Péri, Manufactu
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance.
-:
+::
 
 ::content-image
 ---
