@@ -11,11 +11,16 @@ const path = require('path');
 (async () => {
   const allCounters = await getAllCounters();
   const trackedCounters = getTrackedCounters();
-  for (const { file, counter } of trackedCounters) {
-    console.log(`<<<<<<< ${counter.name} >>>>>>>`);
-    const flowIds = allCounters.find(c => c.idPdc === counter.idPdc).flowIds;
-    const updatedCounts = await getUpdatedCounts({ idPdc: counter.idPdc, flowIds });
-    updateFile({ file, counter: { ...counter, counts: updatedCounts } });
+  for (const { file, trackCounter } of trackedCounters) {
+    console.log(`<<<<<<< ${trackCounter.name} >>>>>>>`);
+    const counter = allCounters.find(c => c.idPdc === trackCounter.idPdc);
+    if (!counter) {
+      console.error('counter not found', { trackCounter });
+      continue;
+    }
+    const { flowIds } = counter;
+    const updatedCounts = await getUpdatedCounts({ idPdc: trackCounter.idPdc, flowIds });
+    updateFile({ file, counter: { ...trackCounter, counts: updatedCounts } });
   }
 
   if (allCounters.length !== trackedCounters.length) {
@@ -69,7 +74,6 @@ async function getUpdatedCounts({ idPdc, flowIds }) {
         idOrganisme: '3902',
         idPdc,
         flowIds,
-        // debut: getFirstDayOfYear(),
         debut: '01/01/2015',
         fin: getFirstDayOfCurrentMonth(),
         interval: '6' // month
@@ -100,14 +104,6 @@ function updateFile({ file, counter }) {
 /**
  * HELPER FUNCTIONS
  */
-function getFirstDayOfYear() {
-  const currentDate = new Date();
-  const year = currentDate.getFullYear();
-
-  // Format the date as "dd/mm/yyyy"
-  return `01/01/${year}`;
-}
-
 function getFirstDayOfCurrentMonth() {
   const currentDate = new Date();
   const year = currentDate.getFullYear();
