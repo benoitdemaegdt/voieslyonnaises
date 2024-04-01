@@ -2,7 +2,7 @@ name: Update Counters
 
 on:
   schedule:
-    - cron: '0 6 1 * *' # every 1st day of each month
+    - cron: '0 6 2 * *' # every 1st day of each month
 
 jobs:
   update_counters:
