@@ -14,11 +14,19 @@ cover: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
 
 ### La-Tour-de-Salvagny à Tassin-Valvert
 #### Traversée de la Tour de Salvagny
-Le projet initial prévoyait de traverser l'ensemble de la commune depuis la route de Lozanne jusqu'à la partie Ouest de la rue de Lyon. Sur cette portion, des voies vertes discontinues existaient déjà. Les portions à aménager concernaient la section rue de Gravelines à rue de Fontbonne et la section rue des Bergeonnes au N°18 de la rue de Lyon. Sur cette dernière, l'impact du projet était important, avec la nécessité de passer la rue de Paris en sens unique ou de supprimer les stationnements de cette portion commerçante. Les refus successifs de la Préfecture et des élus locaux ont conduit à l'abandon du projet.
+Le projet initial prévoyait de traverser l'ensemble de la commune depuis la route de Lozanne jusqu'à la partie Ouest de la rue de Lyon. Sur cette portion, des voies vertes discontinues existaient déjà. Les portions à aménager concernaient la section rue de Gravelines à rue de Fontbonne et la section rue des Bergeonnes au N°18 de la rue de Lyon. 
+
+::banner{type="postponed"}
+L'impact du projet était important dans le centre-ville, avec la nécessité de passer la rue de Paris en sens unique ou de supprimer les stationnements de cette portion commerçante. Les refus successifs de la Préfecture et des élus locaux ont conduit à l'abandon du projet.
 Les cyclistes de la commune qui y circulent continueront donc à le faire sans aucune sécurité.
+::
 
 #### La-Tour-de-Salvagny - Est à Dardilly - Montcourand
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
+
+::banner{type="wip"}
+Les travaux de cette section ont débuté en septembre 2023 et se sont poursuivis jusqu'au printemps 2024.
+::
 
 #### RD307 (Ancienne Route Nationale 7)
 Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
@@ -30,7 +38,7 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et le chemin du Siroux, l'aménagement sera réalisé en transitoire d'ici 2026, et le réaménagement définitif prévu ultérieurement
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
-*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*
+*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
 
 #### Tassin - Montcelard à Valvert
@@ -64,7 +72,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_La%20Tour%20de%20Salvagny_Tassin%20Valvert.pdf){:target="_blank"}
 
 
@@ -74,7 +82,9 @@ Depuis le carrefour au niveau du Leroy Merlin, la Voie Lyonnaise 8 remonte la pi
  - par Avenue Vincent Serre Nord, avec la création d'une piste cyclable bidirectionnelle de 3m de large côté Est, l'élargissement du trottoir Est, la suppression de la bande de stationnement et la mise en sens unique montant de la rue.
  - par la rue de la Pépinière, aménagée en vélorue compte-tenu du faible trafic automobile, avec la suppression du stationnement et l'élargissement des trottoirs.
 
+::banner{type="info"}
 Suite à la concertation, la Métropole a décidé de retenir la variante par l'avenue Vincent Serre Nord dans [sa délibération](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HvC8f5zVB7%2BI2fdWBM0KS7G%2Bc3TocC2uS) de la commission permanente du 16 octobre 2023.
+::
 
 Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie Nord, puis la Voie Lyonnaise traversera l'avenue de la République pour continuer à travers le grand carrefour giratoire des Hespérides côté Sud, sous la forme d'une piste cyclable bidirectionnelle à la place d'une voie de circulation.
 
@@ -109,7 +119,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Ouest_Tassin_Buyer.pdf){:target="_blank"}
 
 ### Rue Pierre Audry
@@ -119,7 +129,11 @@ La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
 Cette section est en tronçon commun avec la :line-link{line=12}.
 
 ### Traversée de la Presqu'Île de Lyon
-Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. Cependant, compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un mandat ultérieur.
+Le projet devait faire un détour par le pôle d'échange de Perrache, via le quai Fulchiron et le pont Kitchener-Marchand puis remonter sur la rive droite du Rhône. 
+
+::banner{type="postponed"}
+Compte-tenu du fait que le projet "Apaisement Presqu'île" au sud de la Place Bellecour est prévu pour un mandat ultérieur, et que le trafic automobile et bus y est encore trop important, la Métropole de Lyon a décidé de reporter ce tracé dans un futur mandat.
+::
 
 Par conséquent, la Voie Lyonnaise 8 traversera la Presqu'île en tronc commun avec la :line-link{line=12}, via le pont Bonaparte et la place Bellecour.
 
@@ -166,7 +180,11 @@ Concernant la circulation automobile et le traitement du pont, deux variantes so
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
 #### Rue Marius Berliet
-L'aménagement de ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui dégraderait les performances de la ligne C25. Les deux couloirs de bus bilatéraux ouverts aux cyclistes aménagés en 2020 et pérénisés en 2021 seront donc maintenus. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérénisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
+
+::banner{type="postponed"}
+La création d'une véritable piste cyclable séparée sur ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui dégraderait les performances de la ligne C25. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+::
 
 #### Avenue Jean Mermoz
 Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'aménagement d'une piste cyclable bidirectionnelle côté Sud de la chaussée. A l'ouest de la rue Maryse Bastié, l'aménagement se fait sans impact sur la circulation automobile et le stationnement, tandis qu'à l'est il se fait moyennant la suppression d'un couloir bus et d'une partie du stationnement.
@@ -179,10 +197,14 @@ credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
-Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du tramway T6. L'aménagement est cependant peu qualitatif pour les cyclistes avec une succession de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du tramway T6. 
+
+::banner{type="unsecured"}
+L'aménagement est cependant peu qualitatif pour les cyclistes avec une succession de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
+::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)
 
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
@@ -244,7 +266,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}
 
 ## Budget prévisionnel

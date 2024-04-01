@@ -22,16 +22,23 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 
 ### Boulevard des Belges - de Verguin à Waldeck Rousseau
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
-Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation avec les cyclistes. 
+
+::banner{type="unsecured"}
+Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon ne sera pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+::
 
 ### Boulevard des Belges - de Waldeck Rousseau à Lafayette
 Cette section est en tronçon commun avec la :line-link{line=2}.
 
 ### Pôle d'échange Part-Dieu
 Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.  
-Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée.  
-*Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.  
-Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées seront réalisés entre fin 2023 et l'été 2024.*
+Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée. 
+
+::banner{type="wip"}
+Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.  
+Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées seront réalisés entre fin 2023 et l'été 2024.
+::
 
 ### Part Dieu à Meyzieu
 #### Rue de la Villette - Pompidou à Paul Bert

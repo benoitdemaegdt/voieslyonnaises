@@ -24,7 +24,7 @@ Cette section est en tronçon commun avec la :line-link{line=12}.
 Cette section est en tronçon commun avec la :line-link{line=8}.
 
 ### Pont Wilson
-Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la Voie Lyonnaise 6, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
+Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la :line-link{line=6}, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
 
 ### Rue de Bonnel
 Cette large rue est aujourd'hui qualifiée d'autoroute urbaine avec ses 4 voies de circulation, dont une convertie en couloir bus-vélos à l'été 2020.
@@ -49,7 +49,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
 [Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Rue Garibaldi - *Bonnel à Paul Bert*
@@ -68,7 +68,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
 [Voir le dossier de concertation (p.20 à p.24)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
@@ -79,11 +79,14 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située au Sud de la plateforme BHNS.
 
-La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.
-La concertation continue se déroule de avril 2022 à décembre 2023.
-L'enquête publique aura lieu fin 2023.
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
+La concertation continue se déroule de avril 2022 à décembre 2023.  
+L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.  
 [Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/621-bhns.htm)
-Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+
+::banner{type="wip"}
+Les premiers travaux sur les réseaux ont débuté au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+::
 
 ### Esplanade Mandela à Dauphiné - Lacassagne
 Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frein majeur à l'usage du vélo dans ce secteur.
@@ -98,7 +101,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
 [Voir le dossier de concertation (p.25 à p.31)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Dauphiné - Lacassagne à Reconnaissance - Balzac
@@ -109,20 +112,26 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le giratoire des Sept Chemins à travers le quartier des Brosses.
 
-La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.
-La concertation continue se déroule de avril 2022 à décembre 2023.
-L'enquête publique aura lieu fin 2023.
-[Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/622-bhns.htm)
-Les premiers travaux sur les réseaux débuteront au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
+La concertation continue se déroule de avril 2022 à décembre 2023.  
+L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.  
+[Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/622-bhns.htm)  
+
+::banner{type="wip"}
+Les premiers travaux sur les réseaux ont débuté au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+::
 
 ### Bron - Sept Chemins à Boulevard Urbain Est
-Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec la future Ligne de l'Est Lyonnais  (LEL) entre La Soie et l'aéroport Saint-Exupéry sur l'avenue Mermoz. Sa réalisation sera traitée en même temps que les travaux de cette ligne de bus, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec la future Ligne de l'Est Lyonnais (LEL) entre La Soie et l'aéroport Saint-Exupéry sur l'avenue Mermoz. Sa réalisation sera traitée en même temps que les travaux de cette ligne de bus, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud sur cette avenue qui sera alors réservée aux seuls bus et modes actifs.
 
-La concertation continue se déroule de juin 2022 à juin 2024.
+La concertation continue se déroule de juin 2022 à juin 2024.  
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
-Les travaux auront lieu entre fin 2024 et 2025.
+
+::banner{type="wip"}
+Les travaux auront lieu entre fin 2024 et mi-2025.
+::
 
 ### Boulevard Urbain Est à Chassieu - Dauphiné
 #### Avenue Mermoz et Route de Lyon
@@ -140,10 +149,14 @@ credit: Métropole de Lyon
 La voie verte existante côté Nord de la chaussée sera élargie de 2.90 à 4.00m. A la demande de la mairie de Chassieu, la traversée du giratoire d'Usingen ne sera pas sécurisée pour les modes actifs qui devront continuer à l'emprunter à leurs risques et périls.
 
 #### Avenue du Dauphiné Est
-Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usingen et le chemin de Trève pour mieux desservir les équipements sportifs de cette zone via un élargissement de la voie verte actuelle. A la demande de la mairie de Chassieu, ce tronçon a été abandonné.
+Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usingen et le chemin de Trève pour élargir la voie verte étroite de 2m50 de large en mauvais état et dangereuse dans une chicane. Cela permettait de mieux desservir les équipements sportifs de cette zone. 
+
+::banner{type="postponed"}
+A la demande de la mairie de Chassieu, ce tronçon a été abandonné et conservé à l'identique.
+::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 ::banner{type="wip"}

@@ -19,17 +19,22 @@ Les tronçons considérés comme "terminés" sont tous les tronçons aménagés 
 
 - La rue Victor Hugo à Tassin a été aménagée en 2021. Elle n’a pas fait l’objet d’une concertation Voie Lyonnaise, mais nous savons qu’elle accueillera la Voie Lyonnaise 5.
 - Le quai Fulchiron à Lyon 5 a été aménagé en 2019. La concertation de la Voie Lyonnaise 3 sur ce tronçon stipule que l’aménagement sera conservé en l’état.
-- Le tunnel mode doux de la Croix-Rousse à Lyon 4 a été aménagé en 2013. Nous savons qu’il accueillera plusieurs Voies Lyonnaises, mais la concertation sur ce tronçon n’a pas encore eu lieu et nous ne savons donc pas si la Métropole de Lyon a prévu d’y faire des modifications dans le cadre du projet des Voies Lyonnaises. Il reste donc en « prévu » jusqu’à ce que l’information soit connue.
+- Le tunnel mode doux de la Croix-Rousse à Lyon 4 a été aménagé en 2013. Nous savons qu’il accueillera plusieurs Voies Lyonnaises, mais avant que la concertation sur ce tronçon n’ait eu lieu, nous ne savions pas si la Métropole de Lyon a prévu d’y faire des modifications dans le cadre du projet des Voies Lyonnaises. Il était donc resté en « prévu » jusqu’à ce que l’information ait été rendue publique.
 - L’avenue du Dauphiné à Chassieu entre l’avenue du Progrès et le chemin de Trèves comporte déjà une voie verte étroite, mais la Métropole de Lyon a annoncé dans son dossier de concertation qu’il ne serait pas jalonné en Voie Lyonnaise du fait du report du réaménagement du giratoire d’Usingen.
 
 *Une information sur le démarrage de nouveaux travaux ? Besoin de faire remonter une information ou une remarque sur le contenu du site ?  
 N'hésitez pas à nous contacter sur nos réseaux sociaux ou via [cette page](https://lavilleavelo.org/contact/).*
 
+## En travaux sur le terrain, mais pas sur Cyclopolis ?
+Avec la multiplication des travaux en 2024 et 2025, vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de Cyclopolis. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Voies Lyonnaises, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler sur [ce lien](https://lavilleavelo.org/contact/).
+
+En revanche, nous considérons qu'un tronçon est en travaux si et seulement si des travaux de voirie ont réellement lieu sur le terrain, et si ces travaux concernent réellement l'aménagement d'une piste cyclable. Ainsi, la présence d'un "totem travaux" de la Métropole n'est pas suffisant. En outre, tous les travaux préalables aux travaux d'aménagement ne sont pas considérés. Ainsi, des travaux de désamiantage préalable de la chaussée ou des travaux de déviation des réseaux souterrains ne sont pas retenus. C'est le cas par exemple des travaux préalables aux projets SYTRAL du BHNS, T9 et T10 ou encore de ceux qui concernent l'avenue du 25e RTS entre Lyon 9 et Champagne sur la VL4.
+
 ## Reporté après 2026
 Il s’agit des tronçons qui faisaient partie des promesses politiques annoncées en septembre 2021, puis qui ont fait l’objet d’une communication de la Métropole (via un dossier de concertation ou une communication médiatique) expliquant qu’ils ne seraient pas sécurisés, mis aux normes ou marqués en Voie Lyonnaise d’ici la fin du mandat en cours. Nous indiquons « après 2026 » et pas « 2030 », car tout ce qui ne sera pas réalisé en 2026 relève d’une promesse de campagne électorale et pas d’un projet réel (cf. paragraphe « Réseau 2030 »).
 
 ## Tracé à définir / Linéaire inconnu
-Ces sections n’ont pas encore fait l’objet de concertations, et nous considérons qu’il existe différents itinéraires possibles pour y faire passer la Voie Lyonnaise. Dans l’attente d’informations plus détaillées, nous préférons donc ne pas privilégier un itinéraire sur un autre.
+Ces sections n’ont pas encore fait l’objet de concertations ou de communications publiques, et nous considérons qu’il existe différents itinéraires possibles pour y faire passer la Voie Lyonnaise. Dans l’attente d’informations plus détaillées, nous préférons donc ne pas privilégier un itinéraire sur un autre. Cependant, pour améliorer la lecture cartographique et éviter l'illusion de la "ligne droite", nous privilégions de manière arbitraire certains itinéraire de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.
 
 ## Calcul des statistiques du site
 Pour obtenir les chiffres lisibles sur le tableau de bord de la page d’accueil du site, nous ne comptons qu’une seule des variantes sur les tronçons concernés, et nous ne comptons qu’une seule fois les tronçons en commun avec plusieurs Voies Lyonnaises.
@@ -43,7 +48,7 @@ Nous nous sommes efforcés d’être le plus précis possible sur le positionnem
 ## Réseau 2030
 La plateforme Cyclopolis a pour objectif de surveiller la bonne réalisation du réseau cyclable des Voies Lyonnaises sur le mandat en cours de la Métropole de Lyon. Ce mandat se termine en 2026. C’est sur ce projet précis que porte la plateforme Cyclopolis lancée à l’automne 2023.
 
-En cas de non-réélection de la majorité politique actuelle au Grand Lyon, les aménagements qui ne seront pas réalisés à l’été 2026 pourraient faire l’objet d’ajustements majeurs voire d’abandon pur et simple des nouveaux élus qui seront nommés lors de l’élection métropolitaine de 2026. Il n’est donc pas possible à ce stade d’affirmer que les tronçons reportés et ceux annoncés pour « 2030 » seront réellement réalisés à cette date.
+En cas de non-réélection de la majorité politique actuelle au Grand Lyon, les aménagements qui ne seront pas réalisés à l’été 2026 pourraient faire l’objet d’ajustements majeurs voire d’abandons purs et simples des nouveaux élus qui seront nommés lors de l’élection métropolitaine de 2026. Il n’est donc pas possible à ce stade d’affirmer que les tronçons reportés et ceux annoncés pour « 2030 » seront réellement réalisés à cette date.
 
 A l’occasion des campagnes pour les élections métropolitaines de 2026, la plateforme Cyclopolis évoluera pour comparer les programmes des différentes formations politiques candidates au sujet du réseau des Voies Lyonnaises à l’horizon 2032.
 

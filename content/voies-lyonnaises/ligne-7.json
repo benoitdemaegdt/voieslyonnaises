@@ -995,8 +995,8 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "name": "Route de Vienne",
-        "status": "planned",
+        "name": "Route de Vienne - Grand Trou",
+        "status": "wip",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
@@ -1006,6 +1006,21 @@
           [4.852482704941991,45.737270264358585],
           [4.853098228021906,45.73574184431283],
           [4.8532994558173925,45.73403987642686],
+          [4.853595380375538,45.72965253174149]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "name": "Route de Vienne - Moulin à Vent",
+        "status": "planned",
+        "link": "/voie-lyonnaise-7#route-de-vienne"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.853595380375538,45.72965253174149],
           [4.853772934257989,45.72737196608759],
           [4.8539268150279895,45.72465334619966],

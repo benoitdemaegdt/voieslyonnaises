@@ -15,9 +15,13 @@ cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ### Rillieux-la-Pape à Lyon 4
 #### Route du Mas Rillier à Chemin Petit
 ***Osterode***  
-La Voie Lyonnaise 7 débute de la ZAC de Sermenaz et traverse l'A46 à travers deux giratoires autoroutiers qui ne seront pas modifiés malgré leur dangerosité marquée.
+La Voie Lyonnaise 7 débute de la ZAC de Sermenaz et traverse l'A46 à travers deux giratoires autoroutiers.
 
-Elle rejoint ensuite la route du Mas Rillier sous la forme de deux pistes cyclables bilatérales. Les pistes actuelles de 2m de large aménagées en 2009 seront élargies à 3m. A partir du chemin de la Croix, l'aménagement bascule en piste bidirectionnelle côté Sud. La piste de 3m datant de 2010 sera élargie à 3.20m avec amélioration du cheminement piéton.
+::banner{type="unsecured"}
+La traversée des deux giratoires de chaque côté des bretelles d'accès à l'autoroute ne sera pas modifiée malgré leur dangerosité marquée. Cette zone restera donc malheureusement un point noir.
+::
+
+L'aménagement cyclable continue ensuite sur la route du Mas Rillier sous la forme de deux pistes cyclables bilatérales. Les pistes actuelles de 2m de large aménagées en 2009 seront élargies à 3m. A partir du chemin de la Croix, l'aménagement bascule en piste bidirectionnelle côté Sud. La piste de 3m datant de 2010 sera élargie à 3m20 avec amélioration du cheminement piéton.
 
 ::content-image
 ---
@@ -32,13 +36,16 @@ Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyo
 
 ***Giratoire Général de Gaulle***  
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.  
-*Les travaux de réalisation de ce giratoire sont prévus à l'automne 2023.*
+
+::banner{type="wip"}
+*Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.*
+::
 
 ***Avenue de l'Hippodrome et Chemin Petit***  
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidrectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 #### Voie de la Dombe
-Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.  
+Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable et salissant pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.  
 *Le projet de Voie Lyonnaise 7 permettrait de minimiser les conflits avec les piétons, en élargissant la voie verte actuelle ou en séparant les flux piétons et vélos sur des axes dédiés. Il prévoit aussi de modifier le revêtement pour proposer un sol clair, lisse, confortable et drainant.*
 
 Entre chemin Petit et chemin de Cachepieu, l'objectif est d'élargir la voie verte actuelle de 3.50m à 5m de large.  
@@ -51,7 +58,9 @@ Entre avenue Jean Monnet et chemin du Penthod, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 6m
  - Création d'une piste cyclable bidirectionnelle de 3m de large séparée d'un chemin piéton de 3m de large
 
-**La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait de la forte opposition des élus locaux au projet. C'est une mauvaise nouvelle pour tous les usagers de cette voie verte. Faute d'alternative crédible, le trafic vélo va continuer à augmenter, accroissant le caractère inconfortable de l'aménagement pour tous pendant encore de nombreuses années.**
+::banner{type="postponed"}
+La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait de la forte opposition des élus locaux au projet. C'est une mauvaise nouvelle pour tous les usagers de cette voie verte. Faute d'alternative crédible, le trafic vélo va continuer à augmenter, accroissant le caractère inconfortable de l'aménagement pour tous pendant encore de nombreuses années.
+::
 
 ::content-image
 ---
@@ -112,10 +121,14 @@ La Voie Lyonnaise 7 va traverser le Rhône en empruntant le Pont Winston Churchi
 Elle continuera ensuite sur l'avenue de Grande Bretagne jusqu'au boulevard des Belges avec la création d'une nouvelle piste cyclable bidirectionnelle de 4m de large à la place d'une voie de circulation dans chaque sens. L'ancienne piste cyclable entre les arbres sera rendue aux piétons.  
 
 #### Boulevard des Belges - Quais du Rhône à Garibaldi
-L'aménagement du boulevard des Belges entre les quais du Rhône et la rue Garibaldi est reporté à un mandat ultérieur, car l'aménagement d'une piste cyclable sécurisée nécessite la mise en sens unique de la portion de manière à conserver la voie dédiée aux bus. Cette possibilité sera étudiée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et projeté à l'horizon 2030. En attendant, les cyclistes continueront donc à se déplacer sur une bande cyclable étroite vers l'Est, et dans un couloir de bus ouvert aux vélos vers l'Ouest.
+L'aménagement actuel de ce tronçon consiste en une voie automobile et une bande cyclable dans le sens Est>Ouest, et une voie automobile et une voie de bus partagée avec les vélos dans le sens Est>Ouest.
+
+::banner{type="postponed"}
+La création d'une alternative sécurisée pour les cyclistes sur ce tronçon du boulevard est reporté à un mandat ultérieur, car celui-ci nécessite la mise en sens unique de la portion de manière à conserver la voie dédiée aux bus. Cette possibilité sera étudiée dans le cadre du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et projeté à un horizon incertain. En attendant, les cyclistes continueront donc à se déplacer sur un aménagement non séparé physiquement des autres véhicules.
+::
 
 #### Rue Garibaldi - Belges à Vauban
-Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud sur cette rue. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.  
+Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.  
 Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actuellement en épi en stationnement longitudinal.
 
 ::content-image
@@ -130,11 +143,11 @@ credit: Métropole de Lyon
 Cette section a fait l'objet d'un réaménagement complet avec une piste cyclable bidirectionnelle de 3m côté Ouest (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie). Le projet prévoit de conserver cet aménagement, avec une amélioration dans les intersections qui supprimera enfin les inconfortables bordures en travers.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf)
 
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
-Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. Il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
+Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet Garibaldi. La trémie Félix Faure sera comblée, de nombreux arbres seront plantés et il est prévu une large piste cyclable bidirectionnelle de 4m de large côté Ouest dans la continuité de ce qui a déjà été fait au Nord.
 
 ::content-image
 ---
@@ -178,6 +191,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025.
+::
+
 #### Avenue Jean Jaurès
 Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Ouest, en lieu et place de la bande de stationnement actuelle.
 
@@ -194,12 +211,14 @@ La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}
 
 ### Saint-Fons Centre
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+*Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*
 
 ### Boulevard Yves Farge, de Saint-Fons à Feyzin
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
-*Les travaux devraient s'étendre entre 2024 et fin 2025.*
+::banner{type="wip"}
+Les travaux de déviation des réseaux ont commencé début 2024 et enchaineront avec les travaux d'aménagement pour une livraison espérée fin 2025.
+::
 
 ::content-image
 ---
@@ -213,7 +232,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7YvesFarge_BUE.pdf){:target="_blank"}
 
 ### Traversée de Feyzin
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+*Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*
 
 ## Budget prévisionnel
 - **27 300 000 € HT** au minimum dont :

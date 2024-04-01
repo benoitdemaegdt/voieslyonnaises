@@ -63,7 +63,7 @@ credit: Métropole de Lyon
 
 ::banner{type="wip"}
 Les travaux sur cette section ont eu lieu entre juillet et décembre 2023.  
-L'ouverture du tronçon à la circulation est prévu au printemps 2024.
+L'ouverture du tronçon à la circulation est inauguré le 5 avril 2024.
 ::
 
 #### Rue Waldeck-Rousseau
@@ -73,7 +73,7 @@ L'ouverture du tronçon à la circulation est prévu au printemps 2024.
 Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
 
 ::banner{type="wip"}
-Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'au printemps 2024.
+Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'à fin mars 2024.
 ::
 
 #### Boulevard des Belges
@@ -82,6 +82,10 @@ Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étend
 
 Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
 Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux à 5m de large et d'améliorer la cohabitation entre vélos, bus, taxis et services de secours. Cependant, ce tronçon ne sera tout de même pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+
+::banner{type="unsecured"}
+Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon ne sera pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
+::
 
 ::banner{type="info"}
 La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu au second semestre 2024.
@@ -112,7 +116,7 @@ credit: Métropole de Lyon
 
 ::banner{type="wip"}
 Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
-Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se poursuivront jusqu'en mars 2024.  
+Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.  
 Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024.
 ::
 
@@ -147,7 +151,7 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux de ce tronçon devraient commencer au printemps 2024.
+Les travaux de ce tronçon ont commencé fin mars 2024 et continueront jusqu'à l'été 2025.
 ::
 
 #### Avenue Viviani
