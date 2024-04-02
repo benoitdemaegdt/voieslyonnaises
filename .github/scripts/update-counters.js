@@ -11,7 +11,7 @@ const path = require('path');
 (async () => {
   const allCounters = await getAllCounters();
   const trackedCounters = getTrackedCounters();
-  for (const { file, trackCounter } of trackedCounters) {
+  for (const { file, counter: trackCounter } of trackedCounters) {
     console.log(`<<<<<<< ${trackCounter.name} >>>>>>>`);
     const counter = allCounters.find(c => c.idPdc === trackCounter.idPdc);
     if (!counter) {
