@@ -83,6 +83,10 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
+  function getDistanceInKm(distance: number) {
+    return `${Math.round(distance / 1000)} km`;
+  }
+
   function getStats(voies: Geojson[]) {
     const features = getAllUniqLineStrings(voies);
     const doneFeatures = features.filter(feature => feature.properties.status === 'done');
@@ -104,37 +108,33 @@ export const useStats = () => {
       return Math.round((distance / totalDistance) * 100);
     }
 
-    function getDistanceInKm(distance: number) {
-      return Math.round(distance / 1000);
-    }
-
-    return [
-      {
+    return {
+      done: {
         name: 'Réalisés',
-        distance: `${getDistanceInKm(doneDistance)} km`,
+        distance: doneDistance,
         percent: `${getPercent(doneDistance)}%`,
         class: 'text-lvv-blue-600 font-semibold'
       },
-      {
+      wip: {
         name: 'En travaux',
-        distance: `${getDistanceInKm(wipDistance)} km`,
+        distance: wipDistance,
         percent: `${getPercent(wipDistance)}%`,
         class: 'text-lvv-blue-600 font-normal'
       },
-      {
+      planned: {
         name: 'Prévus',
-        distance: `${getDistanceInKm(plannedDistance)} km`,
+        distance: plannedDistance,
         percent: `${getPercent(plannedDistance)}%`,
         class: 'text-black font-semibold'
       },
-      {
+      postponed: {
         name: 'Reportés',
-        distance: `${getDistanceInKm(postponedDistance)} km`,
+        distance: postponedDistance,
         percent: `${getPercent(postponedDistance)}%`,
         class: 'text-lvv-pink font-semibold'
       }
-    ];
+    };
   }
 
-  return { getAllUniqLineStrings, getDistance, getStats };
+  return { getAllUniqLineStrings, getDistance, getStats, getDistanceInKm };
 };
