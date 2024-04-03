@@ -83,5 +83,58 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  return { getAllUniqLineStrings, getDistance };
+  function getStats(voies: Geojson[]) {
+    const features = getAllUniqLineStrings(voies);
+    const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+    const wipFeatures = features.filter(feature => feature.properties.status === 'wip');
+    const plannedFeatures = features.filter(feature =>
+      ['planned', 'unknown', 'variante'].includes(feature.properties.status)
+    );
+    const postponedFeatures = features.filter(feature =>
+      ['postponed', 'variante-postponed'].includes(feature.properties.status)
+    );
+
+    const totalDistance = getDistance({ features });
+    const doneDistance = getDistance({ features: doneFeatures });
+    const wipDistance = getDistance({ features: wipFeatures });
+    const plannedDistance = getDistance({ features: plannedFeatures });
+    const postponedDistance = getDistance({ features: postponedFeatures });
+
+    function getPercent(distance: number) {
+      return Math.round((distance / totalDistance) * 100);
+    }
+
+    function getDistanceInKm(distance: number) {
+      return Math.round(distance / 1000);
+    }
+
+    return [
+      {
+        name: 'Réalisés',
+        distance: `${getDistanceInKm(doneDistance)} km`,
+        percent: `${getPercent(doneDistance)}%`,
+        class: 'text-lvv-blue-600 font-semibold'
+      },
+      {
+        name: 'En travaux',
+        distance: `${getDistanceInKm(wipDistance)} km`,
+        percent: `${getPercent(wipDistance)}%`,
+        class: 'text-lvv-blue-600 font-normal'
+      },
+      {
+        name: 'Prévus',
+        distance: `${getDistanceInKm(plannedDistance)} km`,
+        percent: `${getPercent(plannedDistance)}%`,
+        class: 'text-black font-semibold'
+      },
+      {
+        name: 'Reportés',
+        distance: `${getDistanceInKm(postponedDistance)} km`,
+        percent: `${getPercent(postponedDistance)}%`,
+        class: 'text-lvv-pink font-semibold'
+      }
+    ];
+  }
+
+  return { getAllUniqLineStrings, getDistance, getStats };
 };
