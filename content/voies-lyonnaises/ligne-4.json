@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Dardilly - Porte de Lyon",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Champagne - Avenue Lanessan",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg"
       },
@@ -29,6 +31,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Champagne - Boulevard de la République",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg"
       },
@@ -41,6 +44,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Verguin",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg"
       },
@@ -53,6 +57,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Villeurbanne - Rue Francis de Pressensé",
         "line": 4,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg"
       },
