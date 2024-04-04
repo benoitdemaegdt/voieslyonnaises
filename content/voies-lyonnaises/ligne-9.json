@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Vaulx-en-Velin le long de l'A42",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Parc de Miribel",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
       },

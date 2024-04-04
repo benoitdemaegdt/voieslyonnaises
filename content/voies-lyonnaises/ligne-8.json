@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Dardilly - Route de Paris",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Tassin - Avenue Vincent Serre",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png"
       },
@@ -29,6 +31,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Barthélémy Buyer",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png"
       },
@@ -41,6 +44,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue de la Gravière",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png"
       },
@@ -53,6 +57,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue de l'Université Citroën",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png"
       },
@@ -65,6 +70,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue de l'Université",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png"
       },
@@ -77,6 +83,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue Camille Roy",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png"
       },
@@ -89,6 +96,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Jean Mermoz",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png"
       },
@@ -101,6 +109,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Pierre Mendes France",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png"
       },
@@ -113,6 +122,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Bron - Boulevard de l'Université",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png"
       },
@@ -125,6 +135,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Bron - Rue Paul Langevin",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png"
       },
@@ -137,6 +148,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Cours du Professeur Jean Bernard",
         "line": 8,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png"
       },
