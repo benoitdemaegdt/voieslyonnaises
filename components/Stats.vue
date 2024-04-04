@@ -6,12 +6,12 @@
           {{ item.name }}
         </div>
         <div class="text-sm" :class="item.class">
-          {{ item.percent }}
+          {{ displayPercent(item.percent) }}
         </div>
       </div>
       <div class="mt-1 flex justify-between items-baseline md:block lg:flex">
         <div class="flex items-baseline text-2xl" :class="item.class">
-          {{ getDistanceInKm(item.distance) }}
+          {{ displayDistanceInKm(item.distance) }}
         </div>
       </div>
     </div>
@@ -19,7 +19,7 @@
 </template>
 
 <script setup>
-const { getStats, getDistanceInKm } = useStats();
+const { getStats, displayDistanceInKm, displayPercent } = useStats();
 
 const { voies } = defineProps({
   voies: { type: Array, required: true }

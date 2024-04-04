@@ -83,8 +83,12 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  function getDistanceInKm(distance: number) {
+  function displayDistanceInKm(distance: number) {
     return `${Math.round(distance / 1000)} km`;
+  }
+
+  function displayPercent(percent: number) {
+    return `${percent}%`;
   }
 
   function getStats(voies: Geojson[]) {
@@ -112,29 +116,29 @@ export const useStats = () => {
       done: {
         name: 'Réalisés',
         distance: doneDistance,
-        percent: `${getPercent(doneDistance)}%`,
+        percent: getPercent(doneDistance),
         class: 'text-lvv-blue-600 font-semibold'
       },
       wip: {
         name: 'En travaux',
         distance: wipDistance,
-        percent: `${getPercent(wipDistance)}%`,
+        percent: getPercent(wipDistance),
         class: 'text-lvv-blue-600 font-normal'
       },
       planned: {
         name: 'Prévus',
         distance: plannedDistance,
-        percent: `${getPercent(plannedDistance)}%`,
+        percent: getPercent(plannedDistance),
         class: 'text-black font-semibold'
       },
       postponed: {
         name: 'Reportés',
         distance: postponedDistance,
-        percent: `${getPercent(postponedDistance)}%`,
+        percent: getPercent(postponedDistance),
         class: 'text-lvv-pink font-semibold'
       }
     };
   }
 
-  return { getAllUniqLineStrings, getDistance, getStats, getDistanceInKm };
+  return { getAllUniqLineStrings, getDistance, getStats, displayDistanceInKm, displayPercent };
 };
