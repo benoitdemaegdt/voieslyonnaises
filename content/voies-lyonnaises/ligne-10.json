@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Dauphiné - Jules Verne",
         "line": 10,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png"
       },

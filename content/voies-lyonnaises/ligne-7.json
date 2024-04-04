@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Boulevard des Canuts Nord",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Caluire - Voie verte de la Dombes",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/caluire-voie-verte-dombe.png"
       },
@@ -29,6 +31,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rillieux - Route du Mas Rillier",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png"
       },
@@ -41,6 +44,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue Garibaldi Nord",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png"
       },
@@ -53,6 +57,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Place Stalingrad",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png"
       },
@@ -65,6 +70,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue Garibaldi",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png"
       },
@@ -77,6 +83,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Route de Vienne",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png"
       },
@@ -89,6 +96,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Saint-Fons - Avenue Jean Jaures",
         "line": 7,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png"
       },
