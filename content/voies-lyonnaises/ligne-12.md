@@ -155,7 +155,7 @@ La traversée du périphérique sera améliorée avec la suppression d'une des 3
 Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolition des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefour à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
 
 ### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.  
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl12/VL12_Valmy_Bron.pdf)
 
 ## Calendrier prévisionnel
