@@ -37,7 +37,8 @@ export const useStats = () => {
   }
 
   /**
-   * distance is in meters
+   * retourne la somme des distances de tous les tronçons passé en paramètre.
+   * Attention : pas de notion de dédoublonnage ici.
    */
   function getDistance({ features }: { features: Feature[] }): number {
     return features.reduce((acc: number, feature: Feature) => {
@@ -95,6 +96,15 @@ export const useStats = () => {
     return `${percent}%`;
   }
 
+  /**
+   * retourne la somme des distances de tous les tronçons passé en paramètre, aprèds avoir retiré les doublons.
+   * un doublon est un tronçon commun entre 2 VLs
+   */
+  function getTotalDistance(voies: Geojson[]) {
+    const features = getAllUniqLineStrings(voies);
+    return getDistance({ features });
+  }
+
   function getStats(voies: Geojson[]) {
     const features = getAllUniqLineStrings(voies);
     const doneFeatures = features.filter(feature => feature.properties.status === 'done');
@@ -144,5 +154,5 @@ export const useStats = () => {
     };
   }
 
-  return { getAllUniqLineStrings, getDistance, getStats, displayDistanceInKm, displayPercent };
+  return { getAllUniqLineStrings, getDistance, getTotalDistance, getStats, displayDistanceInKm, displayPercent };
 };
