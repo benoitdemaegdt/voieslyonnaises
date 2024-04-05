@@ -112,6 +112,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section ont lieu entre avril 2024 et début 2025.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_Ile%20Barbe_Pont%20Kitchener.pdf)

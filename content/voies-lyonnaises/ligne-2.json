@@ -293,7 +293,8 @@
         "id": "StalingradSud-commun",
         "line": 2,
         "name": "Stalingrad Centre",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "05/04/2024",
         "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
       },
       "geometry": {
@@ -312,7 +313,8 @@
       "properties": {
         "line": 2,
         "name": "Stalingrad Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "05/04/2024",
         "link": "/voie-lyonnaise-2#boulevard-stalingrad-sud"
       },
       "geometry": {
@@ -329,7 +331,8 @@
       "properties": {
         "line": 2,
         "name": "Waldeck-Rousseau",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "05/04/2024",
         "link": "/voie-lyonnaise-2#rue-waldeck-rousseau"
       },
       "geometry": {
