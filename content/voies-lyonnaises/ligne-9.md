@@ -6,7 +6,7 @@ from: Jonage
 to: Oullins
 distance: 33500
 description: La Voie Lyonnaise 9 permettra de relier la commune d'Oullins à Jonage en passant par Gerland, Jean Macé, la rue Garibaldi, la Tête d'Or, le campus de la Doua ainsi que Vaulx-en-Velin et le parc de Miribel-Jonage le long de la ViaRhôna.
-trafic: 14k vélos/j
+trafic: 14k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 ---
 

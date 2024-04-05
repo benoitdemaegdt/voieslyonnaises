@@ -6,7 +6,7 @@ from: Saint-Fons
 to: Bron
 distance: 37000
 description: La Voie Lyonnaise 5 sera la seule ligne en rocade du réseau des Voies Lyonnaises. Cette ligne circulaire constituera le périphérique cyclable de la métropole de Lyon à l'horizon 2030. Il ne sera cependant pas bouclé en 2026 et reliera Bron à Feyzin en passant par le Nord et l'Ouest via Vaulx-en-Velin, le campus de la Doua, Vaise, Tassin-la-Demi-Lune, Francheville, Oullins, Pierre-Bénite et la vallée de la Chimie.
-trafic: 15k vélos/j
+trafic: 15k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
