@@ -8,7 +8,7 @@
         Fréquentation max 2030: <strong>{{ voie.trafic }}</strong>
       </div>
       <ProgressBar :voies="[geojson]" />
-      <Stats :voies="[geojson]" :precision="2" />
+      <Stats :voies="[geojson]" :precision="1" />
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>
