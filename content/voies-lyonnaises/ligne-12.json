@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue du Sergent Berthet",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Rue de Trion",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png"
       },
@@ -29,6 +31,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Place Bellecour",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png"
       },
@@ -41,6 +44,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Place Gabriel Peri",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png"
       },
@@ -53,6 +57,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Cours Gambetta",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png"
       },
@@ -65,6 +70,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Rockefeller",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png"
       },
@@ -77,6 +83,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Avenue Franklin Roosevelt",
         "line": 12,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png"
       },
