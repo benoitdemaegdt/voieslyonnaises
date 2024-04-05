@@ -83,12 +83,12 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  function displayDistanceInKm(distance: number) {
+  function displayDistanceInKm(distance: number, precision: number) {
     if (distance === 0) {
       return '0 km';
     }
     const distanceInKm = distance / 1000;
-    return `${distanceInKm.toFixed(2)} km`;
+    return `${distanceInKm.toFixed(precision)} km`;
   }
 
   function displayPercent(percent: number) {

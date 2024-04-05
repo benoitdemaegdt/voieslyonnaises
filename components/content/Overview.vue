@@ -1,11 +1,14 @@
 <template>
   <div>
     <div>
-      <div class="text-center text-black">
-        Distance totale: <strong>{{ Math.round(voie.distance / 1000) }}km</strong> - Fréquentation max 2030: <strong>{{ voie.trafic }}</strong>
+      <div class="text-center">
+        Distance totale: <strong>{{ Math.round(voie.distance / 1000) }}km</strong>
+      </div>
+      <div class="text-center text-base">
+        Fréquentation max 2030: <strong>{{ voie.trafic }}</strong>
       </div>
       <ProgressBar :voies="[geojson]" />
-      <Stats :voies="[geojson]" />
+      <Stats :voies="[geojson]" :precision="2" />
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>

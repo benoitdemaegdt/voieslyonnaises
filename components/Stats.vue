@@ -11,7 +11,7 @@
       </div>
       <div class="mt-1 flex justify-between items-baseline md:block lg:flex">
         <div class="flex items-baseline text-2xl" :class="item.class">
-          {{ displayDistanceInKm(item.distance) }}
+          {{ displayDistanceInKm(item.distance, precision) }}
         </div>
       </div>
     </div>
@@ -21,8 +21,9 @@
 <script setup>
 const { getStats, displayDistanceInKm, displayPercent } = useStats();
 
-const { voies } = defineProps({
-  voies: { type: Array, required: true }
+const { voies, precision } = defineProps({
+  voies: { type: Array, required: true },
+  precision: { type: Number, default: 0 }
 });
 
 const stats = getStats(voies);
