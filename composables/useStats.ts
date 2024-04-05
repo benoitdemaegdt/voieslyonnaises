@@ -84,7 +84,11 @@ export const useStats = () => {
   }
 
   function displayDistanceInKm(distance: number) {
-    return `${Math.round(distance / 1000)} km`;
+    if (distance === 0) {
+      return '0 km';
+    }
+    const distanceInKm = distance / 1000;
+    return `${distanceInKm.toFixed(2)} km`;
   }
 
   function displayPercent(percent: number) {
