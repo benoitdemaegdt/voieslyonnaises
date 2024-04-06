@@ -215,6 +215,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('wip-sections')) {
       return;
     }
+    if (map.getSource('wip-sections')) {
+      map.getSource('wip-sections').setData({ type: 'FeatureCollection', features: sections });
+      return;
+    }
     map.addSource('wip-sections', {
       type: 'geojson',
       data: { type: 'FeatureCollection', features: sections }
