@@ -5,13 +5,13 @@
         <div class="text-base font-normal text-gray-900">
           {{ item.name }}
         </div>
-        <div class="text-sm font-semibold text-lvv-blue-600">
-          {{ item.percent }}
+        <div class="text-sm" :class="item.class">
+          {{ displayPercent(item.percent) }}
         </div>
       </div>
       <div class="mt-1 flex justify-between items-baseline md:block lg:flex">
-        <div class="flex items-baseline text-2xl font-semibold text-lvv-blue-600">
-          {{ item.distance }}
+        <div class="flex items-baseline text-2xl" :class="item.class">
+          {{ displayDistanceInKm(item.distance, precision) }}
         </div>
       </div>
     </div>
@@ -19,36 +19,12 @@
 </template>
 
 <script setup>
-const { getAllUniqLineStrings, getDistance } = useStats();
+const { getStats, displayDistanceInKm, displayPercent } = useStats();
 
-const { voies } = defineProps({
-  voies: { type: Array, required: true }
+const { voies, precision } = defineProps({
+  voies: { type: Array, required: true },
+  precision: { type: Number, default: 0 }
 });
 
-const features = getAllUniqLineStrings(voies);
-const doneFeatures = features.filter(feature => feature.properties.status === 'done');
-const wipFeatures = features.filter(feature => feature.properties.status === 'wip');
-const plannedFeatures = features.filter(feature => ['planned', 'unknown', 'variante'].includes(feature.properties.status));
-const postponedFeatures = features.filter(feature => ['postponed', 'variante-postponed'].includes(feature.properties.status));
-
-const totalDistance = getDistance({ features });
-const doneDistance = getDistance({ features: doneFeatures });
-const wipDistance = getDistance({ features: wipFeatures });
-const plannedDistance = getDistance({ features: plannedFeatures });
-const postponedDistance = getDistance({ features: postponedFeatures });
-
-function getPercent(distance) {
-  return Math.round(distance / totalDistance * 100);
-}
-
-function getDistanceInKm(distance) {
-  return Math.round(distance / 1000);
-}
-
-const stats = [
-  { name: 'Réalisés', distance: `${getDistanceInKm(doneDistance)} km`, percent: `${getPercent(doneDistance)}%` },
-  { name: 'En travaux', distance: `${getDistanceInKm(wipDistance)} km`, percent: `${getPercent(wipDistance)}%` },
-  { name: 'Prévus', distance: `${getDistanceInKm(plannedDistance)} km`, percent: `${getPercent(plannedDistance)}%` },
-  { name: 'Reportés', distance: `${getDistanceInKm(postponedDistance)} km`, percent: `${getPercent(postponedDistance)}%` }
-];
+const stats = getStats(voies);
 </script>
