@@ -70,7 +70,7 @@ credit: Passagers des Villes / Métropole de Lyon.
 ::
 
 ### Stalingrad Nord
-Cette section est en tronçon commun avec la :line-link{line=2}.
+Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard-stalingrad-nord"}.
 
 ### Cité Internationale à Halle Tony Garnier
 

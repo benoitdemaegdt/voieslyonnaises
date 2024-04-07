@@ -13,7 +13,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ## Les tronçons (du Nord au Sud)
 
 ### Fontaines sur Saône à l'Île Barbe
-Cette section est en tronçon commun avec la :line-link{line=3}.
+Cette section est en tronçon commun avec la :line-link{line=3 anchor="neuville-sur-saône-à-saint-rambert"}.
 
 ### Traversée du Plateau Nord
 

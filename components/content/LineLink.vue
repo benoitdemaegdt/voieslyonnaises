@@ -1,5 +1,5 @@
 <template>
-  <NuxtLink :to="`/voie-lyonnaise-${line}`" :style="`color: ${color}; text-decoration-color: ${color};`">
+  <NuxtLink :to="`${href}`" :style="`color: ${color}; text-decoration-color: ${color};`">
     Voie Lyonnaise
     <span
       class="h-6 w-6 rounded-full inline-flex items-center justify-center text-white"
@@ -13,9 +13,14 @@
 <script setup>
 const { getLineColor } = useColors();
 
-const props = defineProps({
-  line: { type: String, required: true }
+const { line, anchor } = defineProps({
+  line: { type: String, required: true },
+  anchor: { type: String, default: '' }
 });
 
-const color = getLineColor(Number(props.line));
+const color = getLineColor(Number(line));
+
+const href = anchor
+  ? `/voie-lyonnaise-${line}#${anchor}`
+  : `/voie-lyonnaise-${line}`;
 </script>
