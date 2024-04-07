@@ -15,7 +15,7 @@
 
 <script setup>
 import { createApp, defineComponent, h, Suspense } from 'vue';
-import maplibregl from 'maplibre-gl';
+import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
@@ -42,9 +42,9 @@ const defaultOptions = {
   legend: true,
   geolocation: false,
   fullscreen: false,
-  onFullscreenControlClick: () => {},
+  onFullscreenControlClick: () => { },
   shrink: false,
-  onShrinkControlClick: () => {}
+  onShrinkControlClick: () => { }
 };
 
 const options = { ...defaultOptions, ...props.options };
@@ -52,34 +52,12 @@ const options = { ...defaultOptions, ...props.options };
 const legendModalComponent = ref(null);
 
 const {
-  plotUnderlinedSections,
-  plotDoneSections,
-  plotWipSections,
-  plotPlannedSections,
-  plotVarianteSections,
-  plotVariantePostponedSections,
-  plotUnknownSections,
-  plotPostponedSections,
-  plotPerspective,
-  plotCompteurs,
+  plotFeatures,
   fitBounds
 } = useMap();
 
-function plotFeatures({ map, features }) {
-  plotUnderlinedSections({ map, features });
-  plotDoneSections({ map, features });
-  plotPlannedSections({ map, features });
-  plotVarianteSections({ map, features });
-  plotVariantePostponedSections({ map, features });
-  plotWipSections({ map, features });
-  plotUnknownSections({ map, features });
-  plotPostponedSections({ map, features });
-  plotPerspective({ map, features });
-  plotCompteurs({ map, features });
-}
-
 onMounted(() => {
-  const map = new maplibregl.Map({
+  const map = new Map({
     container: 'map',
     style,
     // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
@@ -87,8 +65,8 @@ onMounted(() => {
     zoom: 12,
     attributionControl: false
   });
-  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
-  map.addControl(new maplibregl.AttributionControl({ compact: false }), 'bottom-left');
+  map.addControl(new NavigationControl({ showCompass: false }), 'top-left');
+  map.addControl(new AttributionControl({ compact: false }), 'bottom-left');
   if (options.fullscreen) {
     const fullscreenControl = new FullscreenControl({
       onClick: () => options.onFullscreenControlClick()
@@ -97,7 +75,7 @@ onMounted(() => {
   }
   if (options.geolocation) {
     map.addControl(
-      new maplibregl.GeolocateControl({
+      new GeolocateControl({
         positionOptions: { enableHighAccuracy: true },
         // When active the map will receive updates to the device's location as it changes.
         trackUserLocation: true,
@@ -137,7 +115,6 @@ onMounted(() => {
 
   // must do this to avoid multiple popups
   map.on('click', e => {
-    // console.log('e.lngLat >>', e.lngLat)
     const layers = map
       .queryRenderedFeatures(e.point)
       .filter(({ layer }) => !['maptiler_planet', 'openmaptiles'].includes(layer.source));
@@ -157,13 +134,14 @@ onMounted(() => {
           f.properties.imgUrl === layer.properties.imgUrl;
       });
 
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+      new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<div id="perspective-tooltip-content"></div>')
         .addTo(map);
 
       const PerspectiveTooltipComponent = defineComponent(PerspectiveTooltip);
       nextTick(() => {
+        // eslint-disable-next-line vue/one-component-per-file
         createApp({
           render: () => h(Suspense, null, {
             default: h(PerspectiveTooltipComponent, { feature }),
@@ -175,13 +153,14 @@ onMounted(() => {
       const layer = layers.find(({ layer }) => layer.id === 'compteurs');
       const feature = props.features.find(f => f.properties.name === layer.properties.name);
 
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+      new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<div id="counter-tooltip-content"></div>')
         .addTo(map);
 
       const CounterTooltipComponent = defineComponent(CounterTooltip);
       nextTick(() => {
+        // eslint-disable-next-line vue/one-component-per-file
         createApp({
           render: () => h(Suspense, null, {
             default: h(CounterTooltipComponent, { feature }),
@@ -192,18 +171,21 @@ onMounted(() => {
     } else {
       const { line, name } = layers[0].properties;
       // take care layers[0].geometry is truncated (to fit tile size). We need to find the full feature.
-      const feature = props.features.find(feature => feature.properties.line === line && feature.properties.name === name);
+      const feature = props.features
+        .filter(feature => feature.geometry.type === 'LineString')
+        .find(feature => feature.properties.line === line && feature.properties.name === name);
       const lines = feature.properties.id
         ? [...new Set(layers.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
         : [feature.properties.line];
 
-      new maplibregl.Popup({ closeButton: false, closeOnClick: true })
+      new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<div id="line-tooltip-content"></div>')
         .addTo(map);
 
       const LineTooltipComponent = defineComponent(LineTooltip);
       nextTick(() => {
+        // eslint-disable-next-line vue/one-component-per-file
         createApp({
           render: () => h(Suspense, null, {
             default: h(LineTooltipComponent, { feature, lines }),
@@ -248,14 +230,17 @@ onMounted(() => {
 .maplibregl-popup-anchor-top-right .maplibregl-popup-tip {
   border-bottom-color: transparent;
 }
+
 .maplibregl-popup-anchor-bottom .maplibregl-popup-tip,
 .maplibregl-popup-anchor-bottom-left .maplibregl-popup-tip,
 .maplibregl-popup-anchor-bottom-right .maplibregl-popup-tip {
   border-top-color: transparent;
 }
+
 .maplibregl-popup-anchor-left .maplibregl-popup-tip {
   border-right-color: transparent;
 }
+
 .maplibregl-popup-anchor-right .maplibregl-popup-tip {
   border-left-color: transparent;
 }
