@@ -651,7 +651,7 @@
         "line": 3,
         "name": "Pont Koenig - Pont Bonaparte",
         "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
