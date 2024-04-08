@@ -6,7 +6,7 @@ from: Point-du-Jour
 to: Chassieu
 distance: 18650
 description: La Voie Lyonnaise 11 permettra de traverser la métropole lyonnaise sur un axe ouest-est. Elle partira du quartier du Point du Jour à Lyon 5 pour desservir la Favorite et Saint-Just. Elle traversera la Presqu'Île avant de remonter rue de Bonnel, puis continuera vers l'Est par la Part Dieu, Maisons-Neuves, Montchat Nord avant de poursuivre sur la route de Genas vers les Sept Chemins puis Chassieu.
-trafic: 25k vélos/j
+trafic: 25k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 ---
 

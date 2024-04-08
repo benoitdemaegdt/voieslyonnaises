@@ -543,7 +543,8 @@
         "id": "StalingradSud-commun",
         "line": 9,
         "name": "Stalingrad Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "05/04/2024",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {

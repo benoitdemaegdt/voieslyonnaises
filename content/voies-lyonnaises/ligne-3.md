@@ -6,7 +6,7 @@ from: Quincieux
 to: Givors
 distance: 57000
 description: La Voie Lyonnaise 3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier de la Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle rejoint les berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
-trafic: 11k vélos/j
+trafic: 11k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
@@ -110,6 +110,10 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Fulchiron (Lyon 5)
 credit: Métropole de Lyon
 ---
+::
+
+::banner{type="wip"}
+Les travaux sur cette section ont lieu entre avril 2024 et début 2025.
 ::
 
 #### *Concertation*

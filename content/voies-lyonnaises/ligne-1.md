@@ -6,7 +6,7 @@ from: Vaulx-en-Velin
 to: Saint-Fons
 distance: 18000
 description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particularité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
-trafic: 28k vélos/j
+trafic: 28k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---
 
@@ -70,7 +70,7 @@ credit: Passagers des Villes / Métropole de Lyon.
 ::
 
 ### Stalingrad Nord
-Cette section est en tronçon commun avec la :line-link{line=2}.
+Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard-stalingrad-nord"}.
 
 ### Cité Internationale à Halle Tony Garnier
 

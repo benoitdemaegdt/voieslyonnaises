@@ -4,7 +4,7 @@ type Feature = {
     id?: string;
     line: number;
     name: string;
-    status: string;
+    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
     doneAt?: string;
   };
   geometry: {
@@ -37,7 +37,8 @@ export const useStats = () => {
   }
 
   /**
-   * distance is in meters
+   * retourne la somme des distances de tous les tronçons passé en paramètre.
+   * Attention : pas de notion de dédoublonnage ici.
    */
   function getDistance({ features }: { features: Feature[] }): number {
     return features.reduce((acc: number, feature: Feature) => {
@@ -83,5 +84,75 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  return { getAllUniqLineStrings, getDistance };
+  function displayDistanceInKm(distance: number, precision: number) {
+    if (distance === 0) {
+      return '0 km';
+    }
+    const distanceInKm = distance / 1000;
+    return `${distanceInKm.toFixed(precision)} km`;
+  }
+
+  function displayPercent(percent: number) {
+    return `${percent}%`;
+  }
+
+  /**
+   * retourne la somme des distances de tous les tronçons passé en paramètre, aprèds avoir retiré les doublons.
+   * un doublon est un tronçon commun entre 2 VLs
+   */
+  function getTotalDistance(voies: Geojson[]) {
+    const features = getAllUniqLineStrings(voies);
+    return getDistance({ features });
+  }
+
+  function getStats(voies: Geojson[]) {
+    const features = getAllUniqLineStrings(voies);
+    const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+    const wipFeatures = features.filter(feature => feature.properties.status === 'wip');
+    const plannedFeatures = features.filter(feature =>
+      ['planned', 'unknown', 'variante'].includes(feature.properties.status)
+    );
+    const postponedFeatures = features.filter(feature =>
+      ['postponed', 'variante-postponed'].includes(feature.properties.status)
+    );
+
+    const totalDistance = getDistance({ features });
+    const doneDistance = getDistance({ features: doneFeatures });
+    const wipDistance = getDistance({ features: wipFeatures });
+    const plannedDistance = getDistance({ features: plannedFeatures });
+    const postponedDistance = getDistance({ features: postponedFeatures });
+
+    function getPercent(distance: number) {
+      return Math.round((distance / totalDistance) * 100);
+    }
+
+    return {
+      done: {
+        name: 'Réalisés',
+        distance: doneDistance,
+        percent: getPercent(doneDistance),
+        class: 'text-lvv-blue-600 font-semibold'
+      },
+      wip: {
+        name: 'En travaux',
+        distance: wipDistance,
+        percent: getPercent(wipDistance),
+        class: 'text-lvv-blue-600 font-normal'
+      },
+      planned: {
+        name: 'Prévus',
+        distance: plannedDistance,
+        percent: getPercent(plannedDistance),
+        class: 'text-black font-semibold'
+      },
+      postponed: {
+        name: 'Reportés',
+        distance: postponedDistance,
+        percent: getPercent(postponedDistance),
+        class: 'text-lvv-pink font-semibold'
+      }
+    };
+  }
+
+  return { getAllUniqLineStrings, getDistance, getTotalDistance, getStats, displayDistanceInKm, displayPercent };
 };

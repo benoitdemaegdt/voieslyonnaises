@@ -6,14 +6,14 @@ from: Fontaines s/ Saône
 to: Saint-Priest
 distance: 24000
 description: La Voie Lyonnaise 2 permettra de relier Fontaines-sur-Saône à Saint-Priest en traversant Lyon sur un axe nord-sud. Après avoir longé la Saône jusqu'à l'Île Barbe, elle traversera le plateau Nord en desservant le centre de Caluire, puis redescendra vers Lyon via le pont Poincaré. Elle transformera ensuite plusieurs autoroutes urbaines majeures sur le boulevard Stalingrad, le boulevard Vivier-Merle et le boulevard des Tchécoslovaques. Après le carrefour de Jet d'Eau, elle empruntera l'avenue des Etats-Unis puis l'avenue Viviani en direction du quartier de Parilly. Elle terminera son parcours le long de la route de Lyon, aux portes du centre-ville de Saint-Priest.
-trafic: 21k vélos/j
+trafic: 21k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)
 
 ### Fontaines sur Saône à l'Île Barbe
-Cette section est en tronçon commun avec la :line-link{line=3}.
+Cette section est en tronçon commun avec la :line-link{line=3 anchor="neuville-sur-saône-à-saint-rambert"}.
 
 ### Traversée du Plateau Nord
 
