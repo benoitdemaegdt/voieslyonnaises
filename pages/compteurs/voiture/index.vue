@@ -39,8 +39,8 @@
           </div>
           <div class="px-4 py-4 flex flex-col">
             <div class="flex justify-between">
-              <div>{{ getCounterLastRecord(counter).date }}</div>
-              <div>{{ getCounterLastRecord(counter).value }} passages</div>
+              <div>{{ getLastCountPoint(counter).month }}</div>
+              <div>{{ getLastCountPoint(counter).value }} passages</div>
             </div>
             <div class="border-t border-gray-200 my-2" />
             <div class="flex justify-between">
@@ -69,23 +69,21 @@ const counters = computed(() => {
     .filter(counter => counter.name.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase().includes(searchText.value.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase()));
 });
 
-function getCounterLastRecord(counter) {
+function getLastCountPoint(counter) {
+  const lastCountPoint = counter.counts.at(-1);
   return {
-    date: new Date(counter.counts.at(-1).month).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
-    value: counter.counts.at(-1).count.toLocaleString('fr-FR')
+    month: new Date(lastCountPoint.month).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
+    value: lastCountPoint.count.toLocaleString('fr-FR')
   };
 }
 
 // get record of same month of last record but previous year
 // ex : last record is November 2023. Should return record of November 2022
 function getCounterLastRecordPreviousYear(counter) {
-  const lastRecordMonth = new Date(counter.counts.at(-1).month).getMonth();
-  const lastRecordYear = new Date(counter.counts.at(-1).month).getFullYear();
-  const lastRecordMonthPreviousYear = new Date(lastRecordYear - 1, lastRecordMonth, 1);
-  const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime())?.count;
+  const { month, count } = counter.counts.at(-13);
   return {
-    month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
-    value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0
+    month: new Date(month).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
+    value: count?.toLocaleString('fr-FR') ?? 0
   };
 }
 
