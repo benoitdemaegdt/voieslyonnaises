@@ -87,5 +87,5 @@ function getCounterLastRecordPreviousYear(counter) {
   };
 }
 
-const features = getCompteursFeatures({ counters: allCounters.value });
+const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-voiture' });
 </script>

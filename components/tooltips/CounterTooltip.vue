@@ -4,7 +4,7 @@
       <div class="font-bold text-base hover:underline">
         <a :href="feature.properties.link">{{ feature.properties.name }}</a>
       </div>
-      <div>Compteur vélo</div>
+      <div>{{ title }}</div>
     </div>
     <div class="divide-y">
       <div class="py-1 flex items-center justify-around bg-zinc-100">
@@ -22,8 +22,8 @@
         <div class="text-base font-bold">
           {{ averageDailyTraffic }}
         </div>
-        <div class="px-2 text-3xl">
-          <Icon name="game-icons:dutch-bike" />
+        <div class="px-2 text-3xl flex items-center">
+          <Icon :name="icon" />
         </div>
         <div class="text-left leading-3">
           <div class="font-bold">
@@ -56,7 +56,7 @@ const { feature } = defineProps<{
   feature: {
     type: 'Feature',
     properties: {
-      type: 'compteur',
+      type: 'compteur-velo' | 'compteur-voiture',
       name: string,
       link: string,
       counts: {
@@ -71,12 +71,14 @@ const { feature } = defineProps<{
   }
 }>();
 
+const title = computed(() => feature.properties.type === 'compteur-velo' ? 'Compteur vélo' : 'Compteur voiture');
 const countIndex = ref(feature.properties.counts.length - 1);
 const count = computed(() => feature.properties.counts.at(countIndex.value)!);
 const isFirstMonth = computed(() => countIndex.value === 0);
 const isLastMonth = computed(() => countIndex.value === feature.properties.counts.length - 1);
 const humanDate = computed(() => new Date(count.value.month).toLocaleString('fr-Fr', { month: 'long', year: 'numeric' }));
 const averageDailyTraffic = computed(() => getAverageDailyTraffic(count.value));
+const icon = computed(() => feature.properties.type === 'compteur-velo' ? 'game-icons:dutch-bike' : 'material-symbols-light:directions-car-outline-rounded');
 // const monthBests = findMonthBests(feature.properties.counts);
 // const absoluteBest = findAbsoluteBest(feature.properties.counts)!;
 // const isMonthBest = computed(() => monthBests.get(new Date(count.value.month).getMonth()));

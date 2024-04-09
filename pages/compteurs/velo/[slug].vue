@@ -57,7 +57,7 @@ const graphTitles = {
   monthComparison: `Fréquentation cycliste - ${counter.value.name}`
 };
 
-const features = getCompteursFeatures({ counters: [counter.value] });
+const features = getCompteursFeatures({ counters: [counter.value], type: 'compteur-velo' });
 
 const DESCRIPTION = `Compteur vélo ${counter.value.name}`;
 const IMAGE_URL = counter.value.imageUrl;

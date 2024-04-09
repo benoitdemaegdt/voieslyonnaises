@@ -130,7 +130,7 @@ function isPerspectiveFeature(feature: Feature): feature is PerspectiveFeature {
 }
 
 function isCompteurFeature(feature: Feature): feature is CompteurFeature {
-  return isPointFeature(feature) && feature.properties.type === 'compteur';
+  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
 }
 
 export const useMap = () => {
@@ -610,7 +610,13 @@ export const useMap = () => {
     map.on('mouseleave', 'compteurs', () => (map.getCanvas().style.cursor = ''));
   }
 
-  function getCompteursFeatures({ counters }: { counters: Compteur[] }) {
+  function getCompteursFeatures({
+    counters,
+    type
+  }: {
+    counters: Compteur[];
+    type: 'compteur-velo' | 'compteur-voiture';
+  }) {
     if (counters.length === 0) {
       return;
     }
@@ -618,7 +624,7 @@ export const useMap = () => {
     return counters.map(counter => ({
       type: 'Feature',
       properties: {
-        type: 'compteur',
+        type,
         name: counter.name,
         link: counter._path,
         counts: counter.counts

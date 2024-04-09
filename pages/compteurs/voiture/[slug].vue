@@ -48,7 +48,7 @@ const graphTitles = {
   monthComparison: `Fréquentation voiture - ${counter.value.name}`
 };
 
-const features = getCompteursFeatures({ counters: [counter.value] });
+const features = getCompteursFeatures({ counters: [counter.value], type: 'compteur-voiture' });
 
 const DESCRIPTION = `Compteur voiture ${counter.value.name}`;
 const IMAGE_URL = counter.value.imageUrl;
