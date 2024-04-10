@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <LegendModal ref="legendModalComponent" />
+    <LegendModal ref="legendModalComponent" :layers="layers" />
     <div id="map" class="rounded-lg h-full w-full" />
     <img
       v-if="options.logo"
@@ -56,6 +56,40 @@ const {
   fitBounds
 } = useMap();
 
+const layers = ref({
+  done: true,
+  planned: true,
+  postponed: true,
+  unknown: true,
+  wip: true
+});
+
+const features = computed(() => {
+  return (props.features ?? []).filter(feature => {
+    for (const [layer, enabled] of Object.entries(layers.value)) {
+      if (!enabled) {
+        switch (feature.properties.status) {
+          case 'variante':
+            if (layer === 'planned') {
+              return false;
+            }
+            break;
+
+          case 'variante-postponed':
+            if (layer === 'postponed') {
+              return false;
+            }
+            break;
+
+          case layer:
+            return false;
+        }
+      }
+    }
+    return true;
+  });
+});
+
 onMounted(() => {
   const map = new Map({
     container: 'map',
@@ -99,12 +133,19 @@ onMounted(() => {
   }
 
   map.on('load', () => {
-    plotFeatures({ map, features: props.features });
+    plotFeatures({ map, features: features.value });
     const tailwindMdBreakpoint = 768;
     if (window.innerWidth > tailwindMdBreakpoint) {
-      fitBounds({ map, features: props.features });
+      fitBounds({ map, features: features.value });
     }
   });
+
+  watch(
+    features,
+    newFeatures => {
+      plotFeatures({ map, features: newFeatures });
+    }
+  );
 
   watch(
     () => props.features,
@@ -128,7 +169,7 @@ onMounted(() => {
 
     if (isPerspectiveLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'perspectives');
-      const feature = props.features.find(f => {
+      const feature = features.value.find(f => {
         return f.properties.type === 'perspective' &&
           f.properties.line === layer.properties.line &&
           f.properties.imgUrl === layer.properties.imgUrl;
@@ -151,7 +192,7 @@ onMounted(() => {
       });
     } else if (isCompteurLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'compteurs');
-      const feature = props.features.find(f => f.properties.name === layer.properties.name);
+      const feature = features.value.find(f => f.properties.name === layer.properties.name);
 
       new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
@@ -171,7 +212,7 @@ onMounted(() => {
     } else {
       const { line, name } = layers[0].properties;
       // take care layers[0].geometry is truncated (to fit tile size). We need to find the full feature.
-      const feature = props.features
+      const feature = features.value
         .filter(feature => feature.geometry.type === 'LineString')
         .find(feature => feature.properties.line === line && feature.properties.name === name);
       const lines = feature.properties.id
