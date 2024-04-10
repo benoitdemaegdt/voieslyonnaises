@@ -90,9 +90,7 @@ function getAverageDailyTraffic({ month, count }: {
 }) {
   const date = new Date(month);
   const daysInMonth = new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
-  const averageDailyTraffic = Math.round(count / daysInMonth);
-  const clamp = 25;
-  return Math.round(averageDailyTraffic / clamp) * clamp;
+  return Math.round(count / daysInMonth);
 }
 
 // function findMonthBests(counts: Array<{ month: string; count: number }>) {
