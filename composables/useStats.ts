@@ -154,5 +154,61 @@ export const useStats = () => {
     };
   }
 
-  return { getAllUniqLineStrings, getDistance, getTotalDistance, getStats, displayDistanceInKm, displayPercent };
+  function getStatsByTypology(voies: Geojson[]) {
+    const features = getAllUniqLineStrings(voies);
+    const totalDistance = getDistance({ features });
+    const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+
+    function getPercent(distance: number) {
+      return Math.round((distance / totalDistance) * 100);
+    }
+
+    const names = {
+      bidirectionnelle: 'Piste cyclable bidirectionnelle',
+      bilaterale: 'Piste cyclable bilatérale',
+      'voie-bus': 'Voie bus',
+      'voie-bus-elargie': 'Voie bus élargie',
+      velorue: 'Vélorue',
+      'voie-verte': 'Voie verte',
+      'bandes-cyclables': 'Bandes cyclables',
+      'zone-de-rencontre': 'Zone de rencontre'
+    };
+
+    const stats = [];
+    let unknownPercent = 100;
+    for (const [type, name] of Object.entries(names)) {
+      const features = doneFeatures.filter(feature => feature.properties.type === type);
+      if (!features.length) {
+        continue;
+      }
+      const distance = getDistance({ features });
+      const percent = getPercent(distance);
+      if (percent === 0) {
+        continue;
+      }
+      unknownPercent -= percent;
+      stats.push({
+        name,
+        percent
+      });
+    }
+    if (unknownPercent !== 0) {
+      stats.push({
+        name: 'Inconnu',
+        percent: unknownPercent
+      });
+    }
+
+    return stats;
+  }
+
+  return {
+    getAllUniqLineStrings,
+    getDistance,
+    getTotalDistance,
+    getStats,
+    getStatsByTypology,
+    displayDistanceInKm,
+    displayPercent
+  };
 };
