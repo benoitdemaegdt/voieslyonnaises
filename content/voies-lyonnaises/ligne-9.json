@@ -741,7 +741,7 @@
         "id": "GaribaldiBlandan-commun",
         "line": 9,
         "name": "Garibaldi - Blandan",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -763,7 +763,7 @@
         "id": "GaribaldiCROUS-commun",
         "line": 9,
         "name": "Garibaldi - CROUS",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {

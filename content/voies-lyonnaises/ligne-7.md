@@ -157,6 +157,10 @@ credit: Ilex / Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux préalable au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024. Ils enchaineront avec les travaux d'aménagement en 2025.
+::
+
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Garibaldi_phase3.pdf)
 
