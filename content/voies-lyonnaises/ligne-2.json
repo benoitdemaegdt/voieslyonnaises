@@ -434,7 +434,8 @@
       "properties": {
         "line": 2,
         "name": "Vivier Merle Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "20/04/2024",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {

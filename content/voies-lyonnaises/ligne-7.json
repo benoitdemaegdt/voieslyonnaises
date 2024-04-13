@@ -241,7 +241,8 @@
       "properties": {
         "line": 7,
         "name": "Rillieux - Giratoire De Gaulle",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "10/04/2024",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -912,7 +913,7 @@
         "id": "GaribaldiBlandan-commun",
         "line": 7,
         "name": "Garibaldi - Blandan",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
@@ -934,7 +935,7 @@
         "id": "GaribaldiCROUS-commun",
         "line": 7,
         "name": "Garibaldi - CROUS",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
@@ -950,7 +951,7 @@
       "properties": {
         "line": 7,
         "name": "Garibaldi - Sud",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
@@ -1043,7 +1044,7 @@
       "properties": {
         "line": 7,
         "name": "St-Fons - Avenue Jaurès Nord",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-7#avenue-jean-jaurès"
       },
       "geometry": {

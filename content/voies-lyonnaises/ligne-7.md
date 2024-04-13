@@ -38,7 +38,7 @@ Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyo
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.  
 
 ::banner{type="wip"}
-*Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.*
+Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.
 ::
 
 ***Avenue de l'Hippodrome et Chemin Petit***  
@@ -175,6 +175,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section ont commencé mi-avril 2024 et continueront jusqu'à la fin d'année 2024.
+::
+
 #### Rue Paul Duvivier
 La piste cyclable bidirectionnelle existante de 3m de large sera conservée.
 
@@ -204,6 +208,10 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png
 caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
 credit: Métropole de Lyon
 ---
+::
+
+::banner{type="wip"}
+Les travaux sur cette section ont commencé début avril 2024 et continueront jusqu'à l'automne 2024.
 ::
 
 #### Concertation
