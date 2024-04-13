@@ -85,6 +85,7 @@ Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur tro
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
 caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
 credit: Métropole de Lyon
+streetView: 45.7804136,4.8275125,3a,75y,37.09h,90t
 ---
 ::
 

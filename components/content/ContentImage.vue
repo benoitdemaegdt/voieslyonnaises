@@ -14,6 +14,9 @@
     <div v-if="credit" class="text-base text-center italic">
       Crédit image : {{ credit }}
     </div>
+    <div v-if="streetView">
+      <StreetViewLink :params="streetView" />
+    </div>
   </figure>
 </template>
 
@@ -21,6 +24,7 @@
 defineProps({
   imageUrl: { type: String, required: true },
   caption: { type: String, required: false },
-  credit: { type: String, required: false }
+  credit: { type: String, required: false },
+  streetView: { type: String, required: false }
 });
 </script>

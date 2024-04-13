@@ -166,6 +166,7 @@ Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté S
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - rue Charles Plasse (Saint-Fons)
 credit: Ilex / SYTRAL Mobilité
+streetView: 45.7088794,4.8538795,3a,75y,320h,90t
 ---
 ::
 

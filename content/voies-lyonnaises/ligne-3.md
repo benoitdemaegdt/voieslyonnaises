@@ -94,6 +94,7 @@ Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en se
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-arloing.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Arloing (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7727386,4.810561,3a,75y,163.15h,90t
 ---
 ::
 
