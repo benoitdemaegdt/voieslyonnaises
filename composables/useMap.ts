@@ -660,18 +660,17 @@ export const useMap = () => {
   }
 
   function plotFeatures({ map, features }: { map: Map; features: Feature[] }) {
-    const lineStringFeatures = features.filter(isLineStringFeature);
-    if (lineStringFeatures.length) {
-      const features = lineStringFeatures.sort(sortByLine).map(addLineColor);
-      plotUnderlinedSections({ map, features });
-      plotDoneSections({ map, features });
-      plotPlannedSections({ map, features });
-      plotVarianteSections({ map, features });
-      plotVariantePostponedSections({ map, features });
-      plotWipSections({ map, features });
-      plotUnknownSections({ map, features });
-      plotPostponedSections({ map, features });
-    }
+    const lineStringFeatures = features.filter(isLineStringFeature).sort(sortByLine).map(addLineColor);
+
+    plotUnderlinedSections({ map, features: lineStringFeatures });
+    plotDoneSections({ map, features: lineStringFeatures });
+    plotPlannedSections({ map, features: lineStringFeatures });
+    plotVarianteSections({ map, features: lineStringFeatures });
+    plotVariantePostponedSections({ map, features: lineStringFeatures });
+    plotWipSections({ map, features: lineStringFeatures });
+    plotUnknownSections({ map, features: lineStringFeatures });
+    plotPostponedSections({ map, features: lineStringFeatures });
+
     plotPerspective({ map, features });
     plotCompteurs({ map, features });
   }
