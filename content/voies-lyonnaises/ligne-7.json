@@ -243,6 +243,7 @@
         "name": "Rillieux - Giratoire De Gaulle",
         "status": "done",
         "doneAt": "10/04/2024",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {

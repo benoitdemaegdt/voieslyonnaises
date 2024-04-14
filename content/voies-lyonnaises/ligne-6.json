@@ -124,6 +124,7 @@
         "line": 6,
         "name": "Chemin de Halage de Crépieux",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-6#chemin-de-halage-de-crépieux"
       },
       "geometry": {

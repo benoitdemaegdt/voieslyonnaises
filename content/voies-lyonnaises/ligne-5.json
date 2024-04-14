@@ -1425,6 +1425,7 @@
         "name": "BUE - Boulevard des Droits de l'Homme Centre",
         "status": "done",
         "doneAt": "10/04/2024",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-5#avenue-roosevelt-à-tram-t9"
       },
       "geometry": {
@@ -1455,6 +1456,7 @@
         "name": "BUE - Boulevard Charles de Gaulle",
         "status": "done",
         "doneAt": "10/04/2024",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-5#chassieu-golf-à-avenue-roosevelt"
       },
       "geometry": {
@@ -1479,6 +1481,7 @@
         "name": "BUE - Boulevard des Droits de l'Homme Sud",
         "status": "done",
         "doneAt": "10/04/2024",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-5#bron-decathlon-à-chassieu-golf"
       },
       "geometry": {
