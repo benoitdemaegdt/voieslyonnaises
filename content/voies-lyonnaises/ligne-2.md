@@ -117,7 +117,7 @@ credit: Métropole de Lyon
 ::banner{type="wip"}
 Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.  
-Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024. Une petite portion entre l'ancien cimetière de la Guilltoière et l'avenue Berthelot restera à aménager sur la fin d'année 2024.
+Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restera à aménager sur la fin d'année 2024.
 ::
 
 #### *Concertation*
@@ -157,7 +157,7 @@ Les travaux entre l'avenue Berthelot et la rue Cazeneuve auront lieu au premier 
 ::
 
 #### Avenue Viviani
-Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
+Sur cette large avenue, la Voie Lyonnaise 2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
 
 ::content-image
 ---
