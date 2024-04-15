@@ -504,16 +504,46 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Boulevard des États-Unis",
-        "status": "wip",
+        "name": "Boulevard des États-Unis Nord",
+        "status": "planned",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.8594653606414795, 45.73953278568564],
-          [4.863671064376831, 45.734238601231674],
-          [4.867973327636719, 45.72867429927547],
+          [4.8632826324775635,45.7347266161789]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Boulevard des États-Unis Centre",
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8632826324775635,45.7347266161789],
+          [4.866050589734414,45.73114846566571]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Boulevard des États-Unis Sud",
+        "status": "wip",
+        "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [    
+          [4.866050589734414,45.73114846566571],
           [4.871211766639959,45.724516744863365]
         ]
       }
