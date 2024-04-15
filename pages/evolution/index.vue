@@ -7,7 +7,7 @@
       <div class="py-2 px-5 md:px-8 text-white bg-lvv-blue-600 font-semibold text-base">
         {{ doneDistance }} km de Voies Lyonnaises réalisés
       </div>
-      <div class="py-5 px-5 md:px-8 grid grid-cols-3 gap-3 sm:grid-cols-6">
+      <div class="py-5 px-5 md:px-8 grid grid-cols-3 gap-3 sm:grid-cols-5">
         <div
           v-for="year in years"
           :key="year.label"
