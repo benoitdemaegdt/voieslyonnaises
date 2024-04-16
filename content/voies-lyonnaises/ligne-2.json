@@ -623,7 +623,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Parilly",
+        "name": "Métro Parilly",
         "status": "planned",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
@@ -632,12 +632,57 @@
         "coordinates": [
           [4.887302750505967, 45.71868781432993],
           [4.8884895135254, 45.71948549025497],
+          [4.888606380524664, 45.71955872905621]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Ancienne Route d'Heyrieux Ouest",
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#quartier-de-parilly" 
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.888606380524664, 45.71955872905621],
           [4.8887109220892455, 45.71952870468809],
           [4.889570171879697, 45.719010426401454],
           [4.889982191277337, 45.718829224882796],
+          [4.8904311869770325, 45.718673839477894]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Ancienne Route d'Heyrieux Est",
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#quartier-de-parilly" 
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.8904311869770325, 45.718673839477894],
           [4.891415456417206, 45.71836306873766],
+          [4.892142894249904, 45.718121388758156]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Parc de Parilly",
+        "status": "planned",
+        "link": "/voie-lyonnaise-2#quartier-de-parilly" 
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.892142894249904, 45.718121388758156],
           [4.892783935438549, 45.717910191274655],
           [4.892894982951994, 45.717539791420094],
@@ -654,7 +699,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Parilly - Alouettes",
+        "name": "Avenue De Gaulle - Route de Lyon",
         "status": "planned",
         "link": "/voie-lyonnaise-2#avenue-charles-de-gaulle"
       },
@@ -679,7 +724,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Alouettes - Diderot",
+        "name": "Route de Lyon - Alouettes à Diderot",
         "status": "planned",
         "link": "/voie-lyonnaise-2#route-de-lyon-et-avenue-aristide-briand"
       },
