@@ -1,0 +1,94 @@
+export type LineStringFeature = {
+  type: 'Feature';
+  properties: {
+    id?: string
+    line: number;
+    name: string;
+    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
+    type?: string;
+    doneAt?: string;
+    link?: string;
+  };
+  geometry: {
+    type: 'LineString';
+    coordinates: [number, number][];
+  };
+};
+
+export type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
+
+export type PerspectiveFeature = {
+  type: 'Feature';
+  properties: {
+    type: 'perspective';
+    line: number;
+    name: string;
+    imgUrl: string;
+  };
+  geometry: {
+    type: 'Point';
+    coordinates: [number, number];
+  };
+};
+
+export type CompteurFeature = {
+  type: 'Feature';
+  properties: {
+    type: 'compteur-velo' | 'compteur-voiture',
+    line: number;
+    name: string;
+    link?: string;
+    counts: Array<{
+      month: string;
+      count: number;
+    }>;
+    /**
+     * z-index like
+     */
+    circleSortKey?: number;
+    circleRadius?: number;
+    circleStrokeWidth?: number;
+  };
+  geometry: {
+    type: 'Point';
+    coordinates: [number, number];
+  };
+};
+
+type PointFeature = PerspectiveFeature | CompteurFeature;
+
+export type Feature = LineStringFeature | PointFeature;
+
+export type Compteur = {
+  name: string;
+  _path: string;
+  description: string;
+  idPdc: number;
+  coordinates: [number, number];
+  lines: number[];
+  counts: Array<{
+    month: string;
+    count: number;
+  }>;
+};
+
+export type Geojson = {
+  type: string;
+  features: Feature[];
+};
+
+export function isLineStringFeature(feature: Feature): feature is LineStringFeature {
+  return feature.geometry.type === 'LineString';
+}
+
+export function isPointFeature(feature: Feature): feature is PointFeature {
+  return feature.geometry.type === 'Point';
+}
+
+export function isPerspectiveFeature(feature: Feature): feature is PerspectiveFeature {
+  return isPointFeature(feature) && feature.properties.type === 'perspective';
+}
+
+export function isCompteurFeature(feature: Feature): feature is CompteurFeature {
+  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
+}

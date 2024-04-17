@@ -13,7 +13,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { createApp, defineComponent, h, Suspense } from 'vue';
 import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
@@ -24,19 +24,10 @@ import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
+import { type Feature, isLineStringFeature } from '~/types';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
-
-const props = defineProps({
-  features: { type: Array, required: true },
-  options: {
-    type: Object,
-    required: false,
-    default: () => ({})
-  }
-});
-
 const defaultOptions = {
   logo: true,
   legend: true,
@@ -46,6 +37,11 @@ const defaultOptions = {
   shrink: false,
   onShrinkControlClick: () => { }
 };
+
+const props = defineProps<{
+  features: Feature[];
+  options: typeof defaultOptions;
+}>();
 
 const options = { ...defaultOptions, ...props.options };
 
@@ -172,7 +168,7 @@ onMounted(() => {
       const { line, name } = layers[0].properties;
       // take care layers[0].geometry is truncated (to fit tile size). We need to find the full feature.
       const feature = props.features
-        .filter(feature => feature.geometry.type === 'LineString')
+        .filter(isLineStringFeature)
         .find(feature => feature.properties.line === line && feature.properties.name === name);
       const lines = feature.properties.id
         ? [...new Set(layers.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]

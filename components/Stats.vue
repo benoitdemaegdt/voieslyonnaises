@@ -18,13 +18,14 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
+import type { Geojson } from '~/types';
 const { getStats, displayDistanceInKm, displayPercent } = useStats();
 
-const { voies, precision } = defineProps({
-  voies: { type: Array, required: true },
-  precision: { type: Number, default: 0 }
-});
+const { voies, precision } = defineProps<{
+  voies: Geojson[];
+  precision?: number;
+}>();
 
 const stats = getStats(voies);
 </script>

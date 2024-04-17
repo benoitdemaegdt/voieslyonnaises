@@ -1,29 +1,11 @@
-type Feature = {
-  type: string;
-  properties: {
-    id?: string;
-    line: number;
-    name: string;
-    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
-    doneAt?: string;
-  };
-  geometry: {
-    type: string;
-    coordinates: number[][];
-  };
-};
-
-type Geojson = {
-  type: string;
-  features: Feature[];
-};
+import { type Geojson, type Feature, isLineStringFeature } from '../types';
 
 export const useStats = () => {
   function getAllUniqLineStrings(voies: Geojson[]) {
     return voies
       .map(voie => voie.features)
       .flat()
-      .filter(feature => feature.geometry.type === 'LineString')
+      .filter(isLineStringFeature)
       .filter((feature, index, sections) => {
         if (feature.properties.id === undefined) {
           return true;
@@ -84,7 +66,7 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  function displayDistanceInKm(distance: number, precision: number) {
+  function displayDistanceInKm(distance: number, precision = 0) {
     if (distance === 0) {
       return '0 km';
     }

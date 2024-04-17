@@ -52,23 +52,10 @@
 </template>
 
 <script setup lang="ts">
+import type { CompteurFeature } from '~/types';
+
 const { feature } = defineProps<{
-  feature: {
-    type: 'Feature',
-    properties: {
-      type: 'compteur-velo' | 'compteur-voiture',
-      name: string,
-      link: string,
-      counts: {
-        month: string,
-        count: number
-      }[]
-    },
-    geometry: {
-      type: 'Point',
-      coordinates: [number, number],
-    }
-  }
+  feature: CompteurFeature
 }>();
 
 const title = computed(() => feature.properties.type === 'compteur-velo' ? 'Compteur vélo' : 'Compteur voiture');

@@ -1,70 +1,5 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-
-type LineStringFeature = {
-  type: 'Feature';
-  properties: {
-    line: number;
-    name: string;
-    status: string;
-    doneAt?: string;
-  };
-  geometry: {
-    type: 'LineString';
-    coordinates: [number, number][];
-  };
-};
-
-type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
-
-type PerspectiveFeature = {
-  type: 'Feature';
-  properties: {
-    type: 'perspective';
-    line: number;
-    name: string;
-  };
-  geometry: {
-    type: 'Point';
-    coordinates: [number, number];
-  };
-};
-
-type CompteurFeature = {
-  type: 'Feature';
-  properties: {
-    type: 'compteur';
-    line: number;
-    name: string;
-    counts?: any[];
-    /**
-     * z-index like
-     */
-    circleSortKey?: number;
-    circleRadius?: number;
-    circleStrokeWidth?: number;
-  };
-  geometry: {
-    type: 'Point';
-    coordinates: [number, number];
-  };
-};
-
-type PointFeature = PerspectiveFeature | CompteurFeature;
-
-type Feature = LineStringFeature | PointFeature;
-
-type Compteur = {
-  name: string;
-  _path: string;
-  description: string;
-  idPdc: number;
-  coordinates: [number, number];
-  lines: number[];
-  counts: Array<{
-    month: string;
-    count: number;
-  }>;
-};
+import { isPerspectiveFeature, type ColoredLineStringFeature, type Compteur, type Feature, type LineStringFeature, isCompteurFeature, isLineStringFeature, isPointFeature } from '../types';
 
 // features plotted last are on top
 const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
@@ -115,22 +50,6 @@ function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
     }
   }
   return featuresByColor;
-}
-
-function isLineStringFeature(feature: Feature): feature is LineStringFeature {
-  return feature.geometry.type === 'LineString';
-}
-
-function isPointFeature(feature: Feature): feature is PointFeature {
-  return feature.geometry.type === 'Point';
-}
-
-function isPerspectiveFeature(feature: Feature): feature is PerspectiveFeature {
-  return isPointFeature(feature) && feature.properties.type === 'perspective';
-}
-
-function isCompteurFeature(feature: Feature): feature is CompteurFeature {
-  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
 }
 
 export const useMap = () => {
@@ -575,7 +494,7 @@ export const useMap = () => {
       return;
     }
     compteurs
-      .sort((c1, c2) => c2.properties.counts?.at(-1).count - c1.properties.counts?.at(-1).count)
+      .sort((c1, c2) => (c2.properties.counts.at(-1)?.count ?? 0) - (c1.properties.counts.at(-1)?.count ?? 0))
       .map((c, i) => {
         // top counters are bigger and drawn above others
         const top = 10;

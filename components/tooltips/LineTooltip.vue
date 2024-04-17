@@ -55,28 +55,13 @@
 </template>
 
 <script setup lang="ts">
+import type { LineStringFeature } from '~/types';
+
 const { getLineColor } = useColors();
 const { getDistance } = useStats();
 
-type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
-type Properties = {
-  id?: string;
-  line: number;
-  name: string;
-  status: Status;
-  doneAt?: string;
-  link?: string;
-};
-
 const { feature, lines } = defineProps<{
-  feature: {
-    type: string;
-    properties: Properties;
-    geometry: {
-      type: string;
-      coordinates: number[][];
-    };
-  }
+  feature: LineStringFeature;
   lines: number[];
 }>();
 
@@ -84,7 +69,7 @@ const title = computed(() => {
   return lines.length > 1 ? 'Voies Lyonnaises' : 'Voie Lyonnaise';
 });
 
-function getSectionDetailsUrl(properties: Properties): string {
+function getSectionDetailsUrl(properties: LineStringFeature['properties']): string {
   if (properties.link) {
     return properties.link;
   }
@@ -101,7 +86,7 @@ function getDoneAtText(doneAt: string): string {
   return `le ${doneAt}`;
 }
 
-function getStatus(properties: Properties): { label: string, class: string; date?: string } {
+function getStatus(properties: LineStringFeature['properties']): { label: string, class: string; date?: string } {
   const statusMapping = {
     done: {
       label: 'terminé',

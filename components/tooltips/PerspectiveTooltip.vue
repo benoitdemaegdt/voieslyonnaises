@@ -16,23 +16,12 @@
 </template>
 
 <script setup lang="ts">
+import type { PerspectiveFeature } from '~/types';
+
 const { getLineColor } = useColors();
 
 const { feature } = defineProps<{
-  feature: {
-    type: 'Feature';
-    properties: {
-      type: 'perspective';
-      name?: string;
-      line: string;
-      imgUrl: string;
-    };
-    geometry: {
-      type: 'Point';
-      coordinates: [number, number];
-    };
-  }
-
+  feature: PerspectiveFeature
 }>();
 
 const color = getLineColor(Number(feature.properties.line));
