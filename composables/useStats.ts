@@ -171,7 +171,8 @@ export const useStats = () => {
       velorue: 'Vélorue',
       'voie-verte': 'Voie verte',
       'bandes-cyclables': 'Bandes cyclables',
-      'zone-de-rencontre': 'Zone de rencontre'
+      'zone-de-rencontre': 'Zone de rencontre',
+      aucun: 'Aucun'
     };
 
     const stats = [];
