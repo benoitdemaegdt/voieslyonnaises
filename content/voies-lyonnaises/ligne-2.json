@@ -73,6 +73,7 @@
         "line": 2,
         "name": "Île barbe - Pont Leclerc",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
@@ -143,6 +144,7 @@
         "line": 2,
         "name": "Variante - Gde Rue de Saint Robert",
         "status": "variante",
+        "type": "inconnu",
         "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
@@ -175,6 +177,7 @@
         "line": 2,
         "name": "Variante - Quai Raoul Carrié",
         "status": "variante",
+        "type": "inconnu",
         "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
@@ -192,6 +195,7 @@
         "line": 2,
         "name": "Traversée de Caluire-et-Cuire",
         "status": "unknown",
+        "type": "inconnu",
         "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
       },
       "geometry": {
@@ -216,6 +220,7 @@
         "line": 2,
         "name": "Pont Poincaré",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#pont-poincaré-à-avenue-berthelot"
       },
       "geometry": {
@@ -247,6 +252,7 @@
         "line": 2,
         "name": "Transbordeur",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#carrefour-saint-clair-et-pont-poincaré"
       },
       "geometry": {
@@ -264,6 +270,7 @@
         "line": 2,
         "name": "Stalingrad Nord",
         "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord",
+        "type": "bidirectionnelle",
         "status": "planned"
       },
       "geometry": {
@@ -295,6 +302,7 @@
         "name": "Stalingrad Centre",
         "status": "done",
         "doneAt": "05/04/2024",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
       },
       "geometry": {
@@ -315,6 +323,7 @@
         "name": "Stalingrad Sud",
         "status": "done",
         "doneAt": "05/04/2024",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-stalingrad-sud"
       },
       "geometry": {
@@ -333,6 +342,7 @@
         "name": "Waldeck-Rousseau",
         "status": "done",
         "doneAt": "05/04/2024",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#rue-waldeck-rousseau"
       },
       "geometry": {
@@ -374,6 +384,7 @@
         "line": 2,
         "name": "Belges de Fournet à Lafayette",
         "status": "planned",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-2#boulevard-des-belges"
       },
       "geometry": {
@@ -393,6 +404,7 @@
         "line": 2,
         "name": "Part-Dieu en tunnel",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#tunnel-vivier-merle"
       },
       "geometry": {
@@ -419,6 +431,7 @@
         "line": 2,
         "name": "Vivier Merle Nord",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {
@@ -436,6 +449,7 @@
         "name": "Vivier Merle Sud",
         "status": "done",
         "doneAt": "20/04/2024",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {
@@ -456,6 +470,7 @@
         "line": 2,
         "name": "Tchécoslovaques",
         "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
       "geometry": {
@@ -490,6 +505,7 @@
         "line": 2,
         "name": "Avenue Berthelot",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#avenue-berthelot"
       },
       "geometry": {
@@ -506,6 +522,7 @@
         "line": 2,
         "name": "Boulevard des États-Unis Nord",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
@@ -522,6 +539,7 @@
         "line": 2,
         "name": "Boulevard des États-Unis Centre",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
@@ -538,6 +556,7 @@
         "line": 2,
         "name": "Boulevard des États-Unis Sud",
         "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
@@ -554,6 +573,7 @@
         "line": 2,
         "name": "Avenue Viviani",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#avenue-viviani"
       },
       "geometry": {
@@ -625,6 +645,7 @@
         "line": 2,
         "name": "Métro Parilly",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
@@ -642,6 +663,7 @@
         "line": 2,
         "name": "Ancienne Route d'Heyrieux Ouest",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
@@ -661,6 +683,7 @@
         "line": 2,
         "name": "Ancienne Route d'Heyrieux Est",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
@@ -678,6 +701,7 @@
         "line": 2,
         "name": "Parc de Parilly",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
@@ -701,6 +725,7 @@
         "line": 2,
         "name": "Avenue De Gaulle - Route de Lyon",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#avenue-charles-de-gaulle"
       },
       "geometry": {
@@ -726,6 +751,7 @@
         "line": 2,
         "name": "Route de Lyon - Alouettes à Diderot",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#route-de-lyon-et-avenue-aristide-briand"
       },
       "geometry": {

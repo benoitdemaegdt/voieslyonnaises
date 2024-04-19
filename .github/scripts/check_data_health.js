@@ -105,25 +105,24 @@ function checkGeoJsonDataHealth({ links }) {
                   );
                   process.exit(1);
                 }
+              }
 
-                // 4.3 - Check if all done section have a type property
-                if (properties.hasOwnProperty('type')) {
-                  const validTypes = [
-                    'bidirectionnelle',
-                    'bilaterale',
-                    'voie-bus',
-                    'voie-bus-elargie',
-                    'velorue',
-                    'voie-verte',
-                    'bandes-cyclables',
-                    'zone-de-rencontre',
-                    'inconnu'
-                  ];
-                  if (!validTypes.includes(properties.type)) {
-                    console.error(`Invalid type '${properties.type}' in LineString properties of file: ${filePath}`);
-                    process.exit(1);
-                  }
-                }
+              // 4.3 - Check if all sections have a type property
+              const validTypes = [
+                'bidirectionnelle',
+                'bilaterale',
+                'voie-bus',
+                'voie-bus-elargie',
+                'velorue',
+                'voie-verte',
+                'bandes-cyclables',
+                'zone-de-rencontre',
+                'inconnu',
+                'aucun'
+              ];
+              if (!validTypes.includes(properties.type)) {
+                console.error(`Invalid type '${properties.type}' in LineString properties of file: ${filePath}`);
+                process.exit(1);
               }
 
               // 5 - check if link actually exists

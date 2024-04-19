@@ -77,7 +77,7 @@ credit: Passagers des Villes / Métropole de Lyon
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
-Cette portion en pente sera totalement réaménagée : une piste cyclable bidrectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
+Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
 Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une bonne partie de l'année.
@@ -130,7 +130,7 @@ Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conse
 La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
 ::
 
-Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
+Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
 
 L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérénisé à l'été 2021.

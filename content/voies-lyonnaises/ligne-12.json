@@ -99,6 +99,7 @@
         "line": 12,
         "name": "Place Valmy",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#valmy-à-place-de-trion"
       },
       "geometry": {
@@ -115,6 +116,7 @@
         "line": 12,
         "name": "Rue du Sergent Berthet",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#rue-du-sergent-michel-berthet"
       },
       "geometry": {
@@ -193,6 +195,7 @@
         "line": 12,
         "name": "Trion - Quatre Colonnes",
         "status": "planned",
+        "type": "bilaterale",
         "link": "/voie-lyonnaise-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
       },
       "geometry": {
@@ -218,6 +221,7 @@
         "line": 12,
         "name": "Saint-Just",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
@@ -269,6 +273,7 @@
         "line": 12,
         "name": "Montée du Chemin Neuf",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
@@ -314,6 +319,7 @@
         "line": 12,
         "name": "Saint-Jean",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
@@ -337,6 +343,7 @@
         "line": 12,
         "name": "Avenue Adolphe Max",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
@@ -355,6 +362,7 @@
         "line": 12,
         "name": "Pont Bonaparte",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -372,6 +380,7 @@
         "line": 12,
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -390,6 +399,7 @@
         "line": 12,
         "name": "Pont de la Guillotière",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
@@ -407,6 +417,7 @@
         "line": 12,
         "name": "Cours Gambetta",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
@@ -428,6 +439,7 @@
         "line": 12,
         "name": "Cours Albert Thomas",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
@@ -452,6 +464,7 @@
         "line": 12,
         "name": "Place d'Arsonval",
         "status": "postponed",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#place-darsonval"
       },
       "geometry": {
@@ -473,6 +486,7 @@
         "line": 12,
         "name": "Avenue Rockefeller",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
       },
       "geometry": {
@@ -495,6 +509,7 @@
         "line": 12,
         "name": "Avenue Franklin Roosevelt",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#boulevard-pinel-à-bron-boutasse"
       },
       "geometry": {

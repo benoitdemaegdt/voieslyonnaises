@@ -72,6 +72,7 @@
         "line": 11,
         "name": "Avenue du Point du Jour",
         "status": "planned",
+        "type": "inconnu",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -110,6 +111,7 @@
         "line": 11,
         "name": "Liaison Point-du-jour - Lyon 5",
         "status": "unknown",
+        "type": "inconnu",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -127,6 +129,7 @@
         "line": 11,
         "name": "Saint-Just",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -178,6 +181,7 @@
         "line": 11,
         "name": "Montée du Chemin Neuf",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -223,6 +227,7 @@
         "line": 11,
         "name": "Saint-Jean",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -246,6 +251,7 @@
         "line": 11,
         "name": "Avenue Adolphe Max",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -264,6 +270,7 @@
         "line": 11,
         "name": "Pont Bonaparte",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -281,6 +288,7 @@
         "line": 11,
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -300,6 +308,7 @@
         "line": 11,
         "name": "Traversée Presqu'île (par Perrache)",
         "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -347,6 +356,7 @@
         "line": 11,
         "name": "Pont Wilson - Pont Guillotière",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#pont-wilson"
       },
       "geometry": {
@@ -386,6 +396,7 @@
         "line": 11,
         "name": "Rue de Bonnel - Pont Wilson",
         "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#pont-wilson"
       },
       "geometry": {
@@ -402,6 +413,7 @@
         "line": 11,
         "name": "Rue de Bonnel",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#rue-de-bonnel"
       },
       "geometry": {
@@ -448,6 +460,7 @@
         "line": 11,
         "name": "Rue Paul Bert",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#rue-paul-bert-garibaldi-à-vivier-merle"
       },
       "geometry": {
@@ -470,6 +483,7 @@
         "line": 11,
         "name": "Vivier Merle Nord",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#boulevard-vivier-merle-paul-bert-à-félix-faure"
       },
       "geometry": {
@@ -486,6 +500,7 @@
         "line": 11,
         "name": "Vivier Merle - Dauphiné",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
       },
       "geometry": {
@@ -517,6 +532,7 @@
         "line": 11,
         "name": "Dauphiné - Jules Verne",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
       },
       "geometry": {
@@ -545,6 +561,7 @@
         "line": 11,
         "name": "Jules Verne - Reconnaissance Balzac",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
       },
       "geometry": {
@@ -573,6 +590,7 @@
         "line": 11,
         "name": "Reconnaissance Balzac Sud",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
       },
       "geometry": {
@@ -590,6 +608,7 @@
         "line": 11,
         "name": "Reconnaissane Balzac - Porte de Montchat",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#reconnaissance-balzac-à-bron-sept-chemins"
       },
       "geometry": {
@@ -627,6 +646,7 @@
         "line": 11,
         "name": "Porte de Montchat - Sept Chemins",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#reconnaissance-balzac-à-bron-sept-chemins"
       },
       "geometry": {
@@ -671,6 +691,7 @@
         "line": 11,
         "name": "Avenue Jean Mermoz",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#bron-sept-chemins-à-boulevard-urbain-est"
       },
       "geometry": {
@@ -691,6 +712,7 @@
         "line": 11,
         "name": "Chassieu - Route de Lyon",
         "status": "wip",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-11#boulevard-urbain-est-à-chassieu-dauphiné"
       },
       "geometry": {
@@ -721,6 +743,7 @@
         "line": 11,
         "name": "Avenue du Dauphiné Ouest",
         "status": "wip",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-11#avenue-du-dauphiné-ouest"
       },
       "geometry": {
@@ -754,6 +777,7 @@
         "line": 11,
         "name": "Avenue du Dauphiné Est",
         "status": "postponed",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-11#avenue-du-dauphiné-est"
       },
       "geometry": {
