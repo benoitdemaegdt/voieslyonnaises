@@ -27,7 +27,7 @@
             </div>
             <div>
               <label>
-                <input v-model="layers.planned" type="checkbox">
+                <input v-model="legendItems.planned.isEnable" type="checkbox">
                 prévu pour 2026
               </label>
             </div>
@@ -37,7 +37,7 @@
             </div>
             <div>
               <label>
-                <input v-model="layers.done" type="checkbox">
+                <input v-model="legendItems.done.isEnable" type="checkbox">
                 terminé
               </label>
             </div>
@@ -51,7 +51,7 @@
             </div>
             <div>
               <label>
-                <input v-model="layers.wip" type="checkbox">
+                <input v-model="legendItems.wip.isEnable" type="checkbox">
                 en travaux
               </label>
             </div>
@@ -63,18 +63,20 @@
             </div>
             <div>
               <label>
-                <input v-model="layers.unknown" type="checkbox">
+                <input v-model="legendItems.unknown.isEnable" type="checkbox">
                 linéaire inconnu
               </label>
             </div>
 
             <div class="my-auto rounded-md border-gray-500 border relative">
               <div class="h-1 bg-white" />
-              <div class="text-lvv-blue-600 font-bold leading-none absolute -top-2 leading-none">x x x x x</div>
+              <div class="text-lvv-blue-600 font-bold leading-none absolute -top-2 leading-none">
+                x x x x x
+              </div>
             </div>
             <div>
               <label>
-                <input v-model="layers.postponed" type="checkbox">
+                <input v-model="legendItems.postponed.isEnable" type="checkbox">
                 reporté après 2026
               </label>
             </div>
@@ -85,7 +87,7 @@
   </Dialog>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { Dialog, DialogPanel, DialogTitle } from '@headlessui/vue';
 
 const isOpen = ref(false);
@@ -101,9 +103,39 @@ defineExpose({
   openModal
 });
 
-const { layers } = defineProps({
-  layers: { type: Object, required: true }
+const legendItems = ref({
+  planned: {
+    isEnable: true,
+    statuses: ['planned', 'variante']
+  },
+  done: {
+    isEnable: true,
+    statuses: ['done']
+  },
+  postponed: {
+    isEnable: true,
+    statuses: ['postponed', 'variante-postponed']
+  },
+  unknown: {
+    isEnable: true,
+    statuses: ['unknown']
+  },
+  wip: {
+    isEnable: true,
+    statuses: ['wip']
+  }
 });
+
+const emit = defineEmits(['update:visibleStatuses']);
+
+watch(legendItems, () => {
+  const visibleStatuses = Object.values(legendItems.value)
+    .filter(item => item.isEnable)
+    .flatMap(item => item.statuses);
+
+  emit('update:visibleStatuses', visibleStatuses);
+}, { deep: true });
+
 </script>
 
 <style>

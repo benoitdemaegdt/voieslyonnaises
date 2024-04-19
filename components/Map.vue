@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <LegendModal ref="legendModalComponent" :layers="layers" />
+    <LegendModal ref="legendModalComponent" @update:visible-statuses="refreshVisibleStatuses" />
     <div id="map" class="rounded-lg h-full w-full" />
     <img
       v-if="options.logo"
@@ -56,39 +56,16 @@ const {
   fitBounds
 } = useMap();
 
-const layers = ref({
-  done: true,
-  planned: true,
-  postponed: true,
-  unknown: true,
-  wip: true
-});
-
+const visibleStatuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
-    for (const [layer, enabled] of Object.entries(layers.value)) {
-      if (!enabled) {
-        switch (feature.properties.status) {
-          case 'variante':
-            if (layer === 'planned') {
-              return false;
-            }
-            break;
-
-          case 'variante-postponed':
-            if (layer === 'postponed') {
-              return false;
-            }
-            break;
-
-          case layer:
-            return false;
-        }
-      }
-    }
-    return true;
+    return visibleStatuses.value.includes(feature.properties.status);
   });
 });
+
+function refreshVisibleStatuses(newVisibleStatuses) {
+  visibleStatuses.value = newVisibleStatuses;
+}
 
 onMounted(() => {
   const map = new Map({
