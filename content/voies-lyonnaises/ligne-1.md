@@ -25,6 +25,7 @@ Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/croix-luizet.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 franchissant le canal de Jonage (Villeurbanne)
 credit: SYTRAL Mobilités
+streetView: 45.7832245,4.8937612,3a,75y,259.87h,90t
 ---
 ::
 
@@ -43,6 +44,7 @@ Les premiers travaux sur les réseaux débutent en février 2024, et s'enchainer
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/vaulx-en-velin.jpg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T9 - avenue Einstein (Villeurbanne)
 credit: SYTRAL Mobilités
+streetView: 45.7842013,4.8861424,3a,75y,259.87h,90t
 ---
 ::
 
@@ -66,6 +68,7 @@ La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bd-11-novembre.png
 caption: Aperçu de la Voie Lyonnaise 1 - boulevard du 11 Novembre 1918 (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon.
+streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 ---
 ::
 
@@ -95,6 +98,7 @@ Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassig
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png
 caption: Photo de la Voie Lyonnaise 1 - quai de Grande-Bretagne (Lyon 6)
+streetView: 45.7756491,4.8431614,3a,75y,14.38h,86.38t
 ---
 ::
 
@@ -121,6 +125,7 @@ Elle a été inaugurée début juillet 2022.
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg
 caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
+streetView: 45.7481215,4.8338698,3a,75y,42.05h,95.66t
 ---
 ::
 
@@ -148,6 +153,7 @@ Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-tony-garnier.png
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - avenue Tony Garnier (Lyon 7)
 credit: Ilex / SYTRAL Mobilités
+streetView: 45.7289473,4.824018,3a,75y,12.44h,92.69t
 ---
 ::
 
@@ -157,6 +163,7 @@ Sur le boulevard Carteret, la rue St-Jean-de-Dieu, le passage sous le périphér
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/bvd-sampaix.png
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - boulevard Sampaix (Saint-Fons)
 credit: Ilex / SYTRAL Mobilités
+streetView: 45.7125629,4.8448908,3a,75y,357.13h,90.44t
 ---
 ::
 
@@ -166,6 +173,7 @@ Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté S
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg
 caption: Aperçu de la Voie Lyonnaise 1 le long du tram T10 - rue Charles Plasse (Saint-Fons)
 credit: Ilex / SYTRAL Mobilité
+streetView: 45.7088794,4.8538795,3a,75y,320h,90t
 ---
 ::
 

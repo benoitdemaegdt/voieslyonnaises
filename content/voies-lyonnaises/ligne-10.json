@@ -21,6 +21,7 @@
         "line": 10,
         "name": "Boulevard du Valvert",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -114,6 +115,7 @@
         "line": 10,
         "name": "Porte du Valvert",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -138,6 +140,7 @@
         "line": 10,
         "name": "Rue Marietton",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -158,6 +161,7 @@
         "line": 10,
         "name": "Souvenir - Bourbonnais",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -185,6 +189,7 @@
         "line": 10,
         "name": "Place Valmy",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -202,6 +207,7 @@
         "line": 10,
         "name": "Rond-point Valmy",
         "status": "planned",
+        "type": "bilaterale",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -233,6 +239,7 @@
         "line": 10,
         "name": "Rue Roquette",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -259,6 +266,7 @@
         "line": 10,
         "name": "Carrefour des Monts d'Or",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -276,6 +284,7 @@
         "line": 10,
         "name": "Quai Jaÿr Sud",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -341,6 +350,7 @@
         "line": 10,
         "name": "Pont de Lattre de Tassigny",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -360,6 +370,7 @@
         "line": 10,
         "name": "Avenue Duquesne",
         "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -378,6 +389,7 @@
         "line": 10,
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -395,6 +407,7 @@
         "line": 10,
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-verguin-à-waldeck-rousseau"
       },
       "geometry": {
@@ -411,6 +424,7 @@
         "line": 10,
         "name": "Belges Centre",
         "status": "planned",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-verguin-à-waldeck-rousseau"
       },
       "geometry": {
@@ -461,6 +475,7 @@
         "line": 10,
         "name": "Belges de Fournet à Lafayette",
         "status": "planned",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-waldeck-rousseau-à-lafayette"
       },
       "geometry": {
@@ -498,14 +513,14 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Part-Dieu Sud en surface",
+        "name": "Part-Dieu Sud Vivier-Merle en surface",
         "status": "wip",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.861496065465587,45.75900941517938],
           [4.858218295708809,45.75873147556919],
           [4.857747630532799,45.761225942190066]
         ]
@@ -515,8 +530,26 @@
       "type": "Feature",
       "properties": {
         "line": 10,
+        "name": "Part-Dieu Sud Pompidou en surface",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.861496065465587,45.75900941517938],
+          [4.858218295708809,45.75873147556919]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
         "name": "Rue de la Villette",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#rue-de-la-villette-pompidou-à-paul-bert"
       },
       "geometry": {
@@ -535,6 +568,7 @@
         "line": 10,
         "name": "Avenue Lacassagne",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#avenue-lacassagne-paul-bert-à-dauphiné"
       },
       "geometry": {
@@ -558,6 +592,7 @@
         "line": 10,
         "name": "Dauphiné - Jules Verne",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -586,6 +621,7 @@
         "line": 10,
         "name": "Jules Verne - Reconnaissance Balzac",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -614,6 +650,7 @@
         "name": "Reconnaissance Balzac - variante 1",
         "status": "variante",
         "text": "variante 1",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -638,6 +675,7 @@
         "name": "Reconnaissance Balzac Sud",
         "status": "variante",
         "text": "variante 2",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -657,6 +695,7 @@
         "name": "Reconnaissance Balzac - variante 2",
         "status": "variante",
         "text": "variante 2",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -707,6 +746,7 @@
         "line": 10,
         "name": "Carrefour T6/T3",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -749,6 +789,7 @@
         "line": 10,
         "name": "Rue de la Ligne de l'Est",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -811,6 +852,7 @@
         "line": 10,
         "name": "Vaulx - La Soie",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -850,6 +892,7 @@
         "line": 10,
         "name": "Rue Marius Grosso & carrefour T9",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -885,6 +928,7 @@
         "line": 10,
         "name": "PUP D-Side",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -901,7 +945,8 @@
       "properties": {
         "line": 10,
         "name": "D-Side - Wilson",
-        "status": "planned",
+        "status": "planned",  
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -918,6 +963,7 @@
         "line": 10,
         "name": "Wilson - Berlioz",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -959,6 +1005,7 @@
         "line": 10,
         "name": "Michelet - Paul Bert",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -998,6 +1045,7 @@
         "line": 10,
         "name": "Carrefour Jean Jaurès",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1033,6 +1081,7 @@
         "line": 10,
         "name": "Arrêt Décines Centre",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1113,6 +1162,7 @@
         "line": 10,
         "name": "Grand Large - Route de Jonage",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1176,6 +1226,7 @@
         "line": 10,
         "name": "Avenue du Carreau - Meyzieu Gare",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1219,6 +1270,7 @@
         "line": 10,
         "name": "Avenue Libération - Rue Arago",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1264,6 +1316,7 @@
         "line": 10,
         "name": "Projet Arrêt T3 - Lycée Beltrame",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {

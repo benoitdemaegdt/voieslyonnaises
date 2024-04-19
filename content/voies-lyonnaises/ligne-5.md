@@ -134,7 +134,7 @@ La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le
 
 ### Tassin Nord
 #### Porte du Valvert
-Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidrectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérénisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
+Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidirectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérénisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
 
 #### Avenue Victor Hugo
 Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste cyclable bidirectionnelle de 3.50m côté Est de l'avenue Victor Hugo.

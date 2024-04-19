@@ -5,7 +5,7 @@ type LineStringFeature = {
   properties: {
     line: number;
     name: string;
-    status: string;
+    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
     doneAt?: string;
   };
   geometry: {
@@ -104,7 +104,7 @@ function getCrossIconUrl(color: string): string {
 }
 
 function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
-  const featuresByColor: any = {};
+  const featuresByColor: Record<string, Feature[]> = {};
   for (const feature of features) {
     const color = feature.properties.color;
 
@@ -146,21 +146,28 @@ export const useMap = () => {
     };
   }
 
+  function upsertMapSource(map: Map, sourceName: string, features: Feature[]) {
+    const source = map.getSource(sourceName) as GeoJSONSource;
+    if (source) {
+      source.setData({ type: 'FeatureCollection', features });
+      return true;
+    }
+    map.addSource(sourceName, {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features }
+    });
+    return false;
+  }
+
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
     const sections = features.map((feature, index) => ({ id: index, ...feature }));
 
     if (sections.length === 0 && !map.getLayer('highlight')) {
       return;
     }
-    const source = map.getSource('all-sections') as GeoJSONSource;
-    if (source) {
-      source.setData({ type: 'FeatureCollection', features: sections });
+    if (upsertMapSource(map, 'all-sections', sections)) {
       return;
     }
-    map.addSource('all-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
 
     map.addLayer({
       id: 'highlight',
@@ -226,15 +233,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('done-sections')) {
       return;
     }
-    const source = map.getSource('done-sections') as GeoJSONSource;
-    if (source) {
-      source.setData({ type: 'FeatureCollection', features: sections });
+    if (upsertMapSource(map, 'done-sections', sections)) {
       return;
     }
-    map.addSource('done-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
+
     map.addLayer({
       id: 'done-sections',
       type: 'line',
@@ -252,15 +254,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('wip-sections')) {
       return;
     }
-    const source = map.getSource('wip-sections') as GeoJSONSource;
-    if (source) {
-      source.setData({ type: 'FeatureCollection', features: sections });
+    if (upsertMapSource(map, 'wip-sections', sections)) {
       return;
     }
-    map.addSource('wip-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
+
     map.addLayer({
       id: 'wip-sections',
       type: 'line',
@@ -305,10 +302,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('planned-sections')) {
       return;
     }
-    map.addSource('planned-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
+    if (upsertMapSource(map, 'planned-sections', sections)) {
+      return;
+    }
+
     map.addLayer({
       id: 'planned-sections',
       type: 'line',
@@ -327,10 +324,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('variante-sections')) {
       return;
     }
-    map.addSource('variante-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
+    if (upsertMapSource(map, 'variante-sections', sections)) {
+      return;
+    }
+
     map.addLayer({
       id: 'variante-sections',
       type: 'line',
@@ -369,10 +366,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('variante-postponed-sections')) {
       return;
     }
-    map.addSource('variante-postponed-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
+    if (upsertMapSource(map, 'variante-postponed-sections', sections)) {
+      return;
+    }
+
     map.addLayer({
       id: 'variante-postponed-sections',
       type: 'line',
@@ -411,10 +408,10 @@ export const useMap = () => {
     if (sections.length === 0 && !map.getLayer('unknown-sections')) {
       return;
     }
-    map.addSource('unknown-sections', {
-      type: 'geojson',
-      data: { type: 'FeatureCollection', features: sections }
-    });
+    if (upsertMapSource(map, 'unknown-sections', sections)) {
+      return;
+    }
+
     map.addLayer({
       id: 'unknown-sections',
       type: 'line',
@@ -469,15 +466,17 @@ export const useMap = () => {
     const sections = features.filter(feature => feature.properties.status === 'postponed');
 
     if (sections.length === 0) {
+      for (let line = 1; line <= 12; line++) {
+        upsertMapSource(map, `postponed-sections-${getLineColor(line)}`, []);
+      }
       return;
     }
 
     const featuresByColor = groupFeaturesByColor(sections);
     for (const [color, sameColorFeatures] of Object.entries(featuresByColor)) {
-      map.addSource(`postponed-sections-${color}`, {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: sameColorFeatures }
-      });
+      if (upsertMapSource(map, `postponed-sections-${color}`, sameColorFeatures as Feature[])) {
+        continue;
+      }
 
       const iconUrl = getCrossIconUrl(color);
       map.loadImage(iconUrl, (error?: Error | null, image?: any) => {
@@ -531,13 +530,10 @@ export const useMap = () => {
     if (perspectives.length === 0) {
       return;
     }
-    map.addSource('perspectives', {
-      type: 'geojson',
-      data: {
-        type: 'FeatureCollection',
-        features: perspectives
-      }
-    });
+
+    if (upsertMapSource(map, 'perspectives', perspectives)) {
+      return;
+    }
 
     map.loadImage('/icons/camera.png', (error?: Error | null, image?: any) => {
       if (error) {
@@ -660,18 +656,17 @@ export const useMap = () => {
   }
 
   function plotFeatures({ map, features }: { map: Map; features: Feature[] }) {
-    const lineStringFeatures = features.filter(isLineStringFeature);
-    if (lineStringFeatures.length) {
-      const features = lineStringFeatures.sort(sortByLine).map(addLineColor);
-      plotUnderlinedSections({ map, features });
-      plotDoneSections({ map, features });
-      plotPlannedSections({ map, features });
-      plotVarianteSections({ map, features });
-      plotVariantePostponedSections({ map, features });
-      plotWipSections({ map, features });
-      plotUnknownSections({ map, features });
-      plotPostponedSections({ map, features });
-    }
+    const lineStringFeatures = features.filter(isLineStringFeature).sort(sortByLine).map(addLineColor);
+
+    plotUnderlinedSections({ map, features: lineStringFeatures });
+    plotDoneSections({ map, features: lineStringFeatures });
+    plotPlannedSections({ map, features: lineStringFeatures });
+    plotVarianteSections({ map, features: lineStringFeatures });
+    plotVariantePostponedSections({ map, features: lineStringFeatures });
+    plotWipSections({ map, features: lineStringFeatures });
+    plotUnknownSections({ map, features: lineStringFeatures });
+    plotPostponedSections({ map, features: lineStringFeatures });
+
     plotPerspective({ map, features });
     plotCompteurs({ map, features });
   }
