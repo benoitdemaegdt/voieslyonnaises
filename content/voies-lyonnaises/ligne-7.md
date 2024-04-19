@@ -38,11 +38,11 @@ Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyo
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.  
 
 ::banner{type="wip"}
-*Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.*
+Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.
 ::
 
 ***Avenue de l'Hippodrome et Chemin Petit***  
-Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidrectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
+Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 #### Voie de la Dombe
 Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable et salissant pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.  
@@ -85,6 +85,7 @@ Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur tro
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
 caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
 credit: Métropole de Lyon
+streetView: 45.7804136,4.8275125,3a,75y,37.09h,90t
 ---
 ::
 
@@ -157,6 +158,10 @@ credit: Ilex / Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux préalable au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024. Ils enchaineront avec les travaux d'aménagement en 2025.
+::
+
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.  
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Garibaldi_phase3.pdf)
 
@@ -173,6 +178,10 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud (Lyon 7)
 credit: Métropole de Lyon
 ---
+::
+
+::banner{type="wip"}
+Les travaux sur cette section ont commencé mi-avril 2024 et continueront jusqu'à la fin d'année 2024.
 ::
 
 #### Rue Paul Duvivier
@@ -204,6 +213,10 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png
 caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
 credit: Métropole de Lyon
 ---
+::
+
+::banner{type="wip"}
+Les travaux sur cette section ont commencé début avril 2024 et continueront jusqu'à l'automne 2024.
 ::
 
 #### Concertation

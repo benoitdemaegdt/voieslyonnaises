@@ -72,7 +72,7 @@ credit: Villes & Paysages / Métropole de Lyon
 
 #### Jonction vers Rhône Rive Droite et VL4
 A l'extrémité Sud du cours d'Herbouville, deux aménagements sont prévus pour assurer une continuité cyclable sécurisée :
- - vers la VL4, le tunnel mode doux et le pont De Lattre de Tassigny, en utilisant la rampe de jonction entre le quai et la pont. Le projet consiste en la création d'une piste cyclable bidirectionnelle à la place du stationnement existant.
+ - vers la VL4, le tunnel mode doux et le pont De Lattre de Tassigny, en utilisant la rampe de jonction entre le quai et le pont. Le projet consiste en la création d'une piste cyclable bidirectionnelle à la place du stationnement existant.
  - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davantage de traversées de carrefours aux extrémités.
 
 #### Concertation

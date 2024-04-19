@@ -21,7 +21,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 Sur cette rue aujourd'hui à fort trafic et sans aménagements cyclables, il est prévu d'aménager une piste cyclable bidirectionnelle de 2.50 à 4.00m de large côté Est de la chaussée, en lieu et place de la bande de stationnement et parfois d'une voie de circulation. Au niveau de la place Dumas de Loire, l'étroitesse ponctuelle de la rue nécessitera la mise en place d'un alternat routier de circulation.
 
 ::banner{type="info"}
-Cet aménagement très attendu permettra d'enfin sécuriser les déplacements des cyclistes entre la place Valmy et le pôle multimodal de Gorge de Loup.
+Cet aménagement très attendu permettra d'enfin sécuriser les déplacements des cyclistes entre la place Valmy et le pôle multimodal de Gorge de Loup. Les travaux auront lieu en 2026.
 ::
 
 ::content-image
@@ -58,7 +58,7 @@ Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy.
+Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Il sera d'abord expérimenté entre août 2024 et avril 2025.
 ::
 
 ::content-image
@@ -74,6 +74,10 @@ Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue
 
 En arrivant devant le métro Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
+::banner{type="wip"}
+Les travaux auront lieu en 2025.
+::
+
 ### Traversée de la Presqu'Île de Lyon
 Le projet prévoit de relier le pont Bonaparte sur la Saône avec le pont de la Guillotière sur le Rhône grâce à une piste cyclable bidirectionnelle de 3 à 4m de large aménagée côté Nord de la chaussée.
 
@@ -87,6 +91,9 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux auront lieu en 2025.
+::
 
 ### Pont de la Guillotière à Grange Blanche
 
@@ -97,7 +104,7 @@ L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
 ::banner{type="modified"}
-Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance.
+Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance. Les travaux auront lieu en 2025.
 ::
 
 ::content-image
@@ -120,7 +127,7 @@ credit: Métropole de Lyon
 Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller).
 
 ::banner{type="unsecured"}
-Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années.
+Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années. Les travaux auront lieu en 2025.
 ::
 
 ### Grange Blanche à Boulevard Pinel
@@ -139,6 +146,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="info"}
+Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation aura lieu entre fin 2024 et l'été 2025. Ailleurs, les travaux débuteront courant 2025.
+::
+
 ### Boulevard Pinel à Bron - Boutasse
 Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable bidirectionnelle existante de 3m de large le long du tramway entre en conflit avec les piétons à chaque arrêt. Le projet prévoit donc de rendre cet espace aux piétons et d'aménager une nouvelle piste bidirectionnelle de 4m de large sur le côté Nord de la chaussée actuelle, en réduisant la circulation automobile à 2x1 voies au lieu de 2x2 voies aujourd'hui.
 
@@ -153,6 +164,10 @@ credit: Métropole de Lyon
 La traversée du périphérique sera améliorée avec la suppression d'une des 3 voies de circulation côté Nord, permettant d'élargir le trottoir étroit et de créer une piste cyclable bidirectionnelle de 4m de large. Côté Bron, la voie d'insertion sur le périphérique depuis l'Est sera modifiée pour être régulée par feux.
 
 Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolition des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefour à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
+
+::banner{type="wip"}
+Les travaux auront lieu en 2026.
+::
 
 ### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.

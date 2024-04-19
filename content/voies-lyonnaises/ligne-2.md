@@ -73,7 +73,7 @@ L'ouverture du tronçon à la circulation est inauguré le 5 avril 2024.
 Cette partie fera l'objet de la création d'une piste cyclable bidirectionnelle de 3.50 à 4.00m de large en lieu et place d'une voie de circulation ou de stationnement. Elle se connectera aux pistes cyclables bilatérales existantes sur le cours Vitton grace à un nouveau carrefour hollandais. Une partie du stationnement supprimé fera l'objet de végétalisation.
 
 ::banner{type="wip"}
-Les travaux sur cette section ont débuté à la fin de l'été 2023 et s'étendent jusqu'à fin mars 2024.
+Les travaux sur cette section ont débuté à la fin de l'été 2023 et se sont terminés début avril 2024.
 ::
 
 #### Boulevard des Belges
@@ -88,15 +88,15 @@ Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tron
 ::
 
 ::banner{type="info"}
-La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu au second semestre 2024.
+La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu début 2025.
 ::
 
 #### Tunnel Vivier-Merle
 La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la gare de la Part-Dieu qui a ouvert en 2020. Une des deux voies de circulation actuelle, côté Ouest, sera transformée en piste cyclable bidirectionnelle de 2.50 à 3.00m de large.  
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.  
 
-::banner{type="info"}
-L'aménagement d'un tunnel routier nécessite des autorisations spécifiques de l'Etat, et les travaux seront décalés par rapport au reste de la ligne, avec une échéance probable courant 2025.
+::banner{type="wip"}
+Les travaux auront lieu entre l'automne 2024 et le printemps 2025.
 ::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
@@ -117,7 +117,7 @@ credit: Métropole de Lyon
 ::banner{type="wip"}
 Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.  
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.  
-Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024.
+Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restera à aménager sur la fin d'année 2024.
 ::
 
 #### *Concertation*
@@ -135,7 +135,7 @@ La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.
 La voie lyonnaise empruntera l'avenue Berthelot sur 300m en y aménageant une piste cyclable bidirectionnelle de 3m de large côté Sud, en lieu et place d'une des 3 voies de circulation.
 
 ::banner{type="wip"}
-Les travaux sur cette section auront probablement lieu à l'été 2024.
+Les travaux sur cette section auront lieu entre l'été 2024 et début 2025.
 ::
 
 #### Boulevard des États-Unis
@@ -151,11 +151,13 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux de ce tronçon ont commencé fin mars 2024 et continueront jusqu'à l'été 2025.
+Les travaux entre la rue Sarrazin et l'avenue Viviani ont commencé fin mars 2024 et continueront jusqu'à l'été 2024.  
+Les travaux entre la rue Cazeneuve et la rue Sarrazin commenceront en août 2024 jusqu'au printemps 2025.  
+Les travaux entre l'avenue Berthelot et la rue Cazeneuve auront lieu au premier semestre 2025.
 ::
 
 #### Avenue Viviani
-Sur cette large avenue, la voie lyonnaise n°2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
+Sur cette large avenue, la Voie Lyonnaise 2 serait insérée sous la forme d'une piste bidirectionnelle de 4m de large à la place de la voie de circulation actuelle au Nord. Elle entrainera la suppression du stationnement qui fera l'objet d'une vaste opération de végétalisation. La voie de circulation actuelle au Sud sera requalifiée en voie à double-sens de circulation, avec maintien du stationnement actuel.
 
 ::content-image
 ---
