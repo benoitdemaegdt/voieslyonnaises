@@ -33,6 +33,7 @@
         "line": 9,
         "name": "Jonage",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#jonage-chemin-de-halage"
       },
       "geometry": {
@@ -71,6 +72,7 @@
         "name": "Canal de Jonage - variante Nord",
         "status": "variante",
         "text": "variante nord",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
       },
       "geometry": {
@@ -148,6 +150,7 @@
         "name": "Canal de Jonage - variante Sud",
         "status": "variante",
         "text": "variante sud",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
       },
       "geometry": {
@@ -219,6 +222,7 @@
         "line": 9,
         "name": "Digue EDF",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#digue-edf-le-long-du-grand-large"
       },
       "geometry": {
@@ -323,6 +327,7 @@
         "line": 9,
         "name": "Parc de Miribel",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#allée-du-morlet"
       },
       "geometry": {
@@ -363,6 +368,7 @@
         "line": 9,
         "name": "Le long de l'A42",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
       },
       "geometry": {
@@ -440,6 +446,7 @@
         "line": 9,
         "name": "Croix Luizet",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -467,6 +474,7 @@
         "line": 9,
         "name": "Einstein Est",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -484,6 +492,7 @@
         "line": 9,
         "name": "Einstein INSA",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -501,6 +510,7 @@
         "line": 9,
         "name": "Einstein Ouest",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -522,6 +532,7 @@
         "line": 9,
         "name": "Boulevard du 11 Nov. 1918",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -566,6 +577,7 @@
         "line": 9,
         "name": "Avenue Verguin",
         "status": "planned",
+        "type": "bilaterale",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -583,6 +595,7 @@
         "line": 9,
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -600,6 +613,7 @@
         "line": 9,
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -617,6 +631,7 @@
         "line": 9,
         "name": "Garibaldi - Duquesne Vauban",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -713,6 +728,7 @@
         "line": 9,
         "name": "Garibaldi - Arménie Gde Rue Guill",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -743,6 +759,7 @@
         "line": 9,
         "name": "Garibaldi - Blandan",
         "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -765,6 +782,7 @@
         "line": 9,
         "name": "Garibaldi - CROUS",
         "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -782,6 +800,7 @@
         "line": 9,
         "name": "Rue Marc Bloch",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -807,6 +826,7 @@
         "line": 9,
         "name": "Avenue Jean Jaurès",
         "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-9#avenue-jean-jaurès"
       },
       "geometry": {
@@ -868,6 +888,7 @@
         "line": 9,
         "name": "Passerelle Oullins-Gerland",
         "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-9#franchissement-du-rhône"
       },
       "geometry": {
@@ -914,6 +935,7 @@
         "name": "Berge Yzeron Ouest - scénario A",
         "status": "variante",
         "text": "variante A",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -940,6 +962,7 @@
         "name": "Oullins Herriot",
         "status": "variante",
         "text": "variante A",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -960,6 +983,7 @@
         "name": "Parc Chabrières-Arles - scénario A",
         "status": "variante",
         "text": "variante A",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -998,6 +1022,7 @@
         "name": "Yzeron - Gare Oullins",
         "status": "variante",
         "text": "variante B",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1019,6 +1044,7 @@
         "name": "Rue Sémard & Avenue du Rhône - scénario B",
         "status": "variante",
         "text": "variante B",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1047,6 +1073,7 @@
         "name": "Boulevard Emile Zola Est - Scénario B",
         "status": "variante",
         "text": "variante B",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1076,6 +1103,7 @@
         "line": 9,
         "name": "Boulevard de l'Yzeron",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1112,6 +1140,7 @@
         "line": 9,
         "name": "Boulevard Emile Zola Ouest",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1135,6 +1164,7 @@
         "line": 9,
         "name": "Parc de l'Yzeron",
         "status": "planned",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1171,6 +1201,7 @@
         "line": 9,
         "name": "Rue de Merlo",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
@@ -1196,6 +1227,7 @@
         "line": 9,
         "name": "Avenue de l'Aqueduc de Beaunant",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {

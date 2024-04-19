@@ -117,7 +117,8 @@ function checkGeoJsonDataHealth({ links }) {
                     'voie-verte',
                     'bandes-cyclables',
                     'zone-de-rencontre',
-                    'inconnu'
+                    'inconnu',
+                    'aucun'
                   ];
                   if (!validTypes.includes(properties.type)) {
                     console.error(`Invalid type '${properties.type}' in LineString properties of file: ${filePath}`);

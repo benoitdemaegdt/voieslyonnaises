@@ -522,6 +522,7 @@
         "line": 2,
         "name": "Boulevard des États-Unis Nord",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
@@ -538,6 +539,7 @@
         "line": 2,
         "name": "Boulevard des États-Unis Centre",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
@@ -554,6 +556,7 @@
         "line": 2,
         "name": "Boulevard des États-Unis Sud",
         "status": "wip",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
       "geometry": {
@@ -660,6 +663,7 @@
         "line": 2,
         "name": "Ancienne Route d'Heyrieux Ouest",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
@@ -679,6 +683,7 @@
         "line": 2,
         "name": "Ancienne Route d'Heyrieux Est",
         "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
@@ -696,6 +701,7 @@
         "line": 2,
         "name": "Parc de Parilly",
         "status": "planned",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
       "geometry": {
