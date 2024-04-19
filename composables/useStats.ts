@@ -154,6 +154,18 @@ export const useStats = () => {
     };
   }
 
+  const typologyNames = {
+    bidirectionnelle: 'Piste cyclable bidirectionnelle',
+    bilaterale: 'Piste cyclable bilatérale',
+    'voie-bus': 'Voie bus',
+    'voie-bus-elargie': 'Voie bus élargie',
+    velorue: 'Vélorue',
+    'voie-verte': 'Voie verte',
+    'bandes-cyclables': 'Bandes cyclables',
+    'zone-de-rencontre': 'Zone de rencontre',
+    aucun: 'Aucun'
+  };
+
   function getStatsByTypology(voies: Geojson[]) {
     const features = getAllUniqLineStrings(voies);
     const totalDistance = getDistance({ features });
@@ -163,21 +175,9 @@ export const useStats = () => {
       return Math.round((distance / totalDistance) * 100);
     }
 
-    const names = {
-      bidirectionnelle: 'Piste cyclable bidirectionnelle',
-      bilaterale: 'Piste cyclable bilatérale',
-      'voie-bus': 'Voie bus',
-      'voie-bus-elargie': 'Voie bus élargie',
-      velorue: 'Vélorue',
-      'voie-verte': 'Voie verte',
-      'bandes-cyclables': 'Bandes cyclables',
-      'zone-de-rencontre': 'Zone de rencontre',
-      aucun: 'Aucun'
-    };
-
     const stats = [];
     let unknownPercent = 100;
-    for (const [type, name] of Object.entries(names)) {
+    for (const [type, name] of Object.entries(typologyNames)) {
       const features = doneFeatures.filter(feature => feature.properties.type === type);
       if (!features.length) {
         continue;
@@ -210,6 +210,7 @@ export const useStats = () => {
     getStats,
     getStatsByTypology,
     displayDistanceInKm,
-    displayPercent
+    displayPercent,
+    typologyNames
   };
 };
