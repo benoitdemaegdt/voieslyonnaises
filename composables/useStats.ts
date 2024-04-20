@@ -167,9 +167,8 @@ export const useStats = () => {
   };
 
   function getStatsByTypology(voies: Geojson[]) {
-    const features = getAllUniqLineStrings(voies);
-    const totalDistance = getDistance({ features });
-    const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+    const lineStringFeatures = getAllUniqLineStrings(voies);
+    const totalDistance = getDistance({ features: lineStringFeatures });
 
     function getPercent(distance: number) {
       return Math.round((distance / totalDistance) * 100);
@@ -178,7 +177,7 @@ export const useStats = () => {
     const stats = [];
     let unknownPercent = 100;
     for (const [type, name] of Object.entries(typologyNames)) {
-      const features = doneFeatures.filter(feature => feature.properties.type === type);
+      const features = lineStringFeatures.filter(feature => feature.properties.type === type);
       if (!features.length) {
         continue;
       }
