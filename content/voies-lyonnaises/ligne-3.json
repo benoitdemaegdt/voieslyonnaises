@@ -96,9 +96,40 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Route du Grand Veissieux",
+        "name": "Grand Veissieux",
         "status": "postponed",
         "type": "aucun",
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.756645063144873, 45.920550538651355],
+          [4.7552787242343015, 45.921310452182894],
+          [4.75487526818867, 45.921489296492524],
+          [4.75458815374401, 45.92159609588293],
+          [4.75388056189729, 45.921890205231904],
+          [4.753643021066409, 45.921976010283345],
+          [4.75326123519028, 45.92206413650226],
+          [4.752851592644504, 45.922096447558374],
+          [4.752008477620052, 45.922131807266084],
+          [4.75175230554305, 45.922201885885755],
+          [4.751524472519691, 45.922290773488925],
+          [4.75132517112047, 45.92240550380731],
+          [4.751118599898859, 45.92256978749455],
+          [4.750948506540368, 45.922727663654],
+          [4.750768709647247, 45.92293498127276],
+          [4.750464825916424, 45.92315474009709]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Route du Grand Veissieux",
+        "status": "postponed",
+        "type": "bandes-cyclables",
         "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -128,22 +159,7 @@
           [4.759144625282261, 45.9192398176732],
           [4.758865790903087, 45.919328751574],
           [4.757710645131169, 45.91991163864279],
-          [4.756645063144873, 45.920550538651355],
-          [4.7552787242343015, 45.921310452182894],
-          [4.75487526818867, 45.921489296492524],
-          [4.75458815374401, 45.92159609588293],
-          [4.75388056189729, 45.921890205231904],
-          [4.753643021066409, 45.921976010283345],
-          [4.75326123519028, 45.92206413650226],
-          [4.752851592644504, 45.922096447558374],
-          [4.752008477620052, 45.922131807266084],
-          [4.75175230554305, 45.922201885885755],
-          [4.751524472519691, 45.922290773488925],
-          [4.75132517112047, 45.92240550380731],
-          [4.751118599898859, 45.92256978749455],
-          [4.750948506540368, 45.922727663654],
-          [4.750768709647247, 45.92293498127276],
-          [4.750464825916424, 45.92315474009709]
+          [4.756645063144873, 45.920550538651355]
         ]
       }
     },
@@ -298,7 +314,7 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Couzon - Neuville-sur-Saône",
+        "name": "Albigny-sur-Saône",
         "status": "planned",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
@@ -766,7 +782,7 @@
         "line": 3,
         "name": "Quai de la Libération",
         "status": "planned",
-        "type": "inconnu",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
@@ -849,7 +865,7 @@
         "line": 3,
         "name": "Quai Sémard - Péri Yzeron",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#quai-pierre-sémard"
       },
       "geometry": {
@@ -964,7 +980,7 @@
         "line": 3,
         "name": "Pierre Bénite Nord",
         "status": "planned",
-        "type": "bilaterale",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
@@ -984,7 +1000,7 @@
         "line": 3,
         "name": "Boulevard de l'Europe",
         "status": "planned",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
@@ -1009,7 +1025,7 @@
         "line": 3,
         "name": "Traversée A450",
         "status": "planned",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {

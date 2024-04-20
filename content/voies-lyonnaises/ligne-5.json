@@ -265,7 +265,7 @@
         "line": 5,
         "name": "Boulevard de l'Europe",
         "status": "planned",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -290,7 +290,7 @@
         "line": 5,
         "name": "Pierre Bénite Nord",
         "status": "planned",
-        "type": "bilaterale",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -366,7 +366,7 @@
         "name": "Yzeron - Gare Oullins",
         "status": "variante",
         "text": "variante A",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -676,7 +676,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "name": "Avenue Paul Dailly Nord",
+        "name": "Ste-Foy - Avenue Paul Dailly",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bilaterale",
@@ -697,7 +697,7 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "name": "Sainte-Foy Limburg - Francheville Chantegrillet",
+        "name": "Ste-Foy - Route de la Libération",
         "status": "postponed",
         "type": "voie-bus",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
@@ -726,27 +726,9 @@
       "type": "Feature",
       "properties": {
         "line": 5,
-        "name": "Francheville Chantegrillet - Chater",
+        "name": "Francheville - Avenue du Chater",
         "status": "postponed",
         "type": "aucun",
-        "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.772668158273756, 45.74043663286485],
-          [4.772940559272229, 45.73951568952191],
-          [4.7735109560539115, 45.73820039910785]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 5,
-        "name": "Francheville Chater - Alaï",
-        "status": "postponed",
-        "type": "voie-bus",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
       },
       "geometry": {
@@ -769,7 +751,9 @@
           [4.7720640394903455, 45.74304950575683],
           [4.77229585537313, 45.74190168557226],
           [4.772530415983823, 45.74082499068234],
-          [4.772668158273756, 45.74043663286485]
+          [4.772668158273756, 45.74043663286485],
+          [4.772940559272229, 45.73951568952191],
+          [4.7735109560539115, 45.73820039910785]
         ]
       }
     },
@@ -798,7 +782,7 @@
         "name": "Place de l'Horloge",
         "status": "done",
         "doneAt": "15/12/2023",
-        "type": "bidirectionnelle",
+        "type": "bilaterale",
         "link": "/voie-lyonnaise-5#place-vauboin-place-de-lhorloge"
       },
       "geometry": {
@@ -968,7 +952,7 @@
         "line": 5,
         "name": "Place Valmy",
         "status": "planned",
-        "type": "velorue",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-5#rue-du-sergent-michel-berthet-le-long-de-la-place-valmy"
       },
       "geometry": {

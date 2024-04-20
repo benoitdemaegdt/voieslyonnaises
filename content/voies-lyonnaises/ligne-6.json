@@ -506,7 +506,7 @@
         "line": 6,
         "name": "Quai de la Libération",
         "status": "planned",
-        "type": "inconnu",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -599,7 +599,7 @@
         "line": 6,
         "name": "Pont d'Oullins",
         "status": "planned",
-        "type": "aucun",
+        "type": "inconnu",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -643,7 +643,7 @@
         "line": 6,
         "name": "Scénario 2 - Grande Rue Sud - sens Sud>Nord",
         "status": "postponed",
-        "type": "voie-bus",
+        "type": "aucun",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -662,7 +662,7 @@
         "name": "Scénario 2 - Grande Rue",
         "status": "variante",
         "text": "variante 2",
-        "type": "voie-bus",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -727,7 +727,7 @@
         "line": 6,
         "name": "Scénario 2 - rue de la Camille - sens Nord>Sud",
         "status": "postponed",
-        "type": "bilaterale",
+        "type": "aucun",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -804,7 +804,7 @@
         "name": "Scénario 1 - rue Léon Bourgeois",
         "status": "variante",
         "text": "variante 1",
-        "type": "aucun",
+        "type": "bandes-cyclables",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {

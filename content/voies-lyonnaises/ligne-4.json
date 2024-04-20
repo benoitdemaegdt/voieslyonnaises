@@ -70,7 +70,68 @@
       "type": "Feature",
       "properties": {
         "line": 4,
-        "name": "RN6 Lissieu - Dardilly Nord",
+        "name": "Lissieu - Chicotière à Gare",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.736534408609657, 45.84084697140173],
+          [4.73554502310634, 45.84202622940239],
+          [4.73382237202344, 45.84437393967451],
+          [4.7336442653702875, 45.84465442189665]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "name": "Lissieu Gare - Dardilly Clairière",
+        "status": "planned",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.743942279067625, 45.836874938060845],
+          [4.742240164367473, 45.83775915464577],
+          [4.7400362673866425, 45.83886383898144],
+          [4.737463899415047, 45.840170279839384],
+          [4.736534408609657, 45.84084697140173]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "name": "Contre-allée Clairière",
+        "status": "planned",
+        "type": "velorue",
+        "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.74584111274509,45.835991784527444],
+          [4.745661583176126, 45.835922179373284],
+          [4.745527674164654, 45.835895270696795],
+          [4.745391537283623, 45.83595640189064],
+          [4.745335405373346, 45.836106750711856],
+          [4.745007253471949, 45.83631346472582],
+          [4.743942279067625, 45.836874938060845]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "name": "Dardilly - Clairière à Maison Carrée",
         "status": "planned",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
@@ -107,21 +168,8 @@
           [4.747471076162526, 45.83497482585281],
           [4.746796493945425, 45.835430225111054],
           [4.746486810763599, 45.83559701173027],
-          [4.7461321931019, 45.8357245380018],
-          [4.74584111274509, 45.835874966586495],
-          [4.745661583176126, 45.835922179373284],
-          [4.745527674164654, 45.835895270696795],
-          [4.745391537283623, 45.83595640189064],
-          [4.745335405373346, 45.836106750711856],
-          [4.745007253471949, 45.83631346472582],
-          [4.742588959632911, 45.83758390756191],
-          [4.742240164367473, 45.83775915464577],
-          [4.7400362673866425, 45.83886383898144],
-          [4.737463899415047, 45.840170279839384],
-          [4.736534408609657, 45.84084697140173],
-          [4.73554502310634, 45.84202622940239],
-          [4.73382237202344, 45.84437393967451],
-          [4.7336442653702875, 45.84465442189665]
+          [4.746193671936496,45.83577126532843],
+          [4.74584111274509,45.835991784527444]
         ]
       }
     },
@@ -162,7 +210,30 @@
       "type": "Feature",
       "properties": {
         "line": 4,
-        "name": "RN6 Techlid",
+        "name": "Limonest - RN6 Techlid",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-chemin-de-st-didier"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.7851574420928955, 45.80182713785651],
+          [4.782003164291382, 45.80471415962839],
+          [4.776670932769775, 45.81339676121456],
+          [4.776746034622192, 45.81363605578701],
+          [4.776424169540405, 45.81379309229141],
+          [4.775898456573486, 45.81481755766705],
+          [4.774643182754517, 45.81589434767391],
+          [4.766709623856144, 45.821447510919]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 4,
+        "name": "Champagne - Avenue De Gaulle",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-chemin-de-st-didier"
@@ -174,14 +245,7 @@
           [4.785575866699219, 45.80146063993546],
           [4.785650968551636, 45.801670067614126],
           [4.785436391830444, 45.8018196583312],
-          [4.7851574420928955, 45.80182713785651],
-          [4.782003164291382, 45.80471415962839],
-          [4.776670932769775, 45.81339676121456],
-          [4.776746034622192, 45.81363605578701],
-          [4.776424169540405, 45.81379309229141],
-          [4.775898456573486, 45.81481755766705],
-          [4.774643182754517, 45.81589434767391],
-          [4.766709623856144, 45.821447510919]
+          [4.7851574420928955, 45.80182713785651]
         ]
       }
     },
@@ -212,7 +276,7 @@
         "line": 4,
         "name": "Champagne - République Mairie",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
       },
       "geometry": {
@@ -391,7 +455,7 @@
         "line": 4,
         "name": "Bourgogne Sud",
         "status": "planned",
-        "type": "aucun",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-4#rue-de-bourgogne"
       },
       "geometry": {
@@ -587,7 +651,7 @@
         "line": 4,
         "name": "Avenue Verguin",
         "status": "planned",
-        "type": "bilaterale",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-4#avenue-verguin"
       },
       "geometry": {

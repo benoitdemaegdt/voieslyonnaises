@@ -189,7 +189,7 @@
         "line": 10,
         "name": "Place Valmy",
         "status": "planned",
-        "type": "velorue",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
