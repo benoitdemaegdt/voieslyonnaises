@@ -16,7 +16,9 @@
         <DialogTitle class="text-lg font-medium leading-6 text-gray-900">
           Légende
         </DialogTitle>
+
         <div class="mt-2">
+          <h3>Statuts</h3>
           <div class="grid grid-cols-[64px_1fr] gap-x-4">
             <div class="my-auto rounded-md border-gray-500 border">
               <div class="h-1 relative">
@@ -27,7 +29,7 @@
             </div>
             <div>
               <label>
-                <input v-model="legendItems.planned.isEnable" type="checkbox">
+                <input v-model="legendStatuses.planned.isEnable" type="checkbox">
                 prévu pour 2026
               </label>
             </div>
@@ -37,7 +39,7 @@
             </div>
             <div>
               <label>
-                <input v-model="legendItems.done.isEnable" type="checkbox">
+                <input v-model="legendStatuses.done.isEnable" type="checkbox">
                 terminé
               </label>
             </div>
@@ -51,7 +53,7 @@
             </div>
             <div>
               <label>
-                <input v-model="legendItems.wip.isEnable" type="checkbox">
+                <input v-model="legendStatuses.wip.isEnable" type="checkbox">
                 en travaux
               </label>
             </div>
@@ -63,7 +65,7 @@
             </div>
             <div>
               <label>
-                <input v-model="legendItems.unknown.isEnable" type="checkbox">
+                <input v-model="legendStatuses.unknown.isEnable" type="checkbox">
                 linéaire inconnu
               </label>
             </div>
@@ -76,8 +78,93 @@
             </div>
             <div>
               <label>
-                <input v-model="legendItems.postponed.isEnable" type="checkbox">
+                <input v-model="legendStatuses.postponed.isEnable" type="checkbox">
                 reporté après 2026
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-2">
+          <h3>Typologie</h3>
+          <div class="grid grid-cols-[64px_1fr] gap-x-4">
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes.bidirectionnelle.isEnable" type="checkbox">
+                Piste cyclable bidirectionnelle
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes.bilaterale.isEnable" type="checkbox">
+                Piste cyclable bilatérale
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes['voie-bus'].isEnable" type="checkbox">
+                Voie bus
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes['voie-bus-elargie'].isEnable" type="checkbox">
+                Voie bus élargie
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes.velorue.isEnable" type="checkbox">
+                Vélorue
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes['voie-verte'].isEnable" type="checkbox">
+                Voie verte
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes['bandes-cyclables'].isEnable" type="checkbox">
+                Bandes cyclables
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes['zone-de-rencontre'].isEnable" type="checkbox">
+                Zone de rencontre
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes.aucun.isEnable" type="checkbox">
+                Aucun
+              </label>
+            </div>
+
+            <div />
+            <div>
+              <label>
+                <input v-model="legendTypes.inconnu.isEnable" type="checkbox">
+                Inconnu
               </label>
             </div>
           </div>
@@ -103,7 +190,7 @@ defineExpose({
   openModal
 });
 
-const legendItems = ref({
+const legendStatuses = ref({
   planned: {
     isEnable: true,
     statuses: ['planned', 'variante']
@@ -126,14 +213,65 @@ const legendItems = ref({
   }
 });
 
-const emit = defineEmits(['update:visibleStatuses']);
+const legendTypes = ref({
+  bidirectionnelle: {
+    isEnable: true,
+    types: ['bidirectionnelle']
+  },
+  bilaterale: {
+    isEnable: true,
+    types: ['bilaterale']
+  },
+  'voie-bus': {
+    isEnable: true,
+    types: ['voie-bus']
+  },
+  'voie-bus-elargie': {
+    isEnable: true,
+    types: ['voie-bus-elargie']
+  },
+  velorue: {
+    isEnable: true,
+    types: ['velorue']
+  },
+  'voie-verte': {
+    isEnable: true,
+    types: ['voie-verte']
+  },
+  'bandes-cyclables': {
+    isEnable: true,
+    types: ['bandes-cyclables']
+  },
+  'zone-de-rencontre': {
+    isEnable: true,
+    types: ['zone-de-rencontre']
+  },
+  aucun: {
+    isEnable: true,
+    types: ['aucun']
+  },
+  inconnu: {
+    isEnable: true,
+    types: ['inconnu']
+  }
+});
 
-watch(legendItems, () => {
-  const visibleStatuses = Object.values(legendItems.value)
+const emit = defineEmits(['update:visibleStatuses', 'update:visibleTypes']);
+
+watch(legendStatuses, () => {
+  const visibleStatuses = Object.values(legendStatuses.value)
     .filter(item => item.isEnable)
     .flatMap(item => item.statuses);
 
   emit('update:visibleStatuses', visibleStatuses);
+}, { deep: true });
+
+watch(legendTypes, () => {
+  const visibleTypes = Object.values(legendTypes.value)
+    .filter(item => item.isEnable)
+    .flatMap(item => item.types);
+
+  emit('update:visibleTypes', visibleTypes);
 }, { deep: true });
 
 </script>

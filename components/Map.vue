@@ -1,6 +1,10 @@
 <template>
   <div class="relative">
-    <LegendModal ref="legendModalComponent" @update:visible-statuses="refreshVisibleStatuses" />
+    <LegendModal
+      ref="legendModalComponent"
+      @update:visible-statuses="refreshVisibleStatuses"
+      @update:visible-types="refreshVisibleTypes"
+    />
     <div id="map" class="rounded-lg h-full w-full" />
     <img
       v-if="options.logo"
@@ -57,14 +61,31 @@ const {
 } = useMap();
 
 const visibleStatuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
+const visibleTypes = ref([
+  'bidirectionnelle',
+  'bilaterale',
+  'voie-bus',
+  'voie-bus-elargie',
+  'velorue',
+  'voie-verte',
+  'bandes-cyclables',
+  'zone-de-rencontre',
+  'aucun',
+  'inconnu'
+]);
+
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
-    return visibleStatuses.value.includes(feature.properties.status);
+    return visibleStatuses.value.includes(feature.properties.status) && visibleTypes.value.includes(feature.properties.type);
   });
 });
 
 function refreshVisibleStatuses(newVisibleStatuses) {
   visibleStatuses.value = newVisibleStatuses;
+}
+
+function refreshVisibleTypes(newVisibleTypes) {
+  visibleTypes.value = newVisibleTypes;
 }
 
 onMounted(() => {
