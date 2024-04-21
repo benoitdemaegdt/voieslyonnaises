@@ -464,7 +464,7 @@
         "line": 12,
         "name": "Place d'Arsonval",
         "status": "postponed",
-        "type": "bidirectionnelle",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-12#place-darsonval"
       },
       "geometry": {

@@ -424,7 +424,7 @@
         "line": 10,
         "name": "Belges Centre",
         "status": "planned",
-        "type": "voie-bus",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-verguin-à-waldeck-rousseau"
       },
       "geometry": {
@@ -513,9 +513,9 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Part-Dieu Sud Vivier-Merle en surface",
+        "name": "Part-Dieu Sud en surface",
         "status": "wip",
-        "type": "voie-bus",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
       },
       "geometry": {
@@ -530,7 +530,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Part-Dieu Sud Pompidou en surface",
+        "name": "Part-Dieu - Passage Pompidou",
         "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
@@ -695,7 +695,7 @@
         "name": "Reconnaissance Balzac - variante 2",
         "status": "variante",
         "text": "variante 2",
-        "type": "bidirectionnelle",
+        "type": "bilaterale",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -787,24 +787,14 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Rue de la Ligne de l'Est",
+        "name": "Rue de la Ligne de l'Est - Ouest",
         "status": "planned",
-        "type": "velorue",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.91003452255012, 45.758288674315594],
-          [4.909231777744395, 45.75817991279689],
-          [4.908321332074877, 45.75806019531862],
-          [4.908005419194154, 45.75802388231381],
-          [4.907954787794438, 45.757990093146276],
-          [4.907743456737393, 45.75796551919322],
-          [4.907598166634386, 45.75796551919322],
-          [4.905904208520951, 45.757738122250174],
-          [4.903957518651964, 45.757474352145834],
-          [4.902434280232143, 45.75726858593299],
           [4.902013276289523, 45.75721308118304],
           [4.902013148798176, 45.757213210629004],
           [4.901917824797948, 45.757198444290424],
@@ -823,6 +813,84 @@
           [4.895266609649525, 45.75629433901989]
         ]
       }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Rue de la Ligne de l'Est étroite",
+        "status": "planned",
+        "type": "velorue",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.903646330172222, 45.75742981566225],
+          [4.902434280232143, 45.75726858593299],
+          [4.902013276289523, 45.75721308118304]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Rue de la Ligne de l'Est Sider",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.907743456737393, 45.75796551919322],
+          [4.907598166634386, 45.75796551919322],
+          [4.905904208520951, 45.757738122250174],
+          [4.903646330172222, 45.75742981566225]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Rue de la Ligne de l'Est - Médipôle",
+        "status": "planned",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.91003452255012, 45.758288674315594],
+          [4.909231777744395, 45.75817991279689],
+          [4.908321332074877, 45.75806019531862],
+          [4.908005419194154, 45.75802388231381],
+          [4.907954787794438, 45.757990093146276],
+          [4.907743456737393, 45.75796551919322]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Bel Air - Site SAFRAN",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.916397405236523, 45.75955720240674],
+          [4.91377828315737, 45.75890013761463],
+          [4.913307669774781, 45.75879966867183],
+          [4.91003452255012, 45.758288674315594]
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -838,21 +906,17 @@
         "type": "LineString",
         "coordinates": [
           [4.920411643683792, 45.760562378164224],
-          [4.916397405236523, 45.75955720240674],
-          [4.916397405236523, 45.75955720240674],
-          [4.91377828315737, 45.75890013761463],
-          [4.913307669774781, 45.75879966867183],
-          [4.91003452255012, 45.758288674315594]
+          [4.916397405236523, 45.75955720240674]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
         "line": 10,
         "name": "Vaulx - La Soie",
         "status": "planned",
-        "type": "velorue",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -908,7 +972,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "BUE - Roosevelt",
+        "name": "BUE à Avenue Roosevelt",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
@@ -963,7 +1027,7 @@
         "line": 10,
         "name": "Wilson - Berlioz",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -986,7 +1050,7 @@
         "name": "Berlioz - Michelet",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1005,7 +1069,7 @@
         "line": 10,
         "name": "Michelet - Paul Bert",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1045,7 +1109,7 @@
         "line": 10,
         "name": "Carrefour Jean Jaurès",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1063,7 +1127,7 @@
         "name": "Rue Emile Bertrand",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1081,7 +1145,7 @@
         "line": 10,
         "name": "Arrêt Décines Centre",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1099,7 +1163,42 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Décines - Centre à Grand Large",
+        "name": "Décines - Rue du Sablon",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.9670759442512065, 45.77722848651163],
+          [4.966887302069296, 45.7771833013569],
+          [4.966797744669236, 45.777140774118664],
+          [4.9667024708388965, 45.77712482639606],
+          [4.9666649858782534, 45.77707175110626],
+          [4.9664086544294435, 45.77694694307996],
+          [4.965616831972625, 45.77663517852653],
+          [4.964259806458614, 45.77609248001227],
+          [4.963326606851069, 45.77571407950205],
+          [4.962085495911396, 45.77522177541553],
+          [4.961808753741536, 45.775109991440274],
+          [4.961569514712323, 45.775034928712245],
+          [4.9614585415270085, 45.77499127050092],
+          [4.961244021848529, 45.77490694125629],
+          [4.960659918597457, 45.77463899570614],
+          [4.959909682152357, 45.7742679943527],
+          [4.9590934780311215, 45.77380051861644],
+          [4.958367263083687, 45.773370181236174],
+          [4.956770803641888, 45.772438817016166]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Décines - Vue sur Grand Large",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
@@ -1108,8 +1207,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.977265501024789, 45.77438717797017],
-          [4.976903658662337, 45.77447418256949],
           [4.976341891942752, 45.77465876965283],
           [4.976341891942752, 45.77465876965283],
           [4.975679243489623, 45.77490214007281],
@@ -1134,25 +1231,7 @@
           [4.968157480659158, 45.777474884479744],
           [4.9673312493292485, 45.77732160221822],
           [4.967175029034223, 45.77727101368251],
-          [4.9670759442512065, 45.77722848651163],
-          [4.966887302069296, 45.7771833013569],
-          [4.966797744669236, 45.777140774118664],
-          [4.9667024708388965, 45.77712482639606],
-          [4.9666649858782534, 45.77707175110626],
-          [4.9664086544294435, 45.77694694307996],
-          [4.965616831972625, 45.77663517852653],
-          [4.964259806458614, 45.77609248001227],
-          [4.963326606851069, 45.77571407950205],
-          [4.962085495911396, 45.77522177541553],
-          [4.961808753741536, 45.775109991440274],
-          [4.961569514712323, 45.775034928712245],
-          [4.9614585415270085, 45.77499127050092],
-          [4.961244021848529, 45.77490694125629],
-          [4.960659918597457, 45.77463899570614],
-          [4.959909682152357, 45.7742679943527],
-          [4.9590934780311215, 45.77380051861644],
-          [4.958367263083687, 45.773370181236174],
-          [4.956770803641888, 45.772438817016166]
+          [4.9670759442512065, 45.77722848651163]
         ]
       }
     },
@@ -1160,9 +1239,28 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Grand Large - Route de Jonage",
+        "name": "Décines - Parc Relais Grand Large",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.977265501024789, 45.77438717797017],
+          [4.976903658662337, 45.77447418256949],
+          [4.976341891942752, 45.77465876965283]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Grand Large à Route de Jonage",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1201,13 +1299,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.991120318007887, 45.77264845311214],
-          [4.990819671689991, 45.77269581487397],
-          [4.990598396183202, 45.7727709380797],
-          [4.990576600825051, 45.77277871336145],
-          [4.990418466954566, 45.77285582798004],
-          [4.990337590180957, 45.772873288423426],
-          [4.990273249178728, 45.772870760077694],
           [4.990224367581675, 45.77285744636578],
           [4.9901749790665235, 45.772835007287284],
           [4.990102029057567, 45.77279297349705],
@@ -1219,6 +1310,30 @@
           [4.982257773256123, 45.773587609117385]
         ]
       }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Avenue du Carreau - Desserte résidentielle",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "zone-de-rencontre",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.991120318007887, 45.77264845311214],
+          [4.990819671689991, 45.77269581487397],
+          [4.990598396183202, 45.7727709380797],
+          [4.990576600825051, 45.77277871336145],
+          [4.990418466954566, 45.77285582798004],
+          [4.990337590180957, 45.772873288423426],
+          [4.990273249178728, 45.772870760077694],
+          [4.990224367581675, 45.77285744636578]
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1226,7 +1341,7 @@
         "line": 10,
         "name": "Avenue du Carreau - Meyzieu Gare",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1252,7 +1367,7 @@
         "name": "Gare de Meyzieu",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "bidirectionnelle",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1268,7 +1383,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Avenue Libération - Rue Arago",
+        "name": "Desserte école Marie Curie",
         "status": "planned",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
@@ -1276,10 +1391,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [5.01142805596308, 45.77018146793321],
-          [5.0089721090808155, 45.77048048544859],
-          [5.007113166652317, 45.77070566064586],
-          [5.005155610072762, 45.77094842229724],
           [5.003669418700355, 45.77113493308329],
           [5.003975041156451, 45.77183409857062],
           [5.002873780817765, 45.772091922160854],
@@ -1289,6 +1400,26 @@
           [5.001708774624035, 45.771426922192234],
           [5.000840691869513, 45.771560988847966],
           [5.00064909530721, 45.77158100392566]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Rue Arago Ouest",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.01142805596308, 45.77018146793321],
+          [5.0089721090808155, 45.77048048544859],
+          [5.007113166652317, 45.77070566064586],
+          [5.005155610072762, 45.77094842229724],
+          [5.003669418700355, 45.77113493308329]
         ]
       }
     },
@@ -1316,14 +1447,12 @@
         "line": 10,
         "name": "Projet Arrêt T3 - Lycée Beltrame",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [5.013515274729514, 45.76978207498564],
-          [5.0134483202946285, 45.76977095075131],
           [5.012869465389855, 45.769837757648446],
           [5.012905598367723, 45.770000935372764],
           [5.01268847543264, 45.77002691526951]
@@ -1334,7 +1463,7 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Meyzieu ZI",
+        "name": "Lycée Beltrame à Meyzieu ZI",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
@@ -1390,7 +1519,10 @@
           [5.014417351908833, 45.76967260485637],
           [5.014287268929252, 45.76968827693946],
           [5.014153682517417, 45.76970453512209],
-          [5.013515274729514, 45.76978207498564]
+          [5.013515274729514, 45.76978207498564],
+          [5.013515274729514, 45.76978207498564],
+          [5.0134483202946285, 45.76977095075131],
+          [5.012869465389855, 45.769837757648446]
         ]
       }
     }
