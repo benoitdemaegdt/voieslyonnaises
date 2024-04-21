@@ -25,7 +25,7 @@ Les cyclistes de la commune qui y circulent continueront donc à le faire sans a
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
 ::banner{type="wip"}
-Les travaux de cette section ont débuté en septembre 2023 et se sont poursuivis jusqu'au printemps 2024.
+Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation semblent au point mort depuis début 2024 (revêtement, marquage)...
 ::
 
 #### RD307 (Ancienne Route Nationale 7)

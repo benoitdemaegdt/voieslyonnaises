@@ -858,7 +858,7 @@
         "line": 9,
         "name": "Avenue Jean Jaurès",
         "status": "postponed",
-        "type": "voie-bus",
+        "type": "bandes-cyclables",
         "link": "/voie-lyonnaise-9#avenue-jean-jaurès"
       },
       "geometry": {

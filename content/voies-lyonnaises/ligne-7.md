@@ -34,6 +34,10 @@ credit: Métropole de Lyon
 ***Rillieux-Centre***  
 Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyonnaise emprunte ensuite le parc linéaire Est sur une piste de 3m de large qui sera conservée en l'état. Elle continue sur la rue Ampère qui verra sa piste bidirectionnelle actuelle de 2.30m de large être élargie à 4m, puis traverse le parc linéaire Ouest où la piste cyclable bidirectionnelle actuelle de 2.70m de large sera élargie à 4m.
 
+::banner{type="modified"}
+Contrairement à ce qui était annoncé lors de la concertation, la piste cyclable bidirectionnelle du parc linéaire Ouest sera finalement conservée en l'état suite au refus de la mairie de Rillieux de l'élargir.
+::
+
 ***Giratoire Général de Gaulle***  
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.  
 
@@ -103,6 +107,9 @@ Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise c
 #### Montée de la Boucle
 Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
+::banner{type="modified"}
+Contrairement à ce qui était annoncé lors de la concertation, la contre-allée en bas de la Montée de la Boucle sera finalement aménagée en vélorue de 4m de large pour conserver un maximum de places de stationnements à la demande de la mairie de Caluire et des commerçants.
+::
 
 ::content-image
 ---
