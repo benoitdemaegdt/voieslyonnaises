@@ -58,6 +58,7 @@ La Voie Lyonnaise 2 prend la place de l'ancienne contre-allée de stationnement 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard Stalingrad (Villeurbanne)
 credit: Métropole de Lyon
+streetView: 45.7792708,4.8595317,3a,75y,208.73h,90t
 ---
 ::
 
@@ -111,6 +112,7 @@ Entre la rue Boisard et le cours Gambetta, la piste cyclable bidirectionnelle se
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard Vivier Merle (Lyon 3)
 credit: Métropole de Lyon
+streetView: 45.7533388,4.8593519,3a,75y,175.99h,90t
 ---
 ::
 
@@ -147,6 +149,7 @@ Côté Est, l'ensemble de la voirie actuelle ne sera pas modifiée.
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-etats-unis.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - boulevard des États-Unis (Lyon 8)
 credit: Métropole de Lyon
+streetView: 45.732077,4.8653939,3a,75y,329.84h,90t
 ---
 ::
 
@@ -164,6 +167,7 @@ Sur cette large avenue, la Voie Lyonnaise 2 serait insérée sous la forme d'une
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/av-viviani.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - avenue Viviani (Lyon 8/Vénissieux)
 credit: Métropole de Lyon
+streetView: 45.7228161,4.877238,3a,75y,301.55h,90t
 ---
 ::
 
@@ -181,6 +185,7 @@ La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisé
 imageUrl: https://cyclopolis.lavilleavelo.org/vl2/av-charles-de-gaulle.jpg
 caption: Aperçu de la Voie Lyonnaise 2 - avenue Charles de Gaulle (Vénissieux)
 credit: Métropole de Lyon
+streetView: 45.7125597,4.8999136,3a,75y,309.97h,90t
 ---
 ::
 
