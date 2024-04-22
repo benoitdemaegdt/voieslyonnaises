@@ -26,6 +26,7 @@ La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png
 caption: Aperçu de la Voie Lyonnaise 3 entre St-Germain-au-Mont-d'Or et Neuville
 credit: Métropole de Lyon
+streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 ---
 ::
 
@@ -47,6 +48,7 @@ La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Couzon-au-Mont-d'Or
 credit: Métropole de Lyon
+streetView: 45.8499282,4.8325735,3a,75y,22.52h,90t
 ---
 ::
 
@@ -82,6 +84,7 @@ Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur 
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png
 caption: Photo de la Voie Lyonnaise 3 - Quai du Commerce (Lyon 9)
+streetView: 45.7849251,4.8127776,3a,75y,201.14h,90t
 ---
 ::
 
@@ -110,6 +113,7 @@ Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Ful
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Fulchiron (Lyon 5)
 credit: Métropole de Lyon
+streetView: 45.7579128,4.8260787,3a,75y,191.02h,90t
 ---
 ::
 
@@ -137,6 +141,7 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Jean-Jacques Rousseau (La Mulatière)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7372908,4.8119765,3a,75y,349.91h,90t
 ---
 ::
 
