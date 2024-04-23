@@ -1,3 +1,17 @@
+import { groupBy } from '../helpers/helpers';
+
+type LaneType =
+  | 'bidirectionnelle'
+  | 'bilaterale'
+  | 'voie-bus'
+  | 'voie-bus-elargie'
+  | 'velorue'
+  | 'voie-verte'
+  | 'bandes-cyclables'
+  | 'zone-de-rencontre'
+  | 'aucun'
+  | 'inconnu';
+
 type Feature = {
   type: string;
   properties: {
@@ -5,7 +19,9 @@ type Feature = {
     line: number;
     name: string;
     status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
+    type: LaneType;
     doneAt?: string;
+    link?: string;
   };
   geometry: {
     type: string;
@@ -154,16 +170,17 @@ export const useStats = () => {
     };
   }
 
-  const typologyNames = {
-    bidirectionnelle: 'Piste cyclable bidirectionnelle',
-    bilaterale: 'Piste cyclable bilatérale',
+  const typologyNames: Record<LaneType, string> = {
+    bidirectionnelle: 'Piste bidirectionnelle',
+    bilaterale: 'Piste bilatérale',
     'voie-bus': 'Voie bus',
     'voie-bus-elargie': 'Voie bus élargie',
     velorue: 'Vélorue',
     'voie-verte': 'Voie verte',
     'bandes-cyclables': 'Bandes cyclables',
     'zone-de-rencontre': 'Zone de rencontre',
-    aucun: 'Aucun'
+    aucun: 'Aucun',
+    inconnu: 'Inconnu'
   };
 
   function getStatsByTypology(voies: Geojson[]) {
@@ -174,32 +191,15 @@ export const useStats = () => {
       return Math.round((distance / totalDistance) * 100);
     }
 
-    const stats = [];
-    let unknownPercent = 100;
-    for (const [type, name] of Object.entries(typologyNames)) {
-      const features = lineStringFeatures.filter(feature => feature.properties.type === type);
-      if (!features.length) {
-        continue;
-      }
+    const featuresByType = groupBy<Feature, LaneType>(lineStringFeatures, feature => feature.properties.type);
+    return Object.entries(featuresByType).map(([type, features]) => {
       const distance = getDistance({ features });
       const percent = getPercent(distance);
-      if (percent === 0) {
-        continue;
-      }
-      unknownPercent -= percent;
-      stats.push({
-        name,
+      return {
+        name: typologyNames[type as LaneType],
         percent
-      });
-    }
-    if (unknownPercent !== 0) {
-      stats.push({
-        name: 'Inconnu',
-        percent: unknownPercent
-      });
-    }
-
-    return stats;
+      };
+    });
   }
 
   return {

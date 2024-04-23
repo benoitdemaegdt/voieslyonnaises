@@ -5,13 +5,13 @@
     </div>
     <div class="grid grid-cols-[1fr_2px_1fr] gap-x-4 text-lvv-blue-600">
       <template v-for="stat in stats" :key="stat.name">
-        <div class="font-normal text-sm sm:text-base text-right whitespace-nowrap">
+        <div class="font-semibold text-base sm:text-base text-right whitespace-nowrap">
           {{ stat.name }}
         </div>
         <div class="bg-lvv-blue-600" />
         <div class="flex items-center">
           <div class="grow-1 h-1 sm:h-2 mr-4 bg-lvv-blue-600 rounded-full" :style="`width: ${ stat.percent }%`" />
-          <div class="shrink-0 text-sm sm:text-base">
+          <div class="shrink-0 text-sm sm:text-base font-semibold">
             {{ stat.percent }}%
           </div>
         </div>
