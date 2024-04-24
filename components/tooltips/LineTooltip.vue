@@ -45,6 +45,14 @@
           {{ Math.round(getDistance({ features: [feature] }) / 25) * 25 }}m
         </div>
       </div>
+      <div class="py-1 flex items-center justify-between">
+        <div class="text-base font-bold">
+          Type
+        </div>
+        <div class="text-sm text-right">
+          {{ typologyNames[feature.properties.type] ?? 'Inconnu' }}
+        </div>
+      </div>
     </div>
     <div class="bg-lvv-blue-600 flex justify-center">
       <a class="p-1 text-white text-base italic hover:underline" :href="getSectionDetailsUrl(feature.properties)" target="_blank">
@@ -56,7 +64,7 @@
 
 <script setup lang="ts">
 const { getLineColor } = useColors();
-const { getDistance } = useStats();
+const { getDistance, typologyNames } = useStats();
 
 type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
 type Properties = {
@@ -66,6 +74,7 @@ type Properties = {
   status: Status;
   doneAt?: string;
   link?: string;
+  type: keyof typeof typologyNames;
 };
 
 const { feature, lines } = defineProps<{

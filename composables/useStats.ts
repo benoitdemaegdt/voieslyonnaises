@@ -1,3 +1,17 @@
+import { groupBy } from '../helpers/helpers';
+
+type LaneType =
+  | 'bidirectionnelle'
+  | 'bilaterale'
+  | 'voie-bus'
+  | 'voie-bus-elargie'
+  | 'velorue'
+  | 'voie-verte'
+  | 'bandes-cyclables'
+  | 'zone-de-rencontre'
+  | 'aucun'
+  | 'inconnu';
+
 type Feature = {
   type: string;
   properties: {
@@ -5,7 +19,9 @@ type Feature = {
     line: number;
     name: string;
     status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
+    type: LaneType;
     doneAt?: string;
+    link?: string;
   };
   geometry: {
     type: string;
@@ -154,5 +170,49 @@ export const useStats = () => {
     };
   }
 
-  return { getAllUniqLineStrings, getDistance, getTotalDistance, getStats, displayDistanceInKm, displayPercent };
+  const typologyNames: Record<LaneType, string> = {
+    bidirectionnelle: 'Piste bidirectionnelle',
+    bilaterale: 'Piste bilatérale',
+    'voie-bus': 'Voie bus',
+    'voie-bus-elargie': 'Voie bus élargie',
+    velorue: 'Vélorue',
+    'voie-verte': 'Voie verte',
+    'bandes-cyclables': 'Bandes cyclables',
+    'zone-de-rencontre': 'Zone de rencontre',
+    aucun: 'Aucun',
+    inconnu: 'Inconnu'
+  };
+
+  function getStatsByTypology(voies: Geojson[]) {
+    const lineStringFeatures = getAllUniqLineStrings(voies);
+    const totalDistance = getDistance({ features: lineStringFeatures });
+
+    function getPercent(distance: number) {
+      return Math.round((distance / totalDistance) * 100);
+    }
+
+    const featuresByType = groupBy<Feature, LaneType>(lineStringFeatures, feature => feature.properties.type);
+    return Object.entries(featuresByType)
+      .map(([type, features]) => {
+        const distance = getDistance({ features });
+        const percent = getPercent(distance);
+        return {
+          name: typologyNames[type as LaneType],
+          percent
+        };
+      })
+      .filter(stat => stat.percent > 0) // on ne veut pas afficher les types à 0% (arrondis)
+      .sort((a, b) => b.percent - a.percent); // plus grandes barres en haut, plus propre
+  }
+
+  return {
+    getAllUniqLineStrings,
+    getDistance,
+    getTotalDistance,
+    getStats,
+    getStatsByTypology,
+    displayDistanceInKm,
+    displayPercent,
+    typologyNames
+  };
 };
