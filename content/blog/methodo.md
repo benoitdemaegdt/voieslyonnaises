@@ -12,6 +12,22 @@ Où est la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?*
 
 On vous explique tout !
 
+## Que signifient les types de chaque tronçon et les statistiques "Typologie 2026"
+Il s'agit de chacun des aménagements cyclables que rencontreront les cyclistes sur chacune des lignes à la fin du mandat en 2026. Mis bout-à-bout, et rapportés à la distance totale des différents itinéraires, on peut ensuite obtenir des statistiques détaillées.
+
+L'ensemble du linéaire des Voies Lyonnaises est utilisé, y compris les tronçons reportés après 2026. Dans ce cas, l'aménagement indiqué est celui présent actuellement, car il ne sera malheureusement pas amélioré avant la fin du mandat en cours.
+
+Quand un tronçon est prévu mais qu'il n'y a toujours eu aucun communication publique à son sujet, il est considéré comme "Inconnu" même s'il peut déjà comporter des aménagements cyclables aujourd'hui. A ce stade, nous ne sommes pas en mesure de dire si ce tronçon sera reporté après 2026 ou s'il sera réaménagé et sécurisé d'ici la fin du mandat. La typologie sera évidemment mise à jour dès que nous aurons obtenu une information.
+
+Lorsqu'un tronçon présente une différence d'aménagement cyclable entre les deux sens de circulation, nous retenons un seul des deux aménagements, en préférant retenir celui qui est majoritaire ou celui qui est le plus représentatif du ressenti global. Ce choix permet de simplifier les différents affichages et statistiques du site.
+
+Enfin, si une des typologie représente moins de 0.5% du linéaire total, il est masqué de l'écran des statistiques pour éviter d'afficher un pourcentage arrondi de 0% qui laisserait croire que cette typologie n'est pas présente.
+
+## En travaux sur le terrain, mais pas sur Cyclopolis ?
+Avec la multiplication des travaux en 2024 et 2025, vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de Cyclopolis. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Voies Lyonnaises, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler sur [ce lien](https://lavilleavelo.org/contact/).
+
+En revanche, nous considérons qu'un tronçon est en travaux si et seulement si ceux-ci ont réellement lieu sur le terrain, et si ils concernent réellement l'aménagement d'une piste cyclable. Ainsi, la présence d'un "totem travaux" de la Métropole n'est pas suffisant. En outre, tous les travaux préalables ne sont pas considérés. Ainsi, le désamiantage préalable de la chaussée ou la déviation des réseaux souterrains ne sont pas retenus. C'est le cas par exemple de ceux des projets SYTRAL du BHNS, T9 et T10 ou encore de ceux qui concernent l'avenue du 25e RTS entre Lyon 9 et Champagne sur la VL4.
+
 ## Terminé ou Prévu ?
 Les tronçons considérés comme "terminés" sont tous les tronçons aménagés depuis 2020 dont on est certain qu’ils accueilleront une Voie Lyonnaise en 2026 ou ayant déjà fait l’objet d’une concertation qui mentionnait explicitement que l’aménagement cyclable sécurisé existant serait conservé en l’état.
 
@@ -24,11 +40,6 @@ Les tronçons considérés comme "terminés" sont tous les tronçons aménagés 
 
 *Une information sur le démarrage de nouveaux travaux ? Besoin de faire remonter une information ou une remarque sur le contenu du site ?  
 N'hésitez pas à nous contacter sur nos réseaux sociaux ou via [cette page](https://lavilleavelo.org/contact/).*
-
-## En travaux sur le terrain, mais pas sur Cyclopolis ?
-Avec la multiplication des travaux en 2024 et 2025, vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de Cyclopolis. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Voies Lyonnaises, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler sur [ce lien](https://lavilleavelo.org/contact/).
-
-En revanche, nous considérons qu'un tronçon est en travaux si et seulement si ceux-ci ont réellement lieu sur le terrain, et si ils concernent réellement l'aménagement d'une piste cyclable. Ainsi, la présence d'un "totem travaux" de la Métropole n'est pas suffisant. En outre, tous les travaux préalables ne sont pas considérés. Ainsi, le désamiantage préalable de la chaussée ou la déviation des réseaux souterrains ne sont pas retenus. C'est le cas par exemple de ceux des projets SYTRAL du BHNS, T9 et T10 ou encore de ceux qui concernent l'avenue du 25e RTS entre Lyon 9 et Champagne sur la VL4.
 
 ## Reporté après 2026
 Il s’agit des tronçons qui faisaient partie des promesses politiques annoncées en septembre 2021, puis qui ont fait l’objet d’une communication de la Métropole (via un dossier de concertation ou une communication médiatique) expliquant qu’ils ne seraient pas sécurisés, mis aux normes ou marqués en Voie Lyonnaise d’ici la fin du mandat en cours. Nous indiquons « après 2026 » et pas « 2030 », car tout ce qui ne sera pas réalisé en 2026 relève d’une promesse de campagne électorale et pas d’un projet réel (cf. paragraphe « Réseau 2030 »).
