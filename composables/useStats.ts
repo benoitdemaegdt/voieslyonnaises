@@ -192,14 +192,17 @@ export const useStats = () => {
     }
 
     const featuresByType = groupBy<Feature, LaneType>(lineStringFeatures, feature => feature.properties.type);
-    return Object.entries(featuresByType).map(([type, features]) => {
-      const distance = getDistance({ features });
-      const percent = getPercent(distance);
-      return {
-        name: typologyNames[type as LaneType],
-        percent
-      };
-    });
+    return Object.entries(featuresByType)
+      .map(([type, features]) => {
+        const distance = getDistance({ features });
+        const percent = getPercent(distance);
+        return {
+          name: typologyNames[type as LaneType],
+          percent
+        };
+      })
+      .filter(stat => stat.percent > 0) // on ne veut pas afficher les types à 0% (arrondis)
+      .sort((a, b) => b.percent - a.percent); // plus grandes barres en haut, plus propre
   }
 
   return {
