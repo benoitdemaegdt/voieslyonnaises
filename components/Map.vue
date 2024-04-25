@@ -59,6 +59,9 @@ const {
 const visibleStatuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
+    if (feature.geometry.type === 'Point') {
+      return true; // on affiche toujours les compteurs et images
+    }
     return visibleStatuses.value.includes(feature.properties.status);
   });
 });
