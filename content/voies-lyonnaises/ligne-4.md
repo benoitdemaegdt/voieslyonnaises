@@ -33,6 +33,7 @@ A partir du giratoire de la Maison Carrée, la Voie Lyonnaise devient une piste 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue de la Porte de Lyon (Dardilly)
 credit: Noémie Gratien / Métropole de Lyon
+streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 ---
 ::
 
@@ -52,6 +53,7 @@ Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue Lanessan (Champagne-au-Mont-d’Or)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ---
 ::
 
@@ -74,6 +76,7 @@ Finalement, le choix de la Métropole s'est porté sur la variante République e
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Boulevard de la République (Champagne)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ---
 ::
 
@@ -109,6 +112,7 @@ Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/rue-bourgogne.png
 caption: Aperçu de la Voie Lyonnaise 4 - Rue de Bourgogne (Vaise)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7775538,4.8033621,3a,75y,345.96h,90t
 ---
 ::
 
@@ -157,6 +161,7 @@ Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or.
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - avenue de Verguin (Lyon 6)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ---
 ::
 
@@ -179,6 +184,7 @@ Sur l'ensemble de cette section, la concertation laissait le choix de l'insertio
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - rue Francis de Pressensé (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7718908,4.8734156,3a,75y,276.55h,90t
 ---
 ::
 
