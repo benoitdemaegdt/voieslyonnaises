@@ -548,7 +548,8 @@
       "properties": {
         "line": 10,
         "name": "Rue de la Villette",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "31/12/2006",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#rue-de-la-villette-pompidou-à-paul-bert"
       },
@@ -819,7 +820,8 @@
       "properties": {
         "line": 10,
         "name": "Rue de la Ligne de l'Est étroite",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "31/12/2019",
         "type": "velorue",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -943,7 +945,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.929407509871993, 45.76280896970215],
+          [4.928629060142043, 45.76262208290703],
           [4.9266688744071985, 45.762130530501395],
           [4.924325366472289, 45.7615338837698],
           [4.92310553904295, 45.76115951653631]
@@ -964,7 +966,8 @@
         "coordinates": [
           [4.93342927859382, 45.763950331071044],
           [4.933021761317775, 45.76372346903807],
-          [4.929407509871993, 45.76280896970215]
+          [4.929407509871993, 45.76280896970215],
+          [4.928629060142043, 45.76262208290703]
         ]
       }
     },
@@ -1009,7 +1012,8 @@
       "properties": {
         "line": 10,
         "name": "D-Side - Wilson",
-        "status": "planned",  
+        "status": "done",  
+        "doneAt": "31/12/2019",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },

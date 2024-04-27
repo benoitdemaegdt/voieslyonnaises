@@ -48,33 +48,45 @@ La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la
 Sur ce tronçon, une piste cyclable bidirectionnelle de 3.50 à 4.00m de large sera créée côté nord de l'avenue (sauf pincements à 2.50m au droit des arrêts de bus). Ce nouvel aménagement se fera au détriment de places de stationnement ou d'une voie bus vers le Sud.
 
 #### Le long du tramway T3
-Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise.
+Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise. D'autres, présentés en italique, sont des points durs étroits qui seront malheureusement conservés.
 
 ***Lyon 3***
+ - la piste cyclable sur trottoir de l'avenue Lacassagne sera supprimée pour être restituée côté Sud
  - la chicane inconfortable avant l'avenue Lacassagne sera totalement reprise avec des virages doux
- - la voie sera élargie jusqu'à la rue de l'Est pour séparer piétons et cyclistes
+ - l'ensemble de la voie le long du tram sera élargie pour séparer piétons et cyclistes
 
 ***Villeurbanne***
  - le franchissement de la station Reconnaissance-Balzac est proposé avec une variante de détour par Richard Vitton et Antonin Perrin de manière à éviter l'arrêt de tramway en conflit avec les piétons
- - entre le prolongement de la rue De Wett et la rue Decorps, la section sera élargie pour séparer piétons et cyclistes
+ - entre l'extrémité Est de la promenade de la Gare de Villeurbanne et la rue Cyprian, la section sera élargie pour séparer piétons et cyclistes
  - entre la rue Decorps et la rue Cyprian, la rue de la Ligne de l'Est deviendra vélorue via l'inversion du sens de circulation de la portion Est
- - entre la rue Cyprian et la rue Frédéric Fays, la rue de la ligne de l'Est sera réaménagée via la suppression du stationnement et l'élargissement du trottoir Sud
- - entre l'avenue de Bel Air et la rue Legay, la section sera élargie pour séparer piétons et cyclistes
+ - entre la rue Cyprian et la rue Frédéric Fays, la rue de la ligne de l'Est sera élargie et réaménagée via la plantation d'arbres et l'élargissement du trottoir Sud
+ - entre la rue Frédéric Fays et l'avenue de Bel-Air, la piste au Nord sera réaménagée et végétalisée de manière à éviter la présence de piétons, mais la présence du Médipôle à proximité risque de continuer à en faire une voie verte de fait
+ - *au droit de l'arrêt de tram "Bel Air - Les Brosses", la minuscule voie verte de moins de 2m de large donnant de forts conflits avec les piétons sera conservée faute d'élargissement possible sur le site industriel sensible de SAFRAN.*
+
+::banner{type="unsecured"}
+Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroit et non sécurisé de 125m de long sera conservé faute d'élargissement possible. La Ville à Vélo réclame que le sens de circulation soit inversé pour en faire une vélorue compatible avec un faible trafic automobile.
+::
 
 ***Vaulx-La Soie***
  - le long du terminus du métro A, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du tram T9 dans le secteur
- - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet T9 qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
+ - la partie Nord de la rue Marius Grosso sera réservée aux seuls cyclistes avec élargissement de la piste cyclable bidirectionnelle et déplacement de l'arrêt de bus à l'Ouest du carrefour Salengro
+ - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de tram T9 qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
 
 ***Décines-Charpieu***
- - le long du projet D-Side, entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
+ - le long du [projet immobilier D-Side](https://d-side-decines.com/), entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
+ - *à l'Ouest de la rue Wilson, sur une longueur de 100m, la voie verte étroite de 1m60 à 2m50 de large sera conservée. Ce point dur qui donne déjà lieu à des conflits avec les piétons sera encore dégradé avec l'arrivée du gros projet immobilier voisin.*
+ - entre la rue Wilson et la rue Paul Bert, la section sera ponctuellement élargie permettant de séparer les cyclistes et les piétons
+ - le carrefour Jean Jaurès pourra être traversé en une seule fois, au lieu de 2 aujourd'hui
  - entre l'avenue Jean Jaurès et la rue de la Fraternité, la rue Emile Bertrand sera mise en sens unique pour mettre fin au fort rétrécissement et aux conflits marqués avec les piétons au niveau de l'arrêt Décines-Centre
- - entre la rue Ferrer et la route de Jonage, la voie sera élargie pour séparer piétons et cyclistes dans un secteur à fort potentiel de conflit avec la proximité du Groupama Stadium et de la LDLC Arena
- - la dangereuse traversée de la route de Jonage sans covisibilité satisfaisante sera malheureusement conservée en l'état
+ - entre l'arrêt de tram Grand Large et la route de Jonage, la voie sera élargie pour séparer piétons et cyclistes dans un secteur à fort potentiel de conflit avec la proximité du Groupama Stadium et de la LDLC Arena
+ - la dangereuse traversée de la route de Jonage sans covisibilité satisfaisante sera améliorée avec la traversée du tramway puis de la route à l'Ouest du carrefour
 
 ***Meyzieu***
- - entre l'avenue du Carreau et l'avenue de la Libération, la voie sera ponctuellement élargie pour séparer piétons et cyclistes
- - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire de traverser 2 fois les voies du tram grâce à la création d'un cheminement modes actifs qui dessert le nouveau groupe scolaire
+ - *la traversée de la Rocade Est continuera de se faire sur une voie verte étroite de 2m de large sur 100m de long*
+ - entre l'avenue du Carreau et la gare de Meyzieu, la voie sera élargie pour séparer piétons et cyclistes
+ - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire de traverser 2 fois les voies du tram grâce à la création d'un cheminement modes actifs qui dessert le nouveau groupe scolaire Marie Curie
  - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionnelle
+ - *entre la rue Molière et la rue Jean Jaurès, la rue Arago restera une voie verte étroite de 2m80 de large qui continuera à provoquer de nombreux conflits avec les piétons, renforcés récemment par l'arrivée du nouveau lycée*
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
 #### *Concertation*
