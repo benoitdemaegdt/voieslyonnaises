@@ -126,11 +126,13 @@ function checkGeoJsonDataHealth({ links }) {
               }
 
               // 5 - check if link actually exists
-              if (properties.link) {
-                if (!links.includes(properties.link)) {
-                  console.error(`Invalid link '${properties.link}' in LineString properties of file: ${filePath}`);
-                  process.exit(1);
-                }
+              if (!properties.link) {
+                console.error(`Missing link in LineString properties of file: ${filePath}`);
+                process.exit(1);
+              }
+              if (!links.includes(properties.link)) {
+                console.error(`Invalid link '${properties.link}' in LineString properties of file: ${filePath}`);
+                process.exit(1);
               }
             } else if (feature.geometry.type === 'Point') {
               // perspective images added to the map at high zoom level
