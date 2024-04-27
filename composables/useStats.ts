@@ -1,45 +1,12 @@
 import { groupBy } from '../helpers/helpers';
-
-type LaneType =
-  | 'bidirectionnelle'
-  | 'bilaterale'
-  | 'voie-bus'
-  | 'voie-bus-elargie'
-  | 'velorue'
-  | 'voie-verte'
-  | 'bandes-cyclables'
-  | 'zone-de-rencontre'
-  | 'aucun'
-  | 'inconnu';
-
-type Feature = {
-  type: string;
-  properties: {
-    id?: string;
-    line: number;
-    name: string;
-    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
-    type: LaneType;
-    doneAt?: string;
-    link?: string;
-  };
-  geometry: {
-    type: string;
-    coordinates: number[][];
-  };
-};
-
-type Geojson = {
-  type: string;
-  features: Feature[];
-};
+import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature } from '../types';
 
 export const useStats = () => {
   function getAllUniqLineStrings(voies: Geojson[]) {
     return voies
       .map(voie => voie.features)
       .flat()
-      .filter(feature => feature.geometry.type === 'LineString')
+      .filter(isLineStringFeature)
       .filter((feature, index, sections) => {
         if (feature.properties.id === undefined) {
           return true;
@@ -191,7 +158,7 @@ export const useStats = () => {
       return Math.round((distance / totalDistance) * 100);
     }
 
-    const featuresByType = groupBy<Feature, LaneType>(lineStringFeatures, feature => feature.properties.type);
+    const featuresByType = groupBy<LineStringFeature, LaneType>(lineStringFeatures, feature => feature.properties.type);
     return Object.entries(featuresByType)
       .map(([type, features]) => {
         const distance = getDistance({ features });
