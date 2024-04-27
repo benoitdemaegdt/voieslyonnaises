@@ -1,5 +1,5 @@
 <template>
-  <div class="relative my-8 p-2 pt-6 border-lvv-blue-600 border-2 rounded-xl">
+  <div class="relative my-8 p-2 pt-6 bg-white border-lvv-blue-600 border-2 rounded-xl">
     <div class="absolute -top-4 left-0 right-0 w-fit rounded-md px-2 py-1 mx-auto text-center text-lg text-gray-900 text-white bg-lvv-blue-600">
       Typologie 2026
     </div>
