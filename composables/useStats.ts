@@ -67,7 +67,7 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  function displayDistanceInKm(distance: number, precision: number) {
+  function displayDistanceInKm(distance: number, precision = 0) {
     if (distance === 0) {
       return '0 km';
     }

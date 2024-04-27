@@ -1,57 +1,7 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-
-type LineStringFeature = {
-  type: 'Feature';
-  properties: {
-    line: number;
-    name: string;
-    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
-    doneAt?: string;
-  };
-  geometry: {
-    type: 'LineString';
-    coordinates: [number, number][];
-  };
-};
+import { isCompteurFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
-
-type PerspectiveFeature = {
-  type: 'Feature';
-  properties: {
-    type: 'perspective';
-    line: number;
-    name: string;
-  };
-  geometry: {
-    type: 'Point';
-    coordinates: [number, number];
-  };
-};
-
-type CompteurFeature = {
-  type: 'Feature';
-  properties: {
-    type: 'compteur';
-    line: number;
-    name: string;
-    counts?: any[];
-    /**
-     * z-index like
-     */
-    circleSortKey?: number;
-    circleRadius?: number;
-    circleStrokeWidth?: number;
-  };
-  geometry: {
-    type: 'Point';
-    coordinates: [number, number];
-  };
-};
-
-type PointFeature = PerspectiveFeature | CompteurFeature;
-
-type Feature = LineStringFeature | PointFeature;
 
 type Compteur = {
   name: string;
@@ -115,22 +65,6 @@ function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
     }
   }
   return featuresByColor;
-}
-
-function isLineStringFeature(feature: Feature): feature is LineStringFeature {
-  return feature.geometry.type === 'LineString';
-}
-
-function isPointFeature(feature: Feature): feature is PointFeature {
-  return feature.geometry.type === 'Point';
-}
-
-function isPerspectiveFeature(feature: Feature): feature is PerspectiveFeature {
-  return isPointFeature(feature) && feature.properties.type === 'perspective';
-}
-
-function isCompteurFeature(feature: Feature): feature is CompteurFeature {
-  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
 }
 
 export const useMap = () => {
@@ -282,8 +216,8 @@ export const useMap = () => {
     let step = 0;
     function animateDashArray(timestamp: number) {
       // Update line-dasharray using the next value in dashArraySequence. The
-      // divisor in the expression `timestamp / 50` controls the animation speed.
-      const newStep = parseInt((timestamp / 45) % dashArraySequence.length);
+      // divisor in the expression `timestamp / 45` controls the animation speed.
+      const newStep = Math.floor((timestamp / 45) % dashArraySequence.length);
 
       if (newStep !== step) {
         map.setPaintProperty('wip-sections', 'line-dasharray', dashArraySequence[step]);
@@ -571,7 +505,7 @@ export const useMap = () => {
       return;
     }
     compteurs
-      .sort((c1, c2) => c2.properties.counts?.at(-1).count - c1.properties.counts?.at(-1).count)
+      .sort((c1, c2) => (c2.properties.counts.at(-1)?.count ?? 0) - (c1.properties.counts.at(-1)?.count ?? 0))
       .map((c, i) => {
         // top counters are bigger and drawn above others
         const top = 10;

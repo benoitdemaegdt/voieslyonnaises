@@ -10,7 +10,7 @@ export type LaneType =
 | 'aucun'
 | 'inconnu';
 
-type LaneStatus = 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
+export type LaneStatus = 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
 
 export type LineStringFeature = {
   type: 'Feature';
@@ -80,4 +80,16 @@ export type Geojson = {
  */
 export function isLineStringFeature(feature: Feature): feature is LineStringFeature {
   return feature.geometry.type === 'LineString';
+}
+
+export function isPointFeature(feature: Feature): feature is PointFeature {
+  return feature.geometry.type === 'Point';
+}
+
+export function isPerspectiveFeature(feature: Feature): feature is PerspectiveFeature {
+  return isPointFeature(feature) && feature.properties.type === 'perspective';
+}
+
+export function isCompteurFeature(feature: Feature): feature is CompteurFeature {
+  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
 }

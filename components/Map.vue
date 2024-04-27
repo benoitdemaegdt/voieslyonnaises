@@ -13,9 +13,9 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { createApp, defineComponent, h, Suspense } from 'vue';
-import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup } from 'maplibre-gl';
+import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup, type StyleSpecification } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
@@ -24,18 +24,10 @@ import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
+import { isLineStringFeature, type Feature, type LaneStatus } from '~/types';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
-
-const props = defineProps({
-  features: { type: Array, required: true },
-  options: {
-    type: Object,
-    required: false,
-    default: () => ({})
-  }
-});
 
 const defaultOptions = {
   logo: true,
@@ -46,6 +38,11 @@ const defaultOptions = {
   shrink: false,
   onShrinkControlClick: () => { }
 };
+
+const props = defineProps<{
+  features: Feature[];
+  options: typeof defaultOptions;
+}>();
 
 const options = { ...defaultOptions, ...props.options };
 
@@ -59,21 +56,21 @@ const {
 const visibleStatuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
-    if (feature.geometry.type === 'Point') {
-      return true; // on affiche toujours les compteurs et images
+    if (isLineStringFeature(feature)) {
+      return visibleStatuses.value.includes(feature.properties.status);
     }
-    return visibleStatuses.value.includes(feature.properties.status);
+    return true;
   });
 });
 
-function refreshVisibleStatuses(newVisibleStatuses) {
+function refreshVisibleStatuses(newVisibleStatuses: LaneStatus[]) {
   visibleStatuses.value = newVisibleStatuses;
 }
 
 onMounted(() => {
   const map = new Map({
     container: 'map',
-    style,
+    style: style as StyleSpecification,
     // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
     center: [4.8312188, 45.757198],
     zoom: 12,
@@ -92,9 +89,7 @@ onMounted(() => {
       new GeolocateControl({
         positionOptions: { enableHighAccuracy: true },
         // When active the map will receive updates to the device's location as it changes.
-        trackUserLocation: true,
-        // Draw an arrow next to the location dot to indicate which direction the device is heading.
-        showUserHeading: true
+        trackUserLocation: true
       }),
       'top-right'
     );
@@ -107,7 +102,11 @@ onMounted(() => {
   }
   if (options.legend) {
     const legendControl = new LegendControl({
-      onClick: () => legendModalComponent.value.openModal()
+      onClick: () => {
+        if (legendModalComponent.value) {
+          (legendModalComponent.value as any).openModal();
+        }
+      }
     });
     map.addControl(legendControl, 'top-right');
   }
@@ -151,8 +150,8 @@ onMounted(() => {
       const layer = layers.find(({ layer }) => layer.id === 'perspectives');
       const feature = features.value.find(f => {
         return f.properties.type === 'perspective' &&
-          f.properties.line === layer.properties.line &&
-          f.properties.imgUrl === layer.properties.imgUrl;
+          f.properties.line === layer!.properties.line &&
+          f.properties.imgUrl === layer!.properties.imgUrl;
       });
 
       new Popup({ closeButton: false, closeOnClick: true })
@@ -160,6 +159,7 @@ onMounted(() => {
         .setHTML('<div id="perspective-tooltip-content"></div>')
         .addTo(map);
 
+      // @ts-ignore:next
       const PerspectiveTooltipComponent = defineComponent(PerspectiveTooltip);
       nextTick(() => {
         // eslint-disable-next-line vue/one-component-per-file
@@ -172,13 +172,14 @@ onMounted(() => {
       });
     } else if (isCompteurLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'compteurs');
-      const feature = features.value.find(f => f.properties.name === layer.properties.name);
+      const feature = features.value.find(f => f.properties.name === layer!.properties.name);
 
       new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<div id="counter-tooltip-content"></div>')
         .addTo(map);
 
+      // @ts-ignore:next
       const CounterTooltipComponent = defineComponent(CounterTooltip);
       nextTick(() => {
         // eslint-disable-next-line vue/one-component-per-file
@@ -193,17 +194,18 @@ onMounted(() => {
       const { line, name } = layers[0].properties;
       // take care layers[0].geometry is truncated (to fit tile size). We need to find the full feature.
       const feature = features.value
-        .filter(feature => feature.geometry.type === 'LineString')
+        .filter(isLineStringFeature)
         .find(feature => feature.properties.line === line && feature.properties.name === name);
-      const lines = feature.properties.id
-        ? [...new Set(layers.filter(f => f.properties.id === feature.properties.id).map(f => f.properties.line))]
-        : [feature.properties.line];
+      const lines = feature!.properties.id
+        ? [...new Set(layers.filter(f => f.properties.id === feature!.properties.id).map(f => f.properties.line))]
+        : [feature!.properties.line];
 
       new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
         .setHTML('<div id="line-tooltip-content"></div>')
         .addTo(map);
 
+      // @ts-ignore:next
       const LineTooltipComponent = defineComponent(LineTooltip);
       nextTick(() => {
         // eslint-disable-next-line vue/one-component-per-file

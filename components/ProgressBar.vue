@@ -21,12 +21,13 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
+import type { Geojson } from '~/types';
 const { getStats, displayPercent } = useStats();
 
-const { voies } = defineProps({
-  voies: { type: Array, required: true }
-});
+const { voies } = defineProps<{
+  voies: Geojson[];
+}>();
 
 const stats = getStats(voies);
 </script>

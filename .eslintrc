@@ -1,9 +1,18 @@
 {
-  "extends": ["@nuxtjs/eslint-config-typescript"],
+  "extends": [
+    "@nuxtjs/eslint-config-typescript"
+  ],
   "rules": {
     "arrow-parens": "off",
-    "semi": ["error", "always"],
-    "space-before-function-paren": ["error", "never"],
-    "no-template-curly-in-string": "off"
+    "semi": [
+      "error",
+      "always"
+    ],
+    "space-before-function-paren": [
+      "error",
+      "never"
+    ],
+    "no-template-curly-in-string": "off",
+    "vue/multi-word-component-names": "off"
   }
 }
