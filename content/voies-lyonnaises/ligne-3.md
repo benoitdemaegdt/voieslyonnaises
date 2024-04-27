@@ -178,6 +178,8 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 Ce long tronçon de 18km doit cheminer sur les berges du Rhône en voie verte le long de la rive droite et constitue l'un des derniers tronçons manquants de l'itinéraire de la ViaRhôna qui chemine le long du Rhône entre le lac Léman et la cote méditerranéenne.
 
+Quelques rares tronçons ont été aménagés au début des années 2010, notamment le promenade Maurice Thorez à Givors et le rue des Faïenciers à Grigny.
+
 ::banner{type="postponed"}
 Initialement porté par la Région Auvergne-Rhône-Alpes, le projet avait fait l'objet d'une large concertation en juin 2019 dont le bilan a été dressé en décembre 2019. Après une pause de 18 mois liée à la crise sanitaire, le projet a pu reprendre en octobre 2021 avec l'enquête préalable à la déclaration d’utilité publique. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En juillet 2022, la Région Auvergne-Rhône-Alpes annonce finalement renoncer à son projet, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
 ::
