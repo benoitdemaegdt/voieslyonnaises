@@ -137,7 +137,7 @@ function checkGeoJsonDataHealth({ links }) {
             } else if (feature.geometry.type === 'Point') {
               // perspective images added to the map at high zoom level
               const properties = feature.properties || {};
-              const requiredKeys = ['type', 'line', 'imgUrl'];
+              const requiredKeys = ['type', 'line', 'name', 'imgUrl'];
               for (const key of requiredKeys) {
                 if (!properties.hasOwnProperty(key)) {
                   console.error(`Missing key '${key}' in Point properties of file: ${filePath}`);
