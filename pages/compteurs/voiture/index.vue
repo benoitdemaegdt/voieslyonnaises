@@ -9,7 +9,7 @@
           Suivi des compteurs voiture de l'agglomération lyonnaise
         </h2>
         <ClientOnly>
-          <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
+          <Map :features="features" :options="{ legend: false , filter: false}" class="mt-12" style="height: 40vh" />
         </ClientOnly>
       </div>
 

@@ -12,7 +12,7 @@
           Chaque début de mois, nous remontons les données de {{ counters.length }} compteurs à vélo de l'agglomération lyonnaise.
         </p>
         <ClientOnly>
-          <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
+          <Map :features="features" :options="{ legend: false, filter: false }" class="mt-12" style="height: 40vh" />
         </ClientOnly>
       </div>
 
