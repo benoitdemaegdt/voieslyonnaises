@@ -31,7 +31,7 @@
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
         <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
           <div class="relative">
-            <div class="absolute top-2 right-2 bg-lvv-pink text-sm text-white font-semibold rounded-xl px-1.5">
+            <div class="absolute top-4 right-4 bg-lvv-pink text-white font-semibold rounded-xl px-2 py-0.5">
               {{ getCounterLastRecord(counter).month }}
             </div>
             <div class="px-4 py-4 bg-lvv-blue-600 text-white">
