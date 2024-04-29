@@ -9,7 +9,7 @@ export default class FilterControl {
 
   onAdd() {
     this._btn = document.createElement('button');
-    this._btn.className = 'maplibregl-fullscreen maplibregl-ctrl-icon';
+    this._btn.className = 'maplibregl-filter maplibregl-ctrl-icon';
     this._btn.type = 'button';
     this._btn.title = 'Filtres';
     this._btn.onclick = () => this._onClick();
