@@ -139,7 +139,7 @@ function getCounterLastRecordPreviousYear(counter) {
 }
 
 function getEvolution(counter) {
-  return (100 - getCounterLastRecordPreviousYear(counter).raw / getCounterLastRecord(counter).raw * 100).toFixed(1);
+  return ((getCounterLastRecord(counter).raw - getCounterLastRecordPreviousYear(counter).raw) * 100 / getCounterLastRecordPreviousYear(counter).raw).toFixed(1);
 }
 
 const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });
