@@ -7,7 +7,7 @@
     :image-url="counter.imageUrl"
   >
     <ClientOnly>
-      <Map :features="features" :options="{ legend: false }" class="mt-12" style="height: 40vh" />
+      <Map :features="features" :options="{ legend: false, filter: false }" class="mt-12" style="height: 40vh" />
     </ClientOnly>
     <h2>Total des passages par année</h2>
     <p>Ce premier diagramme représente le nombre total de passages détecté par le compteur voiture chaque année.</p>
