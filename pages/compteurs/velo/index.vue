@@ -30,30 +30,58 @@
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
         <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
-          <div class="relative bg-lvv-blue-100">
-            <div v-if="isLastRecordMax(counter)" class="absolute top-2 right-2 bg-lvv-pink text-sm text-white font-semibold rounded-xl px-1.5">
-              record
-            </div>
-            <div class="px-4 py-4 flex flex-col">
-              <div class="text-base font-medium text-lvv-blue-600">
+          <div>
+            <div class="px-4 py-2 bg-lvv-blue-600 text-white">
+              <div class="text-base font-medium">
                 {{ counter.arrondissement }}
               </div>
-              <div class="mt-1 text-xl font-semibold text-gray-900">
+              <div class="mt-1 text-lg font-semibold">
                 {{ counter.name }}
               </div>
             </div>
           </div>
-          <div class="px-4 py-4 flex flex-col">
-            <div class="flex justify-between">
-              <div>{{ getCounterLastRecord(counter).date }}</div>
-              <div>{{ getCounterLastRecord(counter).value }} passages</div>
-            </div>
-            <div class="border-t border-gray-200 my-2" />
-            <div class="flex justify-between">
-              <div>{{ getCounterLastRecordPreviousYear(counter).month }}</div>
-              <div>{{ getCounterLastRecordPreviousYear(counter).value }} passages</div>
-            </div>
-          </div>
+          <table>
+            <thead>
+              <tr class="bg-lvv-blue-100">
+                <th class="w-1/6 italic font-normal">
+                  {{ getCounterLastRecord(counter).month }}
+                </th>
+                <th class="w-1/4">
+                  {{ getCounterLastRecordPreviousYear(counter).year }}
+                </th>
+                <th class="w-1/4">
+                  {{ getCounterLastRecord(counter).year }}
+                </th>
+                <th class="w-1/4 italic font-normal border-l-2 border-lvv-blue-600">
+                  évolution
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="text-center p-1">
+                  <Icon name="game-icons:dutch-bike" class="text-3xl" />
+                </td>
+                <td class="text-center p-1">
+                  {{ getCounterLastRecordPreviousYear(counter).value }}
+                </td>
+                <td class="text-center p-1">
+                  {{ getCounterLastRecord(counter).value }}
+                  <Icon v-if="isLastRecordMax(counter)" name="iconoir:medal-1st-solid" class="text-lvv-pink text-xl" />
+                </td>
+                <td class="text-center p-1 border-l-2 border-lvv-blue-600">
+                  <span v-if="getEvolution(counter) > 0 " class="text-green-600">
+                    <Icon name="mdi:arrow-top-right-thin" />
+                    +{{ getEvolution(counter) }}%
+                  </span>
+                  <span v-if="getEvolution(counter) < 0 " class="text-red-600">
+                    <Icon name="mdi:arrow-bottom-right-thin" />
+                    {{ getEvolution(counter) }}%
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </NuxtLink>
       </div>
     </div>
@@ -76,9 +104,12 @@ const counters = computed(() => {
 });
 
 function getCounterLastRecord(counter) {
+  const last = counter.counts.at(-1);
   return {
-    date: new Date(counter.counts.at(-1).month).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
-    value: counter.counts.at(-1).count.toLocaleString('fr-FR')
+    month: new Date(last.month).toLocaleString('fr-Fr', { month: 'short' }),
+    year: new Date(last.month).toLocaleString('fr-Fr', { year: 'numeric' }),
+    value: counter.counts.at(-1).count.toLocaleString('fr-FR'),
+    raw: counter.counts.at(-1).count
   };
 }
 
@@ -97,9 +128,15 @@ function getCounterLastRecordPreviousYear(counter) {
   const lastRecordMonthPreviousYear = new Date(lastRecordYear - 1, lastRecordMonth, 1);
   const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime())?.count;
   return {
-    month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short', year: 'numeric' }),
-    value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0
+    month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short' }),
+    year: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { year: 'numeric' }),
+    value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0,
+    raw: lastRecordMonthPreviousYearCount
   };
+}
+
+function getEvolution(counter) {
+  return ((getCounterLastRecord(counter).raw - getCounterLastRecordPreviousYear(counter).raw) * 100 / getCounterLastRecordPreviousYear(counter).raw).toFixed(1);
 }
 
 const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });
