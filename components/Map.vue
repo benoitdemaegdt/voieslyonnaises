@@ -1,6 +1,7 @@
 <template>
   <div class="relative">
-    <LegendModal ref="legendModalComponent" @update:visible-statuses="refreshVisibleStatuses" />
+    <LegendModal ref="legendModalComponent" />
+    <FilterModal ref="filterModalComponent" @update="refreshFilters" />
     <div id="map" class="rounded-lg h-full w-full" />
     <img
       v-if="options.logo"
@@ -19,12 +20,13 @@ import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup, ty
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
+import FilterControl from '@/maplibre/FilterControl';
 import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
-import { isLineStringFeature, type Feature, type LaneStatus } from '~/types';
+import { isLineStringFeature, type Feature, type LaneStatus, type LaneType } from '~/types';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -32,6 +34,7 @@ import { isLineStringFeature, type Feature, type LaneStatus } from '~/types';
 const defaultOptions = {
   logo: true,
   legend: true,
+  filter: true,
   geolocation: false,
   fullscreen: false,
   onFullscreenControlClick: () => { },
@@ -47,24 +50,28 @@ const props = defineProps<{
 const options = { ...defaultOptions, ...props.options };
 
 const legendModalComponent = ref(null);
+const filterModalComponent = ref(null);
 
 const {
   plotFeatures,
   fitBounds
 } = useMap();
 
-const visibleStatuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
+const statuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
+const types = ref(['bidirectionnelle', 'bilaterale', 'voie-bus', 'voie-bus-elargie', 'velorue', 'voie-verte', 'bandes-cyclables', 'zone-de-rencontre', 'aucun', 'inconnu']);
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
     if (isLineStringFeature(feature)) {
-      return visibleStatuses.value.includes(feature.properties.status);
+      return statuses.value.includes(feature.properties.status) &&
+        types.value.includes(feature.properties.type);
     }
     return true;
   });
 });
 
-function refreshVisibleStatuses(newVisibleStatuses: LaneStatus[]) {
-  visibleStatuses.value = newVisibleStatuses;
+function refreshFilters({ visibleStatuses, visibleTypes }: { visibleStatuses: LaneStatus[]; visibleTypes: LaneType[] }) {
+  statuses.value = visibleStatuses;
+  types.value = visibleTypes;
 }
 
 onMounted(() => {
@@ -109,6 +116,16 @@ onMounted(() => {
       }
     });
     map.addControl(legendControl, 'top-right');
+  }
+  if (options.filter) {
+    const filterControl = new FilterControl({
+      onClick: () => {
+        if (filterModalComponent.value) {
+          (filterModalComponent.value as any).openModal();
+        }
+      }
+    });
+    map.addControl(filterControl, 'top-right');
   }
 
   map.on('load', () => {
@@ -239,6 +256,14 @@ onMounted(() => {
   background-position: center;
   pointer-events: auto;
   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='29' height='29' fill='%23333'%3E%3Cpath d='M24 16v5.5c0 1.75-.75 2.5-2.5 2.5H16v-1l3-1.5-4-5.5 1-1 5.5 4 1.5-3h1zM6 16l1.5 3 5.5-4 1 1-4 5.5 3 1.5v1H7.5C5.75 24 5 23.25 5 21.5V16h1zm7-11v1l-3 1.5 4 5.5-1 1-5.5-4L6 13H5V7.5C5 5.75 5.75 5 7.5 5H13zm11 2.5c0-1.75-.75-2.5-2.5-2.5H16v1l3 1.5-4 5.5 1 1 5.5-4 1.5 3h1V7.5z'/%3E%3C/svg%3E");
+}
+
+.maplibregl-filter {
+  background-repeat: no-repeat;
+  background-position: center;
+  pointer-events: auto;
+  background-image: url('~/maplibre/filter.svg');
+  background-size: 85%;
 }
 
 .maplibregl-shrink {
