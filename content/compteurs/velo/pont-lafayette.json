@@ -3,7 +3,10 @@
   "description": "Le compteur vélo du Pont Lafayette mesure la fréquentation cycliste du pont dans les 2 sens. Il est ainsi composé de 2 capteurs au sol situés sur les pistes cyclables de part et d'autre du pont (les fameux slaloms entre les réverbères) du côté de la rive gauche.",
   "arrondissement": "Lyon 3",
   "idPdc": 100050687,
-  "coordinates": [4.840674179382174, 45.76354000742473],
+  "coordinates": [
+    4.840674179382174,
+    45.76354000742473
+  ],
   "counts": [
     {
       "month": "2015/01/01",
@@ -444,10 +447,6 @@
     {
       "month": "2024/02/01",
       "count": 47756
-    },
-    {
-      "month": "2024/03/01",
-      "count": 0
     }
   ]
 }
