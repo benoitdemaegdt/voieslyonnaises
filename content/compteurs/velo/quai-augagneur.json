@@ -3,8 +3,13 @@
   "description": "Le compteur vélo du Quai Augagneur mesure la fréquentation du quai haut.",
   "arrondissement": "Lyon 3",
   "idPdc": 100047691,
-  "coordinates": [4.841102957725526, 45.76120974233474],
-  "lines": [1],
+  "coordinates": [
+    4.841102957725526,
+    45.76120974233474
+  ],
+  "lines": [
+    1
+  ],
   "counts": [
     {
       "month": "2018/03/01",
@@ -293,10 +298,6 @@
     {
       "month": "2024/02/01",
       "count": 80325
-    },
-    {
-      "month": "2024/03/01",
-      "count": 0
     }
   ]
 }
