@@ -20,20 +20,36 @@
           <div class="text-base">
             Filtrer par statut d'avancement
           </div>
-          <div v-for="statusFilter in statusFilters" :key="statusFilter.label">
-            <label>
-              <input v-model="statusFilter.isEnable" type="checkbox">
+          <div class="mt-2 flex flex-wrap gap-x-2 gap-y-3">
+            <div
+              v-for="(statusFilter, index) in statusFilters"
+              :key="statusFilter.label"
+              class="px-2 py-1 border rounded-2xl text-sm cursor-pointer focus:outline-none ring-lvv-blue-600 ring-2"
+              :class="{
+                'bg-lvv-blue-600 border-transparent text-white ring-offset-1 hover:bg-lvv-blue-500': statusFilter.isEnable,
+                'bg-white border-gray-200 text-gray-900 hover:bg-gray-50': !statusFilter.isEnable
+              }"
+              @click="toogleStatusFilter(index)"
+            >
               {{ statusFilter.label }}
-            </label>
+            </div>
           </div>
-          <div class="text-base">
+          <div class="mt-2 text-base">
             Filtrer par type d'aménagement
           </div>
-          <div v-for="typeFilter in typeFilters" :key="typeFilter.label">
-            <label>
-              <input v-model="typeFilter.isEnable" type="checkbox">
+          <div class="mt-2 flex flex-wrap gap-x-2 gap-y-3">
+            <div
+              v-for="(typeFilter, index) in typeFilters"
+              :key="typeFilter.label"
+              class="px-2 py-1 border rounded-2xl text-sm cursor-pointer focus:outline-none ring-lvv-blue-600 ring-2"
+              :class="{
+                'bg-lvv-blue-600 border-transparent text-white ring-offset-1 hover:bg-lvv-blue-500': typeFilter.isEnable,
+                'bg-white border-gray-200 text-gray-900 hover:bg-gray-50': !typeFilter.isEnable
+              }"
+              @click="toogleTypeFilter(index)"
+            >
               {{ typeFilter.label }}
-            </label>
+            </div>
           </div>
         </div>
       </DialogPanel>
@@ -58,11 +74,11 @@ defineExpose({
 });
 
 const statusFilters = ref([
-  { label: 'Prévu pour 2026', isEnable: true, statuses: ['planned', 'variante'] },
   { label: 'Terminé', isEnable: true, statuses: ['done'] },
+  { label: 'En travaux', isEnable: true, statuses: ['wip'] },
+  { label: 'Prévu pour 2026', isEnable: true, statuses: ['planned', 'variante'] },
   { label: 'Reporté', isEnable: true, statuses: ['postponed', 'variante-postponed'] },
-  { label: 'Inconnu', isEnable: true, statuses: ['unknown'] },
-  { label: 'En travaux', isEnable: true, statuses: ['wip'] }
+  { label: 'Inconnu', isEnable: true, statuses: ['unknown'] }
 ]);
 
 const typeFilters = ref([
@@ -72,8 +88,18 @@ const typeFilters = ref([
   { label: 'Voie verte', isEnable: true, types: ['voie-verte'] },
   { label: 'Vélorue', isEnable: true, types: ['velorue'] },
   { label: 'Bandes cyclables', isEnable: true, types: ['bandes-cyclables'] },
-  { label: 'Zone de rencontre', isEnable: true, types: ['zone-de-rencontre'] }
+  { label: 'Zone de rencontre', isEnable: true, types: ['zone-de-rencontre'] },
+  { label: 'Inconnu', isEnable: true, types: ['inconnu'] },
+  { label: 'Aucun', isEnable: true, types: ['aucun'] }
 ]);
+
+function toogleStatusFilter(index: number) {
+  statusFilters.value[index].isEnable = !statusFilters.value[index].isEnable;
+}
+
+function toogleTypeFilter(index: number) {
+  typeFilters.value[index].isEnable = !typeFilters.value[index].isEnable;
+}
 
 const emit = defineEmits(['update']);
 
