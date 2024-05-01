@@ -30,15 +30,12 @@
       <!-- liste des compteurs -->
       <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
         <NuxtLink v-for="counter of counters" :key="counter.name" :to="counter._path" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
-          <div class="relative">
-            <div class="absolute top-4 right-4 bg-lvv-pink text-white font-semibold rounded-xl px-2 py-0.5">
-              {{ getCounterLastRecord(counter).month }}
-            </div>
-            <div class="px-4 py-4 bg-lvv-blue-600 text-white">
+          <div>
+            <div class="px-4 py-2 bg-lvv-blue-600 text-white">
               <div class="text-base font-medium">
                 {{ counter.arrondissement }}
               </div>
-              <div class="mt-1 text-xl font-semibold">
+              <div class="mt-1 text-lg font-semibold">
                 {{ counter.name }}
               </div>
             </div>
@@ -47,7 +44,7 @@
             <thead>
               <tr class="bg-lvv-blue-100">
                 <th class="w-1/6 italic font-normal">
-                  total
+                  {{ getCounterLastRecord(counter).month }}
                 </th>
                 <th class="w-1/4">
                   {{ getCounterLastRecordPreviousYear(counter).year }}
@@ -62,17 +59,17 @@
             </thead>
             <tbody>
               <tr>
-                <td class="text-center p-2">
+                <td class="text-center p-1">
                   <Icon name="game-icons:dutch-bike" class="text-3xl" />
                 </td>
-                <td class="text-center p-2">
+                <td class="text-center p-1">
                   {{ getCounterLastRecordPreviousYear(counter).value }}
                 </td>
-                <td class="text-center p-2">
+                <td class="text-center p-1">
                   {{ getCounterLastRecord(counter).value }}
                   <Icon v-if="isLastRecordMax(counter)" name="iconoir:medal-1st-solid" class="text-lvv-pink text-xl" />
                 </td>
-                <td class="text-center p-2 border-l-2 border-lvv-blue-600">
+                <td class="text-center p-1 border-l-2 border-lvv-blue-600">
                   <span v-if="getEvolution(counter) > 0 " class="text-green-600">
                     <Icon name="mdi:arrow-top-right-thin" />
                     +{{ getEvolution(counter) }}%
