@@ -16,40 +16,39 @@
         <DialogTitle class="text-lg font-medium leading-6 text-gray-900">
           Filtres
         </DialogTitle>
-        <div class="mt-2">
-          <div class="text-base">
-            Filtrer par statut d'avancement
+
+        <div class="mt-2 text-base font-medium">
+          Filtrer par statut d'avancement
+        </div>
+        <div class="mt-2 flex flex-wrap gap-x-2 gap-y-3">
+          <div
+            v-for="(statusFilter, index) in statusFilters"
+            :key="statusFilter.label"
+            class="px-2 py-1 border rounded-2xl text-sm cursor-pointer focus:outline-none ring-lvv-blue-600 ring-2"
+            :class="{
+              'bg-lvv-blue-600 border-transparent text-white ring-offset-1 hover:bg-lvv-blue-500': statusFilter.isEnable,
+              'bg-white border-gray-200 text-gray-900 hover:bg-gray-50': !statusFilter.isEnable
+            }"
+            @click="toogleStatusFilter(index)"
+          >
+            {{ statusFilter.label }}
           </div>
-          <div class="mt-2 flex flex-wrap gap-x-2 gap-y-3">
-            <div
-              v-for="(statusFilter, index) in statusFilters"
-              :key="statusFilter.label"
-              class="px-2 py-1 border rounded-2xl text-sm cursor-pointer focus:outline-none ring-lvv-blue-600 ring-2"
-              :class="{
-                'bg-lvv-blue-600 border-transparent text-white ring-offset-1 hover:bg-lvv-blue-500': statusFilter.isEnable,
-                'bg-white border-gray-200 text-gray-900 hover:bg-gray-50': !statusFilter.isEnable
-              }"
-              @click="toogleStatusFilter(index)"
-            >
-              {{ statusFilter.label }}
-            </div>
-          </div>
-          <div class="mt-2 text-base">
-            Filtrer par type d'aménagement
-          </div>
-          <div class="mt-2 flex flex-wrap gap-x-2 gap-y-3">
-            <div
-              v-for="(typeFilter, index) in typeFilters"
-              :key="typeFilter.label"
-              class="px-2 py-1 border rounded-2xl text-sm cursor-pointer focus:outline-none ring-lvv-blue-600 ring-2"
-              :class="{
-                'bg-lvv-blue-600 border-transparent text-white ring-offset-1 hover:bg-lvv-blue-500': typeFilter.isEnable,
-                'bg-white border-gray-200 text-gray-900 hover:bg-gray-50': !typeFilter.isEnable
-              }"
-              @click="toogleTypeFilter(index)"
-            >
-              {{ typeFilter.label }}
-            </div>
+        </div>
+        <div class="mt-2 text-base font-medium">
+          Filtrer par type d'aménagement
+        </div>
+        <div class="mt-2 flex flex-wrap gap-x-2 gap-y-3">
+          <div
+            v-for="(typeFilter, index) in typeFilters"
+            :key="typeFilter.label"
+            class="px-2 py-1 border rounded-2xl text-sm cursor-pointer focus:outline-none ring-lvv-blue-600 ring-2"
+            :class="{
+              'bg-lvv-blue-600 border-transparent text-white ring-offset-1 hover:bg-lvv-blue-500': typeFilter.isEnable,
+              'bg-white border-gray-200 text-gray-900 hover:bg-gray-50': !typeFilter.isEnable
+            }"
+            @click="toogleTypeFilter(index)"
+          >
+            {{ typeFilter.label }}
           </div>
         </div>
       </DialogPanel>
