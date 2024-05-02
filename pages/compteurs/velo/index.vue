@@ -93,7 +93,7 @@
 
 <script setup>
 const { getCompteursFeatures } = useMap();
-const { getCounterLastRecord, getCounterLastRecordPreviousYear, getEvolution } = useCompteur();
+const { getCounterLastRecord, getCounterLastRecordPreviousYear, getEvolution, isLastRecordMax } = useCompteur();
 
 const { data: allCounters } = await useAsyncData(() => {
   return queryContent('compteurs/velo').find();
@@ -106,13 +106,6 @@ const counters = computed(() => {
     .sort((counter1, counter2) => counter2.counts.at(-1).count - counter1.counts.at(-1).count)
     .filter(counter => counter.name.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase().includes(searchText.value.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase()));
 });
-
-function isLastRecordMax(counter) {
-  const lastRecord = counter.counts.at(-1);
-  return !counter.counts
-    .filter(count => new Date(count.month).getMonth() === new Date(lastRecord.month).getMonth())
-    .some(count => count.count > lastRecord.count);
-}
 
 const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });
 </script>

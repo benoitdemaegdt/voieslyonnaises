@@ -47,7 +47,6 @@ describe('useStats', () => {
           { type: 'FeatureCollection', features: [vl2StRambertCommun, vl5PierreBeniteNordCommun, vl6CoursHerbouville] }
         ];
         const stats = getStatsByTypology(voies);
-        console.log(stats);
         assert.deepEqual(stats, [
           { name: 'Piste bilatérale', percent: 67 },
           { name: 'Inconnu', percent: 33 }

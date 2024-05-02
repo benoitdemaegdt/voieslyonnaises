@@ -46,9 +46,17 @@ export const useCompteur = () => {
     return ((getCounterLastRecord(counter).raw - getCounterLastRecordPreviousYear(counter).raw) * 100 / getCounterLastRecordPreviousYear(counter).raw).toFixed(1); ;
   }
 
+  function isLastRecordMax(counter: Counter) {
+    const last = counter.counts.at(-1);
+    return !counter.counts
+      .filter(count => new Date(count.month).getMonth() === new Date(last!.month).getMonth())
+      .some(count => count.count > last!.count);
+  }
+
   return {
     getCounterLastRecord,
     getCounterLastRecordPreviousYear,
-    getEvolution
+    getEvolution,
+    isLastRecordMax
   };
 };

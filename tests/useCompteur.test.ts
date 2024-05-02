@@ -1,7 +1,7 @@
 import { assert, describe, it } from 'vitest';
 
 import { useCompteur } from '../composables/useCompteur';
-const { getCounterLastRecord, getCounterLastRecordPreviousYear, getEvolution } = useCompteur();
+const { getCounterLastRecord, getCounterLastRecordPreviousYear, getEvolution, isLastRecordMax } = useCompteur();
 
 describe('useCompteur', () => {
   describe('getCounterLastRecord', () => {
@@ -70,6 +70,27 @@ describe('useCompteur', () => {
         };
         const evolution = getEvolution(counter);
         assert.deepEqual(evolution, '100.0');
+      });
+    });
+  });
+
+  describe('isLastRecordMax', () => {
+    describe('when last record is maximum', () => {
+      it('should return true', () => {
+        const counter = {
+          name: 'counter',
+          description: 'description',
+          arrondissement: 'arrondissement',
+          idPdc: 'idPdc',
+          coordinates: [0, 0],
+          lines: [],
+          counts: [
+            { month: '2015/02/01', count: 1 },
+            { month: '2016/02/01', count: 2 }
+          ]
+        };
+        const isMax = isLastRecordMax(counter);
+        assert.deepEqual(isMax, true);
       });
     });
   });
