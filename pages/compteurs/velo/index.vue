@@ -70,6 +70,9 @@
                   <Icon v-if="isLastRecordMax(counter)" name="iconoir:medal-1st-solid" class="text-lvv-pink text-xl" />
                 </td>
                 <td class="text-center p-1 border-l-2 border-lvv-blue-600">
+                  <span v-if="getEvolution(counter) === 0 " class="text-green-600">
+                    N/A
+                  </span>
                   <span v-if="getEvolution(counter) > 0 " class="text-green-600">
                     <Icon name="mdi:arrow-top-right-thin" />
                     +{{ getEvolution(counter) }}%
@@ -90,6 +93,7 @@
 
 <script setup>
 const { getCompteursFeatures } = useMap();
+const { getCounterLastRecord, getCounterLastRecordPreviousYear, getEvolution } = useCompteur();
 
 const { data: allCounters } = await useAsyncData(() => {
   return queryContent('compteurs/velo').find();
@@ -103,40 +107,11 @@ const counters = computed(() => {
     .filter(counter => counter.name.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase().includes(searchText.value.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase()));
 });
 
-function getCounterLastRecord(counter) {
-  const last = counter.counts.at(-1);
-  return {
-    month: new Date(last.month).toLocaleString('fr-Fr', { month: 'short' }),
-    year: new Date(last.month).toLocaleString('fr-Fr', { year: 'numeric' }),
-    value: counter.counts.at(-1).count.toLocaleString('fr-FR'),
-    raw: counter.counts.at(-1).count
-  };
-}
-
 function isLastRecordMax(counter) {
   const lastRecord = counter.counts.at(-1);
   return !counter.counts
     .filter(count => new Date(count.month).getMonth() === new Date(lastRecord.month).getMonth())
     .some(count => count.count > lastRecord.count);
-}
-
-// get record of same month of last record but previous year
-// ex : last record is November 2023. Should return record of November 2022
-function getCounterLastRecordPreviousYear(counter) {
-  const lastRecordMonth = new Date(counter.counts.at(-1).month).getMonth();
-  const lastRecordYear = new Date(counter.counts.at(-1).month).getFullYear();
-  const lastRecordMonthPreviousYear = new Date(lastRecordYear - 1, lastRecordMonth, 1);
-  const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime())?.count;
-  return {
-    month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short' }),
-    year: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { year: 'numeric' }),
-    value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0,
-    raw: lastRecordMonthPreviousYearCount
-  };
-}
-
-function getEvolution(counter) {
-  return ((getCounterLastRecord(counter).raw - getCounterLastRecordPreviousYear(counter).raw) * 100 / getCounterLastRecordPreviousYear(counter).raw).toFixed(1);
 }
 
 const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-velo' });
