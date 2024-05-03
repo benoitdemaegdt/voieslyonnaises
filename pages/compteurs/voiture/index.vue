@@ -57,7 +57,7 @@
             <tbody>
               <tr>
                 <td class="text-center p-1">
-                  <Icon name="game-icons:dutch-bike" class="text-3xl" />
+                  <Icon name="fluent:vehicle-car-profile-ltr-16-regular" class="text-3xl" />
                 </td>
                 <td class="text-center p-1">
                   {{ getCounterLastRecordPreviousYear(counter).value }}
