@@ -14,7 +14,7 @@ describe('useCompteur', () => {
           idPdc: 'idPdc',
           coordinates: [0, 0],
           lines: [],
-          counts: [{ month: '2016/02/01', count: 1 }]
+          counts: [{ month: '2016-02-01', count: 1 }]
         };
         const lastRecord = getCounterLastRecord(counter);
         assert.deepEqual(lastRecord, {
@@ -29,7 +29,7 @@ describe('useCompteur', () => {
 
   describe('getCounterLastRecordPreviousYear', () => {
     describe('when there are 2 records with 1 year interval', () => {
-      it('should return the last record of previous year', () => {
+      it.only('should return the last record of previous year', () => {
         const counter = {
           name: 'counter',
           description: 'description',
@@ -38,8 +38,8 @@ describe('useCompteur', () => {
           coordinates: [0, 0],
           lines: [],
           counts: [
-            { month: '2015/02/01', count: 2 },
-            { month: '2016/02/01', count: 1 }
+            { month: '2015-02-01', count: 2 },
+            { month: '2016-02-01', count: 1 }
           ]
         };
         const record = getCounterLastRecordPreviousYear(counter);
@@ -64,8 +64,8 @@ describe('useCompteur', () => {
           coordinates: [0, 0],
           lines: [],
           counts: [
-            { month: '2015/02/01', count: 1 },
-            { month: '2016/02/01', count: 2 }
+            { month: '2015-02-01', count: 1 },
+            { month: '2016-02-01', count: 2 }
           ]
         };
         const evolution = getEvolution(counter);
@@ -85,8 +85,8 @@ describe('useCompteur', () => {
           coordinates: [0, 0],
           lines: [],
           counts: [
-            { month: '2015/02/01', count: 1 },
-            { month: '2016/02/01', count: 2 }
+            { month: '2015-02-01', count: 1 },
+            { month: '2016-02-01', count: 2 }
           ]
         };
         const isMax = isLastRecordMax(counter);

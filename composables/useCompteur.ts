@@ -30,11 +30,14 @@ export const useCompteur = () => {
     const last = counter.counts.at(-1);
     const lastRecordMonth = new Date(last!.month).getMonth();
     const lastRecordYear = new Date(last!.month).getFullYear();
-    const lastRecordMonthPreviousYear = new Date(lastRecordYear - 1, lastRecordMonth, 1);
-    const lastRecordMonthPreviousYearCount = counter.counts.find(count => new Date(count.month).getTime() === lastRecordMonthPreviousYear.getTime())?.count;
+    const lastRecordMonthPreviousYearCount = counter.counts.find(count => {
+      return new Date(count.month).getMonth() === lastRecordMonth &&
+        new Date(count.month).getFullYear() === (lastRecordYear - 1);
+    })?.count;
+
     return {
-      month: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { month: 'short' }),
-      year: new Date(lastRecordMonthPreviousYear).toLocaleString('fr-Fr', { year: 'numeric' }),
+      month: new Date(last!.month).toLocaleString('fr-Fr', { month: 'short' }),
+      year: String(lastRecordYear - 1),
       value: lastRecordMonthPreviousYearCount?.toLocaleString('fr-FR') ?? 0,
       raw: lastRecordMonthPreviousYearCount ?? 0
     };
