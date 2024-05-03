@@ -86,7 +86,7 @@ async function getUpdatedCounts({ idPdc, flowIds }) {
       const year = date.toLocaleDateString('fr-FR', { year: 'numeric' });
       const month = date.toLocaleDateString('fr-FR', { month: '2-digit' });
       return {
-        month: `${year}/${month}/01`,
+        month: `${year}-${month}-01`,
         count: Number(count[1])
       };
     });
