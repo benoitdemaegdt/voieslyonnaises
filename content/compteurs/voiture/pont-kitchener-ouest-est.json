@@ -1,5 +1,5 @@
 {
-  "name": "Pont Kitchener (Ouest -> Est)",
+  "name": "Pont Kitchener (O -> E)",
   "description": "Compteur voiture sur le pont Kitchener, côté Quai Fulchiron. Il compte les voitures circulant dans le sens Ouest -> Est.",
   "arrondissement": "Lyon 5",
   "idPdc": 1313,

@@ -1,5 +1,5 @@
 {
-  "name": "Pont Kitchener (Est -> Ouest)",
+  "name": "Pont Kitchener (E -> O)",
   "description": "Compteur voiture sur le pont Kitchener, côté Perrache. Il compte les voitures circulant dans le sens Est -> Ouest.",
   "arrondissement": "Lyon 2",
   "idPdc": 1351,
