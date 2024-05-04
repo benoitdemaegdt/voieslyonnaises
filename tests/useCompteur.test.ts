@@ -29,7 +29,7 @@ describe('useCompteur', () => {
 
   describe('getCounterLastRecordPreviousYear', () => {
     describe('when there are 2 records with 1 year interval', () => {
-      it.only('should return the last record of previous year', () => {
+      it('should return the last record of previous year', () => {
         const counter = {
           name: 'counter',
           description: 'description',
