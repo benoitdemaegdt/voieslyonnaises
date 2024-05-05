@@ -53,6 +53,7 @@ const legendModalComponent = ref(null);
 const filterModalComponent = ref(null);
 
 const {
+  loadImages,
   plotFeatures,
   fitBounds
 } = useMap();
@@ -128,7 +129,8 @@ onMounted(() => {
     map.addControl(filterControl, 'top-right');
   }
 
-  map.on('load', () => {
+  map.on('load', async() => {
+    await loadImages({ map });
     plotFeatures({ map, features: features.value });
     const tailwindMdBreakpoint = 768;
     if (window.innerWidth > tailwindMdBreakpoint) {
