@@ -25,7 +25,7 @@ function sortByLine(featureA: LineStringFeature, featureB: LineStringFeature) {
   return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
 }
 
-function getCrossIconUrl(color: string): string {
+function getCrossIconUrl(): string {
   const canvas = document.createElement('canvas');
   canvas.width = 8; // Set the desired width of your icon
   canvas.height = 8; // Set the desired height of your icon
@@ -38,16 +38,14 @@ function getCrossIconUrl(color: string): string {
   context.beginPath();
   context.moveTo(0, 0);
   context.lineTo(canvas.width, canvas.height);
-  context.lineWidth = 2;
-  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.lineWidth = 3;
   context.stroke();
 
   // Draw the second diagonal line of the "X"
   context.beginPath();
   context.moveTo(0, canvas.height);
   context.lineTo(canvas.width, 0);
-  context.lineWidth = 2;
-  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.lineWidth = 3;
   context.stroke();
 
   return canvas.toDataURL();
@@ -68,7 +66,7 @@ function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
 }
 
 export const useMap = () => {
-  const { getAllColors, getLineColor } = useColors();
+  const { getLineColor } = useColors();
 
   function addLineColor(feature: LineStringFeature): ColoredLineStringFeature {
     return {
@@ -97,12 +95,9 @@ export const useMap = () => {
     const camera = await map.loadImage('/icons/camera.png');
     map.addImage('camera-icon', camera.data, { sdf: true });
 
-    const colors = getAllColors();
-    for (const color of colors) {
-      const crossIconUrl = getCrossIconUrl(color);
-      const cross = await map.loadImage(crossIconUrl);
-      map.addImage(`cross-icon-${color}`, cross.data);
-    }
+    const crossIconUrl = getCrossIconUrl();
+    const cross = await map.loadImage(crossIconUrl);
+    map.addImage('cross-icon', cross.data, { sdf: true });
   }
 
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
@@ -431,8 +426,11 @@ export const useMap = () => {
         layout: {
           'symbol-placement': 'line',
           'symbol-spacing': 1,
-          'icon-image': `cross-icon-${color}`,
+          'icon-image': 'cross-icon',
           'icon-size': 1.2
+        },
+        paint: {
+          'icon-color': color
         }
       });
       map.addLayer({
