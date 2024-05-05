@@ -1,21 +1,4 @@
 export const useColors = () => {
-  function getAllColors(): string[] {
-    const colors = [
-      '#60A75B',
-      '#AC4D35',
-      '#3B7B64',
-      '#DC8953',
-      '#AF7392',
-      '#396083',
-      '#75BCAE',
-      '#7E6D98',
-      '#EAAB50',
-      '#9A8A4B',
-      '#4DADC9',
-      '#DBABB7'
-    ];
-    return colors;
-  }
   function getLineColor(line: number): string {
     const colors = new Map();
     colors.set(1, '#60A75B');
@@ -33,5 +16,5 @@ export const useColors = () => {
     return colors.get(line);
   }
 
-  return { getAllColors, getLineColor };
+  return { getLineColor };
 };
