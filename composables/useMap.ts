@@ -93,6 +93,11 @@ export const useMap = () => {
     return false;
   }
 
+  async function loadImages({ map }: { map: Map }) {
+    const camera = await map.loadImage('/icons/camera.png');
+    map.addImage('camera-icon', camera.data, { sdf: true });
+  }
+
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
     const sections = features.map((feature, index) => ({ id: index, ...feature }));
 
@@ -469,33 +474,27 @@ export const useMap = () => {
       return;
     }
 
-    map.loadImage('/icons/camera.png', (error?: Error | null, image?: any) => {
-      if (error) {
-        throw error;
+    map.addLayer({
+      id: 'perspectives',
+      source: 'perspectives',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'camera-icon',
+        'icon-size': 0.5,
+        'icon-offset': [-25, -25]
+      },
+      paint: {
+        'icon-color': ['get', 'color']
       }
-      map.addImage('camera-icon', image, { sdf: true });
-      map.addLayer({
-        id: 'perspectives',
-        source: 'perspectives',
-        type: 'symbol',
-        layout: {
-          'icon-image': 'camera-icon',
-          'icon-size': 0.5,
-          'icon-offset': [-25, -25]
-        },
-        paint: {
-          'icon-color': ['get', 'color']
-        }
-      });
-      map.setLayoutProperty('perspectives', 'visibility', 'none');
-      map.on('zoom', () => {
-        const zoomLevel = map.getZoom();
-        if (zoomLevel > 14) {
-          map.setLayoutProperty('perspectives', 'visibility', 'visible');
-        } else {
-          map.setLayoutProperty('perspectives', 'visibility', 'none');
-        }
-      });
+    });
+    map.setLayoutProperty('perspectives', 'visibility', 'none');
+    map.on('zoom', () => {
+      const zoomLevel = map.getZoom();
+      if (zoomLevel > 14) {
+        map.setLayoutProperty('perspectives', 'visibility', 'visible');
+      } else {
+        map.setLayoutProperty('perspectives', 'visibility', 'none');
+      }
     });
   }
 
@@ -606,6 +605,7 @@ export const useMap = () => {
   }
 
   return {
+    loadImages,
     plotFeatures,
     getCompteursFeatures,
     fitBounds
