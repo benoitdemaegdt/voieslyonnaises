@@ -68,7 +68,7 @@ function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
 }
 
 export const useMap = () => {
-  const { getLineColor } = useColors();
+  const { getAllColors, getLineColor } = useColors();
 
   function addLineColor(feature: LineStringFeature): ColoredLineStringFeature {
     return {
@@ -96,6 +96,13 @@ export const useMap = () => {
   async function loadImages({ map }: { map: Map }) {
     const camera = await map.loadImage('/icons/camera.png');
     map.addImage('camera-icon', camera.data, { sdf: true });
+
+    const colors = getAllColors();
+    for (const color of colors) {
+      const crossIconUrl = getCrossIconUrl(color);
+      const cross = await map.loadImage(crossIconUrl);
+      map.addImage(`cross-icon-${color}`, cross.data);
+    }
   }
 
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
@@ -417,44 +424,36 @@ export const useMap = () => {
         continue;
       }
 
-      const iconUrl = getCrossIconUrl(color);
-      map.loadImage(iconUrl, (error?: Error | null, image?: any) => {
-        if (error) {
-          throw error;
+      map.addLayer({
+        id: `postponed-symbols-${color}`,
+        type: 'symbol',
+        source: `postponed-sections-${color}`,
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 1,
+          'icon-image': `cross-icon-${color}`,
+          'icon-size': 1.2
         }
-        map.addImage(`cross-${color}`, image);
-
-        map.addLayer({
-          id: `postponed-symbols-${color}`,
-          type: 'symbol',
-          source: `postponed-sections-${color}`,
-          layout: {
-            'symbol-placement': 'line',
-            'symbol-spacing': 1,
-            'icon-image': `cross-${color}`,
-            'icon-size': 1.2
-          }
-        });
-        map.addLayer({
-          id: `postponed-text-${color}`,
-          type: 'symbol',
-          source: `postponed-sections-${color}`,
-          paint: {
-            'text-halo-color': '#fff',
-            'text-halo-width': 3
-          },
-          layout: {
-            'symbol-placement': 'line',
-            'symbol-spacing': 150,
-            'text-font': ['Open Sans Regular'],
-            'text-field': 'reporté',
-            'text-size': 14
-          }
-        });
-
-        map.on('mouseenter', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
-        map.on('mouseleave', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
       });
+      map.addLayer({
+        id: `postponed-text-${color}`,
+        type: 'symbol',
+        source: `postponed-sections-${color}`,
+        paint: {
+          'text-halo-color': '#fff',
+          'text-halo-width': 3
+        },
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 150,
+          'text-font': ['Open Sans Regular'],
+          'text-field': 'reporté',
+          'text-size': 14
+        }
+      });
+
+      map.on('mouseenter', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
+      map.on('mouseleave', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
     }
   }
 
