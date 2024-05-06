@@ -19,7 +19,7 @@
     "nuxt-icon": "^1.0.0-beta.1",
     "prettier": "^3.2.5",
     "sitemap": "^7.1.1",
-    "vitest": "^1.5.3"
+    "vitest": "^1.6.0"
   },
   "dependencies": {
     "highcharts-vue": "^2.0.1",
