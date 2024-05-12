@@ -23,9 +23,9 @@ Cyclopolis :
 
 ## Aide aux contributeurs/trices non développeurs/euses
 
-le `status` de chaque tronçon peut prendre les valeurs définies [ici](types/index.ts#L1)
+le `status` de chaque tronçon peut prendre les valeurs définies [ici](types/index.ts#L13)
 
-le `type` de chaque tronçon peut prendre les valeurs définies [ici](types/index.ts#L13)
+le `type` de chaque tronçon peut prendre les valeurs définies [ici](types/index.ts#L1)
 
 
 ## Quelques détails techniques
