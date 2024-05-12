@@ -70,7 +70,7 @@
               <div
                 class="relative block w-full bg-white rounded-lg overflow-hidden"
               >
-                <img class="w-full" src="~/assets/voies-lyonnaises.jpeg" alt="illustration voies lyonnaises">
+                <img class="w-full" src="~/assets/hero.jpeg" alt="illustration voies lyonnaises">
               </div>
             </div>
           </div>
