@@ -1,0 +1,57 @@
+{
+  "center": [
+    4.8312188,
+    45.757198
+  ],
+  "zoom": 12,
+  "colors": [
+    {
+      "line": 1,
+      "color": "#60A75B"
+    },
+    {
+      "line": 2,
+      "color": "#AC4D35"
+    },
+    {
+      "line": 3,
+      "color": "#3B7B64"
+    },
+    {
+      "line": 4,
+      "color": "#DC8953"
+    },
+    {
+      "line": 5,
+      "color": "#AF7392"
+    },
+    {
+      "line": 6,
+      "color": "#396083"
+    },
+    {
+      "line": 7,
+      "color": "#75BCAE"
+    },
+    {
+      "line": 8,
+      "color": "#7E6D98"
+    },
+    {
+      "line": 9,
+      "color": "#EAAB50"
+    },
+    {
+      "line": 10,
+      "color": "#9A8A4B"
+    },
+    {
+      "line": 11,
+      "color": "#4DADC9"
+    },
+    {
+      "line": 12,
+      "color": "#DBABB7"
+    }
+  ]
+}
