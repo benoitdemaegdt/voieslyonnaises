@@ -16,7 +16,7 @@ Une association (ou même un particulier) peut donc tout à fait copier le code 
 
 La version actuelle de Cyclopolis demande peu de ressources et coûte donc très peu cher à faire tourner.
 
-En particulier : 
+En particulier :
 - il n'y a pas de base de données (les données sont stockées sur Github).
 - il n'y a pas de serveur dédié.
 - il n'y a pas besoin de logiciel tiers payant.
@@ -30,7 +30,7 @@ Voici la liste des outils tiers utilisés :
 - [Geojson.io](https://geojson.io) pour le tracé des pistes cyclables. Gratuit.
 - [Beam Analytics](https://beamanalytics.io/) pour le suivi d'audience. Gratuit (free tier très largement suffisant).
 - ~[Cloudinary](https://cloudinary.com/) pour le stockage des images. Gratuit.~
-- Serveur d'image de La Ville à Vélo pour le stockage des images. Payant mais mutualisé avec les autres besoins de l'association. 
+- Serveur d'image de La Ville à Vélo pour le stockage des images. Payant mais mutualisé avec les autres besoins de l'association.
 
 ## Comment créer ma version de Cyclopolis ?
 
@@ -79,10 +79,10 @@ Toutes les données de Cyclopolis sont stockées dans le code, dans le dossier *
 On y retrouve plusieurs sous-dossiers :
 - **/blog** - contient les articles du blog.
 - **/compteurs** - contient le relevé des compteurs vélo lyonnais.
-- **/voies-lyonnaises** - contient le tracé et le descriptif de chacune des Voies Lyonnaises (pistes cyclables structurantes).
+- **/voies-cyclables** - contient le tracé et le descriptif de chacune des Voies Lyonnaises (pistes cyclables structurantes).
 
 
-Le plus intéressant ici, c'est donc le dossier **/content/voies-lyonnaises**. Il contient : 
+Le plus intéressant ici, c'est donc le dossier **/content/voies-cyclables**. Il contient :
 - des fichiers **json**, qui contiennent de la donnée structurée (le tracé des pistes cyclables).
 - des fichiers markdown **.md**, qui contiennent du texte (les pages descriptives des infrastructures cyclables).
 
@@ -105,7 +105,7 @@ Publish directory : dist
 
 Et voilà!
 
-Vous pouvez ensuite : 
+Vous pouvez ensuite :
 - acheter un nom de domaine pour votre plateforme.
 - configurer un outil de suivi d'audience (on utilise Beam Analytics, mais il y a plein d'autres solutions).
 

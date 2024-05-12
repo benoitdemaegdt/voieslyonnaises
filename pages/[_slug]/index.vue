@@ -35,7 +35,7 @@ definePageMeta({
 });
 
 const { data: voie } = await useAsyncData(`${path}`, () => {
-  return queryContent('voies-lyonnaises').where({ _type: 'markdown', line: Number(line) }).findOne();
+  return queryContent('voies-cyclables').where({ _type: 'markdown', line: Number(line) }).findOne();
 });
 
 const description = `Tout savoir sur la Voie Lyonnaise ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;

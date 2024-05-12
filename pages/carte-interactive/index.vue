@@ -12,7 +12,7 @@ definePageMeta({
 });
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('voies-lyonnaises').where({ _type: 'json' }).find();
+  return queryContent('voies-cyclables').where({ _type: 'json' }).find();
 });
 
 const features = voies.value.map(voie => voie.features).flat();

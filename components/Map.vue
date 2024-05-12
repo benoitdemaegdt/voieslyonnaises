@@ -16,7 +16,7 @@
 
 <script setup lang="ts">
 import { createApp, defineComponent, h, Suspense } from 'vue';
-import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup, type StyleSpecification } from 'maplibre-gl';
+import { Map, AttributionControl, GeolocateControl, NavigationControl, Popup, type StyleSpecification, type LngLatLike } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import style from '@/assets/style.json';
 import LegendControl from '@/maplibre/LegendControl';
@@ -27,6 +27,7 @@ import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
 import { isLineStringFeature, type Feature, type LaneStatus, type LaneType } from '~/types';
+import config from '~/config.json';
 
 // const config = useRuntimeConfig();
 // const maptilerKey = config.public.maptilerKey;
@@ -80,8 +81,8 @@ onMounted(() => {
     container: 'map',
     style: style as StyleSpecification,
     // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
-    center: [4.8312188, 45.757198],
-    zoom: 12,
+    center: config.center as LngLatLike,
+    zoom: config.zoom,
     attributionControl: false
   });
   map.addControl(new NavigationControl({ showCompass: false }), 'top-left');
