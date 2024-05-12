@@ -7,8 +7,8 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/picto-cyclopolis.png"
-              alt="picto cyclopolis"
+              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              alt="logo la ville à vélo"
             >
             <img
               class="h-8 w-auto sm:h-10"
@@ -138,7 +138,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="~/assets/logo.png" alt="logo voies lyonnaises">
+                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" alt="logo la ville à vélo">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
