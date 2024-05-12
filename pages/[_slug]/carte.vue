@@ -26,8 +26,8 @@ const mapOptions = {
 };
 
 const { data: voie } = await useAsyncData(() => {
-  return queryContent('voies-lyonnaises')
-    .where({ _type: 'json', _path: `/voies-lyonnaises/ligne-${line}` })
+  return queryContent('voies-cyclables')
+    .where({ _type: 'json', _path: `/voies-cyclables/ligne-${line}` })
     .findOne();
 });
 

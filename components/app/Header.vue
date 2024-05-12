@@ -208,7 +208,7 @@ const navItems = [
 ];
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('voies-lyonnaises').where({ _type: 'markdown' }).find();
+  return queryContent('voies-cyclables').where({ _type: 'markdown' }).find();
 });
 
 function getVoieLyonnaisePath(line) {

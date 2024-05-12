@@ -29,11 +29,11 @@ function getAllLinks() {
   const links = [];
   const titleRegex = /^(#+)\s+(.*)/gm;
 
-  fs.readdirSync('content/voies-lyonnaises').forEach(file => {
+  fs.readdirSync('content/voies-cyclables').forEach(file => {
     if (file.endsWith('.md')) {
       const voieLyonnaiseNumber = file.match(/\d+/g);
 
-      const filePath = path.join('content/voies-lyonnaises', file);
+      const filePath = path.join('content/voies-cyclables', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
 
       let match;
@@ -62,9 +62,9 @@ function getAllLinks() {
 
 function checkGeoJsonDataHealth({ links }) {
   const allLineStrings = [];
-  fs.readdirSync('content/voies-lyonnaises').forEach(file => {
+  fs.readdirSync('content/voies-cyclables').forEach(file => {
     if (file.endsWith('.json')) {
-      const filePath = path.join('content/voies-lyonnaises', file);
+      const filePath = path.join('content/voies-cyclables', file);
       const content = fs.readFileSync(filePath, 'utf8');
       try {
         const geojson = JSON.parse(content);
