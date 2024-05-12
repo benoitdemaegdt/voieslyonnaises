@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 4
 line: 4
-color: "#DC8953"
 from: Lissieu
 to: Villeurbanne
-distance: 18000
 description: La Voie Lyonnaise 4 promet de pouvoir traverser la métropole lyonnaise du Nord-Ouest des Monts d'Or à Villeurbanne en passant par Limonest, Techlid, Champagne, Vaise et le 6ème arrondissement. Cette ligne prévoit d'aménager des secteurs aujourd'hui très peu pourvus en aménagements cyclables et peu sécurisés. Elle va transformer l'espace public des territoires traversés en faveur des modes actifs.
 trafic: 18k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
@@ -123,8 +121,8 @@ Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable
 Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
 
 #### *Concertation*
-La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  
-[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}  
+La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
+[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Pont Clémenceau à Boulevard des Belges
 
@@ -149,7 +147,7 @@ Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de l
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
-*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
+*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
 
 ### Boulevard des Belges à rue Flachet
@@ -175,7 +173,7 @@ Ce projet nécessite la suppression du stationnement du côté de la piste cycla
 #### *Concertation*
 Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
 
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 

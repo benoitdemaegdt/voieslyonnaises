@@ -1,29 +1,32 @@
 <template>
-  <ContentFrame
-    :description="voie.description"
-    :image-url="voie.cover"
-  >
-    <template #header>
-      <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-        Voie Lyonnaise
-        <div
-          class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
-          :style="`background-color: ${voie.color}`"
-        >
-          {{ voie.line }}
-        </div>
-      </h1>
-    </template>
-    <h2>Aperçu</h2>
-    <Overview :voie="voie" />
-    <ContentRenderer :value="voie" />
-  </ContentFrame>
+  <div>
+    <ContentFrame
+      :description="voie.description"
+      :image-url="voie.cover"
+    >
+      <template #header>
+        <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+          Voie Lyonnaise
+          <div
+            class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
+            :style="`background-color: ${getLineColor(voie.line)}`"
+          >
+            {{ voie.line }}
+          </div>
+        </h1>
+      </template>
+      <h2>Aperçu</h2>
+      <Overview :voie="voie" />
+      <ContentRenderer :value="voie" />
+    </ContentFrame>
 
-  <LvvCta class="pb-10" />
+    <LvvCta class="pb-10" />
+  </div>
 </template>
 
 <script setup>
 const { path } = useRoute();
+const { getLineColor } = useColors();
 
 const regex = /voie-lyonnaise-(1[0-2]|[1-9])\b/;
 const line = path.match(regex)[1];

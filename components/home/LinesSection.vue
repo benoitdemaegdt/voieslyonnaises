@@ -4,7 +4,7 @@
       <div class="flex-shrink-0">
         <div
           class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-          :style="`background-color: ${voie.color}`"
+          :style="`background-color: ${getLineColor(voie.line)}`"
         >
           {{ voie.line }}
         </div>
@@ -25,6 +25,8 @@
 </template>
 
 <script setup>
+const { getLineColor } = useColors();
+
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-cyclables').where({ _type: 'markdown' }).find();
 });

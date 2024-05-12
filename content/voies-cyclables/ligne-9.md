@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 9
 line: 9
-color: "#EAAB50"
 from: Jonage
 to: Oullins
-distance: 33500
 description: La Voie Lyonnaise 9 permettra de relier la commune d'Oullins à Jonage en passant par Gerland, Jean Macé, la rue Garibaldi, la Tête d'Or, le campus de la Doua ainsi que Vaulx-en-Velin et le parc de Miribel-Jonage le long de la ViaRhôna.
 trafic: 14k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
@@ -22,7 +20,7 @@ Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passe
 
 Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
-*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*  
+*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Passerelle_Oullins_Gerland.pdf)
 
 ::banner{type="info"}
@@ -102,7 +100,7 @@ Sur ce tronçon, deux variantes d'itinéraires sont proposées :
 Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)
 
 

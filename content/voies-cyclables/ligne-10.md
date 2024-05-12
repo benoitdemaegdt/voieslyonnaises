@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 10
 line: 10
-color: "#9A8A4B"
 from: Tassin
 to: Meyzieu
-distance: 24500
 description: La Voie Lyonnaise 10 permettra de rejoindre Meyzieu depuis Tassin en passant par Vaise, Lyon 6, la Part-Dieu, Dauphiné-Lacassagne, Grandclément, La Soie, et Décines-Charpieu. Il s'agira donc d'un itinéraire cyclable qui permettra de traverser la métropole de Lyon dans un axe Est-Ouest sur plus de 20km.
 trafic: 24k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png
@@ -21,8 +19,8 @@ Sur toute la moitié Ouest de son itinéraire, la Voie Lyonnaise 10 est en tron�
 Se référer à la page de chaque ligne pour davantage d'informations.
 
 ### Boulevard des Belges - de Verguin à Waldeck Rousseau
-Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.  
-Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation avec les cyclistes. 
+Cette portion sera aménagée en provisoire dans l'attente des travaux du projet de ligne forte de transports en commun nommé "Ligne Centre-Ouest" et prévu dans un mandat ultérieur.
+Les deux voies de circulation générale actuelles seront réduites à une voie unique, ce qui permettra d'élargir les couloirs bus bilatéraux et d'améliorer la cohabitation avec les cyclistes.
 
 ::banner{type="unsecured"}
 Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tronçon ne sera pas conforme aux exigences de sécurité d'une Voie Lyonnaise.
@@ -32,11 +30,11 @@ Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tron
 Cette section est en tronçon commun avec la :line-link{line=2}.
 
 ### Pôle d'échange Part-Dieu
-Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.  
-Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée. 
+Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyonnaise 10 empruntera le boulevard Vivier-Merle en surface au sein du pôle d'échange de la gare Part-Dieu.
+Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée.
 
 ::banner{type="wip"}
-Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.  
+Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.
 Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées seront réalisés entre fin 2023 et l'été 2024.
 ::
 
@@ -89,12 +87,12 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.  
+La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf)
 
 ## Budget prévisionnel
 
-Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.  
+Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.
 _source: [page 27 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf){target=_blank}_
 
 

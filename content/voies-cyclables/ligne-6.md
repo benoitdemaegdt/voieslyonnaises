@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 6
 line: 6
-color: "#396083"
 from: Rilleux la Pape
 to: Saint-Genis-Laval
-distance: 20000
 description: La Voie Lyonnaise 6 permettra de longer le Rhône du nord au sud de la Métropole, depuis les bas quartiers de Crépieux-la-Pape jusqu'à Saint-Genis-Laval, via Saint-Clair, Lyon Rive Droite, les bas quartiers de la Mulatière et Oullins. Elle s'inscrit dans le projet d'apaisement du centre-ville d'Oullins et le grand projet de réaménagement de la rive droite du Rhône.
 trafic: 11k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
@@ -76,7 +74,7 @@ A l'extrémité Sud du cours d'Herbouville, deux aménagements sont prévus pour
  - vers le centre-ville de Lyon et la suite de la VL6, en utilisant les trémies passant sous les voies en provenance du tunnel de la Croix-Rousse et du pont. Deux variantes sont proposées ici, avec une piste bidirectionnelle dans la trémie la plus profonde, ou deux pistes unidirectionnelles empruntant chacune des deux trémies. Cette dernière paraît moins favorable car elle nécessitera davantage de traversées de carrefours aux extrémités.
 
 #### Concertation
-La concertation publique sur ce tronçon s'est tenue du 20/11 au 31/12/2023.  
+La concertation publique sur ce tronçon s'est tenue du 20/11 au 31/12/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6Nord_Herbouville_Crepieux.pdf)
 
 ### Pont de Lattre à Pont Gallieni (Lyon Rive Droite)
@@ -85,10 +83,10 @@ Ce tronçon de la Voie Lyonnaise 6 s'inscrit dans le grand projet de réaménage
 Le projet consiste en l'aménagement d'une piste cyclable bidirectionnelle au centre de la chaussée actuelle au sein du double alignement arboré de platanes qui sert aujourd'hui de stationnement automobile.
 A l'horizon 2026, seule la section entre le pont Wilson et la passerelle du Collège sera requalifiée. Le reste du linéaire sera tout de même aménagé en urbanisme transitoire pour préfigurer des changements à venir d'ici 2030.
 
-La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.  
+La concertation publique sur le projet s'est tenue du 08/11 au 30/12/2021.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_Concertation.pdf)
 
-Le projet définitif a été présenté début juin 2023.  
+Le projet définitif a été présenté début juin 2023.
 [Voir le dossier de presse détaillé](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_ProjetFinal.pdf)
 
 ::banner{type="wip"}
@@ -182,7 +180,7 @@ credit: Folia / Métropole de Lyon
 ---
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
+La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)
 
 ::banner{type="postponed"}
@@ -201,11 +199,11 @@ credit: Métropole de Lyon
 ---
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.  
+La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_St-Genis-Laval.pdf)
 
 #### Giratoire Gadagne à Chemin des Barolles
-Pour rejoindre Brignais et traverser la commune de St-Genis-Laval, la Voie Lyonnaise 6 devait passer par l'avenue de Gadagne ou l'avenue Clémenceau/Foch. 
+Pour rejoindre Brignais et traverser la commune de St-Genis-Laval, la Voie Lyonnaise 6 devait passer par l'avenue de Gadagne ou l'avenue Clémenceau/Foch.
 
 ::banner{type="postponed"}
 Après études plus poussées, les deux scénarios ci-dessus ont été rejetés par les élus locaux.

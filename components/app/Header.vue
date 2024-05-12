@@ -89,7 +89,7 @@
                       <div class="flex-shrink-0">
                         <div
                           class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                          :style="`background-color: ${voie.color}`"
+                          :style="`background-color: ${getLineColor(voie.line)}`"
                         >
                           {{ voie.line }}
                         </div>
@@ -183,7 +183,7 @@
                 <div class="flex-shrink-0">
                   <div
                     class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                    :style="`background-color: ${voie.color}`"
+                    :style="`background-color: ${getLineColor(voie.line)}`"
                   >
                     {{ voie.line }}
                   </div>
@@ -199,6 +199,7 @@
 
 <script setup>
 import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue';
+const { getLineColor } = useColors();
 
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },

@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 12
 line: 12
-color: "#DBABB7"
 from: Valmy
 to: Bron
-distance: 11000
 description: La Voie Lyonnaise 12 doit permettre aux cyclistes de traverser Lyon d'Ouest en Est depuis Valmy dans le 9ème jusqu'à l'entrée de Bron au giratoire de la Boutasse. Elle passera par Gorge de Loup, les hauteurs de Saint-Just, Saint-Jean, Bellecour, la Guillotière, Garibaldi, Sans Souci, Montplaisir, Grange Blanche et le Vinatier. Ce projet très ambitieux vise à aménager des lieux très denses où les aménagements cyclables sont rudimentaires ou en mixité avec d'autres usages.
 trafic: 24k vélos/jour
 avancement: 25%

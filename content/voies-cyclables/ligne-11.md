@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 11
 line: 11
-color: "#4DADC9"
 from: Point-du-Jour
 to: Chassieu
-distance: 18650
 description: La Voie Lyonnaise 11 permettra de traverser la métropole lyonnaise sur un axe ouest-est. Elle partira du quartier du Point du Jour à Lyon 5 pour desservir la Favorite et Saint-Just. Elle traversera la Presqu'Île avant de remonter rue de Bonnel, puis continuera vers l'Est par la Part Dieu, Maisons-Neuves, Montchat Nord avant de poursuivre sur la route de Genas vers les Sept Chemins puis Chassieu.
 trafic: 25k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
@@ -49,7 +47,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
 [Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Rue Garibaldi - *Bonnel à Paul Bert*
@@ -68,7 +66,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
 [Voir le dossier de concertation (p.20 à p.24)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
@@ -79,9 +77,9 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située au Sud de la plateforme BHNS.
 
-La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
-La concertation continue se déroule de avril 2022 à décembre 2023.  
-L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.  
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.
+La concertation continue se déroule de avril 2022 à décembre 2023.
+L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.
 [Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/621-bhns.htm)
 
 ::banner{type="wip"}
@@ -105,7 +103,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*  
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
 [Voir le dossier de concertation (p.25 à p.31)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Dauphiné - Lacassagne à Reconnaissance - Balzac
@@ -116,9 +114,9 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le giratoire des Sept Chemins à travers le quartier des Brosses.
 
-La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.  
-La concertation continue se déroule de avril 2022 à décembre 2023.  
-L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.  
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.
+La concertation continue se déroule de avril 2022 à décembre 2023.
+L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.
 [Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/622-bhns.htm)
 
 ::banner{type="wip"}
@@ -130,7 +128,7 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec la future
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud sur cette avenue qui sera alors réservée aux seuls bus et modes actifs.
 
-La concertation continue se déroule de juin 2022 à juin 2024.  
+La concertation continue se déroule de juin 2022 à juin 2024.
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
 
 ::banner{type="wip"}
@@ -160,7 +158,7 @@ A la demande de la mairie de Chassieu, ce tronçon a été abandonné et conserv
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.  
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 ::banner{type="wip"}

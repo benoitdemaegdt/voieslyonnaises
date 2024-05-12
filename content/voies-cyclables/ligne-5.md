@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 5
 line: 5
-color: "#AF7392"
 from: Saint-Fons
 to: Bron
-distance: 37000
 description: La Voie Lyonnaise 5 sera la seule ligne en rocade du réseau des Voies Lyonnaises. Cette ligne circulaire constituera le périphérique cyclable de la métropole de Lyon à l'horizon 2030. Il ne sera cependant pas bouclé en 2026 et reliera Bron à Feyzin en passant par le Nord et l'Ouest via Vaulx-en-Velin, le campus de la Doua, Vaise, Tassin-la-Demi-Lune, Francheville, Oullins, Pierre-Bénite et la vallée de la Chimie.
 trafic: 15k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
@@ -40,7 +38,7 @@ credit: Métropole de Lyon
 Entre l'avenue Franklin Roosevelt et la rue Auguste Brunel prolongée, le boulevard a été créé en 2015 avec une piste cyclable de 3m de large et un trottoir de 1.80m jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
 
 #### *Concertation*
-La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
+La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation (p. 18 à 23)](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ::banner{type="wip"}
@@ -57,9 +55,9 @@ Au Sud de l'avenue Mercellin, la piste de 4m traversera les rails pour se retrou
 Elle continuera ensuite sur l'avenue Dimitrov et la rue Emile Zola. Sur cette section du centre-ville de Vaulx-en-Velin, à la demande des élus locaux, la piste bidirectionnelle située côté Nord sera plus étroite, avec une largeur de 2.50m.
 Au niveau du carrefour avec l'avenue Gabriel Péri, la piste basculera du côté Nord au côté Sud de la rue.
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.  
-La concertation continue s'est déroulée de janvier 2022 à juin 2023.  
-L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.  
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.
+La concertation continue s'est déroulée de janvier 2022 à juin 2023.
+L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm)
 
 ::banner{type="wip"}
@@ -73,7 +71,7 @@ Cette section est en tronçon commun avec la :line-link{line=1}.
 La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
 
 #### *Concertation*
-La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.  
+La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 [Voir le dossier de concertation (p. 14 à 16)](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
@@ -129,7 +127,7 @@ Ce point noir cyclable majeur devrait être aménagée à l'été et l'automne 2
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  
+La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
 [Voir le dossier de concertation (p.43, 65, 75 à 77 et 83 à 86)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Tassin Nord
