@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.json');
 
 (function checkDataHealth() {
   const links = getAllLinks();
@@ -52,7 +53,7 @@ function getAllLinks() {
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        links.push(`/voie-lyonnaise-${voieLyonnaiseNumber}#${link}`);
+        links.push(`/${config.slug}-${voieLyonnaiseNumber}#${link}`);
       }
     }
   });

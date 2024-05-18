@@ -3,6 +3,7 @@ import { fileURLToPath } from 'url';
 import fs from 'fs';
 import { SitemapStream, streamToPromise } from 'sitemap';
 import { serverQueryContent } from '#content/server';
+import config from '~/config.json';
 
 const BASE_URL = 'https://cyclopolis.fr';
 
@@ -17,7 +18,7 @@ export default defineEventHandler(async event => {
 
   const docsOnlyVoiesLyonnaises = docs.filter(doc => doc._dir === 'voies-cyclables' && doc._type === 'markdown');
   for (const doc of docsOnlyVoiesLyonnaises) {
-    sitemap.write({ url: `/voie-lyonnaise-${doc.line}`, changefreq: 'monthly' });
+    sitemap.write({ url: `/${config.slug}-${doc.line}`, changefreq: 'monthly' });
   }
 
   const staticEndpoints = getStaticEndpoints();

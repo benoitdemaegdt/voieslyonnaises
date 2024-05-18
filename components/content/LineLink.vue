@@ -12,6 +12,7 @@
 
 <script setup>
 const { getLineColor } = useColors();
+const { getVoieCyclablePath } = useUrl();
 
 const { line, anchor } = defineProps({
   line: { type: String, required: true },
@@ -21,6 +22,6 @@ const { line, anchor } = defineProps({
 const color = getLineColor(Number(line));
 
 const href = anchor
-  ? `/voie-lyonnaise-${line}#${anchor}`
-  : `/voie-lyonnaise-${line}`;
+  ? `${getVoieCyclablePath(line)}#${anchor}`
+  : `${getVoieCyclablePath(line)}`;
 </script>

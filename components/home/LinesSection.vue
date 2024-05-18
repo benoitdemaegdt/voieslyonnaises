@@ -10,7 +10,7 @@
         </div>
       </div>
       <div class="flex-1 min-w-0">
-        <NuxtLink :to="getVoieLyonnaisePath(voie.line)" class="focus:outline-none">
+        <NuxtLink :to="getVoieCyclablePath(voie.line)" class="focus:outline-none">
           <span class="absolute inset-0" aria-hidden="true" />
           <p class="text-sm font-medium text-gray-900">
             Ligne {{ voie.line }}
@@ -26,12 +26,9 @@
 
 <script setup>
 const { getLineColor } = useColors();
+const { getVoieCyclablePath } = useUrl();
 
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-cyclables').where({ _type: 'markdown' }).find();
 });
-
-function getVoieLyonnaisePath(line) {
-  return `/voie-lyonnaise-${line}`;
-}
 </script>

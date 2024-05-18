@@ -67,6 +67,7 @@ import type { LineStringFeature } from '~/types';
 
 const { getLineColor } = useColors();
 const { getDistance, typologyNames } = useStats();
+const { getVoieCyclablePath } = useUrl();
 
 const { feature, lines } = defineProps<{
   feature: LineStringFeature;
@@ -81,7 +82,7 @@ function getSectionDetailsUrl(properties: LineStringFeature['properties']): stri
   if (properties.link) {
     return properties.link;
   }
-  return `/voie-lyonnaise-${properties.line}`;
+  return getVoieCyclablePath(properties.line);
 }
 
 function getDoneAtText(doneAt: string): string {

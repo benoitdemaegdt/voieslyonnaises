@@ -6,15 +6,16 @@
 
 <script setup>
 const { path } = useRoute();
+const { getVoieCyclableRegex } = useUrl();
 
-const regex = /voie-lyonnaise-(1[0-2]|[1-9])\b/;
+const regex = getVoieCyclableRegex();
 const line = path.match(regex)[1];
 
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,
   layout: 'fullscreen',
-  middleware: 'voie-lyonnaise'
+  middleware: 'voie-cyclable'
 });
 
 const mapOptions = {
