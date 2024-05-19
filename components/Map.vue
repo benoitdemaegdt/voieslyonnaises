@@ -9,7 +9,7 @@
       src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png"
       width="75"
       height="75"
-      alt="logo la ville à vélo"
+      :alt="`logo ${config.assoName}`"
     >
   </div>
 </template>

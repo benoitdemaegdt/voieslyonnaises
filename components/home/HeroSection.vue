@@ -40,13 +40,13 @@
                 class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl"
               >
                 <span class="block text-gray-900">Avancement des</span>
-                <span class="block text-lvv-blue-600">Voies Lyonnaises</span>
+                <span class="block text-lvv-blue-600">{{ getRevName() }}</span>
               </span>
             </h1>
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Une initiative de l'association <strong>La Ville à Vélo</strong> pour suivre le développement du nouveau réseau vélo sécurisé Lyonnais.
+              Une initiative de l'association <strong>{{ assoName }}</strong> pour suivre le développement du nouveau réseau vélo sécurisé Lyonnais.
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
@@ -70,7 +70,7 @@
               <div
                 class="relative block w-full bg-white rounded-lg overflow-hidden"
               >
-                <img class="w-full" src="~/assets/hero.jpeg" alt="illustration voies lyonnaises">
+                <img class="w-full" src="~/assets/hero.jpeg" :alt="`illustration des ${getRevName()}`">
               </div>
             </div>
           </div>
@@ -79,3 +79,8 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+const { getRevName, getAssoName } = useConfig();
+const assoName = getAssoName();
+</script>

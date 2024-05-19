@@ -7,6 +7,7 @@
 <script setup>
 const { path } = useRoute();
 const { getVoieCyclableRegex } = useUrl();
+const { getRevName } = useConfig();
 
 const regex = getVoieCyclableRegex();
 const line = path.match(regex)[1];
@@ -32,9 +33,9 @@ const { data: voie } = await useAsyncData(() => {
     .findOne();
 });
 
-const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
+const description = `Carte de la ${getRevName('singular')} ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
 useHead({
-  title: `Carte de la Voie Lyonnaise ${line}`,
+  title: `Carte de la ${getRevName('singular')} ${line}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },

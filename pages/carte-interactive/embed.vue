@@ -5,6 +5,8 @@
 </template>
 
 <script setup>
+const { getRevName } = useConfig();
+
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,
@@ -17,10 +19,10 @@ const { data: voies } = await useAsyncData(() => {
 
 const features = voies.value.map(voie => voie.features).flat();
 
-const description = 'Découvrez la carte interactive des Voies Lyonnaises. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.';
+const description = `Découvrez la carte interactive des ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 useHead({
-  title: 'Carte à jour des Voies Lyonnaises',
+  title: `Carte à jour des ${getRevName()}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },

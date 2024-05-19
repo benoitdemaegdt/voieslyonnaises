@@ -3,10 +3,10 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-          Les Voies Lyonnaises, c'est quoi ?
+          Les {{ getRevName() }}, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-          C'est le nom donné au projet de réseau cyclable porté par la Métropole de Lyon.<br/>Concrètement, une Voie Lyonnaise est une voie cyclable large (3 à 4m), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers lyonnais aux communes de la périphérie de la métropole.
+          C'est le nom donné au projet de réseau cyclable porté par la Métropole de Lyon.<br>Concrètement, une {{ getRevName('singular') }} est une voie cyclable large (3 à 4m), souvent sous forme de piste bidirectionnelle et séparée des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les quartiers lyonnais aux communes de la périphérie de la métropole.
         </p>
       </div>
     </div>
@@ -47,3 +47,7 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+const { getRevName } = useConfig();
+</script>

@@ -4,7 +4,7 @@
       <div class="py-10 px-6 bg-lvv-blue-600 rounded-3xl sm:py-16 sm:px-12 lg:p-16 lg:flex lg:items-center">
         <div class="lg:w-0 lg:flex-1 text-center lg:text-left">
           <h2 class="text-3xl font-extrabold tracking-tight text-white">
-            Adhérez à La Ville à Vélo
+            Adhérez à {{ getAssoName() }}
           </h2>
           <p class="mt-4 max-w-3xl text-lg text-indigo-100">
             Soutenez la promotion et l'usage du vélo dans l'agglomération lyonnaise, ainsi que le développement d'infrastructures cyclables continues et sécurisées en adhérant à l'association.
@@ -22,3 +22,7 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+const { getAssoName } = useConfig();
+</script>

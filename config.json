@@ -1,4 +1,10 @@
 {
+  "revName": {
+    "plural": "Voies Lyonnaises",
+    "singular": "Voie Lyonnaise"
+  },
+  "assoName": "La Ville à Vélo",
+  "assoLink": "https://lavilleavelo.org",
   "slug": "voie-lyonnaise",
   "center": [
     4.8312188,

@@ -24,7 +24,7 @@
             Avancement par ligne
           </h2>
           <p class="text-xl text-gray-500">
-            Choisissez une Voie Lyonnaise pour connaitre le détail du projet et voir son niveau d'avancement.
+            Choisissez une {{ getRevName('singular') }} pour connaitre le détail du projet et voir son niveau d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />
@@ -37,6 +37,8 @@
 </template>
 
 <script setup>
+const { getRevName } = useConfig();
+
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-cyclables').where({ _type: 'json' }).find();
 });

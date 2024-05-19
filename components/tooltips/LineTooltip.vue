@@ -66,6 +66,7 @@
 import type { LineStringFeature } from '~/types';
 
 const { getLineColor } = useColors();
+const { getRevName } = useConfig();
 const { getDistance, typologyNames } = useStats();
 const { getVoieCyclablePath } = useUrl();
 
@@ -75,7 +76,7 @@ const { feature, lines } = defineProps<{
 }>();
 
 const title = computed(() => {
-  return lines.length > 1 ? 'Voies Lyonnaises' : 'Voie Lyonnaise';
+  return lines.length > 1 ? getRevName() : getRevName('singular');
 });
 
 function getSectionDetailsUrl(properties: LineStringFeature['properties']): string {

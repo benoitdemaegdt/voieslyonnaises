@@ -23,7 +23,7 @@
     </template>
 
     <template v-if="counter && counter.lines && counter.lines.length > 0">
-      <h2>Voies Lyonnaises mesurées par ce compteur</h2>
+      <h2>{{ getRevName() }} mesurées par ce compteur</h2>
       <ul>
         <li v-for="line in counter.lines" :key="line">
           <LineLink :line="String(line)" />
@@ -38,6 +38,7 @@
 
 <script setup>
 const { path } = useRoute();
+const { getRevName } = useConfig();
 const { withoutTrailingSlash } = useUrl();
 const { getCompteursFeatures } = useMap();
 

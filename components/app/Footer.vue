@@ -17,7 +17,7 @@
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
           <p class="text-center text-base text-gray-500">
-            La Ville à Vélo
+            {{ getAssoName() }}
           </p>
         </div>
       </div>
@@ -38,7 +38,8 @@
   </footer>
 </template>
 
-<script setup>
+<script setup lang="ts">
+const { getAssoName } = useConfig();
 
 const links = [
   { name: 'Mentions légales', path: '/mentions-legales' },

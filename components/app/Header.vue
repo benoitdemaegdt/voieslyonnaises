@@ -8,7 +8,7 @@
             <img
               class="h-7 w-auto sm:h-8"
               src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
-              alt="logo la ville à vélo"
+              :alt="`logo ${getAssoName()}`"
             >
             <img
               class="h-8 w-auto sm:h-10"
@@ -138,7 +138,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" alt="logo la ville à vélo">
+                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
@@ -201,6 +201,7 @@
 import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue';
 const { getLineColor } = useColors();
 const { getVoieCyclablePath } = useUrl();
+const { getAssoName } = useConfig();
 
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },

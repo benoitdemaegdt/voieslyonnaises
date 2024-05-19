@@ -1,7 +1,7 @@
 <template>
   <div class="not-prose flex items-center justify-center" :style="`background-color: ${color}`">
     <div class="p-1 text-white text-lg font-black">
-      Voie Lyonnaise
+      {{ getRevName('singular') }}
       <span
         class="h-6 w-6 text-sm rounded-full inline-flex items-center justify-center border-2 border-white"
       >
@@ -19,6 +19,7 @@
 import type { PerspectiveFeature } from '~/types';
 
 const { getLineColor } = useColors();
+const { getRevName } = useConfig();
 
 const { feature } = defineProps<{
   feature: PerspectiveFeature
