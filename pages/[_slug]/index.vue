@@ -46,7 +46,7 @@ const { data: voie } = await useAsyncData(`${path}`, () => {
 const description = `Tout savoir sur la ${getRevName('singular')} ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
 const coverImage = voie.value.cover;
 useHead({
-  title: `${getRevName(singular)} ${voie.value.line}`,
+  title: `${getRevName('singular')} ${voie.value.line}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
