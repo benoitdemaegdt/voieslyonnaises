@@ -22,14 +22,14 @@
       <p>{{ counter.limitation }}</p>
     </template>
 
-    <template v-if="counter && counter.lines && counter.lines.length > 0">
+    <!-- <template v-if="counter && counter.lines && counter.lines.length > 0">
       <h2>{{ getRevName() }} mesurées par ce compteur</h2>
       <ul>
         <li v-for="line in counter.lines" :key="line">
           <LineLink :line="String(line)" />
         </li>
       </ul>
-    </template>
+    </template> -->
 
     <h2>Source des données</h2>
     <p>Les données proviennent de <a href="https://data.eco-counter.com/ParcPublic/?id=3902#" target="_blank">data.eco-counter.com</a>.</p>
@@ -38,7 +38,7 @@
 
 <script setup>
 const { path } = useRoute();
-const { getRevName } = useConfig();
+// const { getRevName } = useConfig();
 const { withoutTrailingSlash } = useUrl();
 const { getCompteursFeatures } = useMap();
 
