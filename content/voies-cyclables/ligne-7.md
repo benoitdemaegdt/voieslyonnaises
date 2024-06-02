@@ -47,10 +47,13 @@ Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et 
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 #### Voie de la Dombe
-Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable et salissant pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.
-*Le projet de Voie Lyonnaise 7 permettrait de minimiser les conflits avec les piétons, en élargissant la voie verte actuelle ou en séparant les flux piétons et vélos sur des axes dédiés. Il prévoit aussi de modifier le revêtement pour proposer un sol clair, lisse, confortable et drainant.*
+Pour les cyclistes du plateau Nord qui souhaitent traverser la commune de Caluire-et-Cuire du Nord au Sud, la voie verte de la Dombe reste le seul itinéraire compte-tenu du refus de la mairie de proposer des aménagements cyclables alternatifs continus et sécurisés sur les axes parallèles de sa commune. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable et salissant pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.
 
-Entre chemin Petit et chemin de Cachepieu, l'objectif est d'élargir la voie verte actuelle de 3.50m à 5m de large.
+::banner{type="info"}
+Le projet de Voie Lyonnaise 7 permettrait de minimiser les conflits entre les vélos et les piétons en élargissant la voie verte actuelle ou en la privilégiant aux seuls piétons via la création de nouvelles pistes cyclables sécurisées sur des axes alternatifs dédiés. Malheureusement, l'entêtement de la mairie de Caluire à ne pas vouloir les créer provoque stress, tensions et conflits entre les deux types d'usagers.
+::
+
+Entre chemin Petit et chemin de Cachepieu, l'objectif initial était d'élargir la voie verte actuelle de 3.50m à 5m de large. Une nouvelle variante a été proposé par les services de la Métropole au printemps 2024 pour privilégier l'usage piéton sur la voie verte (cf. encadré ci-dessous).
 
 Entre chemin de Cachepieu et avenue Jean Monnet, 2 scénarios proposés :
  - Elargissement de la voie verte actuelle de 3.50m à 5m
@@ -62,6 +65,10 @@ Entre avenue Jean Monnet et chemin du Penthod, 2 scénarios proposés :
 
 ::banner{type="postponed"}
 La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté à un mandat ultérieur, du fait de la forte opposition des élus locaux au projet. C'est une mauvaise nouvelle pour tous les usagers de cette voie verte. Faute d'alternative crédible, le trafic vélo va continuer à augmenter, accroissant le caractère inconfortable de l'aménagement pour tous pendant encore de nombreuses années.
+::
+
+::banner{type="modified"}
+Suite à la concertation, la Métropole a étudié de nouvelles variantes pour éviter complètement la voie verte et privilégier sur celle-ci les usages de promenade pour les piétons. Elle a annoncé le 29/05/2024 qu'une variante crédible avait été retenue, passant notament par le nord de l'avenue Marc Sangnier, la rue des Combattants d'Afrique du Nord et le chemin de Crépieux. Pour y créer une piste cyclable bidirectionnelle continue et sécurisée, cela nécessite de passer en sens unique les rues concernées (à l'exception du Chemin de Crépieux). Devant l'opposition des élus de la mairie de Caluire qui préférent mélanger les vélos avec les bus ou les voitures sans aucune protection, cette nouvelle variante ne sera pas réalisable sur le mandat.
 ::
 
 ::content-image

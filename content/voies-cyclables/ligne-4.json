@@ -273,6 +273,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteChampagne",
         "line": 4,
         "name": "Champagne - République Mairie",
         "status": "planned",
@@ -302,11 +303,11 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "varianteChampagne",
         "line": 4,
         "name": "Variante Lanessan",
         "status": "variante-postponed",
-        "type": "bidirectionnelle",
+        "type": "aucun",
         "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
       },
       "geometry": {
