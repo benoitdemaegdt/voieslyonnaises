@@ -858,6 +858,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteXRousse",
         "line": 7,
         "name": "variante Bd des Canuts",
         "status": "postponed",
