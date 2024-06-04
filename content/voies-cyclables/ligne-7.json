@@ -806,8 +806,8 @@
       "properties": {
         "line": 7,
         "name": "Fresque des Canuts",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -822,12 +822,12 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "varianteXRousse",
         "line": 7,
         "name": "variante Rue de Cuire",
-        "status": "variante",
+        "status": "postponed",
         "text": "variante",
-        "type": "velorue",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
@@ -860,9 +860,9 @@
       "properties": {
         "line": 7,
         "name": "variante Bd des Canuts",
-        "status": "variante",
+        "status": "postponed",
         "text": "variante",
-        "type": "bidirectionnelle",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -881,8 +881,8 @@
       "properties": {
         "line": 7,
         "name": "Place des Tapis",
-        "status": "planned",
-        "type": "velorue",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {

@@ -1370,7 +1370,7 @@
       "properties": {
         "line": 8,
         "name": "Branche Campus Parilly",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#branche-vers-campus-sud"
       },
@@ -1392,7 +1392,7 @@
       "properties": {
         "line": 8,
         "name": "Bron - Boulevard de l'Université",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#boulevard-de-luniversité"
       },
@@ -1420,7 +1420,7 @@
       "properties": {
         "line": 8,
         "name": "Bron - Rue Paul Langevin",
-        "status": "planned",
+        "status": "wip",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-8#rue-paul-langevin"
       },
@@ -1445,7 +1445,7 @@
       "properties": {
         "line": 8,
         "name": "Bron - Porte des Alpes",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },
@@ -1484,7 +1484,7 @@
       "properties": {
         "line": 8,
         "name": "Cours du Professeur Jean Bernard",
-        "status": "planned",
+        "status": "wip",
         "type": "bilaterale",
         "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },

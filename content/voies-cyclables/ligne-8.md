@@ -263,6 +263,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux entre le giratoire à l'extrémité Est de la rue Lionel Terray et la Porte des Alpes ont commencé en mai 2024 et continueront jusqu'en fin d'année 2024.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}

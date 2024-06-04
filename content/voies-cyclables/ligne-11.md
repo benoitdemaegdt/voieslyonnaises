@@ -47,6 +47,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Des travaux préalables de dévoiement et de réhabilitation des réseaux d’assainissement, électricité et de gaz ont commencé début juin 2024 et se dérouleront jusqu'en novembre 2024. Ensuite, les travaux d'aménagement se dérouleront tout au long de l'année 2025.
+::
+
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
 [Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
