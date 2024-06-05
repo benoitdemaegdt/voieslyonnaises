@@ -110,7 +110,7 @@ Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
 Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
 ::banner{type="postponed"}
-La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait du manque de courage politique de la mairie de Lyon 4e sur la traversée de cette section contrainte qui necessitait de modifier en profondeur le plan de circulation automobile du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
+La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait d'une mésentente avec les élus de la mairie de Lyon 4e. La traversée de cette section contrainte necessitait de modifier en profondeur le plan de circulation automobile et bus du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
 ::
 
 #### Montée de la Boucle
