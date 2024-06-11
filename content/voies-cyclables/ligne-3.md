@@ -151,6 +151,10 @@ streetView: 45.7372908,4.8119765,3a,75y,349.91h,90t
 #### Quai Pierre Sémard
 Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur trottoir de 3m de large côté Ouest de la chaussée, créée entre 2019 et 2020. L'objectif est tout de même de l'améliorer ponctuellement en l'élargissant sur les sections les plus étroites et en améliorant certaines zones dangereuses avec une mauvaise visibilité et du conflit avec les piétons.
 
+::banner{type="modified"}
+Sur la section entre le carrefour du pont de la Mulatière et la rue Chardiny, le trafic vélo est particulièrement soutenu. Suite à la concertation, la Métropole souhaitait séparer piétons et cyclistes pour mettre fin aux nombreux conflits actuels, grace à la suppression de l'ensemble des stationnements. Malheureusement, à cause de l'entêtement de la mairie de la Mulatière, les places bus au Nord seront conservées et les piétons et cyclistes continueront à se partager un trottoir étroit de 3m de large sur 50m de long. La Ville à Vélo le déplore alors qu'il était possible d'utiliser le grand parking de l'Aquarium pour gérer les déposes des bus.
+::
+
 #### Quartier de la Saulaie
 La Voie Lyonnnaire 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 

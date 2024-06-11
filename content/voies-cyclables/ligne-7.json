@@ -1338,7 +1338,7 @@
       "properties": {
         "line": 7,
         "name": "Route de Vienne - Moulin à Vent",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
