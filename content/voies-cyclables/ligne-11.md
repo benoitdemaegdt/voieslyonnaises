@@ -51,7 +51,7 @@ credit: Métropole de Lyon
 Des travaux préalables de dévoiement et de réhabilitation des réseaux d’assainissement, électricité et de gaz ont commencé début juin 2024 et se dérouleront jusqu'en novembre 2024. Ensuite, les travaux d'aménagement se dérouleront tout au long de l'année 2025.
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*\
 [Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Rue Garibaldi - *Bonnel à Paul Bert*
@@ -70,7 +70,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*\
 [Voir le dossier de concertation (p.20 à p.24)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
@@ -81,9 +81,10 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur 
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située au Sud de la plateforme BHNS.
 
-La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.
-La concertation continue se déroule de avril 2022 à décembre 2023.
-L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.\
+La concertation continue se déroule de avril 2022 à décembre 2023.\
+L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.\
+Le projet a été validé et déclaré d'utilité publique le 12 juin 2024.\
 [Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/621-bhns.htm)
 
 ::banner{type="wip"}
@@ -107,20 +108,21 @@ credit: Métropole de Lyon
 ---
 ::
 
-*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*\
 [Voir le dossier de concertation (p.25 à p.31)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Dauphiné - Lacassagne à Reconnaissance - Balzac
-Cette section est en tronçon commun avec la :line-link{line=10 anchor"le-long-du-tramway-t3"}.
+Cette section est en tronçon commun avec la :line-link{line=10 anchor="le-long-du-tramway-t3"}.
 
 ### Reconnaissance - Balzac à Bron - Sept Chemins
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins sur la route de Genas. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud. Elle passera au nord du quartier de Montchat puis traversera le périphérique de manière sécurisée avec la suppression des shunts routiers. Elle continuera vers le giratoire des Sept Chemins à travers le quartier des Brosses.
 
-La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.
-La concertation continue se déroule de avril 2022 à décembre 2023.
-L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.
+La concertation préalable sur ce projet a eu lieu du 11/10 au 19/11/2021.\
+La concertation continue se déroule de avril 2022 à décembre 2023.\
+L'enquête publique a eu lieu du 04/12/2023 au 12/01/2024.\
+Le projet a été validé et déclaré d'utilité publique le 12 juin 2024.\
 [Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/622-bhns.htm)
 
 ::banner{type="wip"}
@@ -132,7 +134,7 @@ Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec la future
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud sur cette avenue qui sera alors réservée aux seuls bus et modes actifs.
 
-La concertation continue se déroule de juin 2022 à juin 2024.
+La concertation continue se déroule de juin 2022 à juin 2024.\
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
 
 ::banner{type="wip"}
@@ -162,7 +164,7 @@ A la demande de la mairie de Chassieu, ce tronçon a été abandonné et conserv
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 ::banner{type="wip"}
@@ -171,9 +173,9 @@ Les travaux sur cette section ont lieu entre mars et juin 2024.
 
 ## Budget prévisionnel
  - plus de **10 000 000 € HT** au total dont :
-   - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne
+   - **7 000 000 € HT** pour la rue de Bonnel, la rue Paul Bert et la jonction Dauphiné-Lacassagne\
 *source: [page 33 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)*
-   - **1 200 000 € HT** pour la section à Chassieu
+   - **1 200 000 € HT** pour la section à Chassieu\
 _source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOpbByk853Y1HU5IVKPM26FR%2BQ5NXRjB9F2%2Bc3TocC2uS){:target="_blank"}_
 
 ## Calendrier prévisionnel
