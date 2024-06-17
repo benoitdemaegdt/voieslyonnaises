@@ -87,12 +87,12 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.
+La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf)
 
 ## Budget prévisionnel
 
-Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.
+Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.\
 _source: [page 27 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf){target=_blank}_
 
 

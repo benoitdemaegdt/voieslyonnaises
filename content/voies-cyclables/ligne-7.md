@@ -12,7 +12,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 
 ### Rillieux-la-Pape à Lyon 4
 #### Route du Mas Rillier à Chemin Petit
-***Osterode***
+***Osterode***\
 La Voie Lyonnaise 7 débute de la ZAC de Sermenaz et traverse l'A46 à travers deux giratoires autoroutiers.
 
 ::banner{type="unsecured"}
@@ -29,21 +29,21 @@ credit: Métropole de Lyon
 ---
 ::
 
-***Rillieux-Centre***
+***Rillieux-Centre***\
 Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyonnaise emprunte ensuite le parc linéaire Est sur une piste de 3m de large qui sera conservée en l'état. Elle continue sur la rue Ampère qui verra sa piste bidirectionnelle actuelle de 2.30m de large être élargie à 4m, puis traverse le parc linéaire Ouest où la piste cyclable bidirectionnelle actuelle de 2.70m de large sera élargie à 4m.
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la piste cyclable bidirectionnelle du parc linéaire Ouest sera finalement conservée en l'état suite au refus de la mairie de Rillieux de l'élargir.
 ::
 
-***Giratoire Général de Gaulle***
+***Giratoire Général de Gaulle***\
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.
 
 ::banner{type="wip"}
 Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.
 ::
 
-***Avenue de l'Hippodrome et Chemin Petit***
+***Avenue de l'Hippodrome et Chemin Petit***\
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 #### Voie de la Dombe
@@ -129,7 +129,7 @@ credit: La Ville à Vélo - Plateau Nord
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}
 
 ### Montée de la Boucle à Garibaldi - Arménie
@@ -160,7 +160,7 @@ credit: Métropole de Lyon
 Cette section a fait l'objet d'un réaménagement complet avec une piste cyclable bidirectionnelle de 3m côté Ouest (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie). Le projet prévoit de conserver cet aménagement, avec une amélioration dans les intersections qui supprimera enfin les inconfortables bordures en travers.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf)
 
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
@@ -178,7 +178,7 @@ credit: Ilex / Métropole de Lyon
 Les travaux préalable au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024. Ils enchaineront avec les travaux d'aménagement en 2025.
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
+La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Garibaldi_phase3.pdf)
 
 ### Garibaldi Sud à St-Fons - République
@@ -236,7 +236,7 @@ Les travaux sur cette section ont commencé début avril 2024 et continueront ju
 ::
 
 #### Concertation
-La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}
 
 ### Saint-Fons Centre
@@ -257,7 +257,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
+La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7YvesFarge_BUE.pdf){:target="_blank"}
 
 ### Traversée de Feyzin
@@ -266,17 +266,17 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
 ## Budget prévisionnel
 - **27 300 000 € HT** au minimum dont :
 
-  - **15 500 000 € HT** pour le tronçon Nord (Rillieux à Croix-Rousse)
+  - **15 500 000 € HT** pour le tronçon Nord (Rillieux à Croix-Rousse)\
   source: [page 56 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}._
-  - **3 500 000 € HT** pour le tronçon Central (Pont Churchill à la rue Garibaldi)
+  - **3 500 000 € HT** pour le tronçon Central (Pont Churchill à la rue Garibaldi)\
   source: [page 29 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf){:target="_blank"}._
-  - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)
+  - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)\
   source: [page 32 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}._
 
 A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
- - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3
+ - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3\
    source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278913/d544878399221610_6983.pdf)
- - **11 622 000 € HT** pour le réaménagement du boulevard Yves Farge
+ - **11 622 000 € HT** pour le réaménagement du boulevard Yves Farge\
    source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264253/d202745001254081_24218.pdf)
 
 ## Calendrier prévisionnel

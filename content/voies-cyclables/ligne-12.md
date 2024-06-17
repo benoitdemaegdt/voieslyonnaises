@@ -56,7 +56,7 @@ Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Il sera d'abord expérimenté entre août 2024 et avril 2025.
+Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Il sera d'abord expérimenté entre septembre 2024 et avril 2025.
 ::
 
 ::content-image
@@ -125,7 +125,11 @@ credit: Métropole de Lyon
 Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller).
 
 ::banner{type="unsecured"}
-Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années. Les travaux auront lieu en 2025.
+Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années.
+::
+
+::banner{type="wip"}
+Les travaux auront lieu en 2025.
 ::
 
 ### Grange Blanche à Boulevard Pinel
@@ -145,7 +149,7 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="info"}
-Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation aura lieu entre fin 2024 et l'été 2025. Ailleurs, les travaux débuteront courant 2025.
+Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation aura lieu entre octobre 2024 et avril 2025. Ailleurs, les travaux débuteront début 2025.
 ::
 
 ### Boulevard Pinel à Bron - Boutasse
@@ -168,7 +172,7 @@ Les travaux auront lieu en 2026.
 ::
 
 ### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl12/VL12_Valmy_Bron.pdf)
 
 ## Calendrier prévisionnel

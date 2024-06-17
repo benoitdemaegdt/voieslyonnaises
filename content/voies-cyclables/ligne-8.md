@@ -36,7 +36,7 @@ Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et le chemin du Siroux, l'aménagement sera réalisé en transitoire d'ici 2026, et le réaménagement définitif prévu ultérieurement
  - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
-*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*
+*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
 
 #### Tassin - Montcelard à Valvert
@@ -70,7 +70,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_La%20Tour%20de%20Salvagny_Tassin%20Valvert.pdf){:target="_blank"}
 
 
@@ -117,7 +117,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Ouest_Tassin_Buyer.pdf){:target="_blank"}
 
 ### Rue Pierre Audry
@@ -202,7 +202,7 @@ L'aménagement est cependant peu qualitatif pour les cyclistes avec une successi
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)
 
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
@@ -268,7 +268,7 @@ Les travaux entre le giratoire à l'extrémité Est de la rue Lionel Terray et l
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}
 
 ## Budget prévisionnel
@@ -281,7 +281,7 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
 
  A ce budget se rajoutent :
- - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières
+ - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières\
 source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
 
 

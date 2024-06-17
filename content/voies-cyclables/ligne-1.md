@@ -27,10 +27,10 @@ streetView: 45.7832245,4.8937612,3a,75y,259.87h,90t
 ---
 ::
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.
-La concertation continue s'est déroulée de janvier 2022 à juin 2023.
-L'enquête publique a eu lieu du 4 septembre au 3 octobre 2023.
-Le projet a été validé et déclaré d'utilité publique le 26 février 2024.
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.\
+La concertation continue s'est déroulée de janvier 2022 à juin 2023.\
+L'enquête publique a eu lieu du 4 septembre au 3 octobre 2023.\
+Le projet a été validé et déclaré d'utilité publique le 26 février 2024.\
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}
 
 ::banner{type="wip"}
@@ -51,14 +51,14 @@ streetView: 45.7842013,4.8861424,3a,75y,259.87h,90t
 
 *sur avenue Einstein et Boulevard du 11 Novembre*
 
-Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
+Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.\
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
 #### *Spécificités de ce tronçon*
-Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
+Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.\
 De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 
-La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
 ::content-image
@@ -78,14 +78,14 @@ Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard
 *via Quais du Rhône rive gauche*
 
 #### Allée Achille Lignon
-Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.
+Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.\
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
 #### Quai de Grande-Bretagne et Quai de Serbie
 
 *(Tête d'Or <> Pont Morand)*
 
-Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.
+Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.\
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023.
 
 ::banner{type="info"}
@@ -114,8 +114,8 @@ Après des travaux préalables de désamiantage sur le quai Sarrail au printemps
 
 *(Pont de la Guillotière <> Pont Gallieni)*
 
-La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.
-Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.
+La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.\
+Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.\
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.
 Elle a été inaugurée début juillet 2022.
 
@@ -128,12 +128,12 @@ streetView: 45.7481215,4.8338698,3a,75y,42.05h,95.66t
 ::
 
 #### Avenue Général Leclerc
-Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.
-A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence.
+Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.\
+A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence.\
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
+La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Centre_TetedOr_HalleGarnier.pdf)
 
 
@@ -175,10 +175,10 @@ streetView: 45.7088794,4.8538795,3a,75y,320h,90t
 ---
 ::
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.
-La concertation continue s'est déroulée de janvier 2022 à février 2023.
-L'enquête publique a eu lieu du 13 mars au 14 avril 2023.
-Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.\
+La concertation continue s'est déroulée de janvier 2022 à février 2023.\
+L'enquête publique a eu lieu du 13 mars au 14 avril 2023.\
+Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.\
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)
 
 ::banner{type="wip"}
