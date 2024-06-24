@@ -167,8 +167,8 @@ La traversée du périphérique sera améliorée avec la suppression d'une des 3
 
 Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolition des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefour à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
 
-::banner{type="wip"}
-Les travaux auront lieu en 2026.
+::banner{type="postponed"}
+Lors de la réunion publique consacrée au quartier des Essarts du 20/06/2024, la Métropole de Lyon a annoncé que ce tronçon sera finalement reporté à un mandat ultérieur à cause de l'opposition non constructive de la mairie de Bron. Les cyclistes continueront donc à utiliser la piste cyclable existante en conflit avec les piétons aux arrêts de tramway, et le giratoire de la Boutasse restera très routier et anxiogène pour les modes actifs.
 ::
 
 ### *Concertation*

@@ -567,15 +567,33 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Avenue Lacassagne",
-        "status": "planned",
+        "name": "Rue du Général Mouton-Duvernet",
+        "status": "done",
+        "doneAt": "31/12/2006",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#avenue-lacassagne-paul-bert-à-dauphiné"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.86973791484462, 45.75280220778939],
+          [4.861525405195948, 45.75715986395252],
+          [4.861468420716278, 45.7538736167393]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Avenue Lacassagne",
+        "status": "postponed",
+        "type": "voie-bus",
+        "link": "/voie-lyonnaise-10#avenue-lacassagne-paul-bert-à-dauphiné"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.869538019534076, 45.752797439308665],
           [4.866696792099646, 45.754443013538605],
           [4.863703176845831, 45.7562549377773],
           [4.862558561249244, 45.7569655763906],
@@ -586,6 +604,30 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MandelaDauphine-commun",
+        "line": 10,
+        "name": "Parc Mandela - Dauphiné",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.861468420716278,45.7538736167393],
+          [4.8631770745339225,45.75409016627313],
+          [4.8635873531707645,45.75308519529498],
+          [4.865788176308245,45.752610851200906],
+          [4.868035480765778,45.75258957168657],
+          [4.868839041506018,45.752676454794695],
+          [4.869327804351831,45.752735369884576],
+          [4.869538019534076,45.752797439308665]
+        ]
+      }
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -609,9 +651,9 @@
           [4.872930930957352, 45.75248280095562],
           [4.87252107204273, 45.752473733616114],
           [4.872046277484117, 45.75248780394898],
-          [4.870973195167551, 45.75259618018322],
-          [4.8703121274824355, 45.75251755731614],
-          [4.86973791484462, 45.75280220778939]
+          [4.871442084743592,45.75254091471112],
+          [4.870571917654445,45.75228765223716],
+          [4.869538019534076,45.752797439308665]
         ]
       }
     },

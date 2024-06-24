@@ -195,6 +195,10 @@ credit: Métropole de Lyon
 La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5_Oullins.pdf)
 
+::banner{type="info"}
+Lors du conseil métropolitain du 24/06/2024, il a été indiqué que la concertation de ce tronçon avait été très partagée et que des études complémentaires devaient être menées pour valider ou infléchir les itinéraires proposés. En fonction de l'avancée de ces études, il est probable que ce tronçon soit reporté à un futur mandat.
+::
+
 ### Gare d'Oullins à Pierre-Bénite Barrage
 Cette section est en tronçon commun avec la :line-link{line=3}.
 

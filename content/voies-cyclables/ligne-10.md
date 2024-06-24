@@ -45,6 +45,10 @@ La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la
 #### Avenue Lacassagne - Paul Bert à Dauphiné
 Sur ce tronçon, une piste cyclable bidirectionnelle de 3.50 à 4.00m de large sera créée côté nord de l'avenue (sauf pincements à 2.50m au droit des arrêts de bus). Ce nouvel aménagement se fera au détriment de places de stationnement ou d'une voie bus vers le Sud.
 
+::banner{type="postponed"}
+Lors du conseil métropolitain du 24/06/2024, il a été annoncé que l'avenue Lacassagne n'acceuillera finalement pas de piste cyclable, bien qu'un projet de double couloir bus ouvert aux vélos y soit prochainement aménagé. Sur ce tronçon, la Voie Lyonnaise 10 sera donc en commun avec la Voie Lyonnaise 11 via la rue du Dauphiné, la rue Renoir, la rue Hachette et la parc Mandela. Elle rejoindra ensuite le carrefour Paul Bert via la piste cyclable existante rue Mouton-Duvernet.
+::
+
 #### Le long du tramway T3
 Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise. *D'autres, présentés en italique, sont des points durs étroits qui seront malheureusement conservés.*
 

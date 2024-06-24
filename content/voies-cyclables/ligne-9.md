@@ -95,6 +95,10 @@ Sur ce tronçon, deux variantes d'itinéraires sont proposées :
  - par le Nord du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante a l'inconvénient de ne pas être connectée au nord de la Ville de Meyzieu, de ne pas être ombragée et de devoir franchir l'étroit pont de Jonage en mixité avec le flux automobile.
  - par le Sud du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante présente davantage de conflits avec les piétons, mais a l'avantage d'être ombragée, bien reliée à Meyzieu et traverse la canal sur le pont d'Herbens réservé aux modes actifs.
 
+::banner{type="info"}
+Lors du conseil métropolitain du 24/06/2024, il a été indiqué que la variante Nord était préférée de manière à minimiser les conflits avec les piétons qui seraient plus nombreux sur la variante Sud. Cependant, cette dernière étant mieux connectée à Meyzieu et Jonage et plus ombragée, la décision finale n'a pas encore été prise et sera connue prochainement.
+::
+
 #### Jonage - Chemin de Halage
 Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
 
