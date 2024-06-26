@@ -207,7 +207,7 @@ La Voie Lyonnaise 5 empruntera :
   - le pont de l'A7 sur le Rhône, dont la piste cyclable bidirectionnelle côté nord pourrait être élargie,
   - l'avenue des Frères Perret, sous la forme d'une voie verte côté Est,
   - la voie verte existante au nord du Boulevard Urbain Sud,
-  - à partir du Chemin des Ecoliers, elle se connectera à la Voie Lyonnaise 7 sur le boulevard Yves Farge sous une forme et un itinéraire à définir.
+  - à partir du Chemin des Ecoliers, elle se connectera à la :line-link{line=7} sur le boulevard Yves Farge sous une forme et un itinéraire à définir.
 
 
 ## Budget prévisionnel
