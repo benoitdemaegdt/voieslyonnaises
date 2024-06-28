@@ -165,7 +165,7 @@ streetView: 45.7125629,4.8448908,3a,75y,357.13h,90.44t
 ---
 ::
 
-Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
+Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit piéton sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg

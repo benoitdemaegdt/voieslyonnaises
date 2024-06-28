@@ -82,7 +82,7 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
-Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
+Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
 Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une bonne partie de l'année.
@@ -94,7 +94,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 
 ### Traversée de Vaise
 #### Porte de Vaise
-La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger détour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation acceuillera notamment un hôtel de logistique urbain facilitant l'activité de livraison à vélo. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
+La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger détour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation accueillera notamment un hôtel de logistique urbain facilitant l'activité de livraison à vélo. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
 
 #### Rue de Bourgogne
 Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est de la chaussée.
@@ -139,7 +139,7 @@ La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de 
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
 
-L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérénisé à l'été 2021.
+L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérennisé à l'été 2021.
 
 ::banner{type="postponed"}
 Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
