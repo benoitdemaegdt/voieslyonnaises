@@ -8,5 +8,12 @@ export const useColors = () => {
     return lineConfig.color;
   }
 
-  return { getLineColor };
+  function getTransportColor(type: string, line: string): string {
+    const black = '#000000';
+    const lineConfig = config.transportColors.find((color) => color.type === type && color.line === line);
+    if (!lineConfig) { return black; }
+    return lineConfig.color;
+  }
+
+  return { getLineColor, getTransportColor };
 };

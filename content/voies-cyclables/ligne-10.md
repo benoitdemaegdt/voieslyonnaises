@@ -69,9 +69,9 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
 ::
 
 ***Vaulx-La Soie***
- - le long du terminus du métro A, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du tram T9 dans le secteur
+ - le long du terminus du :transport-link{type=métro line=A}, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du :transport-link{type=tram line=9} dans le secteur
  - la partie Nord de la rue Marius Grosso sera réservée aux seuls cyclistes avec élargissement de la piste cyclable bidirectionnelle et déplacement de l'arrêt de bus à l'Ouest du carrefour Salengro
- - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de tram T9 qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
+ - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de :transport-link{type=tram line=9} qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
 
 ***Décines-Charpieu***
  - le long du [projet immobilier D-Side](https://d-side-decines.com/), entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes

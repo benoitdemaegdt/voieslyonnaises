@@ -60,5 +60,77 @@
       "line": 12,
       "color": "#DBABB7"
     }
+  ],
+  "transportColors": [
+    {
+      "type": "métro",
+      "line": "A",
+      "color": "#EF3899"
+    },
+    {
+      "type": "métro",
+      "line": "B",
+      "color": "#007CC5"
+    },
+    {
+      "type": "métro",
+      "line": "C",
+      "color": "#F99D1C"
+    },
+    {
+      "type": "métro",
+      "line": "D",
+      "color": "#01AD4C"
+    },
+    {
+      "type": "tram",
+      "line": "1",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "2",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "3",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "4",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "5",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "6",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "7",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "8",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "9",
+      "color": "#873E99"
+    },
+    {
+      "type": "tram",
+      "line": "10",
+      "color": "#873E99"
+    }
   ]
 }
