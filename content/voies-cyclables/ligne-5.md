@@ -85,7 +85,7 @@ Cette section est en tronçon commun avec la :line-link{line=4}.
 Le lien entre le pont Clémenceau et le centre de Vaise sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, via le franchissement du carrefour des Monts d'Or avec la création d'une nouvelle traversée cyclable directe.
 
 #### Rue Roquette
-Le projet prévoit d'aménager une piste cyclable bidirectionelle de 3m de large côté Nord à la place d'une des deux voies de circulation et d'une rangée de stationnement. Le trottoir adjacent le long du parc sera aussi élargi.
+Le projet prévoit d'aménager une piste cyclable bidirectionnelle de 3m de large côté Nord à la place d'une des deux voies de circulation et d'une rangée de stationnement. Le trottoir adjacent le long du parc sera aussi élargi.
 
 #### Rond-point de Valmy
 Ce point noir majeur du secteur devrait être traité à minima via la création d'un anneau cyclable unidirectionnel de 2m de large à l'extérieur du rond-point, marqué en résine beige.
@@ -132,7 +132,7 @@ La concertation publique sur ce tronçon se tenait du 29/01 au 11/03/2024 dans l
 
 ### Tassin Nord
 #### Porte du Valvert
-Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidirectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérénisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
+Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidirectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérennisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
 
 #### Avenue Victor Hugo
 Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste cyclable bidirectionnelle de 3.50m côté Est de l'avenue Victor Hugo.
@@ -152,7 +152,7 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 *via Francheville-le-Bas*
 
 Au nord du Chemin de Chantegrillet, aucun aménagement cyclable.\
-Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérénisés, étendus et améliorés au second semestre 2021.\
+Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérennisés, étendus et améliorés au second semestre 2021.\
 Entre l'avenue de Limburg et l'avenue de l'Aqueduc de Beaunant, des pistes cyclables bilatérales et sécurisées de 1.70m  de large ont été créées au premier semestre 2021.
 
 ::banner{type="postponed"}

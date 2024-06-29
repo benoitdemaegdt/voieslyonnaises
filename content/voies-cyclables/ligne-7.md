@@ -68,7 +68,7 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 ::
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a étudié de nouvelles variantes pour éviter complètement la voie verte et privilégier sur celle-ci les usages de promenade pour les piétons. Elle a annoncé le 29/05/2024 qu'une variante crédible avait été retenue, passant notament par le nord de l'avenue Marc Sangnier, la rue des Combattants d'Afrique du Nord et le chemin de Crépieux. Pour y créer une piste cyclable bidirectionnelle continue et sécurisée, cela nécessite de passer en sens unique les rues concernées (à l'exception du Chemin de Crépieux). Devant l'opposition des élus de la mairie de Caluire qui préférent mélanger les vélos avec les bus ou les voitures sans aucune protection, cette nouvelle variante ne sera pas réalisable sur le mandat.
+Suite à la concertation, la Métropole a étudié de nouvelles variantes pour éviter complètement la voie verte et privilégier sur celle-ci les usages de promenade pour les piétons. Elle a annoncé le 29/05/2024 qu'une variante crédible avait été retenue, passant notamment par le nord de l'avenue Marc Sangnier, la rue des Combattants d'Afrique du Nord et le chemin de Crépieux. Pour y créer une piste cyclable bidirectionnelle continue et sécurisée, cela nécessite de passer en sens unique les rues concernées (à l'exception du Chemin de Crépieux). Devant l'opposition des élus de la mairie de Caluire qui préfèrent mélanger les vélos avec les bus ou les voitures sans aucune protection, cette nouvelle variante ne sera pas réalisable sur le mandat.
 ::
 
 ::content-image
@@ -110,11 +110,11 @@ Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
 Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
 ::banner{type="postponed"}
-La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait d'une mésentente avec les élus de la mairie de Lyon 4e. La traversée de cette section contrainte necessitait de modifier en profondeur le plan de circulation automobile et bus du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
+La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait d'une mésentente avec les élus de la mairie de Lyon 4e. La traversée de cette section contrainte nécessitait de modifier en profondeur le plan de circulation automobile et bus du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
 ::
 
 #### Montée de la Boucle
-Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
+Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérennisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la contre-allée en bas de la Montée de la Boucle sera finalement aménagée en vélorue de 4m de large pour conserver un maximum de places de stationnements à la demande de la mairie de Caluire et des commerçants.
@@ -146,7 +146,7 @@ La création d'une alternative sécurisée pour les cyclistes sur ce tronçon du
 
 #### Rue Garibaldi - Belges à Vauban
 Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.
-Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actuellement en épi en stationnement longitudinal.
+Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la transformation du stationnement actuellement en épi en stationnement longitudinal.
 
 ::content-image
 ---
