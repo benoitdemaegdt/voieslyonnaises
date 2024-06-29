@@ -439,7 +439,8 @@
       "properties": {
         "line": 1,
         "name": "Rue Cuvier - Rue de Bonnel",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "26/04/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
@@ -459,7 +460,8 @@
         "id": "QuaiAugagneur-commun",
         "line": 1,
         "name": "Rue de Bonnel - Pont Wilson",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "28/06/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
@@ -476,7 +478,8 @@
       "properties": {
         "line": 1,
         "name": "Pont Wilson - Pont de la Guillotière",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "28/06/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#quai-sarrail-et-quai-augagneur"
       },
