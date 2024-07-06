@@ -87,7 +87,7 @@ Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tron
 ::
 
 ::banner{type="info"}
-La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu début 2025.
+La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu pour l'automne 2024.
 ::
 
 #### Tunnel Vivier-Merle
@@ -95,7 +95,7 @@ La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.
 
 ::banner{type="wip"}
-Les travaux auront lieu entre l'automne 2024 et le printemps 2025.
+Les travaux auront lieu pendant l'automne 2024.
 ::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques

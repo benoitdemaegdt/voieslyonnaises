@@ -133,7 +133,9 @@ Le **pont Clémenceau** avait été initialement réaménagé en 2013 avec deux 
 Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conserver la piste cyclable bidirectionnelle existante de 3m de large à court terme.
 
 ::banner{type="info"}
-La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
+La Ville à Vélo demande au SYTRAL d'étudier la possibilité de dévier les bus diesel de la ligne C6 dans le tunnel routier pour :
+ - élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers
+ - arrêter d'exposer les piétons et cyclistes à la pollution aux particules fines des bus, dans un contexte de hausse de la fréquence du C6 aux heures de pointes dans ce tunnel qui porte aujourd’hui bien mal son nom.
 ::
 
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
