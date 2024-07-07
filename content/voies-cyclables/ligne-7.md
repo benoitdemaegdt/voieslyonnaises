@@ -82,7 +82,7 @@ credit: Métropole de Lyon
 #### Métro Cuire et Infirmerie Protestante
 Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
 
-La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du métro C.
+La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du :transport-link{type=métro line=C}.
 
 #### Boulevard des Canuts
 Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.

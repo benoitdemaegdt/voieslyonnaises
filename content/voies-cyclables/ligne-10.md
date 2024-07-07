@@ -50,7 +50,7 @@ Lors du conseil métropolitain du 24/06/2024, il a été annoncé que l'avenue L
 ::
 
 #### Le long du tramway T3
-Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise. *D'autres, présentés en italique, sont des points durs étroits qui seront malheureusement conservés.*
+Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du :transport-link{type=tram line=3} du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise. *D'autres, présentés en italique, sont des points durs étroits qui seront malheureusement conservés.*
 
 ***Lyon 3***
  - la piste cyclable sur trottoir de l'avenue Lacassagne sera supprimée pour être restituée sur la voirie côté Sud

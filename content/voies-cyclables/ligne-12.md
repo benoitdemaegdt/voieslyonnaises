@@ -70,7 +70,7 @@ credit: Métropole de Lyon
 ### Traversée de Saint-Jean
 Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue Jean Carries. Profitant de la fermeture de Chemin Neuf et de la suppression de la majorité du stationnement, ces deux rues pourront être aménagées en vélorue et fortement végétalisées avec un trafic automobile qui sera très faible.
 
-En arrivant devant le métro Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
+En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
 ::banner{type="wip"}
 Les travaux auront lieu en 2025.

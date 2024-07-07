@@ -92,7 +92,7 @@ Les premiers travaux sur les réseaux ont débuté au premier semestre 2024, et 
 ::
 
 ### Esplanade Mandela à Dauphiné - Lacassagne
-Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frein majeur à l'usage du vélo dans ce secteur.
+Sur ce tronçon, l'aménagement cyclable historique longe le :transport-link{type=tram line=3} côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frein majeur à l'usage du vélo dans ce secteur.
 
 Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 

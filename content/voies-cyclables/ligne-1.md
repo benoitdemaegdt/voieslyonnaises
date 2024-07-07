@@ -14,7 +14,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 
 *via Villeurbanne St-Jean*
 
-Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T9 et la :line-link{line=5}. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=9} et la :line-link{line=5}. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera le Sud de la future ZAC Mas du Taureau à Vaulx-en-Velin et la quartier de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
 
@@ -141,7 +141,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.\
 
 *via Gerland et le nord de la vallée de la Chimie*
 
-Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T10.
+Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=10}.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
