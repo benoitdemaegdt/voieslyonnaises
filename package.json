@@ -22,7 +22,7 @@
     "nuxt-icon": "^1.0.0-beta.7",
     "prettier": "^3.3.2",
     "sitemap": "^7.1.1",
-    "vitest": "^1.6.0"
+    "vitest": "^2.0.1"
   },
   "dependencies": {
     "highcharts-vue": "^2.0.1",
