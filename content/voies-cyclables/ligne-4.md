@@ -144,10 +144,14 @@ Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de l
 L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérénisé à l'été 2021.
 
 ::banner{type="postponed"}
-Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
+Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest (LCO)" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
 ::
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
+
+::banner{type="modified"}
+Contrairement à ce qui était proposé initialement, et suite aux remarques lors de la concertation, la Métropole a décidé lors de la [commission permanente du 08 juillet 2024](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F) de ne pas aménager cette piste cyclable derrière les platanes. Comme suggéré par notre association, il a été préféré élargir les deux couloirs de bus existants en laissant une seule voie de circulation générale, de la même manière que ce qui est proposé provisoirement dans la continuité Sud du boulevard des Belges en attendant LCO. Il conviendra cependant de passer le stationnement en long pour élargir le trottoir côté Parc en faveur des piétons.
+::
 
 *La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
@@ -191,13 +195,16 @@ streetView: 45.7718908,4.8734156,3a,75y,276.55h,90t
 
 ## Budget prévisionnel
 
-- au moins **22 752 000 € HT** connus dont :
+- au moins **23 752 000 € HT** connus dont :
 
   - **9 200 000 € HT** pour le tronçon Lissieu à Parc Relais - Porte de Vaise
 <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)*
 
   - **9 252 000 € HT** pour le tronçon du Parc Relais - Porte de Lyon à Mouillard - Porte de Vaise
 <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)*
+
+ -  **1 000 000 € HT** pour le tronçon central (pont Clémenceau à avenue Verguin)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F)*
 
   -  **4 300 000 € HT** pour le tronçon est (avenue Verguin à rue Flachet via Pressensé)
 <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)*
