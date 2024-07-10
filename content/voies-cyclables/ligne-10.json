@@ -407,7 +407,7 @@
         "line": 10,
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
-        "type": "bidirectionnelle",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-verguin-à-waldeck-rousseau"
       },
       "geometry": {

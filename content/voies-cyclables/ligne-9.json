@@ -649,7 +649,7 @@
         "line": 9,
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
-        "type": "bidirectionnelle",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {

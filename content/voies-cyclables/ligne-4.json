@@ -639,7 +639,7 @@
         "line": 4,
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
-        "type": "bidirectionnelle",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
