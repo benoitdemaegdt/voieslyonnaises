@@ -721,7 +721,8 @@
       "properties": {
         "line": 11,
         "name": "Chassieu - Route de Lyon",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "10/07/2024",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-11#boulevard-urbain-est-à-chassieu-dauphiné"
       },
@@ -752,7 +753,8 @@
       "properties": {
         "line": 11,
         "name": "Avenue du Dauphiné Ouest",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "10/07/2024",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-11#avenue-du-dauphiné-ouest"
       },

@@ -138,12 +138,16 @@ La concertation continue se déroule de juin 2022 à juin 2024.\
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
 
 ::banner{type="wip"}
-Les travaux auront lieu entre fin 2024 et mi-2025.
+Les travaux auront lieu entre août et décembre 2024.
 ::
 
 ### Boulevard Urbain Est à Chassieu - Dauphiné
 #### Avenue Mermoz et Route de Lyon
-La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet consiste à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable deviendra prioritaire sur les voitures dans le giratoire René Cassin.
+La Voie Lyonnaise 11 emprunte les aménagements en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet a consisté à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable est devenue prioritaire sur les voitures dans le giratoire René Cassin.
+
+::banner{type="info"}
+Par dérogation exceptionnelle et suite à demande formelle, la Voie Lyonnaise n'est pas prioritaire dans sa traversée de l'accès au centre de formation de la police nationale et à la CRS 45.
+::
 
 ::content-image
 ---
@@ -154,7 +158,7 @@ credit: Métropole de Lyon
 ::
 
 #### Avenue du Dauphiné Ouest
-La voie verte existante côté Nord de la chaussée sera élargie de 2.90 à 4.00m. A la demande de la mairie de Chassieu, la traversée du giratoire d'Usingen ne sera pas sécurisée pour les modes actifs qui devront continuer à l'emprunter à leurs risques et périls.
+La voie verte existante côté Nord de la chaussée a été élargie de 2.90 à 4.00m. A la demande de la mairie de Chassieu, la traversée du giratoire d'Usingen n'a pas été sécurisée pour les modes actifs qui devront continuer à l'emprunter à leurs risques et périls.
 
 #### Avenue du Dauphiné Est
 Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usingen et le chemin de Trève pour élargir la voie verte étroite de 2m50 de large en mauvais état et dangereuse dans une chicane. Cela permettait de mieux desservir les équipements sportifs de cette zone.
@@ -168,7 +172,7 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 ::banner{type="wip"}
-Les travaux sur cette section ont lieu entre mars et juin 2024.
+Les travaux sur cette section ont eu lieu entre mars et juin 2024.
 ::
 
 ## Budget prévisionnel

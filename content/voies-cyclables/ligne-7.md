@@ -89,6 +89,10 @@ Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirection
 
 Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste cyclable bidirectionnelle fera près de 4m de large.
 
+::banner{type="postponed"}
+Lors du conseil métropolitain du 24/06/2024, la Métropole de Lyon a annoncé que le tronçon au Sud de la rue Hénon serait reporté à un mandat ultérieur, à la demande des élus de la mairie de Lyon 4e. Alors qu'aucune contrainte technique n'empêchait l'aménagement de cette portion, la décision politique a préféré mélanger les cyclistes avec les voitures sans aucun aménagement cyclable ni sécurité.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
