@@ -13,7 +13,7 @@
     "@iconify-json/game-icons": "^1.1.9",
     "@iconify-json/iconoir": "^1.1.44",
     "@iconify-json/mdi": "^1.1.67",
-    "@nuxt/content": "^2.12.1",
+    "@nuxt/content": "^2.13.1",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@tailwindcss/typography": "^0.5.13",
