@@ -46,7 +46,7 @@ La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la
 Sur ce tronçon, une piste cyclable bidirectionnelle de 3.50 à 4.00m de large sera créée côté nord de l'avenue (sauf pincements à 2.50m au droit des arrêts de bus). Ce nouvel aménagement se fera au détriment de places de stationnement ou d'une voie bus vers le Sud.
 
 ::banner{type="postponed"}
-Lors du conseil métropolitain du 24/06/2024, il a été annoncé que l'avenue Lacassagne n'acceuillera finalement pas de piste cyclable, bien qu'un projet de double couloir bus ouvert aux vélos y soit prochainement aménagé. Sur ce tronçon, la Voie Lyonnaise 10 sera donc en commun avec la Voie Lyonnaise 11 via la rue du Dauphiné, la rue Renoir, la rue Hachette et la parc Mandela. Elle rejoindra ensuite le carrefour Paul Bert via la piste cyclable existante rue Mouton-Duvernet.
+Lors du conseil métropolitain du 24/06/2024, il a été annoncé que l'avenue Lacassagne n'accueillera finalement pas de piste cyclable, bien qu'un projet de double couloir bus ouvert aux vélos y soit prochainement aménagé. Sur ce tronçon, la Voie Lyonnaise 10 sera donc en commun avec la Voie Lyonnaise 11 via la rue du Dauphiné, la rue Renoir, la rue Hachette et la parc Mandela. Elle rejoindra ensuite le carrefour Paul Bert via la piste cyclable existante rue Mouton-Duvernet.
 ::
 
 #### Le long du tramway T3
@@ -65,7 +65,7 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
  - *au droit de l'arrêt de tram "Bel Air - Les Brosses", la minuscule voie verte de moins de 2m de large donnant de forts conflits avec les piétons sera conservée faute d'élargissement possible sur le site industriel SAFRAN.*
 
 ::banner{type="unsecured"}
-Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroit de 125m de long partagé avec les véhicules mototisés dans le sens Ouest>Est sera conservé faute d'élargissement possible. La Ville à Vélo réclame que le sens de circulation soit inversé pour en faire une vélorue compatible avec un faible trafic automobile.
+Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroit de 125m de long partagé avec les véhicules motorisés dans le sens Ouest>Est sera conservé faute d'élargissement possible. La Ville à Vélo réclame que le sens de circulation soit inversé pour en faire une vélorue compatible avec un faible trafic automobile.
 ::
 
 ***Vaulx-La Soie***

@@ -15,7 +15,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 *via Saint-Clair et Bellevue*
 
 #### Chemin de halage de Crépieux
-Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le tranformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
+Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de la voie SNCF. Le projet consiste à le transformer en voie verte et à modifier le revêtement pour un sol clair, lisse, confortable et drainant en conservant la largeur actuelle d'environ 3m. Il n'y a aucun éclairage prévu.
 
 ::content-image
 ---
@@ -184,7 +184,7 @@ La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl6/VL6_Oullins.pdf)
 
 ::banner{type="postponed"}
-Après de nombreux rebondissements politiques déplorables début 2024 où Mairie et Métropole se livraient une guéguerre politique ridicule sur le dos des citoyens, la Métropole a annoncé mi-février 2024 qu'elle renonçait à la mise en sens unique de la rue de la Camille et d'une partie de la Grande Rue entre la rue de la Camille et la rue du Perron. Le report du traitement de ces sections est une réponse de la Métropole aux demandes des collectifs de riverains et commerçants. La Ville à Vélo déplore une absence de solution cyclable sécurisée à court-terme pour traverser la commune d'Oullins sur ce mandat, qui empêchera un développment du vélo dans le Sud-Ouest lyonnais.
+Après de nombreux rebondissements politiques déplorables début 2024 où Mairie et Métropole se livraient une guéguerre politique ridicule sur le dos des citoyens, la Métropole a annoncé mi-février 2024 qu'elle renonçait à la mise en sens unique de la rue de la Camille et d'une partie de la Grande Rue entre la rue de la Camille et la rue du Perron. Le report du traitement de ces sections est une réponse de la Métropole aux demandes des collectifs de riverains et commerçants. La Ville à Vélo déplore une absence de solution cyclable sécurisée à court-terme pour traverser la commune d'Oullins sur ce mandat, qui empêchera un développement du vélo dans le Sud-Ouest lyonnais.
 ::
 
 

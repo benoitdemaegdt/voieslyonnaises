@@ -95,7 +95,7 @@ credit: Métropole de Lyon
 ::
 
 #### Avenue Barthélémy Buyer
-Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompera au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
+Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompra au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
 ::content-image
 ---
@@ -174,11 +174,11 @@ credit: Street Architecture / Métropole de Lyon
 #### Rue et Pont de l'Epargne
 Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord à l'Ouest du pont et côté Sud à l'Est.
 Concernant la circulation automobile et le traitement du pont, deux variantes sont soumises à concertation :
- - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchecoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
+ - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchécoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
 #### Rue Marius Berliet
-Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérénisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
+Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérennisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
 
 ::banner{type="postponed"}
 La création d'une véritable piste cyclable séparée sur ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui dégraderait les performances de la ligne C25. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
@@ -281,7 +281,7 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.\
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
 
  A ce budget se rajoutent :
- - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières\
+ - **18 100 000 € HT** pour la requalification de la route de Paris à Charbonnières\
 source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
 
 

@@ -24,7 +24,7 @@ Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs varia
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 ::banner{type="info"}
-Compte-tenu des containtes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste indéfini dans les détails et à confirmer par la Métropole de Lyon.
+Compte-tenu des contraintes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste indéfini dans les détails et à confirmer par la Métropole de Lyon.
 ::
 
 ### Pont Poincaré à avenue Berthelot
@@ -43,7 +43,7 @@ Ce tronçon, très attendu par les cyclistes du plateau Nord, permettra de suppr
 *entre Pont Poincaré et boulevard du 11 Novembre 1918*
 
 Une piste cyclable bidirectionnelle de 4m de large sera aménagée à l'Est derrière le Transbordeur, en lieu et place d'une des deux voies de circulation.\
-Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste birectionnelle : à l'Ouest côté parc de la Tête d'Or à la place d'une voie de circulation ou à l'Est en réaménageant la voie verte actuelle.
+Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bidirectionnelle : à l'Ouest côté parc de la Tête d'Or à la place d'une voie de circulation ou à l'Est en réaménageant la voie verte actuelle.
 
 #### Boulevard Stalingrad Sud
 
