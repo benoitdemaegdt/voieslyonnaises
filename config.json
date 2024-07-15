@@ -60,5 +60,85 @@
       "line": 12,
       "color": "#DBABB7"
     }
+  ],
+  "transports": [
+    {
+      "type": "métro",
+      "line": "A",
+      "color": "#EF3899",
+      "link": "https://www.tcl.fr/lignes/metro-a"
+    },
+    {
+      "type": "métro",
+      "line": "B",
+      "color": "#007CC5",
+      "link": "https://www.tcl.fr/lignes/metro-b"
+    },
+    {
+      "type": "métro",
+      "line": "C",
+      "color": "#F99D1C",
+      "link": "https://www.tcl.fr/lignes/metro-c"
+    },
+    {
+      "type": "métro",
+      "line": "D",
+      "color": "#01AD4C",
+      "link": "https://www.tcl.fr/lignes/metro-d"
+    },
+    {
+      "type": "tram",
+      "line": "1",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t1"
+    },
+    {
+      "type": "tram",
+      "line": "2",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t2"
+    },
+    {
+      "type": "tram",
+      "line": "3",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t3"
+    },
+    {
+      "type": "tram",
+      "line": "4",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t4"
+    },
+    {
+      "type": "tram",
+      "line": "5",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t5"
+    },
+    {
+      "type": "tram",
+      "line": "6",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t6"
+    },
+    {
+      "type": "tram",
+      "line": "7",
+      "color": "#873E99",
+      "link": "https://www.tcl.fr/lignes/tramway-t7"
+    },
+    {
+      "type": "tram",
+      "line": "9",
+      "color": "#873E99",
+      "link": "https://destinations2026-sytral.fr/processes/t9"
+    },
+    {
+      "type": "tram",
+      "line": "10",
+      "color": "#873E99",
+      "link": "https://destinations2026-sytral.fr/processes/t10"
+    }
   ]
 }

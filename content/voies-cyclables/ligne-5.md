@@ -13,7 +13,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ### Boulevard Urbain Est
 
 #### Bron Decathlon à Chassieu Golf
-Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du tramway T5, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
+Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du :transport-link{type=tram line=5}, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
 
 ::content-image
 ---
@@ -47,7 +47,7 @@ Les travaux ont eu lieu entre novembre 2023 et mars 2024.
 
 ### Vaulx-en-Velin Est
 ::banner{type="info"}
-Sur cette longue section de 3.5km qui reliera la cité TASE au centre-ville, la Voie Lyonnaise 5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette longue section de 3.5km qui reliera la cité TASE au centre-ville, la Voie Lyonnaise 5 partagera son itinéraire avec le futur :transport-link{type=tram line=9}. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 ::
 
 Entre la rue Brunel et l'avenue Marcellin, il s'agira d'une piste cyclable bidirectionnelle de 4m de large située à l'ouest de la plateforme tramway.\
