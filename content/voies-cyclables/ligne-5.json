@@ -1337,7 +1337,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.878264470344789, 45.78253126670493],
+          [4.879090196028102, 45.782714075198534],
           [4.877317297826664, 45.7822875659929]
         ]
       }
@@ -1348,14 +1348,14 @@
         "id": "EinsteinE-commun",
         "line": 5,
         "name": "Einstein Est",
-        "status": "planned",
+        "status": "postponed",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.878264470344789, 45.78253126670493],
+          [4.879090196028102, 45.782714075198534],
           [4.883788881098923, 45.783762268603745]
         ]
       }
