@@ -14,7 +14,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 
 *via Villeurbanne St-Jean*
 
-Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=9} et la :line-link{line=5}. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=9} et la :line-link{line=5 anchor=vaulx-en-velin-ouest}. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera le Sud de la future ZAC Mas du Taureau à Vaulx-en-Velin et la quartier de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
 
@@ -92,6 +92,8 @@ Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et l
 Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au premier semestre 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
 ::
 
+La :line-link{line=7 anchor=pont-churchill-et-carrefour-tête-dor} est accessible au niveau du pont Churchill, tandis que le pont de Lattre de Tassigny permet d'emprunter la :line-link{line=4 anchor=pont-clémenceau-à-boulevard-des-belges} et la :line-link{line=10 anchor=tassin-valvert-à-tête-dor-verguin} en direction de Vaise via le tunnel.
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/av-grande-bretagne.png
@@ -110,6 +112,8 @@ Cette section, qui concentre le trafic vélo le plus important de la Métropole 
 Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont eu lieu entre novembre 2023 et juin 2024. La nouvelle piste est ouverte à la fin du mois.
 ::
 
+La section de 150m entre la rue Bonnel et le Pont Wilson est en commun avec la :line-link{line=11 anchor=pont-wilson}
+
 #### Quai Claude Bernard
 
 *(Pont de la Guillotière <> Pont Gallieni)*
@@ -118,6 +122,8 @@ La piste cyclable existante a été décalée sur une des voies de circulation e
 Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.\
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.
 Elle a été inaugurée début juillet 2022.
+
+Les ponts mentionnés ci-dessus permettent aux usagers de la VL1 de bifurquer vers la :line-link{line=12 anchor=pont-de-la-guillotière-à-grange-blanche} et la :line-link{line=8 anchor=pont-de-luniversité}
 
 ::content-image
 ---
