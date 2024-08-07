@@ -55,7 +55,7 @@ La section sur la commune de Couzon est terminée, réalisée en deux phases : S
 ::
 
 ::banner{type="wip"}
-La section sur la commune de St-Romain est en travaux entre février 2024 et l'été 2024.
+La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.
 ::
 
 ::banner{type="info"}
@@ -204,7 +204,7 @@ Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'es
 ::
 
 ::banner{type="wip"}
-Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux est prévue courant 2024 jusqu'au chemin de Freyssinet.
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux est prévue courant été 2024 jusqu'au chemin de Freyssinet.
 ::
 
 ## Budget prévisionnel

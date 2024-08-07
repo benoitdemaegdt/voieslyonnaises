@@ -22,8 +22,12 @@ Les cyclistes de la commune qui y circulent continueront donc à le faire sans a
 #### La-Tour-de-Salvagny - Est à Dardilly - Montcourand
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
+::banner{type="info"}
+Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie.
+::
+
 ::banner{type="wip"}
-Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation semblent au point mort depuis début 2024 (revêtement, marquage)...
+Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation (plateau, marquages) ont eu lieu en juillet 2024. 
 ::
 
 #### RD307 (Ancienne Route Nationale 7)
