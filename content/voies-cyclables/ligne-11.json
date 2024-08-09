@@ -70,26 +70,74 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "name": "Avenue du Point du Jour",
+        "name": "Place Bénédict Tessier",
         "status": "postponed",
-        "type": "inconnu",
+        "type": "aucun",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.796991623051724, 45.75635943687695],
-          [4.7981431327605435, 45.75643565678436],
+          [4.797688614809516, 45.7564020791817]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 11,
+        "name": "Avenue du Point du Jour Ouest",
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.797688614809516, 45.7564020791817],
           [4.799112049435507, 45.75650703880402],
           [4.799347046737921, 45.756484514124],
           [4.801152934235063, 45.756229868303365],
           [4.80171095440889, 45.7561962137969],
-          [4.80320933705957, 45.75627469005789],
+          [4.802944742850997, 45.75626238268592]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 11,
+        "name": "Avenue du Point du Jour Est",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.802944742850997, 45.75626238268592],
           [4.8036274942326145, 45.75629205579213],
           [4.804273646992442, 45.75621482018468],
           [4.8048672515099895, 45.75612901337965],
           [4.805639613824496, 45.756145539128795],
-          [4.80597653988454, 45.75610950474956],
+          [4.805842159899726, 45.75613067608913]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 11,
+        "name": "Rue de la Favorite",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.805842159899726, 45.75613067608913],
           [4.805935097838187, 45.75629962388658],
           [4.806060116379513, 45.75641331448091],
           [4.806139296309084, 45.75644736964105],
@@ -101,23 +149,11 @@
           [4.8098392979532605, 45.75707009761612],
           [4.809998909377413, 45.75709868014573],
           [4.810338332482104, 45.75711618213306],
-          [4.810484469593831, 45.757148485378195]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 11,
-        "name": "Liaison Point-du-jour - Lyon 5",
-        "status": "unknown",
-        "type": "inconnu",
-        "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
           [4.810484469593831, 45.757148485378195],
+          [4.811039034287148, 45.75741602177655],
+          [4.811246034706144, 45.75746643037307],
+          [4.812653264687661, 45.75816586861463],
+          [4.8129387022040895, 45.7582458950626],
           [4.8132803652630685, 45.75827688668414]
         ]
       }
