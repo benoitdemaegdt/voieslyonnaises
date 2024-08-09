@@ -13,7 +13,9 @@ cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 ### Point du Jour - Favorite (Lyon 5)
 La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du Point du Jour et poursuivra vers l'Est pour transformer les bandes cyclables datant de 2019 en aménagement sécurisé. Elle continuera sur la rue de la Favorite aujourd'hui non aménagée et très dangereuse. Entre la rue Appian et la place de Trion, plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
-*Aucune information publique n'existe à ce jour sur ce tronçon.*
+::banner{type="info"}
+L'ensemble de cette portion est reportée et ne sera pas faite lors du mandat actuel.
+::
 
 ### Traversée de Saint-Just - Traversée de Saint-Jean
 Cette section est en tronçon commun avec la :line-link{line=12 anchor="traversée-de-saint-just"}.
