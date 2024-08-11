@@ -13,7 +13,7 @@
     <Typology :voies="voies" class="mt-8 max-w-2xl mx-auto" />
 
     <div v-for="voie in voies" :key="voie.line" class="py-2 my-8 flex">
-      <div class="mr-4 w-2 lg:w-4 rounded-lg" :style="`background: ${getLineColor(voie.line)}`"></div>
+      <div class="mr-4 w-2 lg:w-4 rounded-lg" :style="`background: ${getLineColor(voie.line)}`" />
       <div class="max-w-2xl mx-auto flex-grow">
         <h2 class="text-center text-2xl font-bold">
           <LineLink :line="String(voie.line)" :monochrome="true" />
@@ -34,8 +34,11 @@
           <Typology :voies="[voie]" class="mt-8 max-w-2xl mx-auto" />
           <Disclosure v-slot="{ open }">
             <DisclosureButton class="flex w-full justify-center cursor-pointer text-sm">
-              <Icon name="mdi:chevron-down" :class="[open ? 'rotate-180 transform' : '', 'ml-2 h-5 w-5']"
-                aria-hidden="true" />
+              <Icon
+                name="mdi:chevron-down"
+                :class="[open ? 'rotate-180 transform' : '', 'ml-2 h-5 w-5']"
+                aria-hidden="true"
+              />
               {{ open ? 'Masquer' : 'Afficher' }} la carte
             </DisclosureButton>
             <DisclosurePanel>
@@ -71,4 +74,15 @@ const mapOptions = {
     return navigateTo({ path: `${route.params._slug}/carte` });
   }
 };
+
+const description = 'Tableau de bord de suivi des voies lyonnaises en temps réel.';
+useHead({
+  title: 'Tableau de bord de suivi des Voies Lyonnaises',
+  meta: [
+    // description
+    { hid: 'description', name: 'description', content: description },
+    { hid: 'og:description', property: 'og:description', content: description },
+    { hid: 'twitter:description', name: 'twitter:description', content: description }
+  ]
+});
 </script>
