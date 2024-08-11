@@ -67,7 +67,7 @@ export type CompteurFeature = {
   };
 };
 
-type InflatorFeature = {
+export type InflatorFeature = {
   type: 'Feature';
   properties: {
     type: 'inflator',
