@@ -10,8 +10,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 
 ## Les tronçons (d'Ouest en Est)
 ### Traversée d'Oullins
-Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est.
-Cette section est en tronçon commun avec la :line-link{line=5}.
+Depuis le quartier de Beaunant et la route de Brignais, la Voie Lyonnaise 9 traversera Oullins d'Ouest en Est en tronçon commun avec la :line-link{line=5}.
 
 ### Franchissement du Rhône
 La Voie Lyonnaise 9 passera des berges de l'Yzeron au parc de Gerland via une nouvelle passerelle mode actifs qui traversera la M7 et le Rhône. Elle fera 7m de large, avec une piste cyclable bidirectionnelle de 4m de large pour les cyclistes et un cheminement de 3m pour les piétons. Plusieurs scénarios de raccordement aux berges ont été proposés à la concertation, avec des rampes de 4 à 6% de pente.
@@ -20,20 +19,20 @@ Dans le parc de Gerland, la piste cyclable bidirectionnelle de 4m de large passe
 
 Un tel ouvrage d'art nécessite de longues années d'études et de procédures administratives, ce qui explique que sa livraison n'est pas attendue avant l'horizon 2028.
 
-*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*
+*La concertation préalable sur ce projet s'est tenue du 05/10 au 15/11/2022.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Passerelle_Oullins_Gerland.pdf)
 
 ::banner{type="info"}
-La suite de la concertation publique est attendue courant 2024.
+La suite de la concertation publique devait avoir lieu en 2024. Cependant, la Métropole a indiqué le 17/05/2024 que les offres de Maîtrise d'Oeuvre proposées pour la réalisation de la passerelle étaient jugées insatisfaisantes. Elle a ainsi déclaré la procédure infructueuse et relancé un nouveau concours. Le projet est donc retardé d'un an, et la suite de la concertation aura lieu courant 2025.
 ::
 
 ::banner{type="wip"}
-Les travaux sont prévus entre 2026 et 2028.
+Les travaux sont prévus entre 2027 et 2029.
 ::
 
 ### Avenue Jean Jaurès
 L'itinéraire remontera l'avenue du Sud au Nord jusqu'à la rue de l'Université, en traversant les quartiers de Gerland, Jean Jaurès et Jean Macé.
-Historiquement, deux pistes cyclables bilatérales avaient été peintes sur trottoir dans les années 2000. A l'été 2020, la voirie est passée de 2x2 voies à 2x1 voies automobiles avec la création en provisoire d'un couloir bus-vélo dans le sens Sud>Nord et d'une large bande cyclable dans le sens Nord>Sud. Cet aménagement a été pérénisé à l'été 2021, entrainant la suppression des pistes sur les trottoirs.
+Historiquement, deux pistes cyclables bilatérales avaient été peintes sur trottoir dans les années 2000. A l'été 2020, la voirie est passée de 2x2 voies à 2x1 voies automobiles avec la création en provisoire d'un couloir bus-vélo dans le sens Sud>Nord et d'une large bande cyclable dans le sens Nord>Sud. Cet aménagement a été pérennisé à l'été 2021, entrainant la suppression des pistes sur les trottoirs.
 
 ::banner{type="postponed"}
 La Métropole de Lyon a annoncé le 14/11/2023 que ce tronçon serait reporté à un mandat ultérieur. Les cyclistes continueront donc à circuler sans séparation physique avec les véhicules, en partageant cet itinéraire avec les bus, taxis et autres véhicules d'urgence pendant de nombreuses années.
@@ -51,7 +50,7 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 
 ### Villeurbanne St-Jean à Jonage
 
-*via parc de Miribel-Jonage*
+*via parc de Miribel-Jonage*\
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
 #### Rue du Canal
@@ -96,18 +95,22 @@ Sur ce tronçon, deux variantes d'itinéraires sont proposées :
  - par le Nord du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante a l'inconvénient de ne pas être connectée au nord de la Ville de Meyzieu, de ne pas être ombragée et de devoir franchir l'étroit pont de Jonage en mixité avec le flux automobile.
  - par le Sud du canal, en modifiant simplement l'enrobé de la voie verte de 3m existante sur la digue. Cette variante présente davantage de conflits avec les piétons, mais a l'avantage d'être ombragée, bien reliée à Meyzieu et traverse la canal sur le pont d'Herbens réservé aux modes actifs.
 
+::banner{type="info"}
+Lors du conseil métropolitain du 24/06/2024, il a été indiqué que la variante Nord était préférée de manière à minimiser les conflits avec les piétons qui seraient plus nombreux sur la variante Sud. Cette décision nous paraît peu réaliste, les cyclistes préférant tout de même passer par la variante Sud mieux connectée à Meyzieu et Jonage et plus ombragée.
+::
+
 #### Jonage - Chemin de Halage
 Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl9/VL9Est_Jonage_Villeurbanne%20St-Jean.pdf)
 
 
 ## Budget prévisionnel
  - **7 300 000 € HT** au total
 
-Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland
+Auxquels se rajoutent **21 000 000 € HT** pour la passerelle Oullins-Gerland\
 *source : [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363338398542783_6291.pdf)*
 
 ## Calendrier prévisionnel

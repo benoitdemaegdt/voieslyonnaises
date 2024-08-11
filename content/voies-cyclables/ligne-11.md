@@ -11,9 +11,11 @@ cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 ## Les tronçons
 
 ### Point du Jour - Favorite (Lyon 5)
-La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du Point du Jour et poursuivra vers l'Est pour transformer les bandes cyclables datant de 2019 en aménagement sécurisé. Elle continuera sur la rue de la Favorite aujourd'hui non aménagée et très dangereuse. Entre la rue Appian et la place de Trion, plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du Point du Jour et poursuivra vers l'Est pour transformer les bandes cyclables datant de 2019 en aménagement sécurisé. Elle continuera sur la rue de la Favorite aujourd'hui non aménagée et très dangereuse. Entre la rue Appian et la place de Trion, plusieurs variantes devront être étudiées par les services de la Métropole de Lyon.
 
-*Aucune information publique n'existe à ce jour sur ce tronçon.*
+::banner{type="postponed"}
+La Métropole de Lyon a annoncé publiquement début août 2024 sur le réseau social X que ce tronçon ne serait pas aménagé sur ce mandat. Les cyclistes de tous âges de plus en plus nombreux sur cet axe continueront donc à circuler au milieu des voitures malgré le dénivelé pendant encore de nombreuses années.
+::
 
 ### Traversée de Saint-Just - Traversée de Saint-Jean
 Cette section est en tronçon commun avec la :line-link{line=12 anchor="traversée-de-saint-just"}.
@@ -92,7 +94,7 @@ Les premiers travaux sur les réseaux ont débuté au premier semestre 2024, et 
 ::
 
 ### Esplanade Mandela à Dauphiné - Lacassagne
-Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frein majeur à l'usage du vélo dans ce secteur.
+Sur ce tronçon, l'aménagement cyclable historique longe le :transport-link{type=tram line=3} côté Nord, mais présente un point noir majeur au niveau de l'arrêt Dauphiné-Lacassagne où les cyclistes débouchent sur un espace étroit puis sur une place piétonne avec un flux important entrainant des conflits marqués. Enfin, les cyclistes devaient traverser tout le carrefour en diagonale ainsi que les rails du tramway pour rejoindre la piste au Sud-Est, entrainant de fréquents accidents et un frein majeur à l'usage du vélo dans ce secteur.
 
 Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 
@@ -138,12 +140,16 @@ La concertation continue se déroule de juin 2022 à juin 2024.\
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
 
 ::banner{type="wip"}
-Les travaux auront lieu entre fin 2024 et mi-2025.
+Les travaux auront lieu entre août et décembre 2024.
 ::
 
 ### Boulevard Urbain Est à Chassieu - Dauphiné
 #### Avenue Mermoz et Route de Lyon
-La Voie Lyonnaise 11 empruntera les aménagements existants en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet consiste à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable deviendra prioritaire sur les voitures dans le giratoire René Cassin.
+La Voie Lyonnaise 11 emprunte les aménagements en voie verte côté Sud de la chaussée qui existent depuis 2004. Le projet a consisté à élargir la voie verte de 2.70 à 4.00m de large. En outre, la piste cyclable est devenue prioritaire sur les voitures dans le giratoire René Cassin.
+
+::banner{type="info"}
+Par dérogation exceptionnelle et suite à demande formelle, la Voie Lyonnaise n'est pas prioritaire dans sa traversée de l'accès au centre de formation de la police nationale et à la CRS 45.
+::
 
 ::content-image
 ---
@@ -154,7 +160,7 @@ credit: Métropole de Lyon
 ::
 
 #### Avenue du Dauphiné Ouest
-La voie verte existante côté Nord de la chaussée sera élargie de 2.90 à 4.00m. A la demande de la mairie de Chassieu, la traversée du giratoire d'Usingen ne sera pas sécurisée pour les modes actifs qui devront continuer à l'emprunter à leurs risques et périls.
+La voie verte existante côté Nord de la chaussée a été élargie de 2.90 à 4.00m. A la demande de la mairie de Chassieu, la traversée du giratoire d'Usingen n'a pas été sécurisée pour les modes actifs qui devront continuer à l'emprunter à leurs risques et périls.
 
 #### Avenue du Dauphiné Est
 Le projet initialement annoncé devait se poursuivre entre le giratoire d'Usingen et le chemin de Trève pour élargir la voie verte étroite de 2m50 de large en mauvais état et dangereuse dans une chicane. Cela permettait de mieux desservir les équipements sportifs de cette zone.
@@ -168,7 +174,7 @@ La concertation publique sur ce tronçon s'est tenue du 27/02 au 31/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.pdf){:target="_blank"}
 
 ::banner{type="wip"}
-Les travaux sur cette section ont lieu entre mars et juin 2024.
+Les travaux sur cette section ont eu lieu entre mars et juin 2024.
 ::
 
 ## Budget prévisionnel

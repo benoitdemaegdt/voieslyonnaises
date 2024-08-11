@@ -218,8 +218,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.7851574420928955, 45.80182713785651],
-          [4.782003164291382, 45.80471415962839],
+          [4.780380180946281, 45.80738086152802],
           [4.776670932769775, 45.81339676121456],
           [4.776746034622192, 45.81363605578701],
           [4.776424169540405, 45.81379309229141],
@@ -245,7 +244,9 @@
           [4.785575866699219, 45.80146063993546],
           [4.785650968551636, 45.801670067614126],
           [4.785436391830444, 45.8018196583312],
-          [4.7851574420928955, 45.80182713785651]
+          [4.7851574420928955, 45.80182713785651],
+          [4.782003164291382, 45.80471415962839],
+          [4.780380180946281, 45.80738086152802]
         ]
       }
     },
@@ -306,7 +307,7 @@
         "id": "varianteChampagne",
         "line": 4,
         "name": "Variante Lanessan",
-        "status": "variante-postponed",
+        "status": "postponed",
         "type": "aucun",
         "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
       },
@@ -639,7 +640,7 @@
         "line": 4,
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
-        "type": "bidirectionnelle",
+        "type": "voie-bus-elargie",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {

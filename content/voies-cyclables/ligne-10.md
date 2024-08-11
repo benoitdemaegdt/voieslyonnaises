@@ -45,8 +45,12 @@ La piste cyclable bidirectionnelle existante, de 3m de large, côté Ouest de la
 #### Avenue Lacassagne - Paul Bert à Dauphiné
 Sur ce tronçon, une piste cyclable bidirectionnelle de 3.50 à 4.00m de large sera créée côté nord de l'avenue (sauf pincements à 2.50m au droit des arrêts de bus). Ce nouvel aménagement se fera au détriment de places de stationnement ou d'une voie bus vers le Sud.
 
+::banner{type="postponed"}
+Lors du conseil métropolitain du 24/06/2024, il a été annoncé que l'avenue Lacassagne n'accueillera finalement pas de piste cyclable, bien qu'un projet de double couloir bus ouvert aux vélos y soit prochainement aménagé. Sur ce tronçon, la Voie Lyonnaise 10 sera donc en commun avec la Voie Lyonnaise 11 via la rue du Dauphiné, la rue Renoir, la rue Hachette et la parc Mandela. Elle rejoindra ensuite le carrefour Paul Bert via la piste cyclable existante rue Mouton-Duvernet.
+::
+
 #### Le long du tramway T3
-Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tramway T3 du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise. *D'autres, présentés en italique, sont des points durs étroits qui seront malheureusement conservés.*
+Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du :transport-link{type=tram line=3} du carrefour Dauphiné-Lacassagne jusqu'à Meyzieu - ZI. L'intégralité de ce tronçon est déjà aménagé pour les modes actifs. Certains secteurs, décrits ci-après, seront améliorés pour garantir le niveau de qualité d'une Voie Lyonnaise. *D'autres, présentés en italique, sont des points durs étroits qui seront malheureusement conservés.*
 
 ***Lyon 3***
  - la piste cyclable sur trottoir de l'avenue Lacassagne sera supprimée pour être restituée sur la voirie côté Sud
@@ -61,13 +65,13 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du tram
  - *au droit de l'arrêt de tram "Bel Air - Les Brosses", la minuscule voie verte de moins de 2m de large donnant de forts conflits avec les piétons sera conservée faute d'élargissement possible sur le site industriel SAFRAN.*
 
 ::banner{type="unsecured"}
-Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroit de 125m de long partagé avec les véhicules mototisés dans le sens Ouest>Est sera conservé faute d'élargissement possible. La Ville à Vélo réclame que le sens de circulation soit inversé pour en faire une vélorue compatible avec un faible trafic automobile.
+Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroit de 125m de long partagé avec les véhicules motorisés dans le sens Ouest>Est sera conservé faute d'élargissement possible. La Ville à Vélo réclame que le sens de circulation soit inversé pour en faire une vélorue compatible avec un faible trafic automobile.
 ::
 
 ***Vaulx-La Soie***
- - le long du terminus du métro A, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du tram T9 dans le secteur
+ - le long du terminus du :transport-link{type=métro line=A}, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du :transport-link{type=tram line=9} dans le secteur
  - la partie Nord de la rue Marius Grosso sera réservée aux seuls cyclistes avec élargissement de la piste cyclable bidirectionnelle et déplacement de l'arrêt de bus à l'Ouest du carrefour Salengro
- - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de tram T9 qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
+ - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de :transport-link{type=tram line=9} qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
 
 ***Décines-Charpieu***
  - le long du [projet immobilier D-Side](https://d-side-decines.com/), entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
@@ -87,12 +91,12 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.
+La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf)
 
 ## Budget prévisionnel
 
-Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.
+Plus de **10 000 000 € HT** sont prévus pour la Voie Lyonnaise 10.\
 _source: [page 27 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl10/VL10_Meyzieu_PartDieu.pdf){target=_blank}_
 
 

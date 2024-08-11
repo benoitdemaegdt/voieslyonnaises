@@ -12,7 +12,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 
 ### Rillieux-la-Pape à Lyon 4
 #### Route du Mas Rillier à Chemin Petit
-***Osterode***
+***Osterode***\
 La Voie Lyonnaise 7 débute de la ZAC de Sermenaz et traverse l'A46 à travers deux giratoires autoroutiers.
 
 ::banner{type="unsecured"}
@@ -29,21 +29,21 @@ credit: Métropole de Lyon
 ---
 ::
 
-***Rillieux-Centre***
+***Rillieux-Centre***\
 Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyonnaise emprunte ensuite le parc linéaire Est sur une piste de 3m de large qui sera conservée en l'état. Elle continue sur la rue Ampère qui verra sa piste bidirectionnelle actuelle de 2.30m de large être élargie à 4m, puis traverse le parc linéaire Ouest où la piste cyclable bidirectionnelle actuelle de 2.70m de large sera élargie à 4m.
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la piste cyclable bidirectionnelle du parc linéaire Ouest sera finalement conservée en l'état suite au refus de la mairie de Rillieux de l'élargir.
 ::
 
-***Giratoire Général de Gaulle***
+***Giratoire Général de Gaulle***\
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.
 
 ::banner{type="wip"}
 Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.
 ::
 
-***Avenue de l'Hippodrome et Chemin Petit***
+***Avenue de l'Hippodrome et Chemin Petit***\
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 #### Voie de la Dombe
@@ -68,7 +68,7 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 ::
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a étudié de nouvelles variantes pour éviter complètement la voie verte et privilégier sur celle-ci les usages de promenade pour les piétons. Elle a annoncé le 29/05/2024 qu'une variante crédible avait été retenue, passant notament par le nord de l'avenue Marc Sangnier, la rue des Combattants d'Afrique du Nord et le chemin de Crépieux. Pour y créer une piste cyclable bidirectionnelle continue et sécurisée, cela nécessite de passer en sens unique les rues concernées (à l'exception du Chemin de Crépieux). Devant l'opposition des élus de la mairie de Caluire qui préférent mélanger les vélos avec les bus ou les voitures sans aucune protection, cette nouvelle variante ne sera pas réalisable sur le mandat.
+Suite à la concertation, la Métropole a étudié de nouvelles variantes pour éviter complètement la voie verte et privilégier sur celle-ci les usages de promenade pour les piétons. Elle a annoncé le 29/05/2024 qu'une variante crédible avait été retenue, passant notamment par le nord de l'avenue Marc Sangnier, la rue des Combattants d'Afrique du Nord et le chemin de Crépieux. Pour y créer une piste cyclable bidirectionnelle continue et sécurisée, cela nécessite de passer en sens unique les rues concernées (à l'exception du Chemin de Crépieux). Devant l'opposition des élus de la mairie de Caluire qui préfèrent mélanger les vélos avec les bus ou les voitures sans aucune protection, cette nouvelle variante ne sera pas réalisable sur le mandat.
 ::
 
 ::content-image
@@ -82,12 +82,16 @@ credit: Métropole de Lyon
 #### Métro Cuire et Infirmerie Protestante
 Sur chemin du Penthod, l'aménagement actuel du parking de l'infirmerie protestante sera conservé, et les voiries d'accès seront labellisées en vélorue compte-tenu du faible trafic routier.
 
-La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du métro C.
+La Voie Lyonnaise 7 passera ensuite place Jules Ferry, qui sera traversée par une piste cyclable bidirectionnelle côté façade, pour conserver les arbres et éloigner les vélos de la gare routière très fréquentée au terminus du :transport-link{type=métro line=C}.
 
 #### Boulevard des Canuts
 Entre la rue de la gare de Cuire et la station BP, la piste cyclable bidirectionnelle étroite sur trottoir de 2.40m sera réaménagée de chaque côté de l'alignement d'arbre existant côté Ouest, avec deux pistes unidirectionnelles de 2 à 2.50m de large chacune, bien séparées des piétons.
 
 Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur trottoir déjà supprimée au Sud de la rue Hénon sera déplacée sur la voirie côté Est avec conservation du double-sens de circulation et d'une bande de stationnement. Le trottoir sera rendu entièrement aux piétons, et la nouvelle piste cyclable bidirectionnelle fera près de 4m de large.
+
+::banner{type="postponed"}
+Lors du conseil métropolitain du 24/06/2024, la Métropole de Lyon a annoncé que le tronçon au Sud de la rue Hénon serait reporté à un mandat ultérieur, à la demande des élus de la mairie de Lyon 4e. Alors qu'aucune contrainte technique n'empêchait l'aménagement de cette portion, la décision politique a préféré mélanger les cyclistes avec les voitures sans aucun aménagement cyclable ni sécurité.
+::
 
 ::content-image
 ---
@@ -110,11 +114,11 @@ Entre la rue Pelletier et la place des Tapis, deux variantes sont proposées :
 Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise cheminera dans une vélorue jusqu'à la rue Villeneuve, avec un impact faible sur le stationnement.
 
 ::banner{type="postponed"}
-La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait d'une mésentente avec les élus de la mairie de Lyon 4e. La traversée de cette section contrainte necessitait de modifier en profondeur le plan de circulation automobile et bus du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
+La Métropole de Lyon a annoncé le 29/05/2024 que ce tronçon serait reporté à un mandat ultérieur, du fait d'une mésentente avec les élus de la mairie de Lyon 4e. La traversée de cette section contrainte nécessitait de modifier en profondeur le plan de circulation automobile et bus du quartier. C'est une mauvaise nouvelle pour tous les cyclistes de la Croix-Rousse qui devront continuer à se déplacer sans aménagements cyclables dans ce secteur dense pendant encore de nombreuses années.
 ::
 
 #### Montée de la Boucle
-Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
+Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérennisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la contre-allée en bas de la Montée de la Boucle sera finalement aménagée en vélorue de 4m de large pour conserver un maximum de places de stationnements à la demande de la mairie de Caluire et des commerçants.
@@ -129,7 +133,7 @@ credit: La Ville à Vélo - Plateau Nord
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}
 
 ### Montée de la Boucle à Garibaldi - Arménie
@@ -146,7 +150,7 @@ La création d'une alternative sécurisée pour les cyclistes sur ce tronçon du
 
 #### Rue Garibaldi - Belges à Vauban
 Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.
-Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la tranformation du stationnement actuellement en épi en stationnement longitudinal.
+Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la transformation du stationnement actuellement en épi en stationnement longitudinal.
 
 ::content-image
 ---
@@ -160,7 +164,7 @@ credit: Métropole de Lyon
 Cette section a fait l'objet d'un réaménagement complet avec une piste cyclable bidirectionnelle de 3m côté Ouest (phase 1 en 2014 jusqu'à la rue Bouchut puis phase 2 en 2019 jusqu'à la rue d'Arménie). Le projet prévoit de conserver cet aménagement, avec une amélioration dans les intersections qui supprimera enfin les inconfortables bordures en travers.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf)
 
 ### Garibaldi - Arménie à Gde Rue de la Guillotière
@@ -178,7 +182,7 @@ credit: Ilex / Métropole de Lyon
 Les travaux préalable au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024. Ils enchaineront avec les travaux d'aménagement en 2025.
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
+La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Garibaldi_phase3.pdf)
 
 ### Garibaldi Sud à St-Fons - République
@@ -236,7 +240,7 @@ Les travaux sur cette section ont commencé début avril 2024 et continueront ju
 ::
 
 #### Concertation
-La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}
 
 ### Saint-Fons Centre
@@ -257,7 +261,7 @@ credit: Métropole de Lyon
 ---
 ::
 
-La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
+La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7YvesFarge_BUE.pdf){:target="_blank"}
 
 ### Traversée de Feyzin
@@ -266,17 +270,17 @@ La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.
 ## Budget prévisionnel
 - **27 300 000 € HT** au minimum dont :
 
-  - **15 500 000 € HT** pour le tronçon Nord (Rillieux à Croix-Rousse)
+  - **15 500 000 € HT** pour le tronçon Nord (Rillieux à Croix-Rousse)\
   source: [page 56 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Nord_Rillieux_Caluire_CroixRousse.pdf){:target="_blank"}._
-  - **3 500 000 € HT** pour le tronçon Central (Pont Churchill à la rue Garibaldi)
+  - **3 500 000 € HT** pour le tronçon Central (Pont Churchill à la rue Garibaldi)\
   source: [page 29 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Centre_PontChurchill_Garibaldi.pdf){:target="_blank"}._
-  - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)
+  - **8 300 000 € HT** pour le tronçon Sud (Garibaldi Sud, Route de Vienne)\
   source: [page 32 de ce dossier de concertation](https://cyclopolis.lavilleavelo.org/vl7/VL7Sud_GaribaldiLyon7_St-Fons.pdf){:target="_blank"}._
 
 A cela s'ajoute le coût des 2 projets urbains majeurs sur le linéaire :
- - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3
+ - **14 550 000 € HT** pour le réaménagement de la rue Garibaldi phase 3\
    source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278913/d544878399221610_6983.pdf)
- - **11 622 000 € HT** pour le réaménagement du boulevard Yves Farge
+ - **11 622 000 € HT** pour le réaménagement du boulevard Yves Farge\
    source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264253/d202745001254081_24218.pdf)
 
 ## Calendrier prévisionnel

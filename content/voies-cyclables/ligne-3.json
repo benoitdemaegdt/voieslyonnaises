@@ -395,7 +395,8 @@
       "properties": {
         "line": 3,
         "name": "Saint-Romain",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "31/07/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
@@ -1489,7 +1490,7 @@
       "properties": {
         "line": 3,
         "name": "Givors Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
@@ -1500,8 +1501,23 @@
           [4.789397000058187,45.5763002055447],
           [4.790301739344329,45.57561997493761],
           [4.791001503466248,45.57502732902702],
-          [4.793555251480029,45.57289455486935],
-          [4.795201308075832,45.57151606507773],
+          [4.794162593375404,45.57240475995411]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Givors Freyssinet",
+        "status": "wip",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-3#givors-sud"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.794162593375404,45.57240475995411],
           [4.79735602819872,45.56969195472354]
         ]
       }

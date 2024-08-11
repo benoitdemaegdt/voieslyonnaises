@@ -13,7 +13,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ### Boulevard Urbain Est
 
 #### Bron Decathlon à Chassieu Golf
-Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du tramway T5, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
+Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du :transport-link{type=tram line=5}, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
 
 ::content-image
 ---
@@ -38,7 +38,7 @@ credit: Métropole de Lyon
 Entre l'avenue Franklin Roosevelt et la rue Auguste Brunel prolongée, le boulevard a été créé en 2015 avec une piste cyclable de 3m de large et un trottoir de 1.80m jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
 
 #### *Concertation*
-La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation (p. 18 à 23)](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ::banner{type="wip"}
@@ -47,17 +47,17 @@ Les travaux ont eu lieu entre novembre 2023 et mars 2024.
 
 ### Vaulx-en-Velin Est
 ::banner{type="info"}
-Sur cette longue section de 3.5km qui reliera la cité TASE au centre-ville, la Voie Lyonnaise 5 partagera son itinéraire avec le futur tram T9. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette longue section de 3.5km qui reliera la cité TASE au centre-ville, la Voie Lyonnaise 5 partagera son itinéraire avec le futur :transport-link{type=tram line=9}. Sa réalisation aura lieu en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 ::
 
-Entre la rue Brunel et l'avenue Marcellin, il s'agira d'une piste cyclable bidirectionnelle de 4m de large située à l'ouest de la plateforme tramway.
+Entre la rue Brunel et l'avenue Marcellin, il s'agira d'une piste cyclable bidirectionnelle de 4m de large située à l'ouest de la plateforme tramway.\
 Au Sud de l'avenue Mercellin, la piste de 4m traversera les rails pour se retrouver à l'Est du tram.
-Elle continuera ensuite sur l'avenue Dimitrov et la rue Emile Zola. Sur cette section du centre-ville de Vaulx-en-Velin, à la demande des élus locaux, la piste bidirectionnelle située côté Nord sera plus étroite, avec une largeur de 2.50m.
+Elle continuera ensuite sur l'avenue Dimitrov et la rue Emile Zola. Sur cette section du centre-ville de Vaulx-en-Velin, à la demande des élus locaux, la piste bidirectionnelle située côté Nord sera plus étroite, avec une largeur de 2.50m.\
 Au niveau du carrefour avec l'avenue Gabriel Péri, la piste basculera du côté Nord au côté Sud de la rue.
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.
-La concertation continue s'est déroulée de janvier 2022 à juin 2023.
-L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.\
+La concertation continue s'est déroulée de janvier 2022 à juin 2023.\
+L'enquête publique aura lieu du 4 septembre au 3 octobre 2023.\
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm)
 
 ::banner{type="wip"}
@@ -71,7 +71,7 @@ Cette section est en tronçon commun avec la :line-link{line=1}.
 La Voie Lyonnaise empruntera les aménagements cyclables récents existants (2021) en passant par l'avenue Einstein, la rue des Sports et la voie verte du boulevard Niels Bohr. Elle se raccordera ensuite à la voie verte existante au Sud du rond-point de la Feyssine, dont le revêtement inconfortable en sable stabilisé sera recouvert d'un enrobé lisse. Enfin, le long du boulevard Laurent Bonnevay, une nouvelle piste cyclable bidirectionnelle de 3m de large sera créée sur une des 3 voies de circulation côté Sud.
 
 #### *Concertation*
-La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation (p. 14 à 16)](https://cyclopolis.lavilleavelo.org/vl5/VL5Est_Poincar%c3%a9_Bron%20A%c3%a9roport.pdf)
 
 ### Pont Poincaré à Pont De Lattre de Tassigny
@@ -85,7 +85,7 @@ Cette section est en tronçon commun avec la :line-link{line=4}.
 Le lien entre le pont Clémenceau et le centre de Vaise sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, via le franchissement du carrefour des Monts d'Or avec la création d'une nouvelle traversée cyclable directe.
 
 #### Rue Roquette
-Le projet prévoit d'aménager une piste cyclable bidirectionelle de 3m de large côté Nord à la place d'une des deux voies de circulation et d'une rangée de stationnement. Le trottoir adjacent le long du parc sera aussi élargi.
+Le projet prévoit d'aménager une piste cyclable bidirectionnelle de 3m de large côté Nord à la place d'une des deux voies de circulation et d'une rangée de stationnement. Le trottoir adjacent le long du parc sera aussi élargi.
 
 #### Rond-point de Valmy
 Ce point noir majeur du secteur devrait être traité à minima via la création d'un anneau cyclable unidirectionnel de 2m de large à l'extérieur du rond-point, marqué en résine beige.
@@ -127,12 +127,12 @@ Ce point noir cyclable majeur devrait être aménagée à l'été et l'automne 2
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
+La concertation publique sur ce tronçon se tenait du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".\
 [Voir le dossier de concertation (p.43, 65, 75 à 77 et 83 à 86)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Tassin Nord
 #### Porte du Valvert
-Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidirectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérénisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
+Cette section très routière de l'avenue Victor Hugo a fait l'objet d'un aménagement transitoire fin 2020, avec le traçage d'une piste cyclable bidirectionnelle sur le trottoir Est. Il est prévu que cette piste soit pérennisée et améliorée dans le cadre de la Voie Lyonnaise 5 en restituant le trottoir aux piétons.
 
 #### Avenue Victor Hugo
 Ce tronçon est réalisé depuis décembre 2021, sous la forme d'une large piste cyclable bidirectionnelle de 3.50m côté Est de l'avenue Victor Hugo.
@@ -151,8 +151,8 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 
 *via Francheville-le-Bas*
 
-Au nord du Chemin de Chantegrillet, aucun aménagement cyclable.
-Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérénisés, étendus et améliorés au second semestre 2021.
+Au nord du Chemin de Chantegrillet, aucun aménagement cyclable.\
+Entre le chemin de Chantegrillet et l'avenue de Limburg, des aménagements transitoires en mixité bus-vélo ont été marqués au sol à l'été 2020, puis pérennisés, étendus et améliorés au second semestre 2021.\
 Entre l'avenue de Limburg et l'avenue de l'Aqueduc de Beaunant, des pistes cyclables bilatérales et sécurisées de 1.70m  de large ont été créées au premier semestre 2021.
 
 ::banner{type="postponed"}
@@ -192,8 +192,12 @@ credit: Métropole de Lyon
 ::
 
 #### Concertation
-La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.
+La concertation publique sur ce tronçon s'est tenue du 15/05 au 19/06/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl5/VL5_Oullins.pdf)
+
+::banner{type="info"}
+Lors du conseil métropolitain du 24/06/2024, il a été indiqué que la concertation de ce tronçon avait été très partagée et que des études complémentaires devaient être menées pour valider ou infléchir les itinéraires proposés. En fonction de l'avancée de ces études, il est probable que ce tronçon soit reporté à un futur mandat.
+::
 
 ### Gare d'Oullins à Pierre-Bénite Barrage
 Cette section est en tronçon commun avec la :line-link{line=3}.
@@ -203,14 +207,14 @@ La Voie Lyonnaise 5 empruntera :
   - le pont de l'A7 sur le Rhône, dont la piste cyclable bidirectionnelle côté nord pourrait être élargie,
   - l'avenue des Frères Perret, sous la forme d'une voie verte côté Est,
   - la voie verte existante au nord du Boulevard Urbain Sud,
-  - à partir du Chemin des Ecoliers, elle se connectera à la Voie Lyonnaise 7 sur le boulevard Yves Farge sous une forme et un itinéraire à définir.
+  - à partir du Chemin des Ecoliers, elle se connectera à la :line-link{line=7} sur le boulevard Yves Farge sous une forme et un itinéraire à définir.
 
 
 ## Budget prévisionnel
 - **35 000 000 € HT** au total dont :
 
-  - **2 500 000 € HT** pour le tronçon Est (campus Doua et BUE, hors T9)
-*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278905/d367329446747948_7038.pdf)
+  - **2 500 000 € HT** pour le tronçon Est (campus Doua et BUE, hors T9)\
+*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278905/d367329446747948_7038.pdf)*
 
 
 ## Calendrier prévisionnel
