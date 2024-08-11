@@ -1,5 +1,5 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-import { isCompteurFeature, isInflatorFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
+import { isCompteurFeature, isDangerFeature, isInflatorFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
 
@@ -97,6 +97,9 @@ export const useMap = () => {
 
     const inflator = await map.loadImage('/icons/inflator.png');
     map.addImage('inflator-icon', inflator.data, { sdf: true });
+
+    const danger = await map.loadImage('/icons/danger.png');
+    map.addImage('danger-icon', danger.data, { sdf: false });
 
     const crossIconUrl = getCrossIconUrl();
     const cross = await map.loadImage(crossIconUrl);
@@ -498,6 +501,36 @@ export const useMap = () => {
     });
   }
 
+  function plotDangers({ map, features }: { map: Map; features: Feature[] }) {
+    const dangers = features.filter(isDangerFeature);
+    if (dangers.length === 0) {
+      return;
+    }
+
+    if (upsertMapSource(map, 'dangers', dangers)) {
+      return;
+    }
+
+    map.addLayer({
+      id: 'dangers',
+      source: 'dangers',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'danger-icon',
+        'icon-size': 0.5
+      }
+    });
+    map.setLayoutProperty('perspectives', 'visibility', 'none');
+    map.on('zoom', () => {
+      const zoomLevel = map.getZoom();
+      if (zoomLevel > 14) {
+        map.setLayoutProperty('dangers', 'visibility', 'visible');
+      } else {
+        map.setLayoutProperty('dangers', 'visibility', 'none');
+      }
+    });
+  }
+
   function plotInflators({ map, features }: { map: Map; features: Feature[] }) {
     const inflators = features.filter(isInflatorFeature);
     if (inflators.length === 0) {
@@ -626,6 +659,7 @@ export const useMap = () => {
     plotPerspective({ map, features });
     plotCompteurs({ map, features });
     plotInflators({ map, features });
+    plotDangers({ map, features });
   }
 
   return {
