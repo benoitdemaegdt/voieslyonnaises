@@ -46,24 +46,32 @@ export default defineNuxtConfig({
       ]
     }
   },
+
   runtimeConfig: {
     public: {
       maptilerKey: process.env.MAPTILER_KEY
     }
   },
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
+
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content', '@nuxt/icon'],
+
   content: {
     markdown: {
       tags: { h1: 'h1', h5: 'h5', h6: 'h6' }
     }
   },
+
   tailwindcss: { viewer: false },
+
   nitro: {
     prerender: {
       routes: ['/sitemap.xml']
     }
   },
+
   build: {
     transpile: ['@headlessui/vue']
-  }
+  },
+
+  compatibilityDate: '2024-08-11'
 });

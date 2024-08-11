@@ -10,16 +10,13 @@
   },
   "devDependencies": {
     "@headlessui/vue": "^1.7.22",
-    "@iconify-json/game-icons": "^1.1.10",
-    "@iconify-json/iconoir": "^1.1.46",
-    "@iconify-json/mdi": "^1.1.68",
     "@nuxt/content": "^2.12.1",
+    "@nuxt/icon": "^1.4.5",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@tailwindcss/typography": "^0.5.14",
     "eslint": "^8.57.0",
     "nuxt": "^3.12.4",
-    "nuxt-icon": "^1.0.0-beta.7",
     "prettier": "^3.3.3",
     "sitemap": "^7.1.1",
     "vitest": "^1.6.0"
