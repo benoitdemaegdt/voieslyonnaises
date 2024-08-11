@@ -1,5 +1,5 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-import { isCompteurFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
+import { isCompteurFeature, isInflatorFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
 
@@ -94,6 +94,9 @@ export const useMap = () => {
   async function loadImages({ map }: { map: Map }) {
     const camera = await map.loadImage('/icons/camera.png');
     map.addImage('camera-icon', camera.data, { sdf: true });
+
+    const inflator = await map.loadImage('/icons/inflator.png');
+    map.addImage('inflator-icon', inflator.data, { sdf: true });
 
     const crossIconUrl = getCrossIconUrl();
     const cross = await map.loadImage(crossIconUrl);
@@ -495,6 +498,29 @@ export const useMap = () => {
     });
   }
 
+  function plotInflators({ map, features }: { map: Map; features: Feature[] }) {
+    const inflators = features.filter(isInflatorFeature);
+    if (inflators.length === 0) {
+      return;
+    }
+    if (upsertMapSource(map, 'inflators', inflators)) {
+      return;
+    }
+    map.addLayer({
+      id: 'inflators',
+      source: 'inflators',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'inflator-icon',
+        'icon-size': 0.5,
+        'icon-offset': [-25, -25]
+      },
+      paint: {
+        'icon-color': '#152B68'
+      }
+    });
+  }
+
   function plotCompteurs({ map, features }: { map: Map; features: Feature[] }) {
     const compteurs = features.filter(isCompteurFeature);
     if (compteurs.length === 0) {
@@ -599,6 +625,7 @@ export const useMap = () => {
 
     plotPerspective({ map, features });
     plotCompteurs({ map, features });
+    plotInflators({ map, features });
   }
 
   return {

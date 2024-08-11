@@ -63,6 +63,13 @@
                     >
                       Plan officiel
                     </NuxtLink>
+                    <NuxtLink
+                      to="/services"
+                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      Services
+                    </NuxtLink>
                   </div>
                 </div>
               </PopoverPanel>

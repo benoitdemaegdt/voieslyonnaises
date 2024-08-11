@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Subsistances"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.819801,
+          45.767904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Aveyron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832727,
+          45.774347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Confluence Hôtel de Région"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.819162,
+          45.740466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Part-Dieu Cuirassiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.857557,
+          45.759917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Augagneur Fosse aux Ours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.840512,
+          45.757199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Quai Romain Rolland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828701,
+          45.762065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Mairie du 7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842276,
+          45.746603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Gerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.831199,
+          45.727487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Place Ambroise Courtois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8716,
+          45.745301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Place Mendès France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.859411,
+          45.740077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Moulin à Vent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.854312,
+          45.729712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Mermoz Pinel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887461,
+          45.730774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Mairie du 9e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.805625,
+          45.774239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Gorge de Loup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.805599,
+          45.767475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - INSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876976,
+          45.782233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Mairie de Villeurbanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880035,
+          45.766857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Place de la Reconnaissance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.885284,
+          45.754454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Caluire Passerelle de la Paix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853038,
+          45.787948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Bron Mairie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908753,
+          45.734025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Vénissieux Parilly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.888492,
+          45.719735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Oullins Gare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.813087,
+          45.716974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Tassin Tuileries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.778594,
+          45.763258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Couzon Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880035,
+          45.766857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "inflator",
+        "name": "Station Vélo'v - Neuville Quai Pasteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838608,
+          45.876609
+        ]
+      }
+    }
+  ]
+}
