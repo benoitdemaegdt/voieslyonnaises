@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-4xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
     <h1 class="text-center text-3xl text-lvv-blue-600 font-bold mb-8">
-      Tableau de bord de suivi des Voies Lyonnaises
+      Tableau de bord de suivi des {{ config.revName.plural }}
     </h1>
     <div v-if="!voies">
       Chargement ...
@@ -22,7 +22,7 @@
               {{ displayDistanceInKm(getTotalDistance([voie]), 1) }}
             </span>
           </div>
-          <div class="text-center text-sm text-gray-900">
+          <div v-if="voie.trafic" class="text-center text-sm text-gray-900">
             Fréquentation max 2030: <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
               {{ getTrafic(voie) }}
             </span>
@@ -41,6 +41,7 @@
 <script setup lang="ts">
 import type { ParsedContent } from '@nuxt/content';
 import type { Feature } from '../../types';
+import config from '../../config.json';
 interface Geojson extends ParsedContent {
   type: string;
   features: Feature[];
@@ -69,9 +70,9 @@ function getTrafic(voie: Geojson): string {
   return trafic || 'Inconnu';
 }
 
-const description = 'Tableau de bord de suivi des voies lyonnaises en temps réel.';
+const description = `Tableau de bord de suivi des ${config.revName.plural} en temps réel.`;
 useHead({
-  title: 'Tableau de bord de suivi des Voies Lyonnaises',
+  title: `Tableau de bord de suivi des ${config.revName.plural}`,
   meta: [
     { hid: 'description', name: 'description', content: description },
     { hid: 'og:description', property: 'og:description', content: description },
