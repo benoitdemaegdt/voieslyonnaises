@@ -2,7 +2,7 @@
   <div class="relative">
     <LegendModal ref="legendModalComponent" />
     <FilterModal ref="filterModalComponent" @update="refreshFilters" />
-    <div :id="containerId" class="rounded-lg h-full w-full" />
+    <div id="map" class="rounded-lg h-full w-full" />
     <img
       v-if="options.logo"
       class="my-0 absolute bottom-0 right-0 z-10"
@@ -46,11 +46,9 @@ const defaultOptions = {
 const props = defineProps<{
   features: Feature[];
   options: typeof defaultOptions;
-  lineId?: string
 }>();
 
 const options = { ...defaultOptions, ...props.options };
-const containerId = `map${props.lineId ?? ''}`;
 
 const legendModalComponent = ref(null);
 const filterModalComponent = ref(null);
@@ -80,7 +78,7 @@ function refreshFilters({ visibleStatuses, visibleTypes }: { visibleStatuses: La
 
 onMounted(() => {
   const map = new Map({
-    container: containerId,
+    container: 'map',
     style: style as StyleSpecification,
     // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
     center: config.center as LngLatLike,
