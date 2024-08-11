@@ -96,6 +96,11 @@
                       </div>
                     </NuxtLink>
                   </div>
+                  <div class="bg-lvv-blue-600 text-white text-center py-1">
+                    <NuxtLink to="/tableau-de-bord" class="hover:underline" @click="close()">
+                      Tableau de bord
+                    </NuxtLink>
+                  </div>
                 </div>
               </PopoverPanel>
             </transition>
@@ -118,6 +123,8 @@
         </div>
       </div>
     </div>
+
+    <!-- Header mobile -->
 
     <transition
       enter-active-class="duration-200 ease-out"
@@ -169,6 +176,15 @@
                 >
                   <span class="ml-3 text-base font-medium text-gray-900">
                     Blog
+                  </span>
+                </NuxtLink>
+                <NuxtLink
+                  to="/tableau-de-bord"
+                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
+                  @click="close()"
+                >
+                  <span class="ml-3 text-base font-medium text-gray-900">
+                    Tableau de bord
                   </span>
                 </NuxtLink>
               </nav>
