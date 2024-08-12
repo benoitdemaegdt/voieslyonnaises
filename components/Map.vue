@@ -25,7 +25,7 @@ import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
-import InflatorTooltip from '~/components/tooltips/InflatorTooltip.vue';
+import PumpTooltip from '~/components/tooltips/PumpTooltip.vue';
 import DangerTooltip from '~/components/tooltips/DangerTooltip.vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
 import { isLineStringFeature, type Feature, type LaneStatus, type LaneType } from '~/types';
@@ -167,7 +167,7 @@ onMounted(() => {
 
     const isPerspectiveLayerClicked = layers.some(({ layer }) => layer.id === 'perspectives');
     const isCompteurLayerClicked = layers.some(({ layer }) => layer.id === 'compteurs');
-    const isInflatorLayerClicked = layers.some(({ layer }) => layer.id === 'inflators');
+    const isPumpLayerClicked = layers.some(({ layer }) => layer.id === 'pumps');
     const isDangerLayerClicked = layers.some(({ layer }) => layer.id === 'dangers');
 
     if (isPerspectiveLayerClicked) {
@@ -194,24 +194,24 @@ onMounted(() => {
           })
         }).mount('#perspective-tooltip-content');
       });
-    } else if (isInflatorLayerClicked) {
-      const layer = layers.find(({ layer }) => layer.id === 'inflators');
+    } else if (isPumpLayerClicked) {
+      const layer = layers.find(({ layer }) => layer.id === 'pumps');
       const feature = features.value.find(f => f.properties.name === layer!.properties.name);
       new Popup({ closeButton: false, closeOnClick: true })
         .setLngLat(e.lngLat)
-        .setHTML('<div id="inflator-tooltip-content"></div>')
+        .setHTML('<div id="pump-tooltip-content"></div>')
         .addTo(map);
 
       // @ts-ignore:next
-      const InflatorTooltipComponent = defineComponent(InflatorTooltip);
+      const PumpTooltipComponent = defineComponent(PumpTooltip);
       nextTick(() => {
         // eslint-disable-next-line vue/one-component-per-file
         createApp({
           render: () => h(Suspense, null, {
-            default: h(InflatorTooltipComponent, { feature }),
+            default: h(PumpTooltipComponent, { feature }),
             fallback: 'Chargement...'
           })
-        }).mount('#inflator-tooltip-content');
+        }).mount('#pump-tooltip-content');
       });
     } else if (isDangerLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'dangers');

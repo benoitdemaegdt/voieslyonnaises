@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 368988925,
+        "name": "Quai Romain Rolland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8289044,
+          45.7620645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 1480228037,
+        "name": "Cycle Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.846482,
+          45.745291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 1851931873,
+        "name": "Quai du Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8104169,
+          45.7820648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 2217042329,
+        "name": "Cyclable Jean Jaurès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8460345,
+          45.7526335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 2924470593,
+        "name": "Vélonaute Frères Lumière"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8621429,
+          45.7464727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 2953254706,
+        "name": "L'Atelier du Chat Perché"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8415001,
+          45.7514837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 2957823933,
+        "name": "Les Bikers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8741532,
+          45.7846544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 3044384212,
+        "name": "Atelier cycle Lyon 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8419229,
+          45.7520069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 4083903290,
+        "name": "L'Atelier Vélos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9909226,
+          45.7732653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 4202184586,
+        "name": "Cyclable Villeurbanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8741754,
+          45.7727191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 4460871000,
+        "name": "Peugeot Cycles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8453529,
+          45.7503937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 4734545682,
+        "name": "Atelier Vélo Change de Chaîne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8056633,
+          45.781507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 4927120134,
+        "name": "Poujade Didier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8105437,
+          45.75642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6087264585,
+        "name": "Janus France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8188667,
+          45.7170744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6269301450,
+        "name": "Franprix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8362052,
+          45.7360673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6296183115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8405118,
+          45.7572273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6296183116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8321169,
+          45.7661144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6665507868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8543212,
+          45.7297446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6665539055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8852826,
+          45.7544524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6669345108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8423236,
+          45.74654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6673611285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8873758,
+          45.7307681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6673611287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8715153,
+          45.7453366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6695554637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8189713,
+          45.7403443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6697575952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8594646,
+          45.739997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 6698463989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8801169,
+          45.7668531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 7127007665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8322544,
+          45.8459569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 7555662514,
+        "name": "Wattmob"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8508273,
+          45.7527305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 7721737587,
+        "name": "Caluire - Passerelle de la Paix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8529836,
+          45.787902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 7809964553,
+        "name": "La P'tite Rustine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9155564,
+          45.7235462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 7962604428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8056214,
+          45.7673293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 8288073880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8213174,
+          45.7734458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 8707528552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8277835,
+          45.7742066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 9399152966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8104402,
+          45.7820902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 9674959371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8522587,
+          45.7999425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 9724602291,
+        "name": "Prestacycles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8397282,
+          45.7352257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 9935286308,
+        "name": "Fix&Move"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8330072,
+          45.7569403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10162301442,
+        "name": "Cycletic Café-Vélo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8645127,
+          45.7636179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10175782884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9029123,
+          45.747085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10222064293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9058072,
+          45.7103987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10594060127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9574543,
+          45.6654047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10597195216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8560471,
+          45.7855381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10712477394,
+        "name": "Cycles Blain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8043118,
+          45.7130259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10729692753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8986902,
+          45.7484854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10783988499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8406014,
+          45.7572613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10834216711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9343808,
+          45.6866513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 10984073512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8323378,
+          45.7849765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 11002229520
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.841945,
+          45.7734255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 11007919673,
+        "name": "La Fabrik' à Vélos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9727518,
+          45.7692877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 11331989452,
+        "name": "Velcroc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8413299,
+          45.7642268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 11442946672,
+        "name": "La 8ème roue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876826,
+          45.7239895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 11453972417,
+        "name": "Recyclerie sportive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7947792,
+          45.785558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 11804881602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8753186,
+          45.8194227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pump",
+        "id": 12020361475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86012,
+          45.7472607
+        ]
+      }
+    }
+  ]
+}

@@ -5,10 +5,10 @@
 </template>
 
 <script setup lang="ts">
-import type { InflatorFeature } from '~/types';
+import type { PumpFeature } from '~/types';
 
 const { feature } = defineProps<{
-  feature: InflatorFeature
+  feature: PumpFeature
 }>();
 
 </script>
