@@ -63,13 +63,13 @@
                     >
                       Plan officiel
                     </NuxtLink>
-                    <NuxtLink
+                    <!-- <NuxtLink
                       to="/services"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
                       Services
-                    </NuxtLink>
+                    </NuxtLink> -->
                   </div>
                 </div>
               </PopoverPanel>
@@ -230,7 +230,7 @@ const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },
   { name: 'Plan officiel', path: '/plan-officiel' },
   { name: 'Évolution du réseau', path: '/evolution' },
-  { name: 'Services', path: '/services' },
+  // { name: 'Services', path: '/services' },
   { name: 'Compteurs', path: '/compteurs/velo' }
 ];
 
