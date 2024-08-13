@@ -55,8 +55,11 @@ Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera cré
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
 #### *Spécificités de ce tronçon*
-Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.\
+Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
+
+::banner{type="postponed"}
 De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
+::
 
 La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
