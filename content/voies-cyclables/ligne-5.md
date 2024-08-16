@@ -13,29 +13,40 @@ cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ### Boulevard Urbain Est
 
 #### Bron Decathlon à Chassieu Golf
-Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agira surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du :transport-link{type=tram line=5}, le long du Parc du Chêne, la piste cyclable de 3m de large sera transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m sera créé le long de la piste cyclable de 3.20m de large.
+Entre l'avenue Charles de Gaulle à Bron, et la route de Lyon à Chassieu, le projet consiste en un confortement de la piste cyclable existante située à l'Ouest de ce tronçon du Boulevard Urbain Est créé en 1985. Il s'agit surtout d'améliorations ponctuelles au niveau des carrefours. Au Sud du :transport-link{type=tram line=5}, le long du Parc du Chêne, la piste cyclable de 3m de large a été transformée en voie verte compte-tenu de l'absence de trottoir. Au nord du tramway, un trottoir de 2m a été créé le long de la piste cyclable de 3.20m de large.
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl5/bron-parc-du-chene.png
-caption: Aperçu de la Voie Lyonnaise 5 - le long du Parc du Chêne (Bron)
-credit: Métropole de Lyon
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/VL5_BUE2.jpg
+caption: Photo de la Voie Lyonnaise 5 - entre tram T5 et avenue Mermoz (Chassieu)
+credit: La Ville à Vélo
+streetView: 45.7396285,4.9359452,3a,75y,40.39h,88.41t
 ---
 ::
 
 #### Chassieu Golf à Avenue Roosevelt
-Entre la route de Lyon à Chassieu et l'avenue Franklin Roosevelt, l'aménagement d'origine est une piste cyclable bilatérale marquée directement sur le trottoir de chaque côté de la chaussée. Sur cette section du BUE inaugurée entre 1988 et 1990, le projet va créer une piste cyclable de 3m et un trottoir de 2m côté Ouest jusqu'à l'entrée charretière du n°32, puis le trottoir Ouest existant de 3.20m de large sera réaménagé en voie verte jusqu'à l'avenue Roosevelt. Le carrefour avec la rue Elisée Reclus sera amélioré.
+Entre la route de Lyon à Chassieu et l'avenue Franklin Roosevelt, l'aménagement d'origine est une piste cyclable bilatérale marquée directement sur le trottoir de chaque côté de la chaussée. Sur cette section du BUE inaugurée entre 1988 et 1990, le projet a créé une piste cyclable de 3m et un trottoir de 2m côté Ouest jusqu'à l'entrée charretière du n°32, puis le trottoir Ouest existant de 3.20m de large a été réaménagé en voie verte jusqu'à l'avenue Roosevelt. Le carrefour avec la rue Elisée Reclus a été amélioré.
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
-caption: Aperçu de la Voie Lyonnaise 5 - entre avenue Roosevelt et rue Elisée Reclus (Décines)
-credit: Métropole de Lyon
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/VL5_BUE3.jpg
+caption: Photo de la Voie Lyonnaise 5 - vue vers Nord du carrefour Mermoz (Chassieu)
+credit: La Ville à Vélo
+streetView: 45.7432971,4.9369833,3a,75y,14.55h,89.01t
 ---
 ::
 
 #### Avenue Roosevelt à tram T9
-Entre l'avenue Franklin Roosevelt et la rue Auguste Brunel prolongée, le boulevard a été créé en 2015 avec une piste cyclable de 3m de large et un trottoir de 1.80m jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati laissera la place à un enrobé lisse bien plus confortable.
+Entre l'avenue Franklin Roosevelt et la rue Auguste Brunel prolongée, le boulevard a été créé en 2015 avec une piste cyclable de 3m de large et un trottoir de 1.80m jusqu'à la rue Dumas, puis une voie verte en stabilisé de 4.60m au Nord. Le projet consiste en la création d'une large voie verte de près de 5m de large en fusionnant la piste cyclable et le trottoir existant. En outre, le revêtement stabilisé sableux au nord de la rue Jacques Tati a laissé la place à un enrobé lisse bien plus confortable.
+
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl5/VL5_BUE1.jpg
+caption: Photo de la Voie Lyonnaise 5 - Boulevard des Droits de l'Homme (Vaulx-en-Velin)
+credit: La Ville à Vélo
+streetView: 45.7535173,4.9321462,3a,48.9y,192.9h,75.19t
+---
+::
 
 #### *Concertation*
 La concertation sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\

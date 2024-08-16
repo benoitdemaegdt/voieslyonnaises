@@ -53,8 +53,8 @@ La Voie Lyonnaise 2 prend la place de l'ancienne contre-allée de stationnement 
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl2/bd-stalingrad-2.jpeg
-caption: Aperçu de la Voie Lyonnaise 2 - boulevard Stalingrad (Villeurbanne)
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/VL2_Stalingrad.jpg
+caption: Photo de la Voie Lyonnaise 2 - boulevard Stalingrad (Villeurbanne)
 credit: Métropole de Lyon
 streetView: 45.7792708,4.8595317,3a,75y,208.73h,90t
 ---
@@ -133,6 +133,16 @@ La concertation publique sur ce tronçon s'est tenue du 07/06 au 08/07/2022.\
 *entre blvd des Tchécoslovaques et blvd des Etats-Unis*
 
 La voie lyonnaise empruntera l'avenue Berthelot sur 300m en y aménageant une piste cyclable bidirectionnelle de 3m de large côté Sud, en lieu et place d'une des 3 voies de circulation.
+
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl2/VL2_Berthelot.jpg
+caption: Aperçu de la Voie Lyonnaise 2 - Avenue Berthelot (Lyon 8)
+credit: Métropole de Lyon
+streetView: 45.7400878,4.857942,3a,75y,311.49h,83.09t
+---
+::
+
 
 ::banner{type="wip"}
 Les travaux sur cette section auront lieu entre l'été 2024 et début 2025.

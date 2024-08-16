@@ -220,6 +220,15 @@ credit: Métropole de Lyon
 ---
 ::
 
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/VL7_Bonnevay.jpg
+caption: Aperçu de la Voie Lyonnaise 7 - Passage sous le périphérique (Vénissieux)
+credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7158648,4.8547435,3a,90y,1.54h,88.27t 
+---
+::
+
 ::banner{type="wip"}
 Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025.
 ::

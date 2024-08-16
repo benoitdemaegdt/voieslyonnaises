@@ -1,6 +1,6 @@
 ---
-title: Cyclopolis est Open Source et réutilisable
-description: Guide à destination des associations qui souhaiteraient réutiliser cyclopolis pour suivre les infrastructures cyclables de leur ville.
+title: [Tutoriel] Dupliquer Cyclopolis dans sa ville
+description: Guide à destination des associations qui souhaiteraient réutiliser Cyclopolis pour suivre les infrastructures cyclables de leur ville.
 imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
 ---
 
@@ -41,7 +41,15 @@ Voici la liste des outils tiers utilisés :
 Ça nous fait toujours plaisir de savoir que notre plateforme sert à d'autres personnes.
 N'hésitez pas à nous envoyer un email. On pourra également vous donner quelques conseils.
 
-### 2 - Clonez le site
+### 2 - Visualisez ce tutoriel vidéo pas à pas
+En partenariat avec la FUB, nous avons organisé en juin 2024 un webinaire dédié au déploiement de la plateforme open source « Cyclopolis » dans les autres agglomérations françaises de manière à aider le plaidoyer local.
+
+Vous pouvez retrouver la vidéo complète du tutoriel ci-dessous :
+[![Vidéo Tutoriel Cyclopolis](https://img.youtube.com/vi/vZ-tY7TG7PM/0.jpg)](https://www.youtube.com/watch?v=vZ-tY7TG7PM)
+
+*En complément, vous pouvez retrouver ce tutoriel étape par étape ci-dessous.*
+
+### 2.1 - Clonez le site
 
 Vous pouvez cloner le site directement sur votre poste local.
 ```
@@ -63,7 +71,7 @@ npm run dev
 http://localhost:3000
 ```
 
-### 3 - Adaptez Cyclopolis à votre ville
+### 2.2 - Adaptez Cyclopolis à votre ville
 
 #### Centrez la carte sur votre ville
 

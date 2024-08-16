@@ -153,9 +153,10 @@ Par dérogation exceptionnelle et suite à demande formelle, la Voie Lyonnaise n
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl11/route-de-lyon.jpg
-caption: Aperçu de la Voie Lyonnaise 11 - Route de Lyon (Chassieu)
-credit: Métropole de Lyon
+imageUrl: https://cyclopolis.lavilleavelo.org/vl7/VL7_Bonnevay.jpg
+caption: Photo de la Voie Lyonnaise 11 - Route de Lyon (Chassieu)
+credit: La Ville à Vélo
+streetView: 45.7406386,4.9499343,3a,90y,123.21h,81.79t 
 ---
 ::
 

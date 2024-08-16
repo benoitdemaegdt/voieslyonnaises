@@ -115,7 +115,14 @@ Cette section, qui concentre le trafic vélo le plus important de la Métropole 
 Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont eu lieu entre novembre 2023 et juin 2024. La nouvelle piste est ouverte à la fin du mois.
 ::
 
-La section de 150m entre la rue Bonnel et le Pont Wilson est en commun avec la :line-link{line=11 anchor=pont-wilson}
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/VL1_Augagneur.jpg
+caption: Photo de la Voie Lyonnaise 1 - quai Augagneur (Lyon 3)
+credit: La Ville à Vélo
+streetView: 45.7573504,4.8407715,3a,75y,196.69h,85.05t
+---
+::
 
 #### Quai Claude Bernard
 
@@ -123,16 +130,17 @@ La section de 150m entre la rue Bonnel et le Pont Wilson est en commun avec la :
 
 La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.\
 Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.\
-Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.
-Elle a été inaugurée début juillet 2022.
 
-Les ponts mentionnés ci-dessus permettent aux usagers de la VL1 de bifurquer vers la :line-link{line=12 anchor=pont-de-la-guillotière-à-grange-blanche} et la :line-link{line=8 anchor=pont-de-luniversité}
+::banner{type="wip"}
+Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.
+::
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg
-caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
-streetView: 45.7481215,4.8338698,3a,75y,42.05h,95.66t
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/VL1_ClaudeBernard.jpg
+caption: Photo de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
+credit: Métropole de Lyon
+streetView: 45.7502784,4.8356748,3a,75y,12.37h,82.36t
 ---
 ::
 
