@@ -44,6 +44,13 @@ Proscrire les arbustes et plantes épineux : risque de crevaison avec des rameau
 
 Il est important de planter les arbustes et les plantes vivaces hautes à au moins 1,00m de la piste cyclable afin d’éviter les branches débordant sur la piste cyclable. Des plantes vivaces basses compléteront la base de plantation haute dans le projet de végétalisation.
 
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/blog/Illus_VegeVelo.jpg
+caption: Illustrations de végétation envahissante sur aménagement cyclable
+---
+::
+
 ### 4 - Préconisations environnementales
 
 *a.* Favoriser les **plantations en bande** ou massif continu, plus résilientes et favorables à la faune.
@@ -56,7 +63,7 @@ Il est important de planter les arbustes et les plantes vivaces hautes à au moi
 
 ## Cahier des charges des essences recommandées
 
-Vous trouverez à [ce lien](https://cyclopolis.lavilleavelo.org/blog/VEGECYCLE_2_Tableur.pdf) un tableur détaillé conçu par des spécialistes, qui ont mis au point une liste d’arbustes et de vivaces que nous conseillons à la plantation pour les Voies Lyonnaises et autres projets métropolitains. Nous vous invitons à le diffuser à travers vos élus, vos services de voirie ou d’espaces verts, aux différents Maître d’ouvrage de projets d’espaces publics et d’aménagements cyclables, aux Maîtres d’oeuvre travaillant pour le compte de la Métropole, etc.
+Vous trouverez à [ce lien](https://cyclopolis.lavilleavelo.org/blog/VEGECYCLE_2_Tableur.xlsx) un tableur détaillé conçu par des spécialistes, qui ont mis au point une liste d'arbres, d’arbustes et de vivaces que nous conseillons à la plantation pour les Voies Lyonnaises et autres projets métropolitains. Nous vous invitons à le diffuser à travers vos élus, vos services de voirie ou d’espaces verts, aux différents Maître d’ouvrage de projets d’espaces publics et d’aménagements cyclables, aux Maîtres d’oeuvre travaillant pour le compte de la Métropole, etc.
 
 
 

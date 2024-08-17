@@ -92,10 +92,8 @@ Une piste cyclable de 4m de large a été créée sur une des voies de circulati
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023.
 
 ::banner{type="info"}
-Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au premier semestre 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
+Une reprise ponctuelle a été réalisée de chaque côté du pont de Lattre de Tassigny aen mars-avril 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
 ::
-
-La :line-link{line=7 anchor=pont-churchill-et-carrefour-tête-dor} est accessible au niveau du pont Churchill, tandis que le pont de Lattre de Tassigny permet d'emprunter la :line-link{line=4 anchor=pont-clémenceau-à-boulevard-des-belges} et la :line-link{line=10 anchor=tassin-valvert-à-tête-dor-verguin} en direction de Vaise via le tunnel.
 
 ::content-image
 ---
@@ -129,7 +127,7 @@ streetView: 45.7573504,4.8407715,3a,75y,196.69h,85.05t
 *(Pont de la Guillotière <> Pont Gallieni)*
 
 La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.\
-Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.\
+Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.
 
 ::banner{type="wip"}
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.
