@@ -128,19 +128,20 @@ Le projet a été validé et déclaré d'utilité publique le 12 juin 2024.\
 [Voir la présentation du projet du BHNS Part Dieu - Sept Chemins](https://www.sytral.fr/622-bhns.htm)
 
 ::banner{type="wip"}
-Les premiers travaux sur les réseaux ont débuté au premier semestre 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à début 2026.
+Entre Reconnaissance Balzac et Kimmerling, les travaux préparatoires sur les réseaux ont lieu entre janvier 2024 et l'automne 2024, et s'enchaineront avec les travaux d'aménagements jusqu'à fin 2025.\
+Entre Kimmerling et Sept Chemins, les travaux préparatoires sur les réseaux ont lieu entre fin 2024 et l'été 2025, et s'enchaineront avec les travaux d'aménagements jusqu'au cours de l'année 2026.
 ::
 
 ### Bron - Sept Chemins à Boulevard Urbain Est
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec la future Ligne de l'Est Lyonnais (LEL) entre La Soie et l'aéroport Saint-Exupéry sur l'avenue Mermoz. Sa réalisation sera traitée en même temps que les travaux de cette ligne de bus, sous maitrise d'ouvrage SYTRAL Mobilités.
 
-Il s'agira d'une piste cyclable bidirectionnelle de 3m de large située le long du trottoir Sud sur cette avenue qui sera alors réservée aux seuls bus et modes actifs.
+Sur le carrefour des Sept Chemins, il s'agira d'un giratoire à la hollandaise avec un anneau cyclable bidirectionnel, tandis que sur l'avenue Mermoz une piste cyclable bidirectionnelle de 3m de large sera créée le long du trottoir Sud. Cette dernière sera alors réservée aux seuls bus et modes actifs. Le carrefour avec le boulevard Charles de Gaulle sera aussi complètement réaménagé, facilité et sécurisé.
 
-La concertation continue se déroule de juin 2022 à juin 2024.\
+La concertation continue s'est déroulée de juin 2022 à juin 2024.\
 [Voir la présentation du projet Ligne de l'Est Lyonnais](https://destinations2026-sytral.fr/processes/lel?locale=fr)
 
 ::banner{type="wip"}
-Les travaux auront lieu entre août et décembre 2024.
+Les travaux auront lieu entre septembre 2024 et début 2025.
 ::
 
 ### Boulevard Urbain Est à Chassieu - Dauphiné
@@ -153,7 +154,7 @@ Par dérogation exceptionnelle et suite à demande formelle, la Voie Lyonnaise n
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl7/VL7_Bonnevay.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl11/VL11_Chassieu.jpg
 caption: Photo de la Voie Lyonnaise 11 - Route de Lyon (Chassieu)
 credit: La Ville à Vélo
 streetView: 45.7406386,4.9499343,3a,90y,123.21h,81.79t 

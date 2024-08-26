@@ -34,7 +34,7 @@ Le projet a été validé et déclaré d'utilité publique le 26 février 2024.\
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}
 
 ::banner{type="wip"}
-Les premiers travaux sur les réseaux débutent en février 2024, et s'enchaineront avec les travaux d'aménagement en 2025-2026.
+Les travaux préparatoires sur les réseaux ont lieu entre février et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à début 2026.
 ::
 
 ::content-image
@@ -92,7 +92,7 @@ Une piste cyclable de 4m de large a été créée sur une des voies de circulati
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023.
 
 ::banner{type="info"}
-Une reprise ponctuelle a été réalisée de chaque côté du pont de Lattre de Tassigny aen mars-avril 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
+Une reprise ponctuelle a été réalisée de chaque côté du pont de Lattre de Tassigny en mars-avril 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
 ::
 
 ::content-image
@@ -197,7 +197,7 @@ Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.\
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)
 
 ::banner{type="wip"}
-Les premiers travaux sur les réseaux ont débuté en septembre 2023 et se poursuivent en 2024. Ils laisseront place aux travaux d'aménagement en 2025-2026.
+Les travaux préparatoires sur les réseaux ont lieu entre septembre 2023 et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à début 2026. Les premiers travaux d'aménagement sur l'Ouest de l'avenue Tony Garnier ont débuté en mai 2024.
 ::
 
 ## Calendriers prévisionnels
