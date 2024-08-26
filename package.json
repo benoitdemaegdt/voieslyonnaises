@@ -11,7 +11,7 @@
   "devDependencies": {
     "@headlessui/vue": "^1.7.22",
     "@nuxt/content": "^2.13.2",
-    "@nuxt/icon": "^1.4.8",
+    "@nuxt/icon": "^1.4.10",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@tailwindcss/typography": "^0.5.14",
