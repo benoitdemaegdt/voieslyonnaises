@@ -377,7 +377,7 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "name": "Charbonnières-les-Bains",
+        "name": "Charbonnières-les-Bains Nord",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#traversée-de-charbonnières-les-bains"
@@ -397,6 +397,22 @@
           [4.748717630258255, 45.78510692840794],
           [4.7496451554022485, 45.783533777135204],
           [4.749750107678722, 45.78333893221205],
+          [4.749905040643256, 45.78301377381564]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "Charbonnières-les-Bains Sud",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-8#traversée-de-charbonnières-les-bains"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.749905040643256, 45.78301377381564],
           [4.750013651225345, 45.782661631623796],
           [4.750157726524037, 45.78200059976527],

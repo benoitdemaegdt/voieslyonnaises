@@ -37,8 +37,12 @@ Cette ancienne route nationale située hors agglomération sera profondément r�
 Cette section fait l'objet d'un vaste projet de requalification qui consiste à réaménager la très large Route de Paris. Le projet prévoit la création de larges trottoirs de minimum 2m de large, une voirie automobile à 2x1 voies de circulation et la création d'une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée et séparée ponctuellement par une bande végétalisée. Une voie de bus sera aussi créé ponctuellement pour améliorer les performances des transports en commun du secteur.
 
 Ce projet ambitieux sera réalisé en deux phases :
- - entre le chemin des Verrières et le chemin du Siroux, l'aménagement sera réalisé en transitoire d'ici 2026, et le réaménagement définitif prévu ultérieurement
- - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
+ - entre le chemin des Verrières et l'allée du Mas, l'aménagement sera réalisé en transitoire au second semestre 2026, et le réaménagement définitif prévu à un mandat ultérieur
+ - entre l'alée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
+
+::banner{type="wip"}
+Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement enchaineront entre fin 2024 et l'été 2026.
+::
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
