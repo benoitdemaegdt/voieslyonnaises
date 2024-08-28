@@ -531,7 +531,8 @@
       "properties": {
         "line": 10,
         "name": "Part-Dieu - Passage Pompidou",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "28/08/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
       },
