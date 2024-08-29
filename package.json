@@ -14,7 +14,7 @@
     "@nuxt/icon": "^1.4.8",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
-    "@tailwindcss/typography": "^0.5.14",
+    "@tailwindcss/typography": "^0.5.15",
     "eslint": "^8.57.0",
     "nuxt": "^3.12.4",
     "prettier": "^3.3.3",
