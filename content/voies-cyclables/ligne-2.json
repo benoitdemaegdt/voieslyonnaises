@@ -486,7 +486,8 @@
       "properties": {
         "line": 2,
         "name": "Tchécoslovaques",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "29/08/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },

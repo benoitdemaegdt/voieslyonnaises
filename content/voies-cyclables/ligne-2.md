@@ -115,9 +115,9 @@ streetView: 45.7533388,4.8593519,3a,75y,175.99h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la section Paul Bert à Félix Faure commenceront à l'été 2024 et dureront jusqu'en fin d'année.\
+Les travaux sur la section Paul Bert à Félix Faure auront lieu courant 2025.\
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.\
-Les travaux sur le boulevard des Tchécoslovaques ont débuté en janvier 2024 et se termineront à l'été 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restera à aménager sur la fin d'année 2024.
+Les travaux sur le boulevard des Tchécoslovaques ont eu lieu entre janvier et août 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restera à aménager sur la fin d'année 2024.
 ::
 
 #### *Concertation*

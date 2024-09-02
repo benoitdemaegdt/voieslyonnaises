@@ -730,7 +730,7 @@
       "properties": {
         "line": 11,
         "name": "Carrefour Sept Chemins - Avenue Jean Mermoz",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#bron-sept-chemins-à-boulevard-urbain-est"
       },

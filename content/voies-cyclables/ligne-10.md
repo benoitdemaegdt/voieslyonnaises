@@ -34,8 +34,9 @@ Sur ce tronçon entre la rue Lafayette et l'avenue Georges Pompidou, la Voie Lyo
 Les cyclistes circuleront sur une piste cyclable bidirectionnelle, sauf entre la rue de Bonnel et l'avenue Pompidou où ils seront en mixité avec les bus sur une large voie partagée.
 
 ::banner{type="wip"}
-Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.
-Les travaux entre Bonnel et Pompidou, ainsi que l'aménagement de l'avenue Pompidou sous les voies ferrées seront réalisés entre fin 2023 et l'été 2024.
+Les travaux sur la section entre Lafayette et Servient se sont terminés début 2023.\
+Les travaux entre Bonnel et Pompidou ont commencé fin 2023 et se poursuivent jusqu'au printemps 2025.\
+L'aménagement du nouveau passage Pompidou sous les voies ferrées a été réalisé entre fin 2023 et août 2024.
 ::
 
 ### Part Dieu à Meyzieu

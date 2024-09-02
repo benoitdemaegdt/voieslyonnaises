@@ -230,7 +230,7 @@ streetView: 45.7158648,4.8547435,3a,90y,1.54h,88.27t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025.
+Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025, même si un premier tronçon nord a été livré fin août 2024.
 ::
 
 #### Avenue Jean Jaurès
@@ -245,7 +245,7 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé début avril 2024 et continueront jusqu'à l'automne 2024.
+Les travaux sur cette section ont eu lieu entre début avril et fin août 2024.
 ::
 
 #### Concertation

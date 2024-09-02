@@ -1394,7 +1394,7 @@
       "properties": {
         "line": 7,
         "name": "Boulevard Yves Farge",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
@@ -1430,7 +1430,7 @@
       "properties": {
         "line": 7,
         "name": "Traversée Boulevard Urbain Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "bilaterale",
         "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
