@@ -485,9 +485,9 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Tchécoslovaques",
+        "name": "Tchécoslovaques Nord",
         "status": "done",
-        "doneAt": "29/08/2024",
+        "doneAt": "28/08/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
@@ -500,6 +500,22 @@
           [4.858571192039449, 45.74629330063935],
           [4.858424315440345, 45.74575336797892],
           [4.858361805683927, 45.74551085665067],
+          [4.8582905530929565, 45.74530190168827]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Tchécoslovaques Sud",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.8582905530929565, 45.74530190168827],
           [4.858177900314331, 45.7449312885339],
           [4.858166280700516, 45.74464007113203],
