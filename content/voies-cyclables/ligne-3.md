@@ -179,6 +179,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux préalables sur les réseaux souterrains ont commencé fin août 2024 et continueront jusqu'en fin d'année 2024, avant d'enchainer avec les travaux d'aménagement jusque mi-2026.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Sud_Pont%20Mulati%c3%a8re_Barrage%20CNR.pdf)
