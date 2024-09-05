@@ -10,7 +10,7 @@
       </nav>
       <div class="mt-4 border-t border-gray-200 pt-4 md:flex md:items-center md:justify-between">
         <div class="flex justify-center space-x-6 md:order-2">
-          <a v-for="item in socials.lvv" :key="item.name" :href="item.href" target="_blank" class="text-gray-500 hover:text-gray-500">
+          <a v-for="item in socials" :key="item.name" :href="item.href" target="_blank" class="text-gray-500 hover:text-gray-500">
             <span class="sr-only">{{ item.name }}</span>
             <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
           </a>
@@ -18,19 +18,6 @@
         <div class="mt-8 md:mt-0 md:order-1">
           <p class="text-center text-base text-gray-500">
             {{ getAssoName() }}
-          </p>
-        </div>
-      </div>
-      <div class="mt-8 border-t border-gray-200 pt-4 md:flex md:items-center md:justify-between">
-        <div class="flex justify-center space-x-6 md:order-2">
-          <a v-for="item in socials.cyclopolis" :key="item.name" :href="item.href" target="_blank" class="text-gray-500 hover:text-gray-500">
-            <span class="sr-only">{{ item.name }}</span>
-            <Icon :name="item.icon" class="h-6 w-6" aria-hidden="true" />
-          </a>
-        </div>
-        <div class="mt-8 md:mt-0 md:order-1">
-          <p class="text-center text-base text-gray-500">
-            Cyclopolis
           </p>
         </div>
       </div>
@@ -46,55 +33,36 @@ const links = [
   { name: 'Historique', path: '/historique' }
 ];
 
-const socials = {
-  cyclopolis: [
-    {
-      name: 'Twitter',
-      href: 'https://twitter.com/benoit_dmgdt',
-      icon: 'mdi:twitter'
-    },
-    {
-      name: 'Github',
-      href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
-      icon: 'mdi:github'
-    },
-    {
-      name: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/benoitdemaegdt',
-      icon: 'mdi:linkedin'
-    }
-  ],
-  lvv: [
-    {
-      name: 'Twitter',
-      href: 'https://twitter.com/LaVilleaVelo',
-      icon: 'mdi:twitter'
-    },
-    {
-      name: 'Facebook',
-      href: 'https://www.facebook.com/lavilleavelolyon/',
-      icon: 'mdi:facebook'
-    },
-    {
-      name: 'LinkedIn',
-      href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
-      icon: 'mdi:linkedin'
-    },
-    {
-      name: 'Instagram',
-      href: 'https://www.instagram.com/lavilleavelolyon',
-      icon: 'mdi:instagram'
-    },
-    {
-      name: 'Site web',
-      href: 'https://lavilleavelo.org/',
-      icon: 'mdi:link'
-    },
-    {
-      name: 'Email',
-      href: 'mailto:contact_at_lavilleavelo.org',
-      icon: 'mdi:email-outline'
-    }
-  ]
-};
+const socials = [
+  {
+    name: 'Twitter',
+    href: 'https://twitter.com/LaVilleaVelo',
+    icon: 'mdi:twitter'
+  },
+  {
+    name: 'Facebook',
+    href: 'https://www.facebook.com/lavilleavelolyon/',
+    icon: 'mdi:facebook'
+  },
+  {
+    name: 'LinkedIn',
+    href: 'https://www.linkedin.com/company/la-ville-%C3%A0-v%C3%A9lo',
+    icon: 'mdi:linkedin'
+  },
+  {
+    name: 'Instagram',
+    href: 'https://www.instagram.com/lavilleavelolyon',
+    icon: 'mdi:instagram'
+  },
+  {
+    name: 'Site web',
+    href: 'https://lavilleavelo.org/',
+    icon: 'mdi:link'
+  },
+  {
+    name: 'Email',
+    href: 'mailto:contact_at_lavilleavelo.org',
+    icon: 'mdi:email-outline'
+  }
+];
 </script>
