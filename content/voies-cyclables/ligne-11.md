@@ -50,7 +50,7 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Des travaux préalables de dévoiement et de réhabilitation des réseaux d’assainissement, électricité et de gaz ont commencé début juin 2024 et se dérouleront jusqu'en novembre 2024. Ensuite, les travaux d'aménagement se dérouleront tout au long de l'année 2025.
+Des travaux préalables de dévoiement et de réhabilitation des réseaux d’assainissement, électricité et de gaz ont commencé début juin 2024 et se dérouleront jusqu'en novembre 2024. Ensuite, les travaux d'aménagement se dérouleront jusquen fin d'année 2025.
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*\

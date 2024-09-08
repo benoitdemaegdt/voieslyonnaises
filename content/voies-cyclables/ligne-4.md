@@ -30,6 +30,8 @@ streetView: 45.8269269,4.7562217,3a,90y,332.82h,76.54t
 Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024 sur [cette page](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=dematEnt.choixDCE&IDM=1448259&XFAOK=dce.verifLotsDCE), nous constatons qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
 ::
 
+entre l'automne 2023 et fin mars 2024.
+
 #### Porte de Lyon
 *via Parc Relais TCL et pont sur A6*
 
@@ -48,6 +50,9 @@ streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
+::banner{type="wip"}
+Les travaux sur ce tronçon vont débuter à l'automne 2024 et se prolongeront jusqu'en fin d'année 2025.
+::
 
 ### La Garde - Porte de Lyon à Mouillard - Porte de Vaise
 *via Techlid et Champagne-au-Mont-d'Or*
@@ -64,6 +69,10 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient commencer courant 2025 et durer environ un an.
+::
+
 #### Chemin de St-Didier à Rue Juttet
 Cette section faisait l'objet de 2 variantes pendant la concertation :
  - par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
@@ -72,7 +81,6 @@ Cette section faisait l'objet de 2 variantes pendant la concertation :
 ::banner{type="info"}
 La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.
 ::
-
 
 ::banner{type="modified"}
 Finalement, le choix de la Métropole s'est porté sur la variante République et la Voie Lyonnaise 4 fera donc un "crochet" en évitant le centre de Champagne-au-Mont-d'Or.
@@ -87,14 +95,22 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient avoir lieu au premier semestre 2025 et durer 4 à 5 mois.
+::
+
 #### Rue Juttet à Avenue de Champagne
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
+
+::banner{type="wip"}
+Les travaux devraient avoir lieu au premier semestre 2025 et durer environ un mois.
+::
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
-Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une bonne partie de l'année.
+Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre septembre 2024 et l'été 2025.
 ::
 
 #### *Concertation*

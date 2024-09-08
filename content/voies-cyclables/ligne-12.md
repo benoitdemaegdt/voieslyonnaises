@@ -121,6 +121,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient commencer début 2025 et durer une bonne partie de l'année.
+::
+
 ### Place d'Arsonval
 Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller).
 

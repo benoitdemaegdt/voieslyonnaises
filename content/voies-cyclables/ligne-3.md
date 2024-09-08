@@ -217,7 +217,7 @@ Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'es
 ::
 
 ::banner{type="wip"}
-Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux est prévue courant été 2024 jusqu'au chemin de Freyssinet.
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'au chemin de Freyssinet a débuté en juin 2024 et se poursuit jusqu'en octobre.
 ::
 
 ## Budget prévisionnel

@@ -33,6 +33,10 @@ Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les 
 #### RD307 (Ancienne Route Nationale 7)
 Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
 
+::banner{type="wip"}
+Les travaux auront lieu entre octobre 2024 et février 2025.
+::
+
 #### Traversée de Charbonnières-les-Bains
 Cette section fait l'objet d'un vaste projet de requalification qui consiste à réaménager la très large Route de Paris. Le projet prévoit la création de larges trottoirs de minimum 2m de large, une voirie automobile à 2x1 voies de circulation et la création d'une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée et séparée ponctuellement par une bande végétalisée. Une voie de bus sera aussi créé ponctuellement pour améliorer les performances des transports en commun du secteur.
 
@@ -61,6 +65,10 @@ credit: Métropole de Lyon
 La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'avenue Roosevelt, cette portion sans aménagements cyclables verra la création d'une piste cyclable bidirectionnelle de 3 à 4m de large côté Est et l'aménagement de trottoirs plus confortables tout en conservant les 4 voies de circulation actuelles.
 
 Sur la suite du boulevard du Valvert, le projet prévoit de conforter la piste cyclable bidirectionnelle actuelle côté Sud, en l'élargissant jusqu'à 4.00m de large, et en la séparant mieux de la voirie automobile avec un séparateur béton de grande taille.
+
+::banner{type="wip"}
+Les travaux sur cette section, initialement prévus au second semestre 2024 ont été reporté au second semestre 2025 à la demande du maire de Tassin. La sécurisation des cyclistes attendra.
+::
 
 #### Tassin - Valvert à Victor Hugo
 Sur le chemin de la Vernique, le projet prévoit la création d'une piste cyclable bidirectionnelle de 4m côté Sud, avec la suppression du trottoir Nord mais le maintien de l'accès au square de la Vernique.
@@ -166,6 +174,10 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
 ---
+::
+
+::banner{type="wip"}
+Les travaux devraient commencer début 2025 et durer environ un an.
 ::
 
 #### Rue Camille Roy

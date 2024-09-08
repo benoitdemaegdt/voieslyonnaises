@@ -90,7 +90,7 @@ Le projet définitif a été présenté début juin 2023.\
 [Voir le dossier de presse détaillé](https://cyclopolis.lavilleavelo.org/vl6/VL6_RiveDroite_ProjetFinal.pdf)
 
 ::banner{type="wip"}
-Les travaux devraient démarrer en 2025.
+Après des travaux préliminaires sur les réseaux souterrains entre septembre 2024 et l'été 2025, ainsi qu'une enquête publique au printemps 2025, les travaux d'aménagements devraient réellement démarrer en septembre 2025 et se poursuivre jusqu'en fin d'année 2026.
 ::
 
 ::content-image

@@ -73,6 +73,10 @@ streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient commencer courant automne 2024 et se poursuivre jusqu'à l'été 2025.
+::
+
 ### Stalingrad Nord
 Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard-stalingrad-nord"}.
 
