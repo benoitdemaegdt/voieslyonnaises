@@ -74,7 +74,7 @@
         "name": "Collonges",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -139,7 +139,7 @@
         "name": "Quai Raoul Carrié",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
