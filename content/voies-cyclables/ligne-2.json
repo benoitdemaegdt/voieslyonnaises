@@ -69,12 +69,12 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "FontaineBarbe-commun",
+        "id": "Collonges-commun",
         "line": 2,
-        "name": "Île barbe - Pont Leclerc",
+        "name": "Collonges",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -127,8 +127,25 @@
           [4.840011247250175, 45.80385215339368],
           [4.8397114764978255, 45.803484874191014],
           [4.8393935790156775, 45.80315803188831],
-          [4.839045404666251, 45.802610507676874],
-          [4.838801834596239, 45.80199872284796],
+          [4.839157418246998, 45.802784532756064]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Barbe-commun",
+        "line": 2,
+        "name": "Quai Raoul Carrié",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.839157418246998, 45.802784532756064],
+          [4.8387218248955435, 45.801766686008584],
           [4.838409706739142, 45.80135938729437],
           [4.837771654129028, 45.80075755554231],
           [4.836815194232855, 45.80022843351546],
@@ -140,9 +157,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "StRambert-commun",
         "line": 2,
-        "name": "Variante - Gde Rue de Saint Robert",
+        "name": "Variante - Gde Rue de Saint Rambert",
         "status": "variante",
         "type": "inconnu",
         "link": "/voie-lyonnaise-2#fontaines-sur-saône-à-lîle-barbe"
@@ -173,7 +190,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "StRambert-commun",
+        "id": "Carrié-commun",
         "line": 2,
         "name": "Variante - Quai Raoul Carrié",
         "status": "variante",
@@ -193,6 +210,24 @@
       "type": "Feature",
       "properties": {
         "line": 2,
+        "name": "Pont de l'Île Barbe",
+        "status": "done",
+        "doneAt": "10/11/2020",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8304758429806895, 45.79797576420478],
+          [4.831795544871056, 45.79602553322215]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
         "name": "Traversée de Caluire-et-Cuire",
         "status": "unknown",
         "type": "inconnu",
@@ -201,7 +236,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8304758429806895, 45.79797576420478],
           [4.831795544871056, 45.79602553322215],
           [4.846034035228541,45.79925458507378],
           [4.85246012950951,45.800794726741614],
@@ -535,7 +569,7 @@
       "properties": {
         "line": 2,
         "name": "Avenue Berthelot",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#avenue-berthelot"
       },

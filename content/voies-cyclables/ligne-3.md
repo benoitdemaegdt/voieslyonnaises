@@ -41,8 +41,11 @@ La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargi
 
 La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur la commune d'Albigny, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de Couzon, St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
-::banner{type="info"}
-La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.
+::banner{type="wip"}
+La section sur la commune d'Albigny devrait être réalisée entre novembre 2024 et l'été 2025./
+La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022./
+La section sur la commune de St-Romain a été réalisée entre février et juillet 2024./
+La section sur la commune de Collonges devrait être en travaux à partir du printemps 2025 jusqu'à l'été 2026.
 ::
 
 ::content-image
@@ -52,10 +55,6 @@ caption: Aperçu de la Voie Lyonnaise 3 - Couzon-au-Mont-d'Or
 credit: Métropole de Lyon
 streetView: 45.8499282,4.8325735,3a,75y,22.52h,90t
 ---
-::
-
-::banner{type="wip"}
-La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.
 ::
 
 ::content-image
@@ -68,7 +67,7 @@ streetView: 45.8337609,4.8371625,3a,46.1y,312.7h,87.18t
 ::
 
 ::banner{type="info"}
-Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée depuis l'été 2020.
+Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée pendant l'été 2020.
 ::
 
 #### Saint-Rambert à pont de l'Île Barbe
@@ -81,7 +80,7 @@ La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.\
 ### Île Barbe au Pont Kitchener Marchand
 *Parcours commun avec la véloroute touristique "La Voie Bleue"*
 
-#### Île Barbe à rue Antonin Laborde
+#### Île Barbe à rue Antonin Laborde (Quai Sédallian)
 L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
 
 #### Rue Antonin Laborde au pont Clémenceau
@@ -125,7 +124,7 @@ streetView: 45.7579128,4.8260787,3a,75y,191.02h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont lieu entre avril 2024 et début 2025.
+Les travaux sur cette section ont lieu entre avril 2024 et mars 2025.
 ::
 
 #### *Concertation*
@@ -164,6 +163,10 @@ Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur 
 Sur la section entre le carrefour du pont de la Mulatière et la rue Chardiny, le trafic vélo est particulièrement soutenu. Suite à la concertation, la Métropole souhaitait séparer piétons et cyclistes pour mettre fin aux nombreux conflits actuels, grace à la suppression de l'ensemble des stationnements. Malheureusement, à cause de l'entêtement de la mairie de la Mulatière, les places bus au Nord seront conservées et les piétons et cyclistes continueront à se partager un trottoir étroit de 3m de large sur 50m de long. La Ville à Vélo le déplore alors qu'il était possible d'utiliser le grand parking de l'Aquarium pour gérer les déposes des bus.
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section auront lieu par section entre septembre 2024 et début 2025.
+::
+
 #### Quartier de la Saulaie
 La Voie Lyonnaise 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 
@@ -180,7 +183,7 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux préalables sur les réseaux souterrains ont commencé fin août 2024 et continueront jusqu'en fin d'année 2024, avant d'enchainer avec les travaux d'aménagement jusque mi-2026.
+Les travaux préalables sur les réseaux souterrains ont commencé fin août 2024 et continueront jusqu'en octobre 2024, avant d'enchainer en novembre avec les travaux d'aménagement jusque mi-2026.
 ::
 
 #### *Concertation*
@@ -217,7 +220,7 @@ Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'es
 ::
 
 ::banner{type="wip"}
-Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'au chemin de Freyssinet a débuté en juin 2024 et se poursuit jusqu'en octobre.
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'au chemin de Freyssinet a débuté en juin 2024 et se poursuit jusqu'en novembre.
 ::
 
 ## Budget prévisionnel

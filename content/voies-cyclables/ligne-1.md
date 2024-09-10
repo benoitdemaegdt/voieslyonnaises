@@ -74,7 +74,7 @@ streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient commencer courant automne 2024 et se poursuivre jusqu'à l'été 2025.
+Les travaux devraient commencer début 2025 sur le boulevard du 11 Novembre et se poursuivre jusqu'à début 2026 sur l'avenue Einstein.
 ::
 
 ### Stalingrad Nord
@@ -148,8 +148,11 @@ streetView: 45.7502784,4.8356748,3a,75y,12.37h,82.36t
 
 #### Avenue Général Leclerc
 Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.\
-A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence.\
-*Aucune information sur le calendrier des travaux n'a été rendue publique.*
+A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence ou le pont de la Mulatière.\
+
+::banner{type="wip"}
+Les travaux devraient commencer au printemps 2025 et continuer jusqu'à l'été 2026.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.\

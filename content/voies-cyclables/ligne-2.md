@@ -95,7 +95,7 @@ La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.
 
 ::banner{type="wip"}
-Les travaux auront lieu pendant l'automne 2024.
+Les travaux auront lieu de fin septembre à décembre 2024.
 ::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
@@ -115,9 +115,9 @@ streetView: 45.7533388,4.8593519,3a,75y,175.99h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la section Paul Bert à Félix Faure auront lieu courant 2025.\
+Les travaux sur la section Paul Bert à Félix Faure auront lieu au premier semestre 2025.\
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.\
-Les travaux sur le boulevard des Tchécoslovaques ont eu lieu entre janvier et août 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restera à aménager sur la fin d'année 2024.
+Les travaux sur le boulevard des Tchécoslovaques ont eu lieu entre janvier et août 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restent à aménager à l'automne 2024.
 ::
 
 #### *Concertation*
@@ -143,9 +143,8 @@ streetView: 45.7400878,4.857942,3a,75y,311.49h,83.09t
 ---
 ::
 
-
 ::banner{type="wip"}
-Les travaux sur cette section auront lieu entre l'automne 2024 et début 2025.
+Les travaux sur cette section auront lieu entre septembre et décembre 2024.
 ::
 
 #### Boulevard des États-Unis
@@ -162,9 +161,9 @@ streetView: 45.732077,4.8653939,3a,75y,329.84h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux entre la rue Sarrazin et l'avenue Viviani ont commencé fin mars 2024 et continueront jusqu'à l'été 2024.\
-Les travaux entre la rue Cazeneuve et la rue Sarrazin commenceront en août 2024 jusqu'au printemps 2025.\
-Les travaux entre l'avenue Berthelot et la rue Cazeneuve auront lieu au premier semestre 2025.
+Les travaux entre la rue Sarrazin et l'avenue Viviani ont commencé fin mars 2024 et continueront jusqu'en novembre 2024.\
+Les travaux entre la rue Cazeneuve et la rue Sarrazin commenceront en novembre 2024 jusqu'au printemps 2025.\
+Les travaux entre l'avenue Berthelot et la rue Cazeneuve auront lieu entre janvier et juin 2025.
 ::
 
 #### Avenue Viviani
@@ -179,14 +178,26 @@ streetView: 45.7228161,4.877238,3a,75y,301.55h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux auront lieu entre mars 2025 et mars 2026.
+::
+
 ####  Quartier de Parilly
 
 *de Viviani à la Plaine des Sports*
 
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès :transport-link{type=métro line=D}) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
-#### Avenue Charles de Gaulle
+::banner{type="wip"}
+Les travaux sont prévus de novembre 2024 au printemps 2025.
+::
+
+#### Route de Lyon (parc Parilly à rue des Alouettes)
 La piste cyclable actuelle côté Nord sera élargie et ses abords végétalisés pour créer une piste cyclable bidirectionnelle de 3m de large bien séparée du flux de circulation.
+
+::banner{type="modified"}
+Contrairement à ce qui était annoncé pendant la concertation, l'étroite piste cyclable côté Nord ne sera finalement pas élargie. Elle sera simplement transformée en voie verte de 2m60 de large et conservée en l'état. Seuls les carrefours seront repris et mieux sécurisés.
+::
 
 ::content-image
 ---
@@ -197,8 +208,12 @@ streetView: 45.7125597,4.8999136,3a,75y,309.97h,90t
 ---
 ::
 
-#### Route de Lyon et Avenue Aristide Briand
-Cette portion verra la création d'une piste cyclable bidirectionnelle de 3m de large côté Nord, en lieu et place d'une des deux voies de circulation. Elle prendra fin au niveau de la rue Diderot qui permettra de rejoindre le centre-ville de Saint-Priest.
+::banner{type="wip"}
+Les travaux sont prévus entre début 2025 et l'été 2025.
+::
+
+#### Route de Lyon (rue des Alouettes à rue Diderot)
+Cette portion sera totalement réaménagée et verra la création d'une piste cyclable bidirectionnelle de 3m de large côté Nord, en lieu et place d'une des deux voies de circulation. Elle prendra fin au niveau de la rue Diderot qui permettra de rejoindre le centre-ville de Saint-Priest.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.\
