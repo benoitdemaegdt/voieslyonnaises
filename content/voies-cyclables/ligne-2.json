@@ -794,7 +794,7 @@
         "name": "Avenue De Gaulle - Route de Lyon",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-2#avenue-charles-de-gaulle"
+        "link": "/voie-lyonnaise-2#route-de-lyon-parc-parilly-à-rue-des-alouettes"
       },
       "geometry": {
         "type": "LineString",
@@ -820,7 +820,7 @@
         "name": "Route de Lyon - Alouettes à Diderot",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-2#route-de-lyon-et-avenue-aristide-briand"
+        "link": "/voie-lyonnaise-2#route-de-lyon-rue-des-alouettes-à-rue-diderot"
       },
       "geometry": {
         "type": "LineString",

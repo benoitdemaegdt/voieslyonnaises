@@ -599,7 +599,7 @@
         "name": "Quai Paul Sédallian",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-3#île-barbe-à-rue-antonin-laborde"
+        "link": "/voie-lyonnaise-3#île-barbe-à-rue-antonin-laborde-quai-sédallian"
       },
       "geometry": {
         "type": "LineString",
@@ -849,7 +849,7 @@
       "properties": {
         "id": "QuaiLiberation-commun",
         "line": 3,
-        "name": "Quai de la Libération",
+        "name": "La Mulatière - Quai de la Libération",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
