@@ -113,6 +113,10 @@ credit: Métropole de Lyon
 #### Avenue Barthélémy Buyer
 Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompra au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
+::banner{type="wip"}
+Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png
@@ -177,7 +181,7 @@ credit: Street Architecture / Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux devraient commencer début 2025 et durer environ un an.
+Après des travaux préliminaires sur les réseaux souterrains à l'automne 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
 ::
 
 #### Rue Camille Roy
@@ -213,6 +217,10 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz (Lyon 8)
 credit: Street Architecture / Métropole de Lyon
 ---
+::
+
+::banner{type="wip"}
+Les travaux sont prévus entre novembre 2024 et le printemps 2025.
 ::
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du :transport-link{type=tram line=6}.
