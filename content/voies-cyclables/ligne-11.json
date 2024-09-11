@@ -633,7 +633,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Balzac-commun",
         "line": 11,
         "name": "Reconnaissance Balzac Sud",
         "status": "planned",

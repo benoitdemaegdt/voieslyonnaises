@@ -691,9 +691,8 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Reconnaissance Balzac - variante 1",
-        "status": "variante",
-        "text": "variante 1",
+        "name": "Reconnaissance Balzac Nord",
+        "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -708,45 +707,6 @@
           [4.885395633080776, 45.754585110255675],
           [4.8855362028938885, 45.75465530809606],
           [4.885610617783044, 45.75469200410649]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "Balzac-commun",
-        "line": 10,
-        "name": "Reconnaissance Balzac Sud",
-        "status": "variante",
-        "text": "variante 2",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.884866533442903, 45.7542735045167],
-          [4.885171989518852, 45.754270309987476],
-          [4.8856584375063505, 45.75426204147527]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "variante2",
-        "line": 10,
-        "name": "Reconnaissance Balzac - variante 2",
-        "status": "variante",
-        "text": "variante 2",
-        "type": "bilaterale",
-        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.8856584375063505, 45.75426204147527],
-          [4.885610927208376, 45.75469211923706]
         ]
       }
     },

@@ -51,7 +51,7 @@ La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
 ::banner{type="wip"}
-Les travaux sur ce tronçon vont débuter à l'automne 2024 et se prolongeront jusqu'en fin d'année 2025.
+Les travaux sur ce tronçon vont débuter en octobre 2024 et se prolongeront jusqu'en fin d'année 2025.
 ::
 
 ### La Garde - Porte de Lyon à Mouillard - Porte de Vaise
@@ -110,7 +110,7 @@ Les travaux devraient avoir lieu au premier semestre 2025 et durer environ un mo
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
-Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre septembre 2024 et l'été 2025.
+Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre l'automne 2024 et l'été 2025.
 ::
 
 #### *Concertation*
@@ -201,8 +201,16 @@ Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera r
 
 Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. <!--Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.-->
 
+::banner{type="wip"}
+Les travaux commenceront en novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
+::
+
+::banner{type="info"}
+Entre les rues Mauvert et Edouard Vaillant, le grand chantier de la ZAC Gratte-Ciel necéssitera un aménagement provisoire de la piste bidirectionnelle côté Nord, avant une bascule définitive au Sud prévue au premier semestre 2028.
+::
+
 #### *Concertation*
-Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
+Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. Le choix définitif de la Métropole s'est porté sur le côté Sud.
 
 *La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
