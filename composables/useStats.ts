@@ -91,7 +91,7 @@ export const useStats = () => {
   function getStats(voies: Geojson[]) {
     const features = getAllUniqLineStrings(voies);
     const doneFeatures = features.filter(feature => feature.properties.status === 'done');
-    const wipFeatures = features.filter(feature => feature.properties.status === 'wip');
+    const wipFeatures = features.filter(feature => ['wip', 'tested'].includes(feature.properties.status));
     const plannedFeatures = features.filter(feature =>
       ['planned', 'unknown', 'variante'].includes(feature.properties.status)
     );

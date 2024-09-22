@@ -56,7 +56,7 @@ Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Il sera d'abord expérimenté entre septembre 2024 et avril 2025.
+Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Cette expérimentation a débuté mi-Août et durera 9 mois.
 ::
 
 ::content-image

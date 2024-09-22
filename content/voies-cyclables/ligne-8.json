@@ -860,7 +860,7 @@
         "id": "ChNeuf-commun",
         "line": 8,
         "name": "Montée du Chemin Neuf",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
