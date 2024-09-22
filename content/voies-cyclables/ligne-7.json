@@ -592,7 +592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteDombesCentre",
+        "id" : "VoieDombesCentre",
         "line": 7,
         "name": "Voie verte de la Dombes - Centre",
         "status": "postponed",
@@ -614,7 +614,25 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteDombesCentre",
+        "id" : "VoieDombesCentre",
+        "line": 7,
+        "name": "Variante Marc Sangnier Nord",
+        "status": "variante-postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8481427200115945,45.79700630741187],
+          [4.84923540877918,45.79871420824841]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteCombattantsAfN-commun",
         "line": 7,
         "name": "Variante Rue des Combattants AfN",
         "status": "variante-postponed",
@@ -624,7 +642,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8481427200115945,45.79700630741187],
           [4.84923540877918,45.79871420824841],
           [4.84973913877505,45.79856581745432],
           [4.849902318914388,45.79860044200839],
