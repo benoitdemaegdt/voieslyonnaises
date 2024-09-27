@@ -66,8 +66,10 @@
                   {{ getCounterLastRecordPreviousYear(counter).value }}
                 </td>
                 <td class="text-center p-1">
-                  {{ getCounterLastRecord(counter).value }}
-                  <Icon v-if="isLastRecordMax(counter)" name="iconoir:medal-1st-solid" class="text-lvv-pink text-xl" />
+                  <div class="flex items-center justify-center">
+                    <span>{{ getCounterLastRecord(counter).value }}</span>
+                    <Icon v-if="isLastRecordMax(counter)" name="iconoir:medal-1st-solid" class="text-lvv-pink text-xl" />
+                  </div>
                 </td>
                 <td class="text-center p-1 border-l-2 border-lvv-blue-600">
                   <span v-if="getEvolution(counter) === 0 " class="text-green-600">
