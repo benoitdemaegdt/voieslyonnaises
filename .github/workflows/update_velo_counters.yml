@@ -1,4 +1,4 @@
-name: Update Counters
+name: Update Velo Counters
 
 on:
   schedule:
@@ -26,8 +26,8 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          commit-message: "[Automatique] Mise à jour des compteurs"
-          title: "Compteurs - Mise à jour automatique"
+          commit-message: "[Automatique] Mise à jour des compteurs vélo"
+          title: "Compteurs - Mise à jour automatique des compteurs vélo"
           body: "Mise à jour automatique des compteurs via une github action."
           base: main
           branch: update-counters-${{ github.run_id }}
