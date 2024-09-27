@@ -21,10 +21,10 @@ Cette section est en tronçon commun avec la :line-link{line=3 anchor="neuville-
 Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
 
 #### Caluire Centre à Saint-Clair
-Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.
+Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon. Compte-tenu du refus de la mairie de Caluire d'aménager de nouveaux itinéraires cyclables sécurisés pour rejoindre le plateau depuis la Saône ou le Rhône, nous pensons que ce tronçon sera majoritairement reporté à un mandat ultérieur.
 
 ::banner{type="info"}
-Compte-tenu des contraintes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste indéfini dans les détails et à confirmer par la Métropole de Lyon.
+Compte-tenu des contraintes liées aux lignes de bus sur la montée des Soldats, nous privilégions un détour plus sinueux par l'Est qui reste indéfini dans les détails et à confirmer par la Métropole de Lyon. Il sera probablement partiellement en tronçon commun avec la :line-link{line=7 anchor="voie-de-la-dombe"} sur une partie du plateau.
 ::
 
 ### Pont Poincaré à avenue Berthelot
@@ -34,8 +34,12 @@ Compte-tenu des contraintes liées aux lignes de bus sur la montée des Soldats,
 #### Carrefour Saint-Clair et Pont Poincaré
 Le carrefour routier de Saint-Clair devrait faire l'objet d'un réaménagement pour sécuriser le cheminement des cyclistes en provenance de la route de Strasbourg, du centre de Caluire et des berges du Rhône. Il sera relié à une nouvelle piste bidirectionnelle sécurisée qui traversera le pont Poincaré côté Ouest pour se connecter aux futurs aménagements cyclables de la Cité Internationale, du campus de la Doua et du boulevard Stalingrad.
 
-::banner{type="info"}
-Ce tronçon, très attendu par les cyclistes du plateau Nord, permettra de supprimer un des points noirs majeurs du secteur.
+::banner{type="postponed"}
+Ce tronçon, très attendu par les cyclistes du plateau Nord, restera malheureusement un des points noirs majeurs du secteur pour encore de nombreuses années. Son aménagement est reporté, car la création d'une piste cyclable bidirectionnelle aurait des conséquences désastreuses pour la performances des lignes de bus qui passent sur le pont. La Ville à Vélo espère qu'un scénario plus ambitieux avec encorbelllement sera étudié sérieusement au prochain mandat.
+::
+
+::banner{type="modified"}
+Après des études complémentaires de la Métropole pour proposer une solution court-terme à la traversée du Rhône dans ce secteur, l'option la plus crédible serait de faire un détour d'environ 800m via la passerelle de la Paix, en passant derrière l'Amphthéâtre 3000 et dans les rues du quartier de St-Clair.
 ::
 
 #### Boulevard Stalingrad Nord
@@ -44,6 +48,10 @@ Ce tronçon, très attendu par les cyclistes du plateau Nord, permettra de suppr
 
 Une piste cyclable bidirectionnelle de 4m de large sera aménagée à l'Est derrière le Transbordeur, en lieu et place d'une des deux voies de circulation.\
 Au sud, la Métropole de Lyon étudie deux variantes d'insertion d'une piste bidirectionnelle : à l'Ouest côté parc de la Tête d'Or à la place d'une voie de circulation ou à l'Est en réaménageant la voie verte actuelle.
+
+::banner{type="info"}
+Après des études complémentaires de la Métropole, l'option voie verte à l'Est s'est avérée bien plus crédible, évitant notamment une double traversée du boulevard Stalingrad pour les usagers de la Voie Lyonnaise 1.
+::
 
 #### Boulevard Stalingrad Sud
 

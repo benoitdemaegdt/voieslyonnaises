@@ -228,9 +228,9 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Traversée de Caluire-et-Cuire",
-        "status": "unknown",
-        "type": "inconnu",
+        "name": "Accès plateau Caluire Ouest",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
       },
       "geometry": {
@@ -238,8 +238,74 @@
         "coordinates": [
           [4.831795544871056, 45.79602553322215],
           [4.846034035228541,45.79925458507378],
-          [4.85246012950951,45.800794726741614],
-          [4.862391390184428,45.80140521726804],
+          [4.84923540877918,45.79871420824841]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteCombattantsAfN-commun",
+        "line": 2,
+        "name": "Variante Rue des Combattants AfN",
+        "status": "variante-postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.84923540877918,45.79871420824841],
+          [4.84973913877505,45.79856581745432],
+          [4.849902318914388,45.79860044200839],
+          [4.8500087407444425,45.798738940009144],
+          [4.850363480177748,45.799164324572956],
+          [4.851165191297639,45.79977271778256],
+          [4.851335466226516,45.800034868906096],
+          [4.851285790992051,45.800663037632006],
+          [4.8514489711313615,45.80068282234927],
+          [4.851505729440561,45.80074217645941],
+          [4.851505729440561,45.800806476673785],
+          [4.8520804073235695,45.800821315174005],
+          [4.853387439025113,45.80088431533889]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteDombesNord",
+        "line": 2,
+        "name": "Chemin de Crépieux",
+        "status": "done",
+        "doneAt": "15/11/2023",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.853387439025113,45.80088431533889],
+          [4.855137598311927,45.80101634114206],
+          [4.855218583670364,45.80109226889431],
+          [4.855335872811594,45.80102996920786],
+          [4.862873628518969,45.8015038894097]
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Accès plateau Caluire Est",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-2#traversée-du-plateau-nord"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.862873628518969,45.8015038894097],
           [4.864547540390845,45.79639279227537],
           [4.8614346556736905,45.795639827871035],
           [4.864431119665966,45.792660026270624],
@@ -251,10 +317,50 @@
     {
       "type": "Feature",
       "properties": {
+        "id" : "variantePoincaré",
+        "line": 2,
+        "name": "Détour via Passerelle de la Paix",
+        "status": "planned",
+        "type": "inconnu",
+        "link": "/voie-lyonnaise-2#carrefour-saint-clair-et-pont-poincaré"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.859096014315483, 45.78473198447127],
+          [4.8591117788897975, 45.78495695014692],
+          [4.858920938610424, 45.785315694739126],
+          [4.858696908717349, 45.78546613533223],
+          [4.858456284016654, 45.78554714163775],
+          [4.858049711247332, 45.78563972012799],
+          [4.8570706176398915, 45.78566865087495],
+          [4.855709843472482, 45.78558764474644],
+          [4.854921590144414, 45.78548349383635],
+          [4.854747344671239, 45.78606789364676],
+          [4.854274408808493, 45.78810457181356],
+          [4.854772253015966, 45.7881392871727],
+          [4.8588628729201275, 45.78805249873412],
+          [4.8588628729201275, 45.7882376472397],
+          [4.859053713199472, 45.788336007133125],
+          [4.859286040495704, 45.78879308906647],
+          [4.859402204144459, 45.78952788381227],
+          [4.858979036567575, 45.78973038459827],
+          [4.8589541443582505, 45.789903956115296],
+          [4.859161574588455, 45.79040730769424],
+          [4.859028816132138, 45.790667661605056],
+          [4.859974720127099, 45.790991655884596],
+          [4.860417250867499, 45.791008478328905]
+        ]
+      }
+    },     
+    {
+      "type": "Feature",
+      "properties": {
+        "id" : "variantePoincaré",
         "line": 2,
         "name": "Pont Poincaré",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-2#pont-poincaré-à-avenue-berthelot"
       },
       "geometry": {
@@ -284,7 +390,7 @@
       "properties": {
         "id": "Bonnevay127-commun",
         "line": 2,
-        "name": "Transbordeur",
+        "name": "Transbordeur Nord",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#carrefour-saint-clair-et-pont-poincaré"
@@ -292,6 +398,8 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.859096014315483, 45.78473198447127],
+          [4.85915263804057, 45.78461590794164],
           [4.860028376055567, 45.784614639552274],
           [4.861193194938238, 45.78457073986618]
         ]
@@ -300,9 +408,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "StalingradNord-commun",
+        "id": "StalingradTransbo-commun",
         "line": 2,
-        "name": "Stalingrad Nord",
+        "name": "Transbordeur Est",
         "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord",
         "type": "bidirectionnelle",
         "status": "planned"
@@ -318,20 +426,36 @@
           [4.8612813243247786, 45.78373683312748],
           [4.861156237428787, 45.78352073607246],
           [4.860935133900114, 45.78328940850412],
-          [4.860665059920109, 45.78305348409609],
-          [4.860503015531918, 45.782968233853836],
-          [4.860093640215155, 45.78273825588241],
-          [4.859853914451861, 45.782587352608715],
-          [4.85971553673383, 45.781337774407774],
-          [4.859655835823304, 45.780578423820145],
-          [4.8595165346297335, 45.779634674783296]
+          [4.8605215497568395, 45.782972649593205],
+          [4.860160798989341, 45.782952836803105],
+          [4.8600329243768385, 45.782322532059254],
+          [4.860157493643499, 45.782233216710694]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "StalingradSud-commun",
+        "id": "StalingradNord-commun",
+        "line": 2,
+        "name": "Stalingrad Nord",
+        "status": "planned",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-2#boulevard-stalingrad-nord"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.860157493643499, 45.782233216710694],
+          [4.860057753276379, 45.782042205762906],
+          [4.859792515712513, 45.77961927680201]
+        ]
+      }
+    },     
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "StalingradCentre-commun",
         "line": 2,
         "name": "Stalingrad Centre",
         "status": "done",
@@ -342,7 +466,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.8595165346297335, 45.779634674783296],
+          [4.859792515712513, 45.77961927680201],
           [4.859433174133301, 45.77959168491022],
           [4.859073758125305, 45.77623754923035],
           [4.8588672280311584, 45.77437051960145],
