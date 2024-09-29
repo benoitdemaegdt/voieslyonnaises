@@ -18,7 +18,7 @@
 
       <!-- liste des compteurs -->
       <div class="mt-8 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
-        <div v-for="counter of counters" :key="counter.name" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
+        <NuxtLink v-for="counter of counters" :key="counter.name" :to="`/compteurs/mixte/${counter.cyclopolisId}`" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
           <div>
             <div class="px-4 py-2 bg-lvv-blue-600 text-white">
               <div class="text-base font-medium">
@@ -99,7 +99,7 @@
               </tr>
             </tbody>
           </table>
-        </div>
+        </NuxtLink>
       </div>
     </div>
   </div>
@@ -121,6 +121,7 @@ const { data: allVoitureCounters } = await useAsyncData(() => {
 
 type Counter = {
   name: string;
+  cyclopolisId: string;
   arrondissement: string;
   coordinates: [number, number];
   counts: { month: string, veloCount: number, voitureCount: number }[];
@@ -131,6 +132,7 @@ const counters = allVeloCounters.value?.map(veloCounter => {
   if (!voitureCounter) { return undefined; }
   return {
     name: veloCounter.name,
+    cyclopolisId: veloCounter.cyclopolisId,
     arrondissement: veloCounter.arrondissement,
     coordinates: veloCounter.coordinates,
     counts: voitureCounter.counts.map((voitureCount: Count) => {
