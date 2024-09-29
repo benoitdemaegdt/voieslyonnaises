@@ -8,13 +8,16 @@
         <h2 class="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl">
           Comparaison de la fréquentation cycliste et automobile.
         </h2>
+        <p class="mt-8 text-xl text-gray-500 leading-8">
+          Cette page permet de comparer l'évolution des fréquentations cyclistes et automobiles sur un même axe.
+        </p>
         <!-- <ClientOnly>
           <Map :features="features" :options="{ legend: false, filter: false }" class="mt-12" style="height: 40vh" />
         </ClientOnly> -->
       </div>
 
       <!-- liste des compteurs -->
-      <div class="mt-4 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
+      <div class="mt-8 max-w-7xl mx-auto grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:max-w-none">
         <div v-for="counter of counters" :key="counter.name" class="flex flex-col rounded-lg shadow-md hover:shadow-lg overflow-hidden">
           <div>
             <div class="px-4 py-2 bg-lvv-blue-600 text-white">
