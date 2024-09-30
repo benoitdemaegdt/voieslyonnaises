@@ -1,4 +1,4 @@
-type Count = {
+export type Count = {
   month: string;
   count: number;
 }
