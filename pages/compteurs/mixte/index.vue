@@ -180,8 +180,17 @@ function getLastRecordPreviousYear(counter: Counter) {
 function getCounterEvolution(counter: Counter) {
   const lastRecord = getLastRecord(counter);
   const lastRecordPreviousYear = getLastRecordPreviousYear(counter);
-  const veloEvolution = lastRecord.veloCount === 0 ? 0 : Math.round((lastRecord.veloCount - lastRecordPreviousYear.veloCount) / lastRecord.veloCount * 100);
-  const voitureEvolution = lastRecord.voitureCount === 0 ? 0 : Math.round((lastRecord.voitureCount - lastRecordPreviousYear.voitureCount) / lastRecord.voitureCount * 100);
+  // const veloEvolution = lastRecord.veloCount === 0 ? 0 : Math.round((lastRecord.veloCount - lastRecordPreviousYear.veloCount) / lastRecord.veloCount * 100);
+  let veloEvolution;
+  if (lastRecord.veloCount === 0) { veloEvolution = 0; }
+  if (lastRecordPreviousYear.veloCount === 0) { veloEvolution = 0; }
+  veloEvolution = Math.round((lastRecord.veloCount - lastRecordPreviousYear.veloCount) / lastRecord.veloCount * 100);
+
+  let voitureEvolution;
+  if (lastRecord.voitureCount === 0) { voitureEvolution = 0; }
+  if (lastRecordPreviousYear.voitureCount === 0) { voitureEvolution = 0; }
+  voitureEvolution = Math.round((lastRecord.voitureCount - lastRecordPreviousYear.voitureCount) / lastRecord.voitureCount * 100);
+
   return { veloEvolution, voitureEvolution };
 }
 

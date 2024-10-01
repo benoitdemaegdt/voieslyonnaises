@@ -67,7 +67,7 @@
                   <Icon v-if="isLastRecordMax(counter)" name="iconoir:medal-1st-solid" class="text-lvv-pink text-xl" />
                 </td>
                 <td class="text-center p-1 border-l-2 border-lvv-blue-600">
-                  <span v-if="getEvolution(counter) === 0 " class="text-green-600">
+                  <span v-if="getEvolution(counter) === 0 " class="text-gray-900">
                     N/A
                   </span>
                   <span v-if="getEvolution(counter) > 0 " class="text-green-600">
