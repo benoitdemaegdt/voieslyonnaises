@@ -144,6 +144,13 @@
                     >
                       Compteurs voiture
                     </NuxtLink>
+                    <NuxtLink
+                      to="/compteurs/comparaison"
+                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
+                      @click="close()"
+                    >
+                      Comparaison voiture/vélo
+                    </NuxtLink>
                   </div>
                 </div>
               </PopoverPanel>
@@ -227,6 +234,15 @@
                 >
                   <span class="ml-3 text-base font-medium text-gray-900">
                     Compteurs voiture
+                  </span>
+                </NuxtLink>
+                <NuxtLink
+                  to="/compteurs/comparaison"
+                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
+                  @click="close()"
+                >
+                  <span class="ml-3 text-base font-medium text-gray-900">
+                    Comparaison voiture/vélo
                   </span>
                 </NuxtLink>
 
