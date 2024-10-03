@@ -28,7 +28,7 @@
       <tbody>
         <!-- ligne vélo -->
         <tr v-if="isTrackingVelo">
-          <td class="text-center p-1">
+          <td class="flex items-center justify-center p-1 h-full">
             <Icon name="fluent:vehicle-bicycle-16-regular" class="text-3xl" />
           </td>
           <td class="text-center p-1">
@@ -50,7 +50,7 @@
 
         <!-- ligne voiture -->
         <tr v-if="isTrackingVoiture">
-          <td class="text-center p-1">
+          <td class="flex items-center justify-center p-1 h-full">
             <Icon name="fluent:vehicle-car-profile-ltr-16-regular" class="text-3xl" />
           </td>
           <td class="text-center p-1">
