@@ -18,7 +18,7 @@
 </template>
 
 <script setup lang="ts">
-import type { Count } from '../../../composables/useCompteur';
+import type { Count } from '../../../types/counters';
 
 const { params } = useRoute();
 

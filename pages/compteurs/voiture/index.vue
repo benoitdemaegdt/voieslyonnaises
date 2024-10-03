@@ -33,7 +33,7 @@
 </template>
 
 <script setup lang="ts">
-import type { CounterParsedContent } from '../../../composables/useCompteur';
+import type { CounterParsedContent } from '../../../types/counters';
 
 const { getCompteursFeatures } = useMap();
 
