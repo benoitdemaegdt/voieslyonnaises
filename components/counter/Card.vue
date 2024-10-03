@@ -59,7 +59,30 @@
         </tr>
 
         <!-- ligne voiture -->
-        <!-- todo -->
+        <tr v-if="isTrackingVoiture">
+          <td class="text-center p-1">
+            <Icon name="fluent:vehicle-car-profile-ltr-16-regular" class="text-3xl" />
+          </td>
+          <td class="text-center p-1">
+            {{ formatRecordCount(lastRecordPreviousYear?.voitureCount) }}
+          </td>
+          <td class="text-center p-1">
+            {{ formatRecordCount(lastRecord?.voitureCount) }}
+          </td>
+          <td class="text-center p-1 border-l-2 border-lvv-blue-600">
+            <span v-if="getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) === 0 " class="text-gray-600">
+              N/A
+            </span>
+            <span v-if="getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) > 0 " class="text-green-600">
+              <Icon name="mdi:arrow-top-right-thin" />
+              +{{ getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) }}%
+            </span>
+            <span v-if="getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) < 0 " class="text-red-600">
+              <Icon name="mdi:arrow-bottom-right-thin" />
+              {{ getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) }}%
+            </span>
+          </td>
+        </tr>
       </tbody>
     </table>
   </NuxtLink>
@@ -89,7 +112,7 @@ const lastRecord = props.counter.counts[props.counter.counts.length - 1];
 const lastRecordPreviousYear = getSameRecordPreviousYear(lastRecord);
 
 const isTrackingVelo = props.counter.counts.some(record => record.veloCount !== undefined);
-// const isTrackingVoiture = props.counter.counts.some(record => record.voitureCount !== undefined);
+const isTrackingVoiture = props.counter.counts.some(record => record.voitureCount !== undefined);
 
 /**
  * formatters
