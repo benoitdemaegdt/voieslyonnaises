@@ -1,16 +1,16 @@
 <template>
   <div>
-    <span v-if="evolution === 0 " class="text-gray-600">
+    <div v-if="evolution === 0 " class="text-gray-600">
       N/A
-    </span>
-    <span v-if="evolution > 0 " class="text-green-600">
+    </div>
+    <div v-if="evolution > 0 " class="text-green-600 flex items-center justify-center">
       <Icon name="mdi:arrow-top-right-thin" />
-      +{{ evolution }}%
-    </span>
-    <span v-if="evolution < 0 " class="text-red-600">
+      <span>+{{ evolution }}%</span>
+    </div>
+    <div v-if="evolution < 0 " class="text-red-600 flex items-center justify-center">
       <Icon name="mdi:arrow-bottom-right-thin" />
-      {{ evolution }}%
-    </span>
+      <span>{{ evolution }}%</span>
+    </div>
   </div>
 </template>
 
