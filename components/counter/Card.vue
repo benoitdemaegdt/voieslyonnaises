@@ -44,17 +44,7 @@
             </div>
           </td> -->
           <td class="text-center p-1 border-l-2 border-lvv-blue-600">
-            <span v-if="getEvolution(lastRecordPreviousYear?.veloCount, lastRecord?.veloCount) === 0 " class="text-gray-600">
-              N/A
-            </span>
-            <span v-if="getEvolution(lastRecordPreviousYear?.veloCount, lastRecord?.veloCount) > 0 " class="text-green-600">
-              <Icon name="mdi:arrow-top-right-thin" />
-              +{{ getEvolution(lastRecordPreviousYear?.veloCount, lastRecord?.veloCount) }}%
-            </span>
-            <span v-if="getEvolution(lastRecordPreviousYear?.veloCount, lastRecord?.veloCount) < 0 " class="text-red-600">
-              <Icon name="mdi:arrow-bottom-right-thin" />
-              {{ getEvolution(lastRecordPreviousYear?.veloCount, lastRecord?.veloCount) }}%
-            </span>
+            <CounterEvolution :count1="lastRecordPreviousYear?.veloCount" :count2="lastRecord?.veloCount" />
           </td>
         </tr>
 
@@ -70,17 +60,7 @@
             {{ formatRecordCount(lastRecord?.voitureCount) }}
           </td>
           <td class="text-center p-1 border-l-2 border-lvv-blue-600">
-            <span v-if="getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) === 0 " class="text-gray-600">
-              N/A
-            </span>
-            <span v-if="getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) > 0 " class="text-green-600">
-              <Icon name="mdi:arrow-top-right-thin" />
-              +{{ getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) }}%
-            </span>
-            <span v-if="getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) < 0 " class="text-red-600">
-              <Icon name="mdi:arrow-bottom-right-thin" />
-              {{ getEvolution(lastRecordPreviousYear?.voitureCount, lastRecord?.voitureCount) }}%
-            </span>
+            <CounterEvolution :count1="lastRecordPreviousYear?.voitureCount" :count2="lastRecord?.voitureCount" />
           </td>
         </tr>
       </tbody>
@@ -140,12 +120,6 @@ function getSameRecordPreviousYear(record: Record): Record | undefined {
     return new Date(count.month).getMonth() === recordMonth &&
       new Date(count.month).getFullYear() === recordYear - 1;
   });
-}
-
-function getEvolution(count1?: number, count2?: number): number {
-  if (count1 === undefined || count1 === 0) { return 0; }
-  if (count2 === undefined || count2 === 0) { return 0; }
-  return Math.round(((count2 - count1) / count1) * 1000) / 10;
 }
 
 </script>
