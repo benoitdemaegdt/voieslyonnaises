@@ -46,8 +46,8 @@ export type PerspectiveFeature = {
 export type CompteurFeature = {
   type: 'Feature';
   properties: {
-    type: 'compteur-velo' | 'compteur-voiture',
-    line: number;
+    type: 'compteur-velo' | 'compteur-voiture';
+    line?: number;
     name: string;
     link?: string;
     counts: Array<{
