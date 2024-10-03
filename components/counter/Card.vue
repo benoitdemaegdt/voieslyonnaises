@@ -8,7 +8,7 @@
         {{ name }}
       </div>
     </div>
-    <table class="w-full">
+    <table class="w-full bg-white">
       <thead>
         <tr class="bg-lvv-blue-100">
           <th class="w-1/6 italic font-normal">
