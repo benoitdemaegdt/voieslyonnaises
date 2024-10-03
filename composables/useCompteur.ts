@@ -21,7 +21,8 @@ export interface CounterParsedContent extends ParsedContent {
   arrondissement: string;
   idPdc: string;
   coordinates: number[];
-  lines: number[];
+  cyclopolisId?: string;
+  lines?: number[];
   counts: Count[];
 }
 
