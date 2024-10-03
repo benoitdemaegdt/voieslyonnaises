@@ -1,20 +1,8 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-import { isCompteurFeature, isDangerFeature, isPumpFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
+import type { CounterParsedContent } from '../types/counters';
+import { isCompteurFeature, isDangerFeature, isPumpFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature, type CompteurFeature } from '~/types';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
-
-type Compteur = {
-  name: string;
-  _path: string;
-  description: string;
-  idPdc: number;
-  coordinates: [number, number];
-  lines: number[];
-  counts: Array<{
-    month: string;
-    count: number;
-  }>;
-};
 
 // features plotted last are on top
 const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
@@ -647,12 +635,11 @@ export const useMap = () => {
     counters,
     type
   }: {
-    counters: Compteur[];
+    counters: CounterParsedContent[] | null;
     type: 'compteur-velo' | 'compteur-voiture';
-  }) {
-    if (counters.length === 0) {
-      return;
-    }
+  }): CompteurFeature[] {
+    if (!counters) { return []; }
+    if (counters.length === 0) { return []; }
 
     return counters.map(counter => ({
       type: 'Feature',
@@ -664,7 +651,7 @@ export const useMap = () => {
       },
       geometry: {
         type: 'Point',
-        coordinates: counter.coordinates
+        coordinates: [counter.coordinates[0], counter.coordinates[1]]
       }
     }));
   }

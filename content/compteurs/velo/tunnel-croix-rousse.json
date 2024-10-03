@@ -3,6 +3,7 @@
   "description": "Le compteur vélo du tunnel de la Croix Rousse est situé à la sortie du tunnel, côté Saône. Il compte les passages des cyclistes dans les 2 sens de circulation.",
   "arrondissement": "Lyon 4",
   "idPdc": 100030143,
+  "cyclopolisId": "tunnel-croix-rousse",
   "coordinates": [
     4.813997,
     45.77463
@@ -416,6 +417,10 @@
     {
       "month": "2024-08-01",
       "count": 101206
+    },
+    {
+      "month": "2024-09-01",
+      "count": 143803
     }
   ]
 }

@@ -47,7 +47,7 @@ const defaultOptions = {
 
 const props = defineProps<{
   features: Feature[];
-  options: typeof defaultOptions;
+  options: Partial<typeof defaultOptions>;
 }>();
 
 const options = { ...defaultOptions, ...props.options };
