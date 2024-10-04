@@ -10,7 +10,7 @@ export type LaneType =
 | 'aucun'
 | 'inconnu';
 
-export type LaneStatus = 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
+export type LaneStatus = 'done' | 'wip' | 'planned' | 'tested' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
 
 export type LineStringFeature = {
   type: 'Feature';

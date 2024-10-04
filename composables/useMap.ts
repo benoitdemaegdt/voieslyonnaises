@@ -184,7 +184,10 @@ export const useMap = () => {
   }
 
   function plotWipSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
-    const sections = features.filter(feature => feature.properties.status === 'wip');
+    const sections = features.filter(feature => {
+      // on considère les sections en test comme en travaux
+      return feature.properties.status === 'wip' || feature.properties.status === 'tested';
+    });
 
     if (sections.length === 0 && !map.getLayer('wip-sections')) {
       return;
