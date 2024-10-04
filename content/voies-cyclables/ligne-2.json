@@ -561,7 +561,7 @@
       "properties": {
         "line": 2,
         "name": "Part-Dieu en tunnel",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#tunnel-vivier-merle"
       },
