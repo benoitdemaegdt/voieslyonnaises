@@ -36,17 +36,6 @@
               terminé
             </div>
 
-            <div class="my-auto">
-              <div class="h-1 relative">
-                <div class="absolute h-full w-full">
-                  <div class="h-full bg-lvv-blue-600 dashed-line animated-dashes" />
-                </div>
-              </div>
-            </div>
-            <div>
-              en test
-            </div>
-
             <div class="my-auto rounded-md border-gray-500 border">
               <div class="h-1 relative">
                 <div class="absolute h-full w-full">

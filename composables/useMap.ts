@@ -184,7 +184,10 @@ export const useMap = () => {
   }
 
   function plotWipSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
-    const sections = features.filter(feature => feature.properties.status === 'wip');
+    const sections = features.filter(feature => {
+      // on considère les sections en test comme en travaux
+      return feature.properties.status === 'wip' || feature.properties.status === 'tested';
+    });
 
     if (sections.length === 0 && !map.getLayer('wip-sections')) {
       return;
@@ -222,54 +225,6 @@ export const useMap = () => {
 
       if (newStep !== step) {
         map.setPaintProperty('wip-sections', 'line-dasharray', dashArraySequence[step]);
-        step = newStep;
-      }
-
-      // Request the next frame of the animation.
-      requestAnimationFrame(animateDashArray);
-    }
-    animateDashArray(0);
-  }
-
-  function plotTestedSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
-    const sections = features.filter(feature => feature.properties.status === 'tested');
-
-    if (sections.length === 0 && !map.getLayer('tested-sections')) {
-      return;
-    }
-    if (upsertMapSource(map, 'tested-sections', sections)) {
-      return;
-    }
-
-    map.addLayer({
-      id: 'tested-sections',
-      type: 'line',
-      source: 'tested-sections',
-      paint: {
-        'line-width': 4,
-        'line-color': ['get', 'color'],
-        'line-dasharray': [0, 2, 2]
-      }
-    });
-
-    const dashArraySequence = [
-      [0, 2, 2],
-      [0.5, 2, 1.5],
-      [1, 2, 1],
-      [1.5, 2, 0.5],
-      [2, 2, 0],
-      [0, 0.5, 2, 1.5],
-      [0, 1, 2, 1],
-      [0, 1.5, 2, 0.5]
-    ];
-    let step = 0;
-    function animateDashArray(timestamp: number) {
-      // Update line-dasharray using the next value in dashArraySequence. The
-      // divisor in the expression `timestamp / 45` controls the animation speed.
-      const newStep = Math.floor((timestamp / 45) % dashArraySequence.length);
-
-      if (newStep !== step) {
-        map.setPaintProperty('tested-sections', 'line-dasharray', dashArraySequence[step]);
         step = newStep;
       }
 
@@ -688,7 +643,6 @@ export const useMap = () => {
     plotVarianteSections({ map, features: lineStringFeatures });
     plotVariantePostponedSections({ map, features: lineStringFeatures });
     plotWipSections({ map, features: lineStringFeatures });
-    plotTestedSections({ map, features: lineStringFeatures });
     plotUnknownSections({ map, features: lineStringFeatures });
     plotPostponedSections({ map, features: lineStringFeatures });
 
