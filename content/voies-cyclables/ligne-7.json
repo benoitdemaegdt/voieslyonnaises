@@ -1414,8 +1414,8 @@
       "properties": {
         "line": 7,
         "name": "Saint-Fons Centre",
-        "status": "unknown",
-        "type": "inconnu",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#saint-fons-centre"
       },
       "geometry": {

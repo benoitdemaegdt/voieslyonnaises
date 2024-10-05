@@ -542,8 +542,8 @@
       "properties": {
         "line": 6,
         "name": "Chemin du Pras",
-        "status": "unknown",
-        "type": "inconnu",
+        "status": "planned",
+        "type": "velorue",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -631,7 +631,7 @@
         "id": "varianteOullins-commun",
         "line": 6,
         "name": "Scénario 2 - Grande Rue Nord - sens Sud>Nord",
-        "status": "variante",
+        "status": "tested",
         "text": "variante 2 S>N",
         "type": "voie-bus",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
@@ -694,7 +694,7 @@
         "id": "varianteOullins-commun",
         "line": 6,
         "name": "Scénario 2 - rues Bertholey/Hugo - sens Nord>Sud",
-        "status": "variante",
+        "status": "tested",
         "text": "variante 2 N>S",
         "type": "bilaterale",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"

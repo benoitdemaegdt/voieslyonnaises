@@ -220,7 +220,7 @@
         "id": "StJust-commun",
         "line": 12,
         "name": "Saint-Just",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
@@ -318,7 +318,7 @@
         "id": "StJean-commun",
         "line": 12,
         "name": "Saint-Jean",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
@@ -484,7 +484,7 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "name": "Avenue Rockefeller",
+        "name": "Avenue Rockefeller Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
@@ -497,6 +497,22 @@
           [4.880357785531004, 45.74247396102035],
           [4.882385243806397, 45.7421600494402],
           [4.883288570833457, 45.74199682946937],
+          [4.885164665377005, 45.74137116543628]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "Avenue Rockefeller Est",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.885164665377005, 45.74137116543628],
           [4.890450516247739, 45.73964499087779],
           [4.892042547504985, 45.739120652271595]

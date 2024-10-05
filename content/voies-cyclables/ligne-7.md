@@ -260,6 +260,10 @@ La concertation publique sur ce tronçon s'est tenue du 09/01 au 10/02/2023.\
 ### Saint-Fons Centre
 *Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*
 
+::banner{type="postponed"}
+Compte-tenu des travaux très impactants du tramway T10 dans ce secteur jusqu'à la fin du mandat, la mairie de St-Fons a demandé à la Métropole de Lyon de reporter l'aménagement cyclable Nord<>Sud du centre de la commune au prochain mandat, pour limiter l'impact sur la circulation du secteur. Il sera nécessaire de pouvoir aménager ce tronçon au plus tôt au début du prochain mandat pour conserver le moins longtemps possible cette discontinuité cyclable qui sera un vrai frein pour les cyclistes de St-Fons, Vénissieux et Feyzin.
+::
+
 ### Boulevard Yves Farge, de Saint-Fons à Feyzin
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
