@@ -808,7 +808,7 @@
         "id": "StJust-commun",
         "line": 8,
         "name": "Saint-Just",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
@@ -906,7 +906,7 @@
         "id": "StJean-commun",
         "line": 8,
         "name": "Saint-Jean",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
         "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
