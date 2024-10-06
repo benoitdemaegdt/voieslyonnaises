@@ -747,7 +747,8 @@
       "properties": {
         "line": 2,
         "name": "Boulevard des États-Unis Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "25/09/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
