@@ -347,7 +347,7 @@
       "properties": {
         "line": 4,
         "name": "Avenue du 25e RTS",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-4#avenue-du-25e-régiment-de-tirailleurs-sénégalais"
       },
