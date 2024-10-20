@@ -32,7 +32,7 @@
       "properties": {
         "line": 9,
         "name": "Jonage",
-        "status": "planned",
+        "status": "postponed",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-9#jonage-chemin-de-halage"
       },
@@ -69,7 +69,8 @@
       "properties": {
         "line": 9,
         "name": "Pont de Jonage",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "05/04/2004",
         "type": "velorue",
         "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
       },
@@ -86,7 +87,7 @@
       "properties": {
         "line": 9,
         "name": "Canal de Jonage - variante Nord",
-        "status": "planned",
+        "status": "postponed",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
       },
@@ -162,7 +163,7 @@
       "properties": {
         "line": 9,
         "name": "Digue EDF",
-        "status": "planned",
+        "status": "postponed",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-9#digue-edf-le-long-du-grand-large"
       },
@@ -303,8 +304,7 @@
           [4.93186891078949, 45.802922877465754],
           [4.930286407470703, 45.802646139803294],
           [4.9284034967422485, 45.802272167805256],
-          [4.927427172660828, 45.80221607178902],
-          [4.927169680595397, 45.802201112841836]
+          [4.927996307706536, 45.802224635068114]
         ]
       }
     },
@@ -312,14 +312,16 @@
       "type": "Feature",
       "properties": {
         "line": 9,
-        "name": "Le long de l'A42",
-        "status": "planned",
+        "name": "Rue Duclos prolongée",
+        "status": "done",
+        "doneAt": "05/04/2004",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.927996307706536, 45.802224635068114],
           [4.927169680595397, 45.802201112841836],
           [4.9261558055877686, 45.801864535468],
           [4.925925135612488, 45.80172616418009],
@@ -339,8 +341,24 @@
           [4.925512075424194, 45.79664732616176],
           [4.925324320793152, 45.79601898412589],
           [4.92509365081787, 45.79555146313318],
-          [4.924761056900024, 45.79508393821816],
-          [4.924487471580505, 45.79486700532535],
+          [4.9247175712485785, 45.79501192970357],
+          [4.924414995496335, 45.79483036928465]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 9,
+        "name": "Le long de l'A42",
+        "status": "planned",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.924414995496335, 45.79483036928465],
           [4.923768639564514, 45.7946650325626],
           [4.923516511917114, 45.794608928887484],
           [4.923334121704102, 45.79451542263678],
@@ -1080,14 +1098,14 @@
         "id": "BoulYzeron-commun",
         "line": 9,
         "name": "Boulevard de l'Yzeron",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "15/09/2018",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.79815248696184, 45.72008422826417],
           [4.798461317083394, 45.72017855939092],
           [4.798808750970409, 45.720277382305085],
           [4.799535788547246, 45.720389680859086],
@@ -1131,7 +1149,8 @@
           [4.796717713689844, 45.72112186189901],
           [4.797271034324183, 45.72070411561057],
           [4.798017373783779, 45.72016957548067],
-          [4.79815248696184, 45.72008422826417]
+          [4.79815248696184, 45.72008422826417],
+          [4.798461317083394, 45.72017855939092]
         ]
       }
     },
@@ -1178,7 +1197,8 @@
         "id": "Merlo-commun",
         "line": 9,
         "name": "Rue de Merlo",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "10/04/2014",
         "type": "velorue",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },

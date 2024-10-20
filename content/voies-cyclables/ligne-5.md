@@ -174,7 +174,7 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 #### Route de Brignais à Boulevard de l'Yzeron
 La Voie Lyonnaise 5 empruntera :
   - l'avenue de l'Aqueduc de Beaunant sous la forme d'une piste cyclable bidirectionnelle côté Sud,
-  - la rue de Merlo qui deviendra une vélorue,
+  - la rue de Merlo qui sera marquée et jalonée en vélorue, sans réaménagement
   - le parc naturel de l'Yzeron sous une voie verte de 2 à 3m de large,
   - le côté sud du boulevard Emile Zola, à partir de l'Intermarché jusqu'au pont Blanc, sous la forme d'une voie verte de 3 à 5m de large *(sauf point dur à moins de 2.5m sur 60m)*.
 

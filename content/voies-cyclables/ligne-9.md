@@ -56,6 +56,10 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 #### Rue du Canal
 Sur cette route faisant office de voie de sortie du parking des Puces du Canal, il est prévu un élargissement de la piste cyclable bidirectionnelle existante le long du canal, passant de 2.50 à 4.00m de large.
 
+::banner{type="modified"}
+Contrairement à ce qui a été indiqué en concertation, le projet consistera finalement à simplement ajouter un séparateur entre la piste cyclable et la voirie, conservant une étroite piste entre 2m20 et 2m80 de large. En cause : un grand projet de réhaussement et élargissement de la digue du canal de Jonage au prochain mandat, qui réaménagera toute la rue et fera passer les cyclistes dessus.
+::
+
 #### Promenade le long de l'A42
 Sur ce tronçon, il est prévu d'élargir la voie verte existante qui fait 2.50m à 3.00m de large. La Voie Lyonnaise 9 cheminerait donc à travers une voie verte de 4m de large, qui serait mieux masquée de l'autoroute grace à de nouvelles plantes grimpantes sur les clotures de la digue du canal.
 
@@ -65,6 +69,13 @@ imageUrl: https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg
 caption: Aperçu de la Voie Lyonnaise 9 - le long de l'A42 (Vaulx-en-Velin)
 credit: Métropole de Lyon
 ---
+::
+
+#### Rue Louis Duclos prolongée
+Sur ce tronçon, il est prévu d'élargir la voie verte existante de 3m à 4m de large en récupérant de l'espace inutilisé sur le talus côté autoroute.
+
+::banner{type="modified"}
+Contrairement à ce qui a été indiqué en concertation, le projet conservera finalement l'existant sur cette section pour ce mandat. En effet, le parc de Miribel Jonage étudie actuellement l'opportunité de réaménager complètement cette zone dans un projet plus ambitieux sur un futur mandat.
 ::
 
 #### Allée du Morlet
@@ -78,10 +89,18 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="modified"}
+Après concertation, études complémentaires et échanges avec le parc de Miribel, les piétons et les vélos resteront finalement séparés comme aujourd'hui. La seule modification concernera le remplacement du revêtement de la partie piétonne (actuellement en stabilisé) qui sera remplacé par un enrobé plus confortable et évitera que les piétons soient tentés de marcher sur la piste cyclable.
+::
+
 #### Allée de la Plage
 Dans cette impasse qui dessert uniquement le parking du Fontanil, le projet viendra élargir la voie verte existante de 3m de large avec 2 variantes :
  - 5.50m de large en supprimant la file de stationnement
  - 8.50m de large en otant la circulation automobile après l'accès parking
+
+::banner{type="info"}
+Suite à la concertation, c'est la seconde option qui a été retenue avec la suppression de la circulation automobile et du stationnement pour créer une piste cyclable de 4m, un cheminement piéton de 3m et une bande végétale de 1m50.
+::
 
 #### Promenade des Îles
 Sur cette section à enjeu environnemental plus marqué, la voie verte existante de 3m de large sera conservée en l'état.
@@ -89,6 +108,10 @@ Sur cette section à enjeu environnemental plus marqué, la voie verte existante
 #### Digue EDF le long du Grand Large
 La voie verte existante de 3m de large sera élargie à 4m compte-tenu de la convergence des accès au parc de Miribel-Jonage sur cette section.
 En outre, le revêtement en sable stabilisé sera remplacé par un enrobé lisse plus confortable.
+
+::banner{type="postponed"}
+EDF et les services de l'Etat ont finalement refusé d'élargir la voie verte et de modifier son revêtement, car cela impliquait des travaux très complexes et coûteux sur une digue qui date de la fin du XIXè siècle.
+::
 
 #### Pont d'Herbens à Pont de Jonage
 Sur ce tronçon, deux variantes d'itinéraires sont proposées :
@@ -99,8 +122,16 @@ Sur ce tronçon, deux variantes d'itinéraires sont proposées :
 Lors du conseil métropolitain du 24/06/2024, il a été indiqué que la variante Nord était préférée de manière à minimiser les conflits avec les piétons qui seraient plus nombreux sur la variante Sud. Cette décision nous paraît peu réaliste, les cyclistes préférant tout de même passer par la variante Sud mieux connectée à Meyzieu et Jonage et plus ombragée.
 ::
 
+::banner{type="postponed"}
+EDF et les services de l'Etat ont finalement refusé de modifier le revêtement de la digue qui restera en stabilisé, car cela impliquait des travaux très complexes et coûteux sur un ouvrage qui date de la fin du XIXè siècle.
+::
+
 #### Jonage - Chemin de Halage
 Le projet prévoit de conserver la voie verte existante de 3m sur la digue Sud. Seul le revêtement en sable stabilisé sera remplacé par un enrobé lisse.
+
+::banner{type="postponed"}
+EDF et les services de l'Etat ont finalement refusé de modifier le revêtement de la digue qui restera en stabilisé, car cela impliquait des travaux très complexes et coûteux sur un ouvrage qui date de la fin du XIXè siècle.
+::
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\

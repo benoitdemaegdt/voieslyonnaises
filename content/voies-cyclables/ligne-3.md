@@ -31,6 +31,10 @@ streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 #### Massieux à Neuville
 Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagé en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
+::banner{type="info"}
+Bien que le projet de la Métropole de Lyon nommé "Les Quais de Neuville" réaménage complètement l'esplanade Jean Vilar en 2025-2026, le morceau de piste cyclable qui sera créé ne sera relié à rien et nous invitons les cyclistes du secteur à continuer d'utiliser la voie verte aménagée en fond de quai lors de l'hiver 2022-2023.
+::
+
 ::banner{type="postponed"}
 La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement en encorbellements du pont actuel.
 ::
@@ -169,6 +173,10 @@ Les travaux sur cette section auront lieu par section entre septembre 2024 et d�
 
 #### Quartier de la Saulaie
 La Voie Lyonnaise 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
+
+::banner{type="info"}
+Les travaux de voirie liés au projet urbain de la Saulaie ont pris du retard et auront lieu au plus tôt en 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules. Avant l'aménagement de le rue Dubois Crancé, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
+::
 
 #### Traversée de Pierre-Bénite
 Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.

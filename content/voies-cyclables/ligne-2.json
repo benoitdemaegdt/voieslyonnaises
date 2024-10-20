@@ -729,7 +729,7 @@
       "type": "Feature",
       "properties": {
         "line": 2,
-        "name": "Boulevard des États-Unis Centre",
+        "name": "Boulevard des États-Unis Cazeneuve-Sarrazin",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
@@ -746,6 +746,23 @@
       "type": "Feature",
       "properties": {
         "line": 2,
+        "name": "Boulevard des États-Unis Sarrazin-Beauvisage",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.866050589734414,45.73114846566571],
+          [4.867536650716005,45.72924133033993]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
         "name": "Boulevard des États-Unis Sud",
         "status": "done",
         "doneAt": "25/09/2024",
@@ -755,7 +772,7 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [    
-          [4.866050589734414,45.73114846566571],
+          [4.867536650716005,45.72924133033993],
           [4.871211766639959,45.724516744863365]
         ]
       }
