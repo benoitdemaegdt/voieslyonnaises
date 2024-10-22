@@ -506,7 +506,7 @@
       "properties": {
         "line": 12,
         "name": "Avenue Rockefeller Est",
-        "status": "planned",
+        "status": "tested",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
       },
