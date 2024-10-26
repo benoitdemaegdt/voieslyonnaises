@@ -38,6 +38,7 @@ Le projet prévoit un réaménagement ambitieux avec :
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
 credit: Métropole de Lyon
+streetView: 45.7616485,4.8456071,3a,75y,91.9h,90t
 ---
 ::
 
@@ -46,11 +47,12 @@ credit: Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-est.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue de Bonnel (Lyon 3)
 credit: Métropole de Lyon
+streetView: 45.7620041,4.8503229,3a,75y,91.9h,90t
 ---
 ::
 
 ::banner{type="wip"}
-Des travaux préalables de dévoiement et de réhabilitation des réseaux d’assainissement, électricité et de gaz ont commencé début juin 2024 et se dérouleront jusqu'en novembre 2024. Ensuite, les travaux d'aménagement se dérouleront jusquen fin d'année 2025.
+Des travaux préalables de dévoiement et de réhabilitation des réseaux d’assainissement, électricité et de gaz ont commencé début juin 2024 et se dérouleront jusqu'en novembre 2024. Ensuite, les travaux d'aménagement se dérouleront jusqu'en fin d'année 2025.
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 12/06 au 13/07/2023.*\
@@ -69,6 +71,7 @@ Le projet porté par la SPL Lyon Part-Dieu vise à transformer les bandes cyclab
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-paul-bert.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue Paul Bert (Lyon 3)
 credit: Métropole de Lyon
+streetView: 45.7570434,4.8564384,3a,75y,90.87h,90t
 ---
 ::
 
@@ -107,6 +110,7 @@ Suite à la concertation, la Métropole et la mairie du 3e arrondissement ont an
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png
 caption: Aperçu de la Voie Lyonnaise 11 - rue du Dauphiné (Lyon 3)
 credit: Métropole de Lyon
+streetView: 45.7525513,4.8673559,3a,75y,88.59h,90t
 ---
 ::
 
