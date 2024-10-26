@@ -99,7 +99,7 @@ Sur ce tronçon, l'aménagement cyclable historique longe le :transport-link{typ
 Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole et la mairie du 3e arrondissement ont annoncé en avril 2024 que la piste cyclable bidirectionnelle serait finalement au Nord de la rue Jean Renoir et de la rue du Dauphiné. Cette variante permet de conserver un maximum de places de stationnement. Elle implique néanmoins une légère déviation du bus 69 par la rue Sisley dans le sens Nord>Sud. Les travaux auront lieu entre le printemps et l'automne 2025.
+Suite à la concertation, la Métropole et la mairie du 3e arrondissement ont annoncé en avril 2024 que la piste cyclable bidirectionnelle serait finalement au Nord de la rue Jean Renoir et de la rue du Dauphiné. Cette variante permet de conserver un maximum de places de stationnement. Elle implique néanmoins une légère déviation du bus 69 par la rue Sisley dans le sens Nord>Sud. Les travaux auront lieu en 2026.
 ::
 
 ::content-image

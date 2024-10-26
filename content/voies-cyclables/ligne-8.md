@@ -291,6 +291,10 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="postponed"}
+Entre la rue Lwoff et le boulevard de la Porte des Alpes, le projet initial était de transformer la voirie côté nord en piste bidirectionnelle vélo végétalisée, et la voirie côté Sud en double-sens pour les voitures. Cela impliquait de supprimer les places de stationnement sur la voirie Nord. La mairie de St-Priest s'est opposée à ce projet et les bandes cyclables existantes ont dont été conservées.
+::
+
 ::banner{type="wip"}
 Les travaux entre le giratoire à l'extrémité Est de la rue Lionel Terray et la Porte des Alpes ont commencé en mai 2024 et continueront jusqu'en fin d'année 2024.
 ::

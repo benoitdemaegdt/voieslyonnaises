@@ -127,7 +127,7 @@ Après de longues années de revendications associatives, une étroite bande cyc
 *Aucune information publique n'existe à ce jour sur le réaménagement de ce tronçon dans le cadre de la Voie Lyonnaise 6.*
 
 #### Aquarium à Pont d'Oullins
-*Aucune information publique n'existe à ce jour sur ce tronçon. Plusieurs variantes sont en cours d'étude par les services de la Métropole de Lyon.*
+*Aucune information publique n'existe à ce jour sur ce tronçon.*
 
 ::banner{type="info"}
 Compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous pensons probable qu'un itinéraire par le Chemin du Pras soit privilégié. Il est d'ailleurs préféré aujourd'hui par les cyclistes du secteur.

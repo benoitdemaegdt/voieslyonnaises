@@ -542,7 +542,8 @@
       "properties": {
         "line": 6,
         "name": "Chemin du Pras",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "31/08/2001",
         "type": "velorue",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },

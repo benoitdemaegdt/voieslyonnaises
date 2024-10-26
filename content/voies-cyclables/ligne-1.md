@@ -89,7 +89,7 @@ Pour desservir le quartier de la Cité Internationale, une piste cyclable bidire
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
 ::banner{type="modified"}
-Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé, remplacé par un enrobé lisse plus confortable pour tous.
+Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé côté Ouest, remplacé par un enrobé lisse plus confortable pour tous. Nous déplorons ce choix qui va maintenir un fort conflit dans une zone très fréquentée par les piétons.
 ::
 
 #### Quai de Grande-Bretagne et Quai de Serbie
