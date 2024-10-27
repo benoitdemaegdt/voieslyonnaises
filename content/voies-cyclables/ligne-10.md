@@ -59,11 +59,13 @@ Sur tout le reste de son parcours, la Voie Lyonnaise 10 suivra le tracé du :tra
  - la voie le long du tram sera entièrement élargie pour séparer piétons et cyclistes
 
 ***Villeurbanne***
- - le franchissement de la station Reconnaissance-Balzac est proposé avec une variante de détour par Richard Vitton et Antonin Perrin de manière à éviter l'arrêt de tramway en conflit avec les piétons
+ - le franchissement de la station Reconnaissance-Balzac était proposé avec une variante de détour par Richard Vitton et Antonin Perrin de manière à éviter l'arrêt de tramway en conflit avec les piétons, mais c'est finalement le trajet actuel qui sera conservé faute de solution satisfaisante sur Antonin Perrin.
+ - sur la rue Georges Sand, l'enrobé en mauvais état sera totalement repris pour être lisse et roulant
  - entre l'extrémité Est de la promenade de la Gare de Villeurbanne et la rue Cyprian, la section sera élargie pour séparer piétons et cyclistes
- - entre la rue Cyprian et la rue Frédéric Fays, la rue de la ligne de l'Est sera élargie et réaménagée via la plantation d'arbres et l'élargissement du trottoir Sud
- - entre la rue Frédéric Fays et l'avenue de Bel-Air, la piste au Nord sera réaménagée et végétalisée de manière à éviter la présence de piétons, mais la présence du Médipôle et de l'arrêt de tram à proximité risque de continuer à en faire une voie verte de fait
+ - sur les 300m à l'Ouest de la rue Frédéric Fays, la rue de la ligne de l'Est sera élargie et réaménagée via la plantation d'arbres et l'élargissement du trottoir Sud
+ - *entre la rue Frédéric Fays et l'avenue de Bel-Air, la différence d'enrobé entre piétons et cyclistes sera effacée pour créer une voie verte, conservant une zone de conflit de 200m de long très délicate avec un arrêt de la ligne C17 et de nombreux piétons en correspondance vers le Médipôle et l'arrêt de tram à proximité. Nous déplorons l'absence d'un projet plus ambitieux avec une réduction de voirie au minimum pour séparer une piste de 2m40 et un trottoir de 1m80, ainsi qu'un déplacement des poteaux LAC dans l'axe séparation piéton/vélo et de l'arrêt du C17 sur l'avenue de Bel-Air.*
  - *au droit de l'arrêt de tram "Bel Air - Les Brosses", la minuscule voie verte de moins de 2m de large donnant de forts conflits avec les piétons sera conservée faute d'élargissement possible sur le site industriel SAFRAN.*
+ - sur les 125m à l'Ouest de la rue Legay, la voie verte sera élargie au Sud pour créer une vraie piste cyclable séparée et un trottoir piéton de 2m de large
 
 ::banner{type="unsecured"}
 Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroit de 125m de long partagé avec les véhicules motorisés dans le sens Ouest>Est sera conservé faute d'élargissement possible. La Ville à Vélo réclame que le sens de circulation soit inversé pour en faire une vélorue compatible avec un faible trafic automobile.
@@ -71,17 +73,19 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
 
 ***Vaulx-La Soie***
  - le long du terminus du :transport-link{type=métro line=A}, le cheminement cyclable sera complexifié en lien avec le nouveau terminus du :transport-link{type=tram line=9} dans le secteur
+ - sur l'avenue des Canuts, la piste cyclable sera séparée de l'espace piéton avec une bordure de 10cm.
  - la partie Nord de la rue Marius Grosso sera réservée aux seuls cyclistes avec élargissement de la piste cyclable bidirectionnelle et déplacement de l'arrêt de bus à l'Ouest du carrefour Salengro
  - la traversée du Boulevard Urbain Est sera fortement améliorée en lien avec le projet de :transport-link{type=tram line=9} qui permettra un passage direct sans chicane et une traversée de voirie raccourcie
+ - *entre le BUE et l'avenue Roosevelt, la voie verte étroite de 2m50 à 3m de large sera maintenue en l'état, créant une zone de conflit avec les piétons qui s'annonce de plus en plus problématique avec l'arrivée du grand projet immobilier voisin et le désir de correspondance avec le futur T9*
 
 ***Décines-Charpieu***
  - le long du [projet immobilier D-Side](https://d-side-decines.com/), entre l'avenue Roosevelt et la rue Wilson, en plus de la création d'un nouvel arrêt de tramway, la section sera élargie pour séparer piétons et cyclistes
  - *à l'Ouest de la rue Wilson, sur une longueur de 100m, la voie verte étroite de 1m60 à 2m50 de large sera conservée. Ce point dur qui donne déjà lieu à des conflits avec les piétons sera encore dégradé avec l'arrivée du gros projet immobilier voisin.*
- - entre la rue Wilson et la rue Paul Bert, la section sera ponctuellement élargie permettant de séparer les cyclistes et les piétons
+ - entre la rue Cuvier et la rue Paul Bert, la section sera ponctuellement élargie permettant de séparer les cyclistes et les piétons
  - le carrefour Jean Jaurès pourra être traversé en une seule fois, au lieu de 2 aujourd'hui
  - entre l'avenue Jean Jaurès et la rue de la Fraternité, la rue Emile Bertrand sera mise en sens unique pour mettre fin au fort rétrécissement et aux conflits marqués avec les piétons au niveau de l'arrêt Décines-Centre
  - entre l'arrêt de tram Grand Large et la route de Jonage, la voie sera élargie pour séparer piétons et cyclistes dans un secteur à fort potentiel de conflit avec la proximité du Groupama Stadium et de la LDLC Arena
- - la dangereuse traversée sans visibilité de la route de Jonage sera améliorée avec la traversée du tramway puis de la route à l'Ouest du carrefour
+ - *la dangereuse traversée sans visibilité de la route de Jonage ne sera malheureusement pas améliorée avec la traversée du tramway et de la route en même temps avec un feu vert très court.*
 
 ***Meyzieu***
  - *la traversée de la Rocade Est continuera de se faire sur une voie verte étroite de 2m de large sur 100m de long*
