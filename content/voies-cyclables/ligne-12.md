@@ -27,6 +27,7 @@ Cet aménagement très attendu permettra d'enfin sécuriser les déplacements de
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue du Sergent Berthet (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7712756,4.8054564,3a,75y,151.48h,90t
 ---
 ::
 
@@ -38,6 +39,7 @@ Cette rue a fait l'objet d'un vaste projet de requalification qui s'est achevé 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/pierre-audry.jpg
 caption: Photo de la Voie Lyonnaise 12 - rue Pierre Audry (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7653309,4.8060854,3a,75y,143.07h,90t
 ---
 ::
 
@@ -64,6 +66,7 @@ Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue de Trion (Lyon 5)
 credit: Métropole de Lyon
+streetView: 45.7567455,4.8164702,3a,75y,326.99h,90t
 ---
 ::
 
@@ -86,6 +89,7 @@ En plus de la création de cet aménagement cyclable sécurisé, le projet prév
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png
 caption: Aperçu de la Voie Lyonnaise 12 - Place Bellecour (Lyon 2)
 credit: Métropole de Lyon
+streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ---
 ::
 
@@ -110,6 +114,7 @@ Contrairement à ce qui était annoncé lors de la concertation, la Métropole a
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png
 caption: Aperçu de la Voie Lyonnaise 12 - place Gabriel Péri (Lyon 7)
 credit: Métropole de Lyon
+streetView: 45.7552461,4.8429654,3a,75y,119.8h,90t
 ---
 ::
 
@@ -118,6 +123,7 @@ credit: Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 caption: Aperçu de la Voie Lyonnaise 12 - Cours Gambetta (Lyon 7)
 credit: Métropole de Lyon
+streetView: 45.752313,4.8515856,3a,75y,295h,90t
 ---
 ::
 
@@ -149,6 +155,7 @@ Entre le boulevard Ambroise Paré et le boulevard Pinel, l'avenue Rockefeller es
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Rockefeller (Lyon 3/Lyon 8)
 credit: Métropole de Lyon
+streetView: 45.7399229,4.8893137,3a,75y,98.22h,90t
 ---
 ::
 
@@ -164,6 +171,7 @@ Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Franklin Roosevelt (Bron)
 credit: Métropole de Lyon
+streetView: 45.7372552,4.8974954,3a,75y,120.06h,90t
 ---
 ::
 
