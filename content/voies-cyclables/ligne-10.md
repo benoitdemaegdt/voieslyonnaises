@@ -89,11 +89,13 @@ Sur la rue de la Ligne de l'Est, à l'Est de la rue Cyprian, le point dur étroi
 
 ***Meyzieu***
  - *la traversée de la Rocade Est continuera de se faire sur une voie verte étroite de 2m de large sur 100m de long*
- - entre l'avenue du Carreau et la gare de Meyzieu, la voie sera élargie pour séparer piétons et cyclistes
+ - *entre l'avenue du Carreau et la gare de Meyzieu, la voie devait être élargie pour séparer piétons et cyclistes, mais face à l'opposition des propriétaires des parcelles concernées, la voie verte inconfortable actuelle sera maintenue au moins jusqu'au boulevard du 18 Juin 1940*
  - entre l'avenue de la Libération et la rue Desbois, il ne sera plus nécessaire de traverser 2 fois les voies du tram grâce à la création d'un cheminement modes actifs qui dessert le nouveau groupe scolaire Marie Curie
- - entre la rue Desbois et la rue Molière, la rue Arago sera réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionnelle
+ - *entre la rue Desbois et la rue Boileau, la rue Arago devait être réaménagée avec la suppression du stationnement et sa mise en sens unique, de manière à créer un trottoir côté Sud bien séparé de la piste cyclable bidirectionnelle, mais la mairie de Meyzieu s'y est opposée, préférant mélanger piétons et cyclistes sur un trottoir étroit de 2m80 inconfortable pour toutes et tous*
+ - entre la rue Boileau et la rue Molière, les piétons et vélos seront séparés sur 120m grâce à l'élargissement de la voie verte d'origine
  - *entre la rue Molière et la rue Jean Jaurès, la rue Arago restera une voie verte étroite de 2m80 de large qui continuera à provoquer de nombreux conflits avec les piétons, renforcés récemment par l'arrivée du nouveau lycée*
  - le long du nouveau lycée Beltrame, les piétons et les cyclistes seront séparés et le franchissement du carrefour Jean Jaurès sera amélioré
+ - *entre le lycée Beltrame et Meyzieu ZI, la voie verte sur trottoir de 2m80 sera conservée en l'état*
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 19/04 au 19/05/2023.\
