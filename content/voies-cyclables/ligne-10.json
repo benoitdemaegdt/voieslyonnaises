@@ -748,7 +748,7 @@
       "properties": {
         "line": 10,
         "name": "Carrefour T6/T3",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
