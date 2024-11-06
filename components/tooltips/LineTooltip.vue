@@ -53,6 +53,15 @@
           {{ typologyNames[feature.properties.type] ?? 'Inconnu' }}
         </div>
       </div>
+      <div v-if="displayQuality() && feature.properties.quality" class="py-1 flex items-center justify-between">
+        <div class="text-base font-bold">
+          Qualité
+        </div>
+        <div class="text-xs" :class=" getQuality(feature.properties.quality).class">
+          <Icon :name="getQuality(feature.properties.quality).icon" class="h-4 w-4 align-middle" :class="getQuality(feature.properties.quality).classIcon" />
+          {{ getQuality(feature.properties.quality).label }}
+        </div>
+      </div>
     </div>
     <div class="bg-lvv-blue-600 flex justify-center">
       <a class="p-1 text-white text-base italic hover:underline" :href="getSectionDetailsUrl(feature.properties)" target="_blank">
@@ -63,11 +72,11 @@
 </template>
 
 <script setup lang="ts">
-import type { LineStringFeature } from '~/types';
+import type { LaneQuality, LineStringFeature } from '~/types';
 
 const { getLineColor } = useColors();
-const { getRevName } = useConfig();
-const { getDistance, typologyNames } = useStats();
+const { getRevName, displayQuality } = useConfig();
+const { getDistance, typologyNames, qualityNames } = useStats();
 const { getVoieCyclablePath } = useUrl();
 
 const { feature, lines } = defineProps<{
@@ -136,4 +145,23 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
   };
   return statusMapping[properties.status];
 }
+
+function getQuality(quality: LaneQuality): { label: string, class: string, icon: string, classIcon: string } {
+  const statusMapping = {
+    unsatisfactory: {
+      label: qualityNames.unsatisfactory,
+      class: 'rounded-xl px-1 border border-red-600',
+      classIcon: 'text-red-600',
+      icon: 'mdi:close'
+    },
+    satisfactory: {
+      label: qualityNames.satisfactory,
+      class: 'rounded-xl px-1 border border-green-600',
+      classIcon: 'text-green-600',
+      icon: 'mdi:check'
+    }
+  };
+  return statusMapping[quality];
+}
+
 </script>
