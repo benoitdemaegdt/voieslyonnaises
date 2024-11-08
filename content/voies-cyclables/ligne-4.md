@@ -19,7 +19,7 @@ Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl4/VL4_RN6_Bascule.jpg
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/VL4_RN6_Bascule.png
 caption: Aperçu de la Voie Lyonnaise 4 - Relais de la Bascule (Dardilly)
 credit: Passagers des Villes / Métropole de Lyon
 streetView: 45.8269269,4.7562217,3a,90y,332.82h,76.54t
