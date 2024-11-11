@@ -641,8 +641,8 @@
       "type": "Feature",
       "properties": {
         "line": 1,
-        "name": "Stade de Gerland - St-Fons",
-        "status": "planned",
+        "name": "Tony Garnier Est",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre"
       },
@@ -658,6 +658,22 @@
           [4.844265349353577, 45.725786939402724],
           [4.844674089245871, 45.725711237299976],
           [4.844974387943211, 45.72554818626932],
+          [4.845116195661092, 45.72531525539989]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "name": "St-Jean-de-Dieu - Sampaix - Sembat",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.845116195661092, 45.72531525539989],
           [4.844982729573246, 45.72455822336647],
           [4.844941021421533, 45.72413893967192],
@@ -681,6 +697,22 @@
           [4.8471872966403, 45.71050474917155],
           [4.847780236342885, 45.71023303453731],
           [4.849698025691254, 45.70985780739542],
+          [4.851226691184081, 45.70960550210171]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "name": "St-Fons Ouest",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-1#halle-tony-garnier-à-st-fons-centre"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.851226691184081, 45.70960550210171],
           [4.851717719375614, 45.70950199025552],
           [4.853385362287071, 45.7090167759207],

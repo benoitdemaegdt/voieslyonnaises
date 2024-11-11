@@ -1023,7 +1023,7 @@
       "properties": {
         "line": 3,
         "name": "Quai Sémard - Péri Yzeron",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-3#quai-pierre-sémard"
       },

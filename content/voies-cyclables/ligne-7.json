@@ -1564,8 +1564,8 @@
       "properties": {
         "line": 7,
         "name": "Feyzin Centre",
-        "status": "unknown",
-        "type": "inconnu",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {
