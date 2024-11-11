@@ -1,6 +1,13 @@
-import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
+import { GeoJSONSource, LngLatBounds, Map, Popup } from 'maplibre-gl';
+import { createApp, defineComponent, h, Suspense } from 'vue';
 import type { CounterParsedContent } from '../types/counters';
 import { isCompteurFeature, isDangerFeature, isPumpFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature, type CompteurFeature } from '~/types';
+
+// Tooltips
+import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
+import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
+import DangerTooltip from '~/components/tooltips/DangerTooltip.vue';
+import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
 
@@ -481,6 +488,9 @@ export const useMap = () => {
         'icon-color': ['get', 'color']
       }
     });
+
+    // on n'affiche les perspectives qu'à partir d'un certain zoom.
+    // ceci pour éviter de surcharger la map.
     map.setLayoutProperty('perspectives', 'visibility', 'none');
     map.on('zoom', () => {
       const zoomLevel = map.getZoom();
@@ -489,6 +499,14 @@ export const useMap = () => {
       } else {
         map.setLayoutProperty('perspectives', 'visibility', 'none');
       }
+    });
+
+    // la souris devient un pointer au survol
+    map.on('mouseenter', 'perspectives', () => {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'perspectives', () => {
+      map.getCanvas().style.cursor = '';
     });
   }
 
@@ -652,10 +670,122 @@ export const useMap = () => {
     plotDangers({ map, features });
   }
 
+  function handleMapClick({ map, features, clickEvent }: { map: Map; features: Feature[]; clickEvent: any }) {
+    const layers = [
+      {
+        id: 'linestring', // not really a layer id. gather all linestrings.
+        isClicked: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, {
+            filter: [
+              'all',
+              ['==', ['geometry-type'], 'LineString'],
+              ['!=', ['get', 'source'], 'openmaptiles'], // Exclude base map features
+              ['has', 'status'] // All sections in geojson LineStrings have a status
+            ]
+          });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, {
+            filter: [
+              'all',
+              ['==', ['geometry-type'], 'LineString'],
+              ['!=', ['get', 'source'], 'openmaptiles'], // Exclude base map features
+              ['has', 'status'] // All sections in geojson LineStrings have a status
+            ]
+          })[0];
+
+          const line = mapFeature.properties.line;
+          const name = mapFeature.properties.name;
+
+          const lineStringFeatures = features.filter(isLineStringFeature);
+
+          const feature = lineStringFeatures
+            .find(f => f.properties.line === line && f.properties.name === name);
+
+          const lines = feature!.properties.id
+            ? [...new Set(lineStringFeatures.filter(f => f.properties.id === feature!.properties.id).map(f => f.properties.line))]
+            : [feature!.properties.line];
+
+          return { feature, lines };
+        },
+        component: LineTooltip
+      },
+      {
+        id: 'perspectives',
+        isClicked: () => {
+          if (!map.getLayer('perspectives')) { return false; }
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['perspectives'] });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['perspectives'] })[0];
+          const feature = features.find(f => {
+            return f.properties.type === 'perspective' &&
+            f.properties.line === mapFeature.properties.line &&
+            f.properties.imgUrl === mapFeature.properties.imgUrl;
+          });
+
+          return { feature };
+        },
+        component: PerspectiveTooltip
+      },
+      {
+        id: 'compteurs',
+        isClicked: () => {
+          if (!map.getLayer('compteurs')) { return false; }
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['compteurs'] });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['compteurs'] })[0];
+          const feature = features.find(f => f.properties.name === mapFeature.properties.name);
+          return { feature };
+        },
+        component: CounterTooltip
+      },
+      {
+        id: 'dangers',
+        isClicked: () => {
+          if (!map.getLayer('dangers')) { return false; }
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] })[0];
+          const feature = features.find(f => f.properties.name === mapFeature.properties.name);
+          return { feature };
+        },
+        component: DangerTooltip
+      }
+    ];
+
+    const clickedLayer = layers.find(layer => layer.isClicked());
+    if (!clickedLayer) { return; }
+
+    new Popup({ closeButton: false, closeOnClick: true })
+      .setLngLat(clickEvent.lngLat)
+      .setHTML(`<div id="${clickedLayer.id}-tooltip-content"></div>`)
+      .addTo(map);
+
+    const props = clickedLayer.getTooltipProps();
+    // @ts-ignore:next
+    const component = defineComponent(clickedLayer.component);
+    nextTick(() => {
+      createApp({
+        render: () => h(Suspense, null, {
+          default: h(component, props),
+          fallback: 'Chargement...'
+        })
+      }).mount(`#${clickedLayer.id}-tooltip-content`);
+    });
+  }
+
   return {
     loadImages,
     plotFeatures,
     getCompteursFeatures,
-    fitBounds
+    fitBounds,
+    handleMapClick
   };
 };
