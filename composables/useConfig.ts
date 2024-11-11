@@ -13,5 +13,9 @@ export const useConfig = () => {
     return config.assoLink;
   }
 
-  return { getRevName, getAssoName, getAssoLink };
+  function getNbVoiesCyclables(): number {
+    return config.nbVoiesCyclables;
+  }
+
+  return { getRevName, getAssoName, getAssoLink, getNbVoiesCyclables };
 };

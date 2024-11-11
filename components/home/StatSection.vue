@@ -21,7 +21,7 @@
                   Lignes
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  12
+                  {{ getNbVoiesCyclables() }}
                 </dd>
               </div>
               <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
@@ -49,5 +49,5 @@
 </template>
 
 <script setup lang="ts">
-const { getRevName } = useConfig();
+const { getRevName, getNbVoiesCyclables } = useConfig();
 </script>
