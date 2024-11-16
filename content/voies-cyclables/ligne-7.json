@@ -1209,7 +1209,7 @@
         "id": "GaribaldiPhase3-commun",
         "line": 7,
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },

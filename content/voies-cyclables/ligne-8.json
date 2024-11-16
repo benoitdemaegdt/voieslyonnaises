@@ -406,7 +406,7 @@
       "properties": {
         "line": 8,
         "name": "Charbonnières-les-Bains Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#traversée-de-charbonnières-les-bains"
       },
@@ -1383,7 +1383,8 @@
       "properties": {
         "line": 8,
         "name": "Shunt Lionel Terray",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#rue-lionel-terray"
       },
@@ -1400,7 +1401,8 @@
       "properties": {
         "line": 8,
         "name": "Branche Campus Parilly",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#branche-vers-campus-sud"
       },
@@ -1420,7 +1422,8 @@
       "properties": {
         "line": 8,
         "name": "Bron - Boulevard de l'Université",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#boulevard-de-luniversité"
       },
@@ -1448,7 +1451,8 @@
       "properties": {
         "line": 8,
         "name": "Bron - Rue Paul Langevin",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-8#rue-paul-langevin"
       },
@@ -1473,7 +1477,8 @@
       "properties": {
         "line": 8,
         "name": "Bron - Porte des Alpes",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },

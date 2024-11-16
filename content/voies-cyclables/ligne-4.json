@@ -178,7 +178,7 @@
       "properties": {
         "line": 4,
         "name": "Porte de Lyon",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-4#porte-de-lyon"
       },
@@ -211,9 +211,9 @@
       "properties": {
         "line": 4,
         "name": "Limonest - RN6 Techlid",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-chemin-de-st-didier"
+        "status": "postponed",
+        "type": "voie-bus",
+        "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-avenue-de-montlouis"
       },
       "geometry": {
         "type": "LineString",
@@ -235,7 +235,7 @@
         "name": "Champagne - Avenue De Gaulle",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-chemin-de-st-didier"
+        "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-avenue-de-montlouis"
       },
       "geometry": {
         "type": "LineString",
@@ -257,7 +257,7 @@
         "name": "Champagne - Montlouis",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
+        "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",
@@ -279,7 +279,7 @@
         "name": "Champagne - République Mairie",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
+        "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",
@@ -309,7 +309,7 @@
         "name": "Variante Lanessan",
         "status": "postponed",
         "type": "aucun",
-        "link": "/voie-lyonnaise-4#chemin-de-st-didier-à-rue-juttet"
+        "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
         "type": "LineString",

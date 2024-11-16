@@ -67,7 +67,7 @@ La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'av
 Sur la suite du boulevard du Valvert, le projet prévoit de conforter la piste cyclable bidirectionnelle actuelle côté Sud, en l'élargissant jusqu'à 4.00m de large, et en la séparant mieux de la voirie automobile avec un séparateur béton de grande taille.
 
 ::banner{type="wip"}
-Les travaux sur cette section, initialement prévus au second semestre 2024 ont été reporté au second semestre 2025 à la demande du maire de Tassin. La sécurisation des cyclistes attendra.
+Les travaux sur cette section, initialement prévus au second semestre 2024 ont été reporté au entre le second semestre 2025 et l'été 2026 à la demande du maire de Tassin. La sécurisation des cyclistes attendra.
 ::
 
 #### Tassin - Valvert à Victor Hugo
@@ -296,7 +296,7 @@ Entre la rue Lwoff et le boulevard de la Porte des Alpes, le projet initial éta
 ::
 
 ::banner{type="wip"}
-Les travaux entre le giratoire à l'extrémité Est de la rue Lionel Terray et la Porte des Alpes ont commencé en mai 2024 et continueront jusqu'en fin d'année 2024.
+Les travaux entre le giratoire à l'extrémité Est de la rue Lionel Terray et la Porte des Alpes ont commencé en mai 2024 et se sont terminés en novembre 2024.
 ::
 
 #### *Concertation*

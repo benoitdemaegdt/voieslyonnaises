@@ -30,7 +30,9 @@ streetView: 45.8269269,4.7562217,3a,90y,332.82h,76.54t
 Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024 sur [cette page](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=dematEnt.choixDCE&IDM=1448259&XFAOK=dce.verifLotsDCE), nous constatons qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
 ::
 
-entre l'automne 2023 et fin mars 2024.
+::banner{type="wip"}
+Les travaux sur cette section commencent en décembre 2024 et continueront par section jusqu'à fin 2025.
+::
 
 #### Porte de Lyon
 *via Parc Relais TCL et pont sur A6*
@@ -46,19 +48,24 @@ streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section commencent en novembre 2024 et continueront par section jusqu'en juin 2025.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
-::banner{type="wip"}
-Les travaux sur ce tronçon vont débuter en octobre 2024 et se prolongeront jusqu'en fin d'année 2025.
-::
-
 ### La Garde - Porte de Lyon à Mouillard - Porte de Vaise
 *via Techlid et Champagne-au-Mont-d'Or*
 
-#### Avenue Porte de Lyon à Chemin de St-Didier
-Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.821406,+4.766743), la Voie Lyonnaise 4 continue de suivre la D306 en direction du Sud. Elle prendra la forme d'une piste cyclable bidirectionnelle de 3m de large située côté Est, à la place d'un des deux couloirs bus. L'emplacement des couloirs bus sera optimisé de manière à ne pas impacter la performance des lignes de transport en commun du secteur. L'ensemble des carrefours seront sécurisés, et en particulier le lien vers la zone d'emploi de Techlid côté Ouest. Le giratoire du Puy d'Or vers Limonest et le rond point des Monts d'Or au Sud seront réaménagés dans une configuration hollandaise pour sécuriser leurs traversées.
+#### Avenue Porte de Lyon à Avenue de Montlouis
+Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.821406,+4.766743), la Voie Lyonnaise 4 devait suivre la D306 en direction du Sud. Elle aurait pris la forme d'une piste cyclable bidirectionnelle de 3m de large située côté Est, à la place d'un des deux couloirs bus. L'emplacement des couloirs bus aurait été optimisé de manière à ne pas impacter la performance des lignes de transport en commun du secteur. L'ensemble des carrefours auraient été sécurisés, et en particulier le lien vers la zone d'emploi de Techlid côté Ouest. Le giratoire du Puy d'Or vers Limonest et le rond point des Monts d'Or au Sud auraient été réaménagés dans une configuration hollandaise pour sécuriser leurs traversées.
+
+::banner{type="postponed"}
+Suite à la vive opposition caricaturale et infondée de la mairie de Limonest, la Voie Lyonnaise 4 ne sera pas aménagée sur le territoire de la commune entre le giratoire de la Porte de Lyon et la rue Sans Souci. Les deux carrefours aux extremités de ce tronçon abandonné seront tout de même aménagés et sécurisés au mieux pour assurer la transition entre les couloirs de bus bilatéraux et la piste cyclable bidirectionnelle côté Nord.\
+C'est une terrible décision pour les habitants de Limonest et les milliers de salariés du Techlid qui souhaiteraient pouvoir se déplacer en vélo en sécurité et qui devront continuer à partager un couloir avec les bus, les taxis et les véhicules de secours sur près de 2km.
+::
 
 ::content-image
 ---
@@ -70,10 +77,10 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient commencer courant 2025 et durer environ un an.
+Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront en décembre 2024 et continueront par sections jusqu'à début 2026.
 ::
 
-#### Chemin de St-Didier à Rue Juttet
+#### Avenue de Montlouis à Rue Juttet
 Cette section faisait l'objet de 2 variantes pendant la concertation :
  - par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
  - par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
@@ -96,21 +103,21 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu au premier semestre 2025 et durer 4 à 5 mois.
+Les travaux devraient commencer en mars 2025 et durer jusqu'en septembre 2025.
 ::
 
 #### Rue Juttet à Avenue de Champagne
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu au premier semestre 2025 et durer environ un mois.
+Les travaux devraient commencer en juillet 2025 et durer jusqu'en début d'année 2026.
 ::
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
-Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre l'automne 2024 et l'été 2025.
+Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre octobre 2024 et juin 2025.
 ::
 
 #### *Concertation*
