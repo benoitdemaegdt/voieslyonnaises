@@ -130,7 +130,7 @@ Après de longues années de revendications associatives, une étroite bande cyc
 *Aucune information publique n'existe à ce jour sur ce tronçon.*
 
 ::banner{type="info"}
-Compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous pensons probable qu'un itinéraire par le Chemin du Pras soit privilégié. Il est d'ailleurs préféré aujourd'hui par les cyclistes du secteur.
+Compte-tenu des fortes contraintes sur la rue Stéphane Déchant avec le flux de circulation et les lignes de bus, nous pensons probable qu'un itinéraire par le Chemin du Pras soit privilégié. Il est d'ailleurs préféré aujourd'hui par les cyclistes du secteur. Dans ce cas, la configuration actuelle de la rue sera globalement conservée et compatible sans aménagement particulier avec un fonctionnement en vélorue.
 ::
 
 ### Pont d'Oullins à Saint-Genis-Laval

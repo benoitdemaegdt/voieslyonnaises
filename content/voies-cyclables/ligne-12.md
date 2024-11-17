@@ -76,7 +76,7 @@ Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue
 En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
 ::banner{type="wip"}
-Les travaux auront lieu en 2025.
+Les travaux sur l'avenue Adolphe Max auront lieu fin 2025-début 2026.
 ::
 
 ### Traversée de la Presqu'Île de Lyon
@@ -94,7 +94,7 @@ streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux auront lieu en 2025.
+Les travaux devraient globalement avoir lieu au premier semestre 2026.
 ::
 
 ### Pont de la Guillotière à Grange Blanche
@@ -106,7 +106,7 @@ L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
 ::banner{type="modified"}
-Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance. Les travaux auront lieu en 2025.
+Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance.
 ::
 
 ::content-image
@@ -128,7 +128,7 @@ streetView: 45.752313,4.8515856,3a,75y,295h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient commencer début 2025 et durer une bonne partie de l'année.
+Les travaux devraient commencer début 2025 et durer jusqu'au début de l'année 2026.
 ::
 
 ### Place d'Arsonval
@@ -139,7 +139,7 @@ Après des échanges avec les services de secours et l'hôpital Edouard Herriot,
 ::
 
 ::banner{type="wip"}
-Les travaux auront lieu en 2025.
+Les travaux auront lieu au premier semestre 2025.
 ::
 
 ### Grange Blanche à Boulevard Pinel
@@ -160,7 +160,12 @@ streetView: 45.7399229,4.8893137,3a,75y,98.22h,90t
 ::
 
 ::banner{type="info"}
-Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation aura lieu entre octobre 2024 et avril 2025. Ailleurs, les travaux débuteront début 2025.
+Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation a lieu entre fin octobre 2024 et avril 2025.
+::
+
+::banner{type="wip"}
+Entre Grange Blanche et la rue Viala, les travaux auront lieu entre début 2025 et l'été 2025.\
+Si l'expérimentation de la mise à sens unique est concluante, les travaux définitifs entre la rue Viala et le boulevard Pinel auront lieu entre l'été et l'automne 2025.
 ::
 
 ### Boulevard Pinel à Bron - Boutasse
