@@ -119,6 +119,10 @@ caption: Photo de la Voie Lyonnaise 6 - Quai Perrache (Lyon 2)
 ---
 ::
 
+::banner{type="wip"}
+La section rue Casimir Périer - rue Montrochet sera aménagée pendant le second semestre 2025.
+::
+
 #### Pont autoroutier de la Mulatière
 Ce pont autoroutier constitue l'unique point de passage entre les communes du Sud-Ouest lyonnais et la ville de Lyon. Il concentre tous les flux dans un environnement très inconfortable pour les modes actifs.
 
