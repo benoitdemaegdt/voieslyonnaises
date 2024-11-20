@@ -667,7 +667,8 @@
       "properties": {
         "line": 2,
         "name": "Tchécoslovaques Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt":" 28/10/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
@@ -730,7 +731,7 @@
       "properties": {
         "line": 2,
         "name": "Boulevard des États-Unis Cazeneuve-Sarrazin",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },
@@ -747,7 +748,8 @@
       "properties": {
         "line": 2,
         "name": "Boulevard des États-Unis Sarrazin-Beauvisage",
-        "status": "wip",
+        "status": "done",
+        "doneAt" :"08/11/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-des-états-unis"
       },

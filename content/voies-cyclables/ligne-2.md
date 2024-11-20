@@ -169,8 +169,8 @@ streetView: 45.732077,4.8653939,3a,75y,329.84h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux entre la rue Sarrazin et l'avenue Viviani ont commencé fin mars 2024 et continueront jusqu'en novembre 2024.\
-Les travaux entre la rue Cazeneuve et la rue Sarrazin commenceront en novembre 2024 jusqu'au printemps 2025.\
+Les travaux entre la rue Sarrazin et l'avenue Viviani ont eu lieu entre mars et novembre 2024.\
+Les travaux entre la rue Cazeneuve et la rue Sarrazin ont commencé en novembre 2024 et dureront jusqu'au printemps 2025.\
 Les travaux entre l'avenue Berthelot et la rue Cazeneuve auront lieu entre janvier et juin 2025.
 ::
 
