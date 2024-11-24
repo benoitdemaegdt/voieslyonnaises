@@ -202,14 +202,14 @@ streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ::
 
 #### Cours André Philip et rue Francis de Pressensé
-Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large avant d'arriver sur le rond-point des Charpennes. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle d'environ 4m de large sur la rue Francis de Pressensé.
+Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large après la traversée des rails de tramway. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle de 3 à 4m de large sur la rue Francis de Pressensé, hormis un pincement entre 2m50 et 3m entre les rues Branly et Bernoux.
 
-Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.
+Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un demi-anneau cyclable côté Nord, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.
 
-Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. <!--Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.-->
+Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.
 
 ::banner{type="wip"}
-Les travaux commenceront en novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
+Les travaux ont commencé fin novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
 ::
 
 ::banner{type="info"}
