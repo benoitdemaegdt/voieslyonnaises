@@ -48,7 +48,7 @@ Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyc
 
 ::banner{type="wip"}
 Les travaux du giratoire de Gaulle ont eu lieu entre l'automne 2023 et fin mars 2024.
-Le reste de cette section sera en travaux progressif par sections entre octobre 2024 et octobre 2025.
+Le reste de cette section est en travaux progressif par sections entre décembre 2024 et octobre 2025.
 ::
 
 #### Voie de la Dombe
