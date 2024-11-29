@@ -95,7 +95,7 @@ Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tron
 ::
 
 ::banner{type="info"}
-La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu pour l'automne 2024.
+La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu pour janvier 2025.
 ::
 
 #### Tunnel Vivier-Merle
@@ -103,7 +103,7 @@ La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.
 
 ::banner{type="wip"}
-Les travaux auront lieu de fin septembre à décembre 2024.
+Les travaux auront lieu de fin septembre à novembre 2024, mais la piste cyclable ne sera pas ouverte avant fin janvier 2025 le temps de mettre en conformité les équipements de sécurité du tunnel.
 ::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
@@ -123,7 +123,7 @@ streetView: 45.7533388,4.8593519,3a,75y,175.99h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la section Paul Bert à Félix Faure auront lieu entre décembre 2024 et avril 2025.\
+Les travaux sur la section Paul Bert à Félix Faure auront lieu entre décembre 2024 et mars 2025.\
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.\
 Les travaux sur le boulevard des Tchécoslovaques ont eu lieu entre janvier et août 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restent à aménager à l'automne 2024.
 ::
