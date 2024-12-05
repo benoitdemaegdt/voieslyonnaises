@@ -61,6 +61,15 @@ export default defineNuxtConfig({
     }
   },
 
+  icon: {
+    customCollections: [
+      {
+        prefix: 'cyclopolis',
+        dir: './assets/icons'
+      }
+    ]
+  },
+
   tailwindcss: { viewer: false },
 
   nitro: {
