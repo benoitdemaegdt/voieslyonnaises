@@ -93,8 +93,8 @@ streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ---
 ::
 
-::banner{type="wip"}
-Les travaux devraient globalement avoir lieu au premier semestre 2026.
+::banner{type="postponed"}
+La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement le long de la place Bellecour et sur la rue de la Barre serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, cet axe cyclable majeur de Lyon continuera à être parcouru sur une piste cyclable étroite dans une sens et une voie de bus avec des conflits réguliers avec les taxis, motos, bus et véhicules de secours.
 ::
 
 ### Pont de la Guillotière à Grange Blanche
@@ -107,6 +107,10 @@ Les différents carrefours majeurs de la section (place Gabriel Péri, Manufactu
 
 ::banner{type="modified"}
 Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance.
+::
+
+::banner{type="postponed"}
+La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de l'ensemble de cette section serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, cet axe cyclable majeur de Lyon continuera à être parcouru sur des voies de bus étroites avec des conflits réguliers avec les taxis, motos, bus et véhicules de secours.
 ::
 
 ::content-image
@@ -127,9 +131,6 @@ streetView: 45.752313,4.8515856,3a,75y,295h,90t
 ---
 ::
 
-::banner{type="wip"}
-Les travaux devraient commencer début 2025 et durer jusqu'au début de l'année 2026.
-::
 
 ### Place d'Arsonval
 Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller).

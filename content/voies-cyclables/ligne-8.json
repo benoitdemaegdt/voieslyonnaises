@@ -948,7 +948,7 @@
       "properties": {
         "id": "Bonaparte-commun",
         "line": 8,
-        "name": "Pont Bonaparte",
+        "name": "Pont Bonaparte - Chambonnet",
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
@@ -957,7 +957,8 @@
         "type": "LineString",
         "coordinates": [
           [4.8280060273045535, 45.75972816081131],
-          [4.829598412924241, 45.75923993359143]
+          [4.829598412924241, 45.75923993359143],
+          [4.830851765912087, 45.75884749645334]
         ]
       }
     },
@@ -967,15 +968,14 @@
         "id": "Presquile-commun",
         "line": 8,
         "name": "Traversée Presqu'île (par Bellecour)",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.829598412924241, 45.75923993359143],
-          [4.832233994550734, 45.758491756143144],
+          [4.830851765912087, 45.75884749645334],
           [4.834175882882562, 45.75795745946414],
           [4.836761844916594,45.75730585999979]
         ]

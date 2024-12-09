@@ -61,6 +61,10 @@ Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandais
 De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 ::
 
+::banner{type="modified"}
+La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de la majeure partie du Boulevard du 11 Novembre serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
+::
+
 La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
