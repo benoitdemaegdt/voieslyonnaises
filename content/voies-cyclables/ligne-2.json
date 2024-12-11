@@ -588,7 +588,7 @@
         "id": "VivierMerle-commun",
         "line": 2,
         "name": "Vivier Merle Nord",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"
       },
@@ -856,7 +856,7 @@
       "properties": {
         "line": 2,
         "name": "Métro Parilly",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },
@@ -874,7 +874,7 @@
       "properties": {
         "line": 2,
         "name": "Ancienne Route d'Heyrieux Ouest",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-2#quartier-de-parilly" 
       },

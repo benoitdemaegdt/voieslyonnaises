@@ -529,7 +529,7 @@
         "name": "Boulevard du 11 Nov. 1918 - Est",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -550,7 +550,7 @@
         "status": "done",
         "doneAt":"08/07/2008",
         "type": "voie-verte",
-        "link": "voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",

@@ -123,7 +123,7 @@ streetView: 45.7533388,4.8593519,3a,75y,175.99h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la section Paul Bert à Félix Faure auront lieu entre décembre 2024 et mars 2025.\
+Les travaux sur la section Paul Bert à Félix Faure ont lieu entre décembre 2024 et mars 2025.\
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.\
 Les travaux sur le boulevard des Tchécoslovaques ont eu lieu entre janvier et août 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restent à aménager à l'automne 2024.
 ::
@@ -197,7 +197,7 @@ Les travaux auront lieu entre mars 2025 et mars 2026.
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès :transport-link{type=métro line=D}) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
 ::banner{type="wip"}
-Les travaux sont prévus de novembre 2024 au printemps 2025.
+Les travaux sont prévus de novembre 2024 au printemps 2025, de l'Ouest vers l'Est.
 ::
 
 #### Route de Lyon (parc Parilly à rue des Alouettes)
