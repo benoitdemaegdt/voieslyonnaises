@@ -286,26 +286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "11Nov-commun",
-        "line": 1,
-        "name": "Boulevard du 11 Nov. 1918",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1#stalingrad-nord"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.872357861980078, 45.77917511969466],
-          [4.872564428917258, 45.779137534396924],
-          [4.8745715618133545, 45.77942145756348],
-          [4.874989986419678, 45.77951873039668]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "StalingradNord-commun",
         "line": 1,
         "name": "Stalingrad Nord",
