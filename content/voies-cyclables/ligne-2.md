@@ -217,7 +217,7 @@ streetView: 45.7125597,4.8999136,3a,75y,309.97h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sont prévus entre début 2025 et l'été 2025.
+Les travaux ont lieu entre décembre 2024 et l'été 2025.
 ::
 
 #### Route de Lyon (rue des Alouettes à rue Diderot)
