@@ -265,8 +265,7 @@
         "id": "11NovO-commun",
         "line": 1,
         "name": "Boulevard du 11 Nov. 1918 - Ouest",
-        "status": "done",
-        "doneAt":"08/07/2008",
+        "status": "postponed",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-1#stalingrad-nord"
       },
@@ -356,8 +355,7 @@
         "id": "LignonEst-commun",
         "line": 1,
         "name": "Allée Achille Lignon Est",
-        "status": "done",
-        "doneAt": "08/07/2008",
+        "status": "postponed",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-1#allée-achille-lignon"
       },

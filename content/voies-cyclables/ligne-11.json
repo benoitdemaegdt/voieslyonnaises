@@ -634,32 +634,16 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "name": "Reconnaissance Balzac Sud",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.884866533442903, 45.7542735045167],
-          [4.885171989518852, 45.754270309987476],
-          [4.8856584375063505, 45.75426204147527]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 11,
         "name": "Reconnaissance Balzac - Kimmerling",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#reconnaissance-balzac-à-bron-sept-chemins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.884866533442903, 45.7542735045167],
+          [4.885171989518852, 45.754270309987476],
           [4.8856584375063505, 45.75426204147527],
           [4.886923567414328, 45.754266774996495],
           [4.887543335014584, 45.754267461916186],

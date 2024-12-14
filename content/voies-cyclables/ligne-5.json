@@ -1262,8 +1262,7 @@
         "id": "LignonEst-commun",
         "line": 5,
         "name": "Allée Achille Lignon Est",
-        "status": "done",
-        "doneAt": "08/07/2008",
+        "status": "postponed",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
@@ -1522,6 +1521,22 @@
           [4.932732582092285, 45.77196835747328],
           [4.932407302358797, 45.77161663034704],
           [4.9323148873680225, 45.76936852420718],
+          [4.932111769364042, 45.768816341297516]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 5,
+        "name": "BUE - Boulevard des Droits de l'Homme Nord",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.932111769364042, 45.768816341297516],
           [4.932379773217207, 45.767742568397985],
           [4.9334535427824155, 45.76076817203354],

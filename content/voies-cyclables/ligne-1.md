@@ -48,25 +48,13 @@ streetView: 45.7842013,4.8861424,3a,75y,259.87h,90t
 
 
 ### Sud du campus de la Doua
-
-*sur avenue Einstein et Boulevard du 11 Novembre*
-
+#### Boulevard du 11 Novembre
 Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.\
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
-#### *Spécificités de ce tronçon*
-Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
-
 ::banner{type="postponed"}
-De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
-::
-
-::banner{type="modified"}
 La Métropole de Lyon a annoncé le 05/12/2024 que l'aménagement de la majeure partie du Boulevard du 11 Novembre serait reporté sur un prochain mandat du fait des contraintes budgétaires actuelles et de la nécessité de réduire le nombre de chantiers parallèles en 2025. Par conséquent, piétons et vélos continueront malheureusement à se partager un trottoir étroit et très inconfortable source de nombreux conflits.
 ::
-
-La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
 ::content-image
 ---
@@ -77,9 +65,20 @@ streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 ---
 ::
 
-::banner{type="wip"}
-Les travaux devraient commencer début 2025 sur le boulevard du 11 Novembre et se poursuivre jusqu'à début 2026 sur l'avenue Einstein.
+#### Avenue Einstein
+Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
+
+::banner{type="postponed"}
+De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 ::
+
+::banner{type="wip"}
+Les travaux devraient commencer au second semestre 2025 et se poursuivre jusqu'à début 2026.
+::
+
+#### Concertation
+La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
 ### Stalingrad Nord
 Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard-stalingrad-nord"}.
@@ -92,7 +91,7 @@ Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard
 Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.\
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
 
-::banner{type="modified"}
+::banner{type="postponed"}
 Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé côté Ouest, remplacé par un enrobé lisse plus confortable pour tous. Nous déplorons ce choix qui va maintenir un fort conflit dans une zone très fréquentée par les piétons.
 ::
 
