@@ -22,6 +22,7 @@ Ce tronçon est aujourd'hui un chemin de halage en sable stabilisé le long de l
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/chemin-de-halage-rillieux-la-pape.png
 caption: Aperçu de la Voie Lyonnaise 6 - Chemin de Halage (Rillieux)
 credit: Villes & Paysages / Métropole de Lyon
+streetView: 45.8039725,4.8935094,3a,75y,261.8h,90t
 ---
 ::
 
@@ -36,6 +37,7 @@ Cette longue portion de 3km sera conservée en l'état. Il s'agit d'une voie ver
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/parc-saint-clair-caluire.png
 caption: Aperçu de la Voie Lyonnaise 6 - Parc Saint-Clair (Caluire)
 credit: Villes & Paysages / Métropole de Lyon
+streetView: 45.7876834,4.8548565,3a,75y,253.07h,90t
 ---
 ::
 
@@ -50,6 +52,7 @@ Trois variantes sont ici proposées à la concertation :
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-aristide-briand-caluire.png
 caption: Aperçu de la Voie Lyonnaise 6 - Cours Aristide Briand (Caluire) - Variante 3
 credit: Villes & Paysages / Métropole de Lyon
+streetView: 45.7819916,4.843188,3a,75y,186.19h,90t
 ---
 ::
 
@@ -65,6 +68,7 @@ Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unid
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-herbouville-lyon-4.png
 caption: Aperçu de la Voie Lyonnaise 6 - Cours d'Herbouville (Lyon 4) - Variante 2
 credit: Villes & Paysages / Métropole de Lyon
+streetView: 45.7754665,4.8392201,3a,75y,180.12h,90t
 ---
 ::
 
@@ -153,6 +157,7 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-1.png
 caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 1)
 credit: Folia / Métropole de Lyon
+streetView: 45.7168527,4.8096186,3a,75y,351.39h,90t
 ---
 ::
 
@@ -161,6 +166,7 @@ credit: Folia / Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/republique-scenario-1.png
 caption: Aperçu de la Voie Lyonnaise 6 - Rue de la République (Oullins - scénario 1)
 credit: Folia / Métropole de Lyon
+streetView: 45.7159298,4.8080585,3a,75y,222.55h,90t
 ---
 ::
 
@@ -173,6 +179,7 @@ credit: Folia / Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/bertholay-scenario-2.png
 caption: Aperçu de la Voie Lyonnaise 6 - Rue Narcisse Bertholey (Oullins - scénario 2)
 credit: Folia / Métropole de Lyon
+streetView: 45.7164779,4.8074961,3a,75y,240.87h,90t
 ---
 ::
 
@@ -181,6 +188,7 @@ credit: Folia / Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-2.png
 caption: Aperçu de la Voie Lyonnaise 6 - Grande Rue (Oullins - scénario 2)
 credit: Folia / Métropole de Lyon
+streetView: 45.7168527,4.8096186,3a,75y,351.39h,90t
 ---
 ::
 
@@ -200,6 +208,7 @@ Sur cette section, le projet consiste en la transformation des deux bandes cycla
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/av-clemenceau.png
 caption: Aperçu de la Voie Lyonnaise 6 - avenue Clémenceau (St-Genis-Laval)
 credit: Métropole de Lyon
+streetView: 45.7029431,4.7964985,3a,75y,14.43h,90t
 ---
 ::
 
