@@ -35,9 +35,14 @@ const links = [
 
 const socials = [
   {
-    name: 'Twitter',
-    href: 'https://twitter.com/LaVilleaVelo',
-    icon: 'mdi:twitter'
+    name: 'Bluesky',
+    href: 'https://bsky.app/profile/lavilleavelo.bsky.social',
+    icon: 'fa6-brands:bluesky'
+  },
+  {
+    name: 'Mastodon',
+    href: 'https://masto.bike/@lavilleavelo',
+    icon: 'mdi:mastodon'
   },
   {
     name: 'Facebook',
