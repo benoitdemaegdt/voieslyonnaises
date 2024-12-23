@@ -60,6 +60,11 @@ const socials = [
     icon: 'mdi:instagram'
   },
   {
+    name: 'Github',
+    href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
+    icon: 'mdi:github'
+  },
+  {
     name: 'Site web',
     href: 'https://lavilleavelo.org/',
     icon: 'mdi:link'
