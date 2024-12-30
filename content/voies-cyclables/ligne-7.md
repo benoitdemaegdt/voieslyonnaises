@@ -39,10 +39,6 @@ Contrairement à ce qui était annoncé lors de la concertation, la piste cyclab
 ***Giratoire Général de Gaulle***\
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.
 
-::banner{type="wip"}
-Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.
-::
-
 ***Avenue de l'Hippodrome et Chemin Petit***\
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
@@ -184,7 +180,7 @@ credit: Ilex / Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux préalables au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024 et se termineront durant l'automne 2024. Ils enchaineront avec les travaux d'aménagement qui se poursuivront jusqu'en début d'année 2026.
+Les travaux préalables au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024 et se termineront durant l'automne 2024. Ils ont enchainé avec les travaux d'aménagement fin 2024 qui se poursuivront jusqu'en début d'année 2026.
 ::
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
@@ -206,7 +202,7 @@ credit: Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé mi-avril 2024 et continueront jusqu'à la fin d'année 2024.
+Les travaux sur cette section ont eu lieu entre mi-avril 2024 et la fin d'année 2024.
 ::
 
 #### Rue Paul Duvivier
@@ -235,7 +231,7 @@ streetView: 45.7158648,4.8547435,3a,90y,1.54h,88.27t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025, même si un premier tronçon nord a été livré fin août 2024.
+Les travaux sur cette section ont commencé fin mars 2024 et étaient presque terminés fin 2024, avec un premier tronçon nord livré fin août 2024. Il reste à traiter certains carrefours en janvier 2025 avec résine beige dans les traversées et mise en fonctionnement des feux. 
 ::
 
 #### Avenue Jean Jaurès
@@ -268,7 +264,7 @@ Compte-tenu des travaux très impactants du tramway T10 dans ce secteur jusqu'à
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
 ::banner{type="wip"}
-Les travaux préparatoires sur les réseaux ont eu lieu entre début 2024 et l'été 2024 et ont enchainé en septembre 2024 avec les travaux d'aménagement qui dureront jusqu'au printemps 2026.
+Les travaux préparatoires sur les réseaux ont eu lieu entre début 2024 et l'été 2024 et ont enchainé en septembre 2024 avec les travaux d'aménagement qui dureront jusqu'au printemps 2026. Une première tranche Nord jusqu'à l'avenue Maurice Thorez sera livrée début 2025.
 ::
 
 ::content-image

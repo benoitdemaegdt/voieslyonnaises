@@ -1240,7 +1240,8 @@
         "id": "GaribaldiBlandan-commun",
         "line": 7,
         "name": "Garibaldi - Blandan",
-        "status": "wip",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
@@ -1263,7 +1264,8 @@
         "id": "GaribaldiCROUS-commun",
         "line": 7,
         "name": "Garibaldi - CROUS",
-        "status": "wip",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
@@ -1280,7 +1282,8 @@
       "properties": {
         "line": 7,
         "name": "Garibaldi - Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
@@ -1356,7 +1359,8 @@
       "properties": {
         "line": 7,
         "name": "Route de Vienne - Grand Trou Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
@@ -1375,7 +1379,8 @@
       "properties": {
         "line": 7,
         "name": "Route de Vienne - Moulin à Vent",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
@@ -1396,7 +1401,8 @@
       "properties": {
         "line": 7,
         "name": "St-Fons - Avenue Jaurès Nord",
-        "status": "wip",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#avenue-jean-jaurès"
       },
