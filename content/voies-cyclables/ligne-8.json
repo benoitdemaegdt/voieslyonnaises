@@ -1119,7 +1119,8 @@
         "id": "GaribaldiCROUS-commun",
         "line": 8,
         "name": "Garibaldi - CROUS",
-        "status": "planned",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#rue-de-luniversité-et-rue-marc-bloch"
       },

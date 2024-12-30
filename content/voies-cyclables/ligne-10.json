@@ -1568,7 +1568,8 @@
       "properties": {
         "line": 10,
         "name": "Projet Arrêt T3 - Lycée Beltrame",
-        "status": "wip",
+        "status": "done",
+        "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
