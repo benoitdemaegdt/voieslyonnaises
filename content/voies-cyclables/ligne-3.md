@@ -188,6 +188,7 @@ Enfin, les cyclistes emprunteront la voie verte existante de 3m de large sur le 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png
 caption: Aperçu de la Voie Lyonnaise 3 - Boulevard de l’Europe (Pierre-Bénite)
 credit: Métropole de Lyon
+streetView: 45.7021441,4.821693,3a,75y,314.96h,90t
 ---
 ::
 
