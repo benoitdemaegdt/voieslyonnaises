@@ -16,7 +16,7 @@
     "@nuxtjs/tailwindcss": "^6.12.2",
     "@tailwindcss/typography": "^0.5.15",
     "eslint": "^8.57.1",
-    "nuxt": "^3.14.1592",
+    "nuxt": "^3.15.0",
     "prettier": "^3.4.2",
     "sitemap": "^7.1.1",
     "vitest": "^2.1.8"
