@@ -1,0 +1,77 @@
+{
+  "name": "Rue Louis Bouquet",
+  "description": "Le compteur vélo de la rue Louis Bouquet.",
+  "arrondissement": "Lyon 9",
+  "idPdc": 300030756,
+  "coordinates": [
+    4.8192013800144196,
+    45.79309317322208
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2023-09-01",
+      "count": 0
+    },
+    {
+      "month": "2023-10-01",
+      "count": 0
+    },
+    {
+      "month": "2023-11-01",
+      "count": 0
+    },
+    {
+      "month": "2023-12-01",
+      "count": 0
+    },
+    {
+      "month": "2024-01-01",
+      "count": 0
+    },
+    {
+      "month": "2024-02-01",
+      "count": 0
+    },
+    {
+      "month": "2024-03-01",
+      "count": 0
+    },
+    {
+      "month": "2024-04-01",
+      "count": 0
+    },
+    {
+      "month": "2024-05-01",
+      "count": 0
+    },
+    {
+      "month": "2024-06-01",
+      "count": 0
+    },
+    {
+      "month": "2024-07-01",
+      "count": 0
+    },
+    {
+      "month": "2024-08-01",
+      "count": 0
+    },
+    {
+      "month": "2024-09-01",
+      "count": 0
+    },
+    {
+      "month": "2024-10-01",
+      "count": 2534
+    },
+    {
+      "month": "2024-11-01",
+      "count": 3314
+    },
+    {
+      "month": "2024-12-01",
+      "count": 2359
+    }
+  ]
+}

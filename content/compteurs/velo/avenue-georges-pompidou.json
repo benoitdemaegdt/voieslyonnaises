@@ -1,0 +1,35 @@
+{
+  "name": "Avenue Georges Pompidou Pont SNCF",
+  "description": "Le compteur vélo de l'Avenue Georges Pompidou au niveau de la Gare Part-Dieu.",
+  "arrondissement": "Lyon 3",
+  "idPdc": 300039247,
+  "coordinates": [
+    4.860876202583314,
+    45.7588856089619
+  ],
+  "lines": [
+    10
+  ],
+  "counts": [
+    {
+      "month": "2024-08-01",
+      "count": 4569
+    },
+    {
+      "month": "2024-09-01",
+      "count": 44105
+    },
+    {
+      "month": "2024-10-01",
+      "count": 57318
+    },
+    {
+      "month": "2024-11-01",
+      "count": 57651
+    },
+    {
+      "month": "2024-12-01",
+      "count": 51404
+    }
+  ]
+}
