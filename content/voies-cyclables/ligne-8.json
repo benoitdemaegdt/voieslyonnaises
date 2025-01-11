@@ -319,8 +319,8 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "name": "Dardilly - RN7",
-        "status": "wip",
+        "name": "Lien Montcourant - RN7",
+        "status": "planned",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-8#rd307-ancienne-route-nationale-7"
       },
@@ -329,6 +329,22 @@
         "coordinates": [
           [4.736024604216311, 45.80630153332521],
           [4.736897140110443, 45.805414598594865],
+          [4.737107621887105, 45.80519801275952]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "Dardilly - RN7",
+        "status": "wip",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-8#rd307-ancienne-route-nationale-7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.737107621887105, 45.80519801275952],
           [4.737242689363228, 45.805213077644595],
           [4.73760125925196, 45.804845416639694],
@@ -378,7 +394,7 @@
       "properties": {
         "line": 8,
         "name": "Charbonnières-les-Bains Nord",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-8#traversée-de-charbonnières-les-bains"
       },
