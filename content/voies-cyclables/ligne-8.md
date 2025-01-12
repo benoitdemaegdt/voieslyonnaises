@@ -240,6 +240,10 @@ La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011
 #### Rue Lionel Terray
 Ce tronçon fera l'objet d'un vaste projet de requalification avec un budget dédié dans le cadre de la ZAC Bron-Parilly. On sait que l'aménagement consistera en une piste cyclable bidirectionnelle de 3.50m de large côté Sud et qu'une des deux voies de circulation restantes sera dédiée aux bus.
 
+::banner{type="info"}
+Du fait du retard pris dans le projet de la ZAC Bron-Parilly, l'aménagement de ce tronçon sur le mandat est incertain et la Métropole a fléché une variante temporaire qui passe par le parc de Parilly pour éviter la portion sans aucun aménagement cyclable sur l'Est de la rue Lionel Terray.
+::
+
 #### Branche vers Campus Sud
 Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 3.50m de large :
  - côté Ouest, à la place d'une voie de circulation et de la bande cyclable *VARIANTE VALIDEE*
