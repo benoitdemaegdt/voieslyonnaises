@@ -23,7 +23,7 @@ Les cyclistes de la commune qui y circulent continueront donc à le faire sans a
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
 ::banner{type="info"}
-Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie.
+Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie. En outre, un petit tronçon de 150m qui relie le hameau à l'ex RN7 est resté sous la forme d'un vieux chemin en stabilisé, le temps que des régularisations foncières aient lieu.
 ::
 
 ::banner{type="wip"}
