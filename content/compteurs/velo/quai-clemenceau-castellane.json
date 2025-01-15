@@ -1,0 +1,61 @@
+{
+  "name": "Quai Clémenceau Montée Castellane",
+  "description": "Le compteur vélo du Quai Clémenceau au pied de la montée Castellane.",
+  "arrondissement": "Caluire",
+  "idPdc": 300039240,
+  "coordinates": [
+    4.835540056228639,
+    45.79689417288023
+  ],
+  "lines": [],
+  "counts": [
+    {
+      "month": "2024-01-01",
+      "count": 0
+    },
+    {
+      "month": "2024-02-01",
+      "count": 0
+    },
+    {
+      "month": "2024-03-01",
+      "count": 0
+    },
+    {
+      "month": "2024-04-01",
+      "count": 0
+    },
+    {
+      "month": "2024-05-01",
+      "count": 0
+    },
+    {
+      "month": "2024-06-01",
+      "count": 12717
+    },
+    {
+      "month": "2024-07-01",
+      "count": 11798
+    },
+    {
+      "month": "2024-08-01",
+      "count": 8919
+    },
+    {
+      "month": "2024-09-01",
+      "count": 11772
+    },
+    {
+      "month": "2024-10-01",
+      "count": 10301
+    },
+    {
+      "month": "2024-11-01",
+      "count": 8805
+    },
+    {
+      "month": "2024-12-01",
+      "count": 6474
+    }
+  ]
+}
