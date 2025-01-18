@@ -135,7 +135,7 @@ L'aménagement en vélorue permet de conserver un maximum de stationnement, d'é
 Entre la rue du Souvenir et les hôtels du pont d'Ecully, la rue Marietton et ses 2x2 voies routières sera reconfigurée avec la création d'une piste cyclable bidirectionnelle de 2,50 à 3m de large côté Est à la place d'une voie de circulation.
 
 ::banner{type="wip"}
-Ce point noir cyclable majeur devrait être aménagée entre l'automne 2024 et le printemps 2025.
+Ce point noir cyclable majeur sera aménagé entre février et septembre 2025.
 ::
 
 #### *Concertation*

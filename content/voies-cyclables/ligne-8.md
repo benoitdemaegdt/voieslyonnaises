@@ -181,7 +181,7 @@ credit: Street Architecture / Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Après des travaux préliminaires sur les réseaux souterrains à l'automne 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+Après des travaux préliminaires sur les réseaux souterrains à l'automne-hiver 2024, les travaux d'aménagement devraient commencer en février 2025 et durer environ un an.
 ::
 
 #### Rue Camille Roy
@@ -220,7 +220,7 @@ credit: Street Architecture / Métropole de Lyon
 ::
 
 ::banner{type="wip"}
-Les travaux sont prévus entre novembre 2024 et le printemps 2025.
+Les travaux ont lieu entre mi-janvier 2025 et le début d'été 2025.
 ::
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du :transport-link{type=tram line=6}.

@@ -27,11 +27,11 @@ streetView: 45.8269269,4.7562217,3a,90y,332.82h,76.54t
 ::
 
 ::banner{type="postponed"}
-Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024 sur [cette page](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=dematEnt.choixDCE&IDM=1448259&XFAOK=dce.verifLotsDCE), nous constatons qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
+Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024, nous avons constaté qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section commencent en décembre 2024 et continueront par section jusqu'à fin 2025.
+Les travaux sur cette section commencent en janvier 2025 et continueront par section jusqu'à fin 2025.
 ::
 
 #### Porte de Lyon
@@ -49,7 +49,7 @@ streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section commencent en novembre 2024 et continueront par section jusqu'en juin 2025.
+Les travaux sur cette section commencent en décembre 2024 et continueront par section jusqu'en juin 2025.
 ::
 
 #### *Concertation*
@@ -77,7 +77,7 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront en décembre 2024 et continueront par sections jusqu'à début 2026.
+Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront au printemps 2025 et continueront par sections jusqu'à l'automne 2025.
 ::
 
 #### Avenue de Montlouis à Rue Juttet
@@ -103,15 +103,16 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur le boulevard de la République ont lieu entre décembre 2024 et février 2025.
-Les travaux sur l'avenue de Montlouis et la rue de la Mairie devraient commencer en mars 2025 et durer jusqu'à l'été 2025.
+Les travaux sur l'avenue de Montlouis devraient commencer en mars 2025 et durer jusqu'en mai 2025.\
+Les travaux sur le boulevard de la République ont lieu entre décembre 2024 et mars 2025.\
+Les travaux sur la rue de la Mairie et la place de la Liberté devraient commencer en avril 2025 et se terminer à l'été 2025.
 ::
 
 #### Rue Juttet à Avenue de Champagne
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 ::banner{type="wip"}
-Les travaux devraient commencer en juillet 2025 et durer jusqu'en début d'année 2026.
+Les travaux devraient commencer en juillet 2025 et durer jusque fin 2025.
 ::
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais

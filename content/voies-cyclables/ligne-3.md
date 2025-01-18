@@ -46,10 +46,10 @@ La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargi
 La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur la commune d'Albigny, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de Couzon, St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
 ::banner{type="wip"}
-La section sur la commune d'Albigny devrait être réalisée entre novembre 2024 et l'été 2025.\
+La section sur la commune d'Albigny devrait être réalisée entre février 2025 et fin 2025.\
 La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.\
 La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.\
-La section sur la commune de Collonges devrait être en travaux à partir du printemps 2025 jusqu'à l'été 2026.
+La section sur la commune de Collonges devrait être en travaux à partir de l'été 2025 jusqu'à l'été 2026.
 ::
 
 ::content-image
@@ -98,9 +98,21 @@ streetView: 45.7849251,4.8127776,3a,75y,201.14h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux entre le pont Clémenceau et le pont Schuman devraient avoir lieu entre le printemps 2025 et le printemps 2026.
+::
+
 #### Pont Clémenceau au pont Koenig
 Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en sens unique Sud-Nord du quai, qui permettra de créer une piste cyclable bidirectionnelle de 3.50m de large le long de la Saône.
 
+::banner{type="modified"}
+Contrairement à ce qui a été annoncé lors de la concertation, une petite portion entre la place du port Mouton et le pont Clémenceau ne sera pas aménagée pour maintenir le couloir bus sur la rampe Est de la trémie essentiel à la bonne performance des nombreuses lignes de bus qui rejoignent Valmy. Il faudra attendre un projet de suppression de la trémie sous le pont Clémenceau pour pouvoir aménager une piste cyclable sur ce tronçon de 125m de long.\
+En attendant, pour les cyclistes en transit le long de la Saône, la Métropole a décidé d'aménager les berges de Saône qui passent sous le pont Clémenceau en voie verte pour relier en sécurité le quai Arloing et le carrefour des Monts d'Or au nord.
+::
+
+::banner{type="wip"}
+Les travaux devraient avoir lieu entre le printemps 2025 et le printemps 2026.
+::
 
 ::content-image
 ---

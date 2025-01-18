@@ -90,7 +90,7 @@
       "properties": {
         "line": 4,
         "name": "Lissieu Gare - Dardilly Clairière",
-        "status": "planned",
+        "status": "wip",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
@@ -110,7 +110,7 @@
       "properties": {
         "line": 4,
         "name": "Contre-allée Clairière",
-        "status": "planned",
+        "status": "wip",
         "type": "velorue",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
@@ -132,7 +132,7 @@
       "properties": {
         "line": 4,
         "name": "Dardilly - Clairière à Maison Carrée",
-        "status": "planned",
+        "status": "wip",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },

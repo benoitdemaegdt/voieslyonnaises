@@ -53,6 +53,10 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 *via parc de Miribel-Jonage*\
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
+::banner{type="wip"}
+Les travaux commencent en février 2025 et devraient se poursuivre par tronçons jusqu'à début 2026.
+::
+
 #### Rue du Canal
 Sur cette route faisant office de voie de sortie du parking des Puces du Canal, il est prévu un élargissement de la piste cyclable bidirectionnelle existante le long du canal, passant de 2.50 à 4.00m de large.
 

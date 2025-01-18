@@ -44,7 +44,7 @@ Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyc
 
 ::banner{type="wip"}
 Les travaux du giratoire de Gaulle ont eu lieu entre l'automne 2023 et fin mars 2024.
-Le reste de cette section est en travaux progressif par sections entre décembre 2024 et octobre 2025.
+Le reste de cette section est en travaux progressif par sections entre février et octobre 2025.
 ::
 
 #### Voie de la Dombe
@@ -231,7 +231,7 @@ streetView: 45.7158648,4.8547435,3a,90y,1.54h,88.27t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé fin mars 2024 et étaient presque terminés fin 2024, avec un premier tronçon nord livré fin août 2024. Il reste à traiter certains carrefours en janvier 2025 avec résine beige dans les traversées et mise en fonctionnement des feux. 
+Les travaux sur cette section ont commencé fin mars 2024 et étaient presque terminés fin 2024, après un premier tronçon nord livré fin août 2024. Il reste à traiter certains carrefours en 2025 avec résine beige dans les traversées et mise en fonctionnement des feux. 
 ::
 
 #### Avenue Jean Jaurès
@@ -264,7 +264,7 @@ Compte-tenu des travaux très impactants du tramway T10 dans ce secteur jusqu'à
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
 ::banner{type="wip"}
-Les travaux préparatoires sur les réseaux ont eu lieu entre début 2024 et l'été 2024 et ont enchainé en septembre 2024 avec les travaux d'aménagement qui dureront jusqu'au printemps 2026. Une première tranche Nord jusqu'à l'avenue Maurice Thorez sera livrée début 2025.
+Les travaux préparatoires sur les réseaux ont eu lieu entre début 2024 et l'été 2024 et ont enchainé en septembre 2024 avec les travaux d'aménagement qui dureront jusqu'au printemps 2026. Une première tranche Nord jusqu'à l'avenue Maurice Thorez a été livrée début 2025.
 ::
 
 ::content-image
