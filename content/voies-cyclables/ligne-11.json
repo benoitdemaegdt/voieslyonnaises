@@ -519,7 +519,7 @@
         "id": "VivierMerle-commun",
         "line": 11,
         "name": "Vivier Merle Nord",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#boulevard-vivier-merle-paul-bert-à-félix-faure"
       },
@@ -536,7 +536,7 @@
       "properties": {
         "line": 11,
         "name": "Avenue Félix Faure",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
       },
