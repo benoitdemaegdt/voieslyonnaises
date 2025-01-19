@@ -929,18 +929,19 @@
       "properties": {
         "id": "YzeronEst-commun",
         "line": 9,
-        "name": "Berge Yzeron Est",
+        "name": "Rue Gabriel Péri",
         "status": "done",
         "doneAt": "31/12/2019",
-        "type": "voie-verte",
+        "type": "velorue",
         "link": "/voie-lyonnaise-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.818293452262878, 45.71891858297453],
-          [4.8181915283203125, 45.71880996848313],
-          [4.814962148666382, 45.71830434652],
+          [4.81740013195116, 45.71897853893725],
+          [4.816625422390814, 45.71882566950549],
+          [4.814859554173012, 45.7183475825226],
           [4.8147569596767426, 45.71829404676581]
         ]
       }

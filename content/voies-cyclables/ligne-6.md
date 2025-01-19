@@ -47,6 +47,10 @@ Trois variantes sont ici proposées à la concertation :
  - 2) l'aménagement du quai Bellevue avec une piste cyclable bidirectionnelle à la place d'une des deux voies de circulation côté Ouest, mais qui nécessiterait un détour important pour rejoindre le carrefour de la montée de la Boucle.
  - 3) la création d'une piste bidirectionnelle à la place de la voie de circulation Sud>Nord du cours Aristide Briand. Celle-ci serait déplacée dans la zone de rencontre actuelle qui deviendrait une voie de circulation à part entière. Le stationnement en épi côté Rhône serait aligné longitudinalement pour créer un cheminement piéton aujourd'hui inexistant sous l'alignement d'arbres à l'Ouest.  **Cette variante est privilégiée par La Ville à Vélo**
 
+::banner{type="info"}
+Suite à la concertation, la Métropole a annoncé avoir retenu la variante 2. La desserte cyclable du cours Aristide Briand continuera donc à se faire via le parking automobile actuel sur le quai haut.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-aristide-briand-caluire.png
@@ -62,6 +66,10 @@ Dans le sens Sud>Nord, deux variantes sont proposées à la concertation :
  - 2) via les voies de circulation générale à l'Est avec la création d'une piste cyclable unidirectionnelle de 2.5 à 3m de large côté Ouest de la chaussée à la place d'une voie de circulation.
 
 Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unidirectionnelle de 2m à 2.25m de large à la place d'une voie de circulation côté Est de la chaussée.
+
+::banner{type="info"}
+Suite à la concertation, la Métropole a annoncé avoir retenu la variante 2.
+::
 
 ::content-image
 ---
@@ -152,6 +160,10 @@ Ce tronçon s'inscrit dans le cadre du projet d'apaisement des circulations dans
      -  la rue de la Camille, sans aucun aménagement cyclable
      -  la rue Léon Bourgeois, avec un DSC en bande cyclable
 
+::banner{type="info"}
+Ce scénario est expérimenté entre mi-janvier et juin 2025.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/grande-rue-scenario-1.png
@@ -173,6 +185,10 @@ streetView: 45.7159298,4.8080585,3a,75y,222.55h,90t
  -  **Scénario 2 (métropole de Lyon) :**
      -  *Sens Nord/Sud*, par la rue Bertholey en vélorue jusqu'à la rue Marceau puis sur une piste cyclable ; par la rue Voltaire en vélorue puis la rue Victor Hugo en zone de rencontre, avant d'emprunter la rue de la Camille dans un couloir bus ouvert aux vélos.
      -  *Sens Sud/Nord*, par la Grande Rue dans un couloir bus-vélos
+
+::banner{type="info"}
+Ce scénario a été expérimenté entre juillet 2024 et mi-janvier 2025.
+::
 
 ::content-image
 ---

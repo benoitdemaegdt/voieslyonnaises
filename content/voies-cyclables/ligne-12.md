@@ -76,7 +76,7 @@ Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue
 En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
 ::banner{type="wip"}
-Les travaux sur l'avenue Adolphe Max auront lieu fin 2025-début 2026.
+Les travaux sur l'avenue Adolphe Max auront lieu au printemps 2025.
 ::
 
 ### Traversée de la Presqu'Île de Lyon
@@ -91,6 +91,10 @@ caption: Aperçu de la Voie Lyonnaise 12 - Place Bellecour (Lyon 2)
 credit: Métropole de Lyon
 streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ---
+::
+
+::banner{type="wip"}
+Les travaux entre le pont Bonaparte et la rue Chambonnet auront lieu de mi-janvier à début juin 2025.
 ::
 
 ::banner{type="postponed"}

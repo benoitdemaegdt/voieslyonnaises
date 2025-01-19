@@ -356,8 +356,7 @@
         "id": "OullinsSaules-commun",
         "line": 5,
         "name": "Oullins - Avenue des Saules",
-        "status": "done",
-        "doneAt": "25/01/2013",
+        "status": "planned",
         "type": "bilaterale",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
@@ -375,9 +374,8 @@
         "id": "OullinsLocard-commun",
         "line": 5,
         "name": "Oullins - Avenue Locard",
-        "status": "done",
-        "doneAt": "25/01/2013",
-        "type": "bidirectionnelle",
+        "status": "planned",
+        "type": "bilaterale",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {

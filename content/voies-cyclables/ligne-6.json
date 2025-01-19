@@ -454,18 +454,33 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "name": "Quai Perrache Sud",
+        "name": "Quai Perrache Centre",
         "status": "planned",
-        "type": "voie-verte",
+        "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.824055550735437, 45.74127425236173],
-          [4.823958489655581, 45.74104613632631],
-          [4.822031326287345, 45.7387807364414],
-          [4.821273237944041, 45.737914528176404],
+          [4.823881064815481, 45.74105182421847],
+          [4.821607387257046, 45.73836389508797]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "name": "Quai Perrache Sud",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-6#quai-perrache"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.821607387257046, 45.73836389508797],
           [4.820830821990966, 45.737443627164645],
           [4.820230466859556, 45.73676785150205],
           [4.819238328880331, 45.73553349936795],
@@ -632,7 +647,7 @@
         "id": "varianteOullins-commun",
         "line": 6,
         "name": "Scénario 2 - Grande Rue Nord - sens Sud>Nord",
-        "status": "tested",
+        "status": "variante",
         "text": "variante 2 S>N",
         "type": "voie-bus",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
@@ -695,7 +710,7 @@
         "id": "varianteOullins-commun",
         "line": 6,
         "name": "Scénario 2 - rues Bertholey/Hugo - sens Nord>Sud",
-        "status": "tested",
+        "status": "variante",
         "text": "variante 2 N>S",
         "type": "bilaterale",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
@@ -772,7 +787,7 @@
         "id": "varianteOullins-commun",
         "line": 6,
         "name": "Scénario 1 - rues République et parking Camille",
-        "status": "variante",
+        "status": "tested",
         "text": "variante 1",
         "type": "aucun",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
@@ -818,7 +833,7 @@
         "id": "varianteOullins2-commun",
         "line": 6,
         "name": "Scénario 1 - rue Léon Bourgeois",
-        "status": "variante",
+        "status": "tested",
         "text": "variante 1",
         "type": "bandes-cyclables",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
