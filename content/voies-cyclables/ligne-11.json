@@ -304,8 +304,8 @@
       "properties": {
         "id": "Bonaparte-commun",
         "line": 11,
-        "name": "Pont Bonaparte",
-        "status": "planned",
+        "name": "Pont Bonaparte - Chambonnet",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
