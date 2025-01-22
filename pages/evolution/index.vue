@@ -7,7 +7,7 @@
       <div class="py-2 px-5 md:px-8 text-white bg-lvv-blue-600 font-semibold text-base">
         {{ doneDistance }} km de {{ getRevName() }} réalisés
       </div>
-      <div class="py-5 px-5 md:px-8 grid grid-cols-3 gap-3 sm:grid-cols-5">
+      <div class="py-5 px-5 md:px-8 grid grid-cols-3 gap-3 sm:grid-cols-6">
         <div
           v-for="year in years"
           :key="year.label"
@@ -43,7 +43,8 @@ const years = ref([
   { label: '2021', match: (year) => year === 2021, isChecked: false },
   { label: '2022', match: (year) => year === 2022, isChecked: false },
   { label: '2023', match: (year) => year === 2023, isChecked: false },
-  { label: '2024', match: (year) => year === 2024, isChecked: false }
+  { label: '2024', match: (year) => year === 2024, isChecked: false },
+  { label: '2025', match: (year) => year === 2025, isChecked: false }
 ]);
 
 const { data: voies } = await useAsyncData(() => {
