@@ -26,6 +26,7 @@ L'aménagement cyclable continue ensuite sur la route du Mas Rillier sous la for
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png
 caption: Aperçu de la Voie Lyonnaise 7 - route du Mas Rillier (Rillieux-la-Pape)
 credit: Métropole de Lyon
+streetView: 45.8231487,4.9129922,3a,75y,253.4h,90t
 ---
 ::
 
@@ -130,6 +131,7 @@ Contrairement à ce qui était annoncé lors de la concertation, la contre-allé
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
 caption: Photo de la Voie Lyonnaise 7 - Montée de la Boucle (Caluire-et-Cuire)
 credit: La Ville à Vélo - Plateau Nord
+streetView: 45.7814224,4.8394423,3a,75y,344.66h,90t
 ---
 ::
 
@@ -158,6 +160,7 @@ Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Ly
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi (Lyon 6)
 credit: Métropole de Lyon
+streetView: 45.772684,4.8498812,3a,75y,166.81h,90t
 ---
 ::
 
@@ -176,6 +179,7 @@ Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet G
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png
 caption: Aperçu de la Voie Lyonnaise 7 - rue Garibaldi le long de place Stalingrad (Lyon 7)
 credit: Ilex / Métropole de Lyon
+streetView: 45.7497209,4.8539141,3a,75y,199.64h,90t
 ---
 ::
 
@@ -198,6 +202,7 @@ Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la pi
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud (Lyon 7)
 credit: Métropole de Lyon
+streetView: 45.7486593,4.8530547,3a,75y,216.89h,90t
 ---
 ::
 
@@ -218,6 +223,7 @@ La traversée du périphérique sera reprise et sécurisée pour les cyclistes a
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png
 caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne (Lyon 8)
 credit: Métropole de Lyon
+streetView: 45.736812,4.852783,3a,75y,155.7h,90t
 ---
 ::
 
@@ -242,6 +248,7 @@ Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png
 caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
 credit: Métropole de Lyon
+streetView: 45.7137896,4.855013,3a,75y,173.02h,90t
 ---
 ::
 
