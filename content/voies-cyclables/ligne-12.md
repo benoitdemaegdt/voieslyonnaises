@@ -144,7 +144,7 @@ Après des échanges avec les services de secours et l'hôpital Edouard Herriot,
 ::
 
 ::banner{type="wip"}
-Les travaux auront lieu au premier semestre 2025.
+Les travaux auront lieu pendant l'été 2025.
 ::
 
 ### Grange Blanche à Boulevard Pinel
@@ -169,7 +169,7 @@ Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller
 ::
 
 ::banner{type="wip"}
-Entre Grange Blanche et la rue Viala, les travaux auront lieu entre début 2025 et l'été 2025.\
+Entre Grange Blanche et la rue Viala, les travaux auront lieu entre mars 2025 et l'été 2025.\
 Si l'expérimentation de la mise à sens unique est concluante, les travaux définitifs entre la rue Viala et le boulevard Pinel auront lieu entre l'été et l'automne 2025.
 ::
 

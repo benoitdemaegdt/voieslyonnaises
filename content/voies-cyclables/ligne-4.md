@@ -77,7 +77,7 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront au printemps 2025 et continueront par sections jusqu'à l'automne 2025.
+Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront en mars 2025 et continueront par sections jusqu'à l'automne 2025.
 ::
 
 #### Avenue de Montlouis à Rue Juttet

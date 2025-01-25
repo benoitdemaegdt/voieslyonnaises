@@ -110,11 +110,15 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient avoir lieu au second semestre 2025.
+::
+
 #### Avenue Barthélémy Buyer
 Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompra au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
 ::banner{type="wip"}
-Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement commenceront en juin 2025 et devraient durer jusqu'au printemps 2026.
 ::
 
 ::content-image
@@ -200,6 +204,10 @@ Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord �
 Concernant la circulation automobile et le traitement du pont, deux variantes sont soumises à concertation :
  - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchécoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
+
+ ::banner{type="wip"}
+Une première phase d'aménagement entièrement transitoire est prévue être déployée entre le dernier trimestre 2025 et début 2026.
+::
 
 #### Rue Marius Berliet
 Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérennisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
