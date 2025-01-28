@@ -1,6 +1,6 @@
 {
   "name": "Montée de Choulans",
-  "description": "Le compteur vélo de la Montée de Choulans.",
+  "description": "Le compteur vélo de la Montée de Choulans dans le sens de la descente, au niveau du 55",
   "arrondissement": "Lyon 5",
   "idPdc": 300034112,
   "coordinates": [
@@ -8,6 +8,7 @@
     45.75343511779436
   ],
   "lines": [],
+  "cyclopolisId": "montee-choulans",
   "counts": [
     {
       "month": "2023-07-01",

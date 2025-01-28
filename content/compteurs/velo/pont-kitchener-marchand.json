@@ -7,7 +7,11 @@
     4.8226442950519255,
     45.75139886296838
   ],
-  "lines": [],
+  "lines": [
+    8,
+    11
+  ],
+  "cyclopolisId": "pont-kitchener",
   "counts": [
     {
       "month": "2016-07-01",
