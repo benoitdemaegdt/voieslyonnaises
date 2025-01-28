@@ -17,6 +17,8 @@ const path = require('path');
   }
 })();
 
+const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
+
 /**
  * Suite aux échanges avec le Cerema, utilisation de l'API aggregated_measures.
  * Elle retourne le volume moyen quotidien sur le mois concené.
@@ -58,6 +60,8 @@ async function getCompteurData({ idsPdc }) {
       console.error('[getCompteurData] An error happened while fetching counter data');
       process.exit(1);
     }
+    // petite pause pour ne pas se faire jeter avec un "TOO MANY REQUESTS"
+    await sleep(7000); 
   }
 
   if (idsPdc.length === 1) return resByIdPdc[idsPdc[0]];

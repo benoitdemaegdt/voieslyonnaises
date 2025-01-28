@@ -1,441 +1,343 @@
 {
-  "name": "Parc Lacroix-Laval - allée de la Belle Étoile",
-  "description": "Le compteur vélo de l'allée de la Belle Étoile, parc Lacroix-Laval",
-  "arrondissement": "Marcy-l'Étoile",
-  "idPdc": 100030636,
-  "coordinates": [
-    4.719269207964532,
-    45.78505978594454
+  "name": "Montée de Choulans",
+  "description": "Ce compteur mesure le trafic descendant Choulans après l'intersection avec la montée Saint-Laurent",
+  "arrondissement": "Lyon 5",
+  "idsPdc": [
+    1590
   ],
-  "lines": [],
+  "coordinates": [
+    4.8198007,
+    45.7526088
+  ],
+  "cyclopolisId": "montee-choulans",
   "counts": [
     {
-      "month": "2016-02-01",
-      "count": 0
-    },
-    {
-      "month": "2016-03-01",
-      "count": 0
-    },
-    {
-      "month": "2016-04-01",
-      "count": 0
-    },
-    {
-      "month": "2016-05-01",
-      "count": 4238
-    },
-    {
-      "month": "2016-06-01",
-      "count": 1944
-    },
-    {
-      "month": "2016-07-01",
-      "count": 3497
-    },
-    {
-      "month": "2016-08-01",
-      "count": 3999
-    },
-    {
-      "month": "2016-09-01",
-      "count": 2232
-    },
-    {
-      "month": "2016-10-01",
-      "count": 2442
-    },
-    {
-      "month": "2016-11-01",
-      "count": 1042
-    },
-    {
-      "month": "2016-12-01",
-      "count": 269
-    },
-    {
-      "month": "2017-01-01",
-      "count": 642
-    },
-    {
-      "month": "2017-02-01",
-      "count": 2362
-    },
-    {
-      "month": "2017-03-01",
-      "count": 2014
-    },
-    {
-      "month": "2017-04-01",
-      "count": 58
-    },
-    {
-      "month": "2017-05-01",
-      "count": 0
-    },
-    {
-      "month": "2017-06-01",
-      "count": 2228
-    },
-    {
-      "month": "2017-07-01",
-      "count": 3471
-    },
-    {
-      "month": "2017-08-01",
-      "count": 4052
-    },
-    {
-      "month": "2017-09-01",
-      "count": 2466
-    },
-    {
-      "month": "2017-10-01",
-      "count": 3018
-    },
-    {
-      "month": "2017-11-01",
-      "count": 1373
-    },
-    {
-      "month": "2017-12-01",
-      "count": 753
-    },
-    {
       "month": "2018-01-01",
-      "count": 1586
+      "count": 400892
     },
     {
       "month": "2018-02-01",
-      "count": 1231
+      "count": 362733
     },
     {
       "month": "2018-03-01",
-      "count": 1469
+      "count": 432071
     },
     {
       "month": "2018-04-01",
-      "count": 3201
+      "count": 392748
     },
     {
       "month": "2018-05-01",
-      "count": 2618
+      "count": 410611
     },
     {
       "month": "2018-06-01",
-      "count": 2371
+      "count": 463013
     },
     {
       "month": "2018-07-01",
-      "count": 2337
+      "count": 394207
     },
     {
       "month": "2018-08-01",
-      "count": 2787
+      "count": 288079
     },
     {
       "month": "2018-09-01",
-      "count": 3107
+      "count": 396834
     },
     {
       "month": "2018-10-01",
-      "count": 2400
+      "count": 423676
     },
     {
       "month": "2018-11-01",
-      "count": 1392
+      "count": 407963
     },
     {
       "month": "2018-12-01",
-      "count": 1123
+      "count": 395433
     },
     {
       "month": "2019-01-01",
-      "count": 1325
+      "count": 399414
     },
     {
       "month": "2019-02-01",
-      "count": 2947
+      "count": 359451
     },
     {
       "month": "2019-03-01",
-      "count": 2691
+      "count": 418163
     },
     {
       "month": "2019-04-01",
-      "count": 2292
+      "count": 388286
     },
     {
       "month": "2019-05-01",
-      "count": 2692
+      "count": 406926
     },
     {
       "month": "2019-06-01",
-      "count": 2355
+      "count": 395361
     },
     {
       "month": "2019-07-01",
-      "count": 2998
+      "count": 392213
     },
     {
       "month": "2019-08-01",
-      "count": 3218
+      "count": 290552
     },
     {
       "month": "2019-09-01",
-      "count": 3201
+      "count": 388768
     },
     {
       "month": "2019-10-01",
-      "count": 2319
+      "count": 417979
     },
     {
       "month": "2019-11-01",
-      "count": 1516
+      "count": 391793
     },
     {
       "month": "2019-12-01",
-      "count": 1499
+      "count": 388150
     },
     {
       "month": "2020-01-01",
-      "count": 1658
+      "count": 380992
     },
     {
       "month": "2020-02-01",
-      "count": 2344
+      "count": 367248
     },
     {
       "month": "2020-03-01",
-      "count": 1596
+      "count": 232257
     },
     {
       "month": "2020-04-01",
-      "count": 9
+      "count": 100994
     },
     {
       "month": "2020-05-01",
-      "count": 3260
+      "count": 234875
     },
     {
       "month": "2020-06-01",
-      "count": 3756
+      "count": 344509
     },
     {
       "month": "2020-07-01",
-      "count": 3662
+      "count": 375272
     },
     {
       "month": "2020-08-01",
-      "count": 3256
+      "count": 275816
     },
     {
       "month": "2020-09-01",
-      "count": 3139
+      "count": 364098
     },
     {
       "month": "2020-10-01",
-      "count": 2681
+      "count": 344532
     },
     {
       "month": "2020-11-01",
-      "count": 1859
+      "count": 228514
     },
     {
       "month": "2020-12-01",
-      "count": 1911
+      "count": 301915
     },
     {
       "month": "2021-01-01",
-      "count": 1534
+      "count": 299539
     },
     {
       "month": "2021-02-01",
-      "count": 2714
+      "count": 284669
     },
     {
       "month": "2021-03-01",
-      "count": 2568
+      "count": 342811
     },
     {
       "month": "2021-04-01",
-      "count": 4661
+      "count": 283348
     },
     {
       "month": "2021-05-01",
-      "count": 3093
+      "count": 355559
     },
     {
       "month": "2021-06-01",
-      "count": 2750
+      "count": 391369
     },
     {
       "month": "2021-07-01",
-      "count": 3052
+      "count": 368730
     },
     {
       "month": "2021-08-01",
-      "count": 4053
+      "count": 270349
     },
     {
       "month": "2021-09-01",
-      "count": 3394
+      "count": 316448
     },
     {
       "month": "2021-10-01",
-      "count": 2766
+      "count": 322490
     },
     {
       "month": "2021-11-01",
-      "count": 1761
+      "count": 293672
     },
     {
       "month": "2021-12-01",
-      "count": 1594
+      "count": 269418
     },
     {
       "month": "2022-01-01",
-      "count": 2252
+      "count": 266029
     },
     {
       "month": "2022-02-01",
-      "count": 2512
+      "count": 263214
     },
     {
       "month": "2022-03-01",
-      "count": 2937
+      "count": 304298
     },
     {
       "month": "2022-04-01",
-      "count": 2879
+      "count": 271933
     },
     {
       "month": "2022-05-01",
-      "count": 3844
+      "count": 295445
     },
     {
       "month": "2022-06-01",
-      "count": 3077
+      "count": 294329
     },
     {
       "month": "2022-07-01",
-      "count": 3828
+      "count": 265521
     },
     {
       "month": "2022-08-01",
-      "count": 3566
+      "count": 235473
     },
     {
       "month": "2022-09-01",
-      "count": 3864
+      "count": 285955
     },
     {
       "month": "2022-10-01",
-      "count": 4037
+      "count": 267168
     },
     {
       "month": "2022-11-01",
-      "count": 2434
+      "count": 270218
     },
     {
       "month": "2022-12-01",
-      "count": 1518
+      "count": 274010
     },
     {
       "month": "2023-01-01",
-      "count": 1999
+      "count": 267733
     },
     {
       "month": "2023-02-01",
-      "count": 2707
+      "count": 249202
     },
     {
       "month": "2023-03-01",
-      "count": 3026
+      "count": 287896
     },
     {
       "month": "2023-04-01",
-      "count": 3244
+      "count": 341696
     },
     {
       "month": "2023-05-01",
-      "count": 4622
+      "count": 328996
     },
     {
       "month": "2023-06-01",
-      "count": 4560
-    },
-    {
-      "month": "2023-07-01",
-      "count": 4350
-    },
-    {
-      "month": "2023-08-01",
-      "count": 3880
+      "count": 329415
     },
     {
       "month": "2023-09-01",
-      "count": 4893
+      "count": 391692
     },
     {
       "month": "2023-10-01",
-      "count": 4349
+      "count": 369648
     },
     {
       "month": "2023-11-01",
-      "count": 2392
+      "count": 312167
     },
     {
       "month": "2023-12-01",
-      "count": 1851
+      "count": 291683
     },
     {
       "month": "2024-01-01",
-      "count": 1693
+      "count": 270068
     },
     {
       "month": "2024-02-01",
-      "count": 2368
+      "count": 282901
     },
     {
       "month": "2024-03-01",
-      "count": 0
+      "count": 307474
     },
     {
       "month": "2024-04-01",
-      "count": 0
+      "count": 278705
     },
     {
       "month": "2024-05-01",
-      "count": 137
+      "count": 286134
     },
     {
       "month": "2024-06-01",
-      "count": 3915
+      "count": 298451
     },
     {
       "month": "2024-07-01",
-      "count": 3066
+      "count": 262819
     },
     {
       "month": "2024-08-01",
-      "count": 2261
+      "count": 215319
     },
     {
       "month": "2024-09-01",
-      "count": 3971
+      "count": 304428
     },
     {
       "month": "2024-10-01",
-      "count": 2289
+      "count": 322574
     },
     {
       "month": "2024-11-01",
-      "count": 2543
+      "count": 310201
     },
     {
       "month": "2024-12-01",
-      "count": 1096
+      "count": 303875
     }
   ]
 }

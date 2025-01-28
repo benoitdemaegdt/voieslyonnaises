@@ -10,6 +10,7 @@
   "lines": [
     9
   ],
+  "cyclopolisId": "jean-jaures",
   "counts": [
     {
       "month": "2015-01-01",
@@ -489,7 +490,7 @@
     },
     {
       "month": "2024-12-01",
-      "count": 49247
+      "count": 48637
     }
   ]
 }
