@@ -10,3 +10,13 @@ export function groupBy<T, K extends string>(array: T[], predicate: (value: T, i
     {} as Record<K, T[]>
   );
 }
+
+/**
+ * To ease comparison from user inputs
+ */
+export function removeDiacritics(string: string) {
+  return string
+    .normalize('NFD')
+    .replace(/[\u0300-\u036F]/g, '')
+    .toLowerCase();
+}
