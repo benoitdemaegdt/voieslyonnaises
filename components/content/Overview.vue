@@ -9,6 +9,7 @@
       </div>
       <ProgressBar :voies="[geojson]" />
       <Stats :voies="[geojson]" :precision="1" />
+      <StatsQuality v-if="displayQuality()" :voies="[geojson]" :precision="1" />
       <Typology :voies="[geojson]" />
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
@@ -23,6 +24,7 @@
 const { path } = useRoute();
 const { getLineColor } = useColors();
 const { getTotalDistance, displayDistanceInKm } = useStats();
+const { displayQuality } = useConfig();
 
 const { voie } = defineProps({ voie: Object });
 

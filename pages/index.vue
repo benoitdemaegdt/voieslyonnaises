@@ -15,6 +15,7 @@
       </div>
       <ProgressBar :voies="voies" class="mt-8 md:mt-10" />
       <Stats :voies="voies" class="mt-8" />
+      <StatsQuality v-if="displayQuality() && displayQualityOnHomePage()" :voies="voies" class="mt-8" />
       <Typology :voies="voies" class="mt-8 max-w-2xl mx-auto" />
     </div>
     <div class="max-w-7xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
@@ -37,7 +38,7 @@
 </template>
 
 <script setup>
-const { getRevName } = useConfig();
+const { getRevName, displayQuality, displayQualityOnHomePage } = useConfig();
 
 const { data: voies } = await useAsyncData(() => {
   return queryContent('voies-cyclables').where({ _type: 'json' }).find();

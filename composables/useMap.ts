@@ -102,6 +102,30 @@ export const useMap = () => {
     map.addImage('cross-icon', cross.data, { sdf: true });
   }
 
+  function plotUnsatisfactorySections({ map, features }: { map: Map; features: LineStringFeature[] }) {
+    const sections = features.filter(feature => feature.properties.quality === 'unsatisfactory');
+
+    if (sections.length === 0 && !map.getLayer('unsatisfactory-sections')) {
+      return;
+    }
+    if (upsertMapSource(map, 'unsatisfactory-sections', sections)) {
+      return;
+    }
+
+    map.addLayer({
+      id: 'unsatisfactory-sections',
+      type: 'line',
+      source: 'unsatisfactory-sections',
+      minzoom: 14,
+      paint: {
+        'line-gap-width': 5,
+        'line-width': 4,
+        'line-color': '#c84271',
+        'line-dasharray': [0.8, 0.8]
+      }
+    });
+  }
+
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
     const sections = features.map((feature, index) => ({ id: index, ...feature }));
 
@@ -657,6 +681,7 @@ export const useMap = () => {
     const lineStringFeatures = features.filter(isLineStringFeature).sort(sortByLine).map(addLineColor);
 
     plotUnderlinedSections({ map, features: lineStringFeatures });
+    plotUnsatisfactorySections({ map, features: lineStringFeatures });
     plotDoneSections({ map, features: lineStringFeatures });
     plotPlannedSections({ map, features: lineStringFeatures });
     plotVarianteSections({ map, features: lineStringFeatures });

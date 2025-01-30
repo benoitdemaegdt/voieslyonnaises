@@ -1,5 +1,5 @@
 import { groupBy } from '../helpers/helpers';
-import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature } from '../types';
+import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature, type LaneQuality } from '../types';
 
 export const useStats = () => {
   function getAllUniqLineStrings(voies: Geojson[]) {
@@ -137,6 +137,20 @@ export const useStats = () => {
     };
   }
 
+  function getStatsQuality(voies: Geojson[]): { distance: number, percent: number, nbZone: number } {
+    const features = getAllUniqLineStrings(voies);
+    const totalDistance = getDistance({ features });
+    const unsatisfactoryFeatures = features.filter(feature => feature.properties.quality === 'unsatisfactory');
+
+    const unsatisfactoryDistance = getDistance({ features: unsatisfactoryFeatures });
+
+    return {
+      distance: unsatisfactoryDistance,
+      percent: Math.round(unsatisfactoryDistance / totalDistance * 100),
+      nbZone: unsatisfactoryFeatures.length
+    };
+  }
+
   const typologyNames: Record<LaneType, string> = {
     bidirectionnelle: 'Piste bidirectionnelle',
     bilaterale: 'Piste bilatérale',
@@ -148,6 +162,11 @@ export const useStats = () => {
     'zone-de-rencontre': 'Zone de rencontre',
     aucun: 'Aucun',
     inconnu: 'Inconnu'
+  };
+
+  const qualityNames: Record<LaneQuality, string> = {
+    unsatisfactory: 'Non satisfaisant',
+    satisfactory: 'Satisfaisant'
   };
 
   function getStatsByTypology(voies: Geojson[]) {
@@ -180,6 +199,8 @@ export const useStats = () => {
     getStatsByTypology,
     displayDistanceInKm,
     displayPercent,
-    typologyNames
+    typologyNames,
+    qualityNames,
+    getStatsQuality
   };
 };

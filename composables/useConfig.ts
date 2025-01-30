@@ -17,5 +17,13 @@ export const useConfig = () => {
     return config.nbVoiesCyclables;
   }
 
-  return { getRevName, getAssoName, getAssoLink, getNbVoiesCyclables };
+  function displayQuality(): boolean {
+    return config.qualityDisplay;
+  }
+
+  function displayQualityOnHomePage(): boolean {
+    return config.qualityDisplayOnHomePage;
+  }
+
+  return { getRevName, getAssoName, getAssoLink, getNbVoiesCyclables, displayQuality, displayQualityOnHomePage };
 };
