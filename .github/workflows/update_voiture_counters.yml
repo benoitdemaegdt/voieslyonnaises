@@ -1,6 +1,7 @@
 name: Update Voiture Counters
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 6 1 * *' # every 1st day of each month
 
