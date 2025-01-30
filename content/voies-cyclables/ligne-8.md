@@ -42,7 +42,7 @@ Cette section fait l'objet d'un vaste projet de requalification qui consiste à 
 
 Ce projet ambitieux sera réalisé en deux phases :
  - entre le chemin des Verrières et l'allée du Mas, l'aménagement est réalisé en transitoire entre l'automne 2024 et le printemps 2025, et le réaménagement définitif prévu à un mandat ultérieur
- - entre l'alée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
+ - entre l'allée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
 ::banner{type="wip"}
 Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement enchaineront entre fin 2024 et l'été 2026 en commençant par la partie Sud.
@@ -59,6 +59,7 @@ Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élarg
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
 caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris (Tassin)
 credit: Métropole de Lyon
+streetView: 45.7676717,4.7609684,3a,75y,111.3h,90t
 ---
 ::
 
@@ -82,6 +83,7 @@ Sur le chemin du Vallon, deux variantes ont été proposées :
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/chemin-du-vallon.png
 caption: Aperçu de la Voie Lyonnaise 8 - Chemin du Vallon (Tassin - variante piste cyclable)
 credit: Métropole de Lyon
+streetView: 45.7688341,4.7861129,3a,75y,64.59h,90t
 ---
 ::
 
@@ -107,6 +109,7 @@ Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Vincent Serre (Tassin)
 credit: Métropole de Lyon
+streetView: 45.7649531,4.7854616,3a,75y,350.01h,90t
 ---
 ::
 
@@ -126,6 +129,7 @@ Après des travaux préliminaires sur les réseaux souterrains en 2024, les trav
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Barthélémy Buyer (Lyon 5 / Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7640864,4.7918726,3a,75y,271.26h,90t
 ---
 ::
 
@@ -137,6 +141,7 @@ La Voie Lyonnaise 8 sera donc déviée par l'avenue Apollinaire, avec la créati
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de la Gravière (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7615366,4.8071891,3a,75y,314.6h,90t
 ---
 ::
 
@@ -173,6 +178,7 @@ Le projet consiste en la suppression d'une à deux voies de circulation automobi
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7509747,4.839041,3a,75y,116.22h,90t
 ---
 ::
 
@@ -181,6 +187,7 @@ credit: Street Architecture / Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7486652,4.8429452,3a,75y,313.05h,90t
 ---
 ::
 
@@ -196,6 +203,7 @@ Cette courte rue sera réaménagée pour conserver le sens unique actuel et le s
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Camille Roy (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7455569,4.8494585,3a,75y,69.06h,90t
 ---
 ::
 
@@ -224,6 +232,7 @@ Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'am
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz (Lyon 8)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7350505,4.8736669,3a,75y,304.21h,90t
 ---
 ::
 
@@ -262,6 +271,7 @@ Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deu
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png
 caption: Aperçu de la Voie Lyonnaise 8 - avenue Pierre Mendès-France (Bron)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7244853,4.9148959,3a,75y,162.97h,90t
 ---
 ::
 
@@ -275,6 +285,7 @@ Sur ce boulevard très routier, le projet prévoyait deux variantes pour la posi
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - boulevard de l'Université (Bron)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7240315,4.9167609,3a,75y,308.26h,90t
 ---
 ::
 
@@ -286,6 +297,7 @@ La Voie Lyonnaise évitera le boulevard André Boulloche en faisant un détour p
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Paul Langevin (Bron)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7210736,4.9198254,3a,75y,353.63h,90t
 ---
 ::
 
@@ -300,6 +312,7 @@ Il est prévu de rejoindre la très large piste existante de 5.50m le long de l'
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png
 caption: Aperçu de la Voie Lyonnaise 8 - Cours du Professeur Jean Bernard (St-Priest)
 credit: Métropole de Lyon
+streetView: 45.7178632,4.9268028,3a,75y,306.26h,90t
 ---
 ::
 
