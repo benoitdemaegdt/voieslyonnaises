@@ -34,6 +34,7 @@
 
 <script setup lang="ts">
 import type { CounterParsedContent } from '../../../types/counters';
+import { removeDiacritics } from '~/helpers/helpers';
 
 const { getCompteursFeatures } = useMap();
 
@@ -51,7 +52,7 @@ const counters = computed(() => {
       const count2 = counter2.counts.at(-1)?.count ?? 0;
       return count2 - count1;
     })
-    .filter(counter => counter.name.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase().includes(searchText.value.normalize('NFD').replace(/[\u0300-\u036F]/g, '').toLowerCase()));
+    .filter(counter => removeDiacritics(`${counter.arrondissement} ${counter.name}`).includes(removeDiacritics(searchText.value)));
 });
 
 const features = getCompteursFeatures({ counters: allCounters.value, type: 'compteur-voiture' });
