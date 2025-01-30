@@ -84,6 +84,8 @@ export type DangerFeature = {
   properties: {
     type: 'danger',
     name: string
+    description: string
+    danger: string
   }
   geometry: {
     type: 'Point';
