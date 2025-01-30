@@ -3,7 +3,7 @@
  * https://data.eco-counter.com/ParcPublic/?id=3902#
  *
  * required : NodeJS >= 18
- * run : node ./.github/scripts/update-counters.js
+ * run : node ./.github/scripts/update-velo-counters.js
  */
 const fs = require('fs');
 const path = require('path');
@@ -42,7 +42,7 @@ async function getAllCounters() {
    * - 2 vélo
    * - 13 trottinette
    */
-  const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/3902?withNull=true&pratiques=2';
+  const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/3902?withNull=true&pratiques=2,13';
   const res = await fetch(URL);
   if (res.ok) {
     const allCounters = await res.json();
