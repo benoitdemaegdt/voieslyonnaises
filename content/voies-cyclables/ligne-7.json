@@ -1093,8 +1093,8 @@
       "properties": {
         "line": 7,
         "name": "Garibaldi Nord",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
@@ -1112,8 +1112,8 @@
         "id": "GaribaldiNord-commun",
         "line": 7,
         "name": "Garibaldi - Duquesne Vauban",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-7#rue-garibaldi-belges-à-vauban"
       },
       "geometry": {

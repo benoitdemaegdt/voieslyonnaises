@@ -157,8 +157,8 @@ streetView: 45.7502784,4.8356748,3a,75y,12.37h,82.36t
 Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.\
 A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence ou le pont de la Mulatière.\
 
-::banner{type="wip"}
-Les travaux devraient commencer au printemps 2025 et continuer jusqu'à l'été 2026.
+::banner{type="postponed"}
+La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus sur une voie étroite pour déboucher sur un carrefour au ressenti autoroutier au Sud.
 ::
 
 #### *Concertation*

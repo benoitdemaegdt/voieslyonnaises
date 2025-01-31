@@ -646,8 +646,8 @@
         "id": "GaribaldiNord-commun",
         "line": 9,
         "name": "Garibaldi - Duquesne Vauban",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "aucun",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {

@@ -155,6 +155,10 @@ La création d'une alternative sécurisée pour les cyclistes sur ce tronçon du
 Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.
 Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la transformation du stationnement actuellement en épi en stationnement longitudinal.
 
+::banner{type="postponed"}
+La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes n'auront donc aucune alternative crédible pour rejoindre la parc de la Tête d'Or en sécurité depuis le quartier de la Part-Dieu pendant encore de nombreuses années.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png

@@ -585,8 +585,8 @@
       "properties": {
         "line": 1,
         "name": "Avenue Leclerc",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-1#avenue-général-leclerc"
       },
       "geometry": {

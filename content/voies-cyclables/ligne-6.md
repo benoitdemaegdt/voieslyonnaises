@@ -51,6 +51,10 @@ Trois variantes sont ici proposées à la concertation :
 Suite à la concertation, la Métropole a annoncé avoir retenu la variante 2. La desserte cyclable du cours Aristide Briand continuera donc à se faire via le parking automobile actuel sur le quai haut.
 ::
 
+::banner{type="postponed"}
+La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes devront donc continuer d'emprunter la contre-allée de parking de 3m de large partagée avec les piétons et les voitures.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl6/cours-aristide-briand-caluire.png
@@ -69,6 +73,10 @@ Dans le sens Nord>Sud, le projet prévoit la création d'une piste cyclable unid
 
 ::banner{type="info"}
 Suite à la concertation, la Métropole a annoncé avoir retenu la variante 2.
+::
+
+::banner{type="postponed"}
+La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus au Sud, et emprunter la voie verte de 3m20 de large au Nord aménagée fin 2019. En attendant la 2x2 voies voitures est donc conservée.
 ::
 
 ::content-image
