@@ -547,8 +547,10 @@
         "id": "11NovO-commun",
         "line": 9,
         "name": "Boulevard du 11 Nov. 1918 - Ouest",
-        "status": "postponed",
+        "status": "done",
+        "doneAt":"08/07/2005",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
