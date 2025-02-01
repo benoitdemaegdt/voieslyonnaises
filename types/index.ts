@@ -121,7 +121,7 @@ export function isPerspectiveFeature(feature: Feature): feature is PerspectiveFe
   return isPointFeature(feature) && feature.properties.type === 'perspective';
 }
 
-export function isDangerFeature(feature: Feature): feature is PerspectiveFeature {
+export function isDangerFeature(feature: Feature): feature is DangerFeature {
   return isPointFeature(feature) && feature.properties.type === 'danger';
 }
 

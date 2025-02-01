@@ -9,6 +9,7 @@
     <div v-else>
       <ProgressBar :voies="voies" />
       <Stats :voies="voies" :precision="1" class="mt-8 max-w-2xl mx-auto" />
+      <StatsQuality v-if="displayQuality()" class="mt-8 max-w-2xl mx-auto" :voies="voies" :precision="1" />
       <Typology :voies="voies" class="mt-8 max-w-2xl mx-auto" />
 
       <div v-for="voie in voies" :key="voie.line" class="py-2 my-8 flex">
@@ -30,6 +31,7 @@
           <div>
             <ProgressBar :voies="[voie]" />
             <Stats :voies="[voie]" :precision="1" class="mt-8" />
+            <StatsQuality v-if="displayQuality()" :voies="[voie]" :precision="1" />
             <Typology :voies="[voie]" class="mt-8 max-w-2xl mx-auto" />
           </div>
         </div>
@@ -52,6 +54,7 @@ interface Mds extends ParsedContent {
 
 const { getLineColor } = useColors();
 const { getTotalDistance, displayDistanceInKm } = useStats();
+const { displayQuality } = useConfig();
 
 const { data: voies } = await useAsyncData(() => {
   return queryContent<Geojson>('voies-cyclables').where({ _type: 'json' }).find();

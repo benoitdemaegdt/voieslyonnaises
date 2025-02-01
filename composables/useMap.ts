@@ -504,6 +504,7 @@ export const useMap = () => {
       id: 'perspectives',
       source: 'perspectives',
       type: 'symbol',
+      minzoom: 14,
       layout: {
         'icon-image': 'camera-icon',
         'icon-size': 0.5,
@@ -511,18 +512,6 @@ export const useMap = () => {
       },
       paint: {
         'icon-color': ['get', 'color']
-      }
-    });
-
-    // on n'affiche les perspectives qu'à partir d'un certain zoom.
-    // ceci pour éviter de surcharger la map.
-    map.setLayoutProperty('perspectives', 'visibility', 'none');
-    map.on('zoom', () => {
-      const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
-        map.setLayoutProperty('perspectives', 'visibility', 'visible');
-      } else {
-        map.setLayoutProperty('perspectives', 'visibility', 'none');
       }
     });
 
@@ -549,18 +538,10 @@ export const useMap = () => {
       id: 'dangers',
       source: 'dangers',
       type: 'symbol',
+      minzoom: 14,
       layout: {
         'icon-image': 'danger-icon',
         'icon-size': 0.7
-      }
-    });
-    map.setLayoutProperty('perspectives', 'visibility', 'none');
-    map.on('zoom', () => {
-      const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
-        map.setLayoutProperty('dangers', 'visibility', 'visible');
-      } else {
-        map.setLayoutProperty('dangers', 'visibility', 'none');
       }
     });
   }

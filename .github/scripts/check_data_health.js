@@ -136,16 +136,27 @@ function checkGeoJsonDataHealth({ links }) {
                 process.exit(1);
               }
             } else if (feature.geometry.type === 'Point') {
-              // perspective images added to the map at high zoom level
               const properties = feature.properties || {};
-              const requiredKeys = ['type', 'line', 'name', 'imgUrl'];
-              for (const key of requiredKeys) {
-                if (!properties.hasOwnProperty(key)) {
-                  console.error(`Missing key '${key}' in Point properties of file: ${filePath}`);
-                  process.exit(1);
+              
+              if (properties.type === 'danger') {
+                // danger icons added to the map at high zoom level
+                const requiredKeys = ['type', 'name'];
+                for (const key of requiredKeys) {
+                  if (!properties.hasOwnProperty(key)) {
+                    console.error(`Missing key '${key}' in danger properties of file: ${filePath}`);
+                    process.exit(1);
+                  }
                 }
-              }
-              if (properties.type !== 'perspective') {
+              } else if (properties.type === 'perspective') {
+                // perspective images added to the map at high zoom level
+                const requiredKeys = ['type', 'line', 'name', 'imgUrl'];
+                for (const key of requiredKeys) {
+                  if (!properties.hasOwnProperty(key)) {
+                    console.error(`Missing key '${key}' in perspective properties of file: ${filePath}`);
+                    process.exit(1);
+                  }
+                }
+              } else {
                 console.error(`Invalid type '${properties.type}' in Point properties of file: ${filePath}`);
                 process.exit(1);
               }
