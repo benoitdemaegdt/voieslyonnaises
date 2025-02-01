@@ -809,8 +809,10 @@
       "properties": {
         "line": 11,
         "name": "Avenue du Dauphiné Est",
-        "status": "postponed",
+        "status": "done",
+        "doneAt": "15/01/1998",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#avenue-du-dauphiné-est"
       },
       "geometry": {

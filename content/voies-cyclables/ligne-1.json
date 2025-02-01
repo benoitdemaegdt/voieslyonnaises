@@ -105,6 +105,19 @@
         "coordinates": [4.852309922091081, 45.7093372766968]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Station T10 - Quatre Chemins",
+        "description": "Espace étroit très fréquenté avec des commerces",
+        "danger": "Risque de gêne fréquente entre piétons et cyclistes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.854443, 45.708644]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -265,8 +278,10 @@
         "id": "11NovO-commun",
         "line": 1,
         "name": "Boulevard du 11 Nov. 1918 - Ouest",
-        "status": "postponed",
+        "status": "done",
+        "doneAt": "08/07/2005",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-1#stalingrad-nord"
       },
       "geometry": {
@@ -295,40 +310,23 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.862144082681112, 45.78452557526816],
+          [4.862200896628934, 45.784338011196866],
+          [4.862114945344814, 45.784134927910856],
+          [4.861955079016923, 45.7840097089655],
+          [4.861681987226291, 45.783793985076784],
+          [4.861420310705796, 45.783546137065855],
+          [4.8611263593755325, 45.78323860628828],
+          [4.86081294095942, 45.78292184709244],
+          [4.860506826041387, 45.782641670652225],
+          [4.860342527530207, 45.78247494102024],
+          [4.860157493643499, 45.782233216710694],
           [4.860157493643499, 45.782233216710694],
           [4.860057753276379, 45.782042205762906],
           [4.859792515712513, 45.77961927680201]
         ]
       }
     },    
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "StalingradTransbo-commun",
-        "line": 1,
-        "name": "Transbordeur Est",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-1#stalingrad-nord"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.861193194938238, 45.78457073986618],
-          [4.861315438951237, 45.78448747445583],
-          [4.861417782775277, 45.78431896074434],
-          [4.861431997216897, 45.78419207949594],
-          [4.861372296613325, 45.78392715644546],
-          [4.8612813243247786, 45.78373683312748],
-          [4.861156237428787, 45.78352073607246],
-          [4.860935133900114, 45.78328940850412],
-          [4.8605215497568395, 45.782972649593205],
-          [4.860160798989341, 45.782952836803105],
-          [4.8600329243768385, 45.782322532059254],
-          [4.860157493643499, 45.782233216710694]
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -345,7 +343,8 @@
           [4.859096014315483, 45.78473198447127],
           [4.85915263804057, 45.78461590794164],
           [4.860028376055567, 45.784614639552274],
-          [4.861193194938238, 45.78457073986618]
+          [4.861193194938238, 45.78457073986618],
+          [4.861315438951237, 45.78448747445583]
         ]
       }
     },
@@ -355,8 +354,10 @@
         "id": "LignonEst-commun",
         "line": 1,
         "name": "Allée Achille Lignon Est",
-        "status": "postponed",
+        "status": "done",
+        "doneAt": "10/04/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-1#allée-achille-lignon"
       },
       "geometry": {
@@ -383,6 +384,7 @@
         "name": "Allée Achille Lignon Ouest",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-1#allée-achille-lignon"
       },
       "geometry": {

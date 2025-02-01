@@ -56,6 +56,58 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "46, boulevard Niels Bohr",
+        "description": "Pincement à moins de 2m au droit d'un transformateur",
+        "danger": "Croisement inconfortable entre cyclistes et piétons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.869523, 45.784801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Place Valmy",
+        "description": "Anneau cyclable trop proche de l'anneau routier",
+        "danger": "Risque de collision voiture-vélo faute de visibilité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.805412, 45.775292]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Garage Suzuki - Tassin",
+        "description": "Stationnement régulier de poids lourds pour déchargement véhicules",
+        "danger": "Blocage total de la circulation des piétons-cyclistes, obligeant les usagers à se mettre en danger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.791066, 45.772197]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Station Velo'V - Pont Blanc",
+        "description": "Voie verte obstruée par la station, créant un passage étroit",
+        "danger": "Conflits réguliers entre piétons et cyclistes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.798344, 45.720170]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
         "line": 5,
         "name": "Liaison VL7",
         "status": "unknown",
@@ -1239,6 +1291,7 @@
         "name": "Allée Achille Lignon Ouest",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {
@@ -1260,8 +1313,10 @@
         "id": "LignonEst-commun",
         "line": 5,
         "name": "Allée Achille Lignon Est",
-        "status": "postponed",
+        "status": "done",
+        "doneAt": "10/04/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {
@@ -1296,7 +1351,8 @@
           [4.859096014315483, 45.78473198447127],
           [4.85915263804057, 45.78461590794164],
           [4.860028376055567, 45.784614639552274],
-          [4.861193194938238, 45.78457073986618]
+          [4.861193194938238, 45.78457073986618],
+          [4.861315438951237, 45.78448747445583]
         ]
       }
     },
@@ -1306,13 +1362,13 @@
         "line": 5,
         "name": "Boulevard Laurent Bonnevay",
         "status": "planned",
-        "type": "bidirectionnelle",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.861193194938238, 45.78457073986618],
+          [4.861315438951237, 45.78448747445583],
           [4.862292408943176, 45.78455049743229],
           [4.863498273402648, 45.78445648946956],
           [4.863604151721091, 45.78443861366232],

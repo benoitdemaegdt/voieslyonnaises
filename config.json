@@ -142,6 +142,6 @@
       "link": "https://destinations2026-sytral.fr/processes/t10"
     }
   ],
-  "qualityDisplay": false,
+  "qualityDisplay": true,
   "qualityDisplayOnHomePage": false
 }

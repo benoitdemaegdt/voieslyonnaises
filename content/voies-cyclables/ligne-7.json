@@ -108,6 +108,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Carrefour Jaurès",
+        "description": "Difficulté à rejoindre la piste bidirectionnelle au Nord depuis les autres branches du carrefours",
+        "danger": "Conflit avec les mouvements des véhicules dans le carrefour qui créent un cisaillement dangereux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.855060, 45.712066]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "line": 7,
         "name": "Franchissement A46",
         "status": "planned",
@@ -1428,7 +1441,7 @@
         "type": "LineString",
         "coordinates": [
           [4.854992141407166,45.712050115774645],
-          [4.856284421138838, 45.7055599337377]
+          [4.856360413936926,45.70560458150263]
         ]
       }
     },

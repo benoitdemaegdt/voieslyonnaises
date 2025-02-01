@@ -160,6 +160,32 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Carrefour Epargne-Berliet, sens Est>Ouest",
+        "description": "Cisaillement dangereux avec les bus et les véhicules dans le dos du cycliste",
+        "danger": "Difficulté à rejoindre le pont de l'Epargne en coupant en diagonale le carrefour sans espace de stockage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.855060, 45.712066]
+      }
+    },     
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Carrefour Mermoz-Pinel, sens Ouest>Est",
+        "description": "Traversée cyclable sans déflection en conflit avec véhicules tournant à droite",
+        "danger": "Risque d'accident voiture-vélo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.887421, 45.730437]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
         "line": 8,
         "name": "La Tour de Salvagny - Ouest",
         "status": "postponed",
@@ -774,6 +800,7 @@
         "status": "done",
         "doneAt": "01/04/2022",
         "type": "bilaterale",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {

@@ -17,6 +17,58 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Arrêt T3 - Bel Air",
+        "description": "Voie verte étroite - Point dur à 1m70 de large",
+        "danger": "Fort conflit piéton-vélo au droit d'une station de tramway à forte fréquentation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.910508, 45.758368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "D-Side Est",
+        "description": "Voie verte étroite - Point dur à 1m85 de large",
+        "danger": "Fort conflit piéton-vélo au droit d'un retrécissement sur quelques mètres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.942423, 45.766194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Wilson Ouest",
+        "description": "Voie verte étroite - Point dur à 1m50 de large",
+        "danger": "Fort conflit piéton-vélo au droit d'un retrécissement sur quelques mètres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.942423, 45.766194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Carrefour Route de Jonage",
+        "description": "Traversée cycle sans visibilité avec un feu vert très court",
+        "danger": "Les temps d'attentes au rouge trop importants poussent certains cyclistes à entamer des manoeuvres dangereuses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.910508, 45.758368]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "id": "Valvert-commun",
         "line": 10,
         "name": "Boulevard du Valvert",
@@ -453,6 +505,7 @@
         "status": "done",
         "doneAt": "31/10/2023",
         "type": "voie-bus-elargie",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-waldeck-rousseau-à-lafayette"
       },
       "geometry": {
@@ -766,7 +819,7 @@
         "line": 10,
         "name": "Promenade de la Gare",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -824,6 +877,7 @@
         "name": "Rue de la Ligne de l'Est étroite",
         "status": "planned",
         "type": "velorue",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -861,6 +915,7 @@
         "name": "Rue de la Ligne de l'Est - Médipôle",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -881,7 +936,7 @@
         "line": 10,
         "name": "Bel Air - Site SAFRAN",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -918,7 +973,7 @@
         "line": 10,
         "name": "Rue Jean Bertin",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -956,7 +1011,7 @@
         "line": 10,
         "name": "Avenue des Canuts",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -995,8 +1050,9 @@
         "line": 10,
         "name": "BUE à Avenue Roosevelt",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1031,8 +1087,9 @@
         "line": 10,
         "name": "D-Side - Wilson",
         "status": "done",  
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1339,7 +1396,51 @@
       "type": "Feature",
       "properties": {
         "line": 10,
-        "name": "Route de Jonage - Avenue du Carreau",
+        "name": "Décines - Rocade Est",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.984011300004681, 45.773406054632346],
+          [4.98394218745824, 45.773397016034835],
+          [4.982601566626698, 45.77357597291103],
+          [4.982257773256123, 45.773587609117385],
+          [4.982229128122469, 45.773593809760854],
+          [4.982195050291153, 45.773607933446016],
+          [4.982183691013631, 45.77362860224761],
+          [4.982201630214661, 45.77365379922233],
+          [4.98225496942959, 45.773756109629545]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Traversée Rocade Est",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "voie-verte",
+        "quality": "unsatisfactory",
+        "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.985071551652979,45.773276195443216],
+          [4.984011300004681, 45.773406054632346]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 10,
+        "name": "Meyzieu - Rocade Est",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
@@ -1353,15 +1454,8 @@
           [4.990102029057567, 45.77279297349705],
           [4.990078805884849, 45.772671607814374],
           [4.986772572054377, 45.77306546212404],
-          [4.984011300004681, 45.773406054632346],
-          [4.98394218745824, 45.773397016034835],
-          [4.982601566626698, 45.77357597291103],
-          [4.982257773256123, 45.773587609117385],
-          [4.982229128122469, 45.773593809760854],
-          [4.982195050291153, 45.773607933446016],
-          [4.982183691013631, 45.77362860224761],
-          [4.982201630214661, 45.77365379922233],
-          [4.98225496942959, 45.773756109629545]
+          [4.98510889579331,45.77326128018213],
+          [4.985071551652979,45.773276195443216]
         ]
       }
     },
@@ -1395,8 +1489,9 @@
         "line": 10,
         "name": "Avenue du Carreau - Boulevard du 18 Juin 1940",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1432,7 +1527,7 @@
         "line": 10,
         "name": "Gare de Meyzieu",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
@@ -1515,8 +1610,9 @@
         "line": 10,
         "name": "Rue Arago Ouest",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {
@@ -1551,8 +1647,9 @@
         "line": 10,
         "name": "Rue Arago Est",
         "status": "done",
-        "doneAt": "31/12/2019",
+        "doneAt": "31/10/2006",
         "type": "voie-verte",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#le-long-du-tramway-t3"
       },
       "geometry": {

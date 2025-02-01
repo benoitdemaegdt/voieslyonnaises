@@ -95,6 +95,45 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "danger",
+        "name": "Place d'Arsonval",
+        "description": "Anneau en voie bus avec fort trafic et cisaillements",
+        "danger": "Forts conflits bus-voiture-vélo. Trajectoires vélos qui coupent les trajectoires voitures avec une mauvaise visibilité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.878861, 45.742912]
+      }
+    },      
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Arrêt tram Desgenettes",
+        "description": "Voie verte avec trafic piéton-vélo élevé",
+        "danger": "Fort conflit piéton-vélo au droit d'une station de tramway à forte fréquentation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.893413, 45.738724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
+        "name": "Arrêt tram Essarts-Iris",
+        "description": "Voie verte avec trafic piéton-vélo élevé",
+        "danger": "Fort conflit piéton-vélo au droit d'une station de tramway à forte fréquentation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.898117, 45.737183]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
         "id": "PlaceValmy-commun",
         "line": 12,
         "name": "Place Valmy",
@@ -143,6 +182,7 @@
         "status": "done",
         "doneAt": "01/04/2022",
         "type": "bilaterale",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
@@ -170,6 +210,7 @@
         "status": "done",
         "doneAt": "01/04/2022",
         "type": "bilaterale",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
@@ -524,8 +565,9 @@
       "properties": {
         "line": 12,
         "name": "Avenue Franklin Roosevelt",
-        "status": "postponed",
-        "type": "bidirectionnelle",
+        "status": "done",
+        "doneAt": "30/11/2000",
+        "type": "voie-verte",
         "link": "/voie-lyonnaise-12#boulevard-pinel-à-bron-boutasse"
       },
       "geometry": {
