@@ -1,5 +1,5 @@
 import { groupBy } from '../helpers/helpers';
-import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature, type LaneQuality } from '../types';
+import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature, type LaneQuality, isDangerFeature } from '../types';
 
 export const useStats = () => {
   function getAllUniqLineStrings(voies: Geojson[]) {
@@ -13,6 +13,20 @@ export const useStats = () => {
         }
         if (feature.properties.id === 'variante2') {
           return false;
+        }
+
+        return index === sections.findIndex(section => section.properties.id === feature.properties.id);
+      });
+  }
+
+  function getAllUniqDangers(voies: Geojson[]) {
+    return voies
+      .map(voie => voie.features)
+      .flat()
+      .filter(isDangerFeature)
+      .filter((feature, index, sections) => {
+        if (feature.properties.id === undefined) {
+          return true;
         }
 
         return index === sections.findIndex(section => section.properties.id === feature.properties.id);
@@ -137,17 +151,19 @@ export const useStats = () => {
     };
   }
 
-  function getStatsQuality(voies: Geojson[]): { distance: number, percent: number, nbZone: number } {
+  function getStatsQuality(voies: Geojson[]): { distance: number; percent: number; dangerCount: number } {
     const features = getAllUniqLineStrings(voies);
+    const dangers = getAllUniqDangers(voies);
     const totalDistance = getDistance({ features });
-    const unsatisfactoryFeatures = features.filter(feature => feature.properties.quality === 'unsatisfactory');
-
-    const unsatisfactoryDistance = getDistance({ features: unsatisfactoryFeatures });
+    const lowQualityFeatures = features.filter(
+      feature => feature.properties.quality === 'unsatisfactory' || feature.properties.status === 'postponed'
+    );
+    const lowQualityDistance = getDistance({ features: lowQualityFeatures });
 
     return {
-      distance: unsatisfactoryDistance,
-      percent: Math.round(unsatisfactoryDistance / totalDistance * 100),
-      nbZone: unsatisfactoryFeatures.length
+      distance: lowQualityDistance,
+      percent: Math.round((lowQualityDistance / totalDistance) * 100),
+      dangerCount: dangers.length
     };
   }
 
