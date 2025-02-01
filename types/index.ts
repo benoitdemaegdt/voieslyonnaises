@@ -85,6 +85,7 @@ export type PumpFeature = {
 export type DangerFeature = {
   type: 'Feature';
   properties: {
+    id?: string,
     type: 'danger',
     name: string
     description: string
