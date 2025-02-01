@@ -73,6 +73,7 @@
         "name": "Place Bénédict Tessier",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -90,6 +91,7 @@
         "name": "Avenue du Point du Jour Ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -111,6 +113,7 @@
         "name": "Avenue du Point du Jour Est",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -132,6 +135,7 @@
         "name": "Rue de la Favorite",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -166,6 +170,7 @@
         "name": "Saint-Just",
         "status": "tested",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -218,6 +223,7 @@
         "name": "Montée du Chemin Neuf",
         "status": "tested",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -264,6 +270,7 @@
         "name": "Saint-Jean",
         "status": "tested",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -288,6 +295,7 @@
         "name": "Avenue Adolphe Max",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -307,6 +315,7 @@
         "name": "Pont Bonaparte - Chambonnet",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-saint-just-traversée-de-saint-jean"
       },
       "geometry": {
@@ -326,6 +335,7 @@
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "postponed",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -345,6 +355,7 @@
         "name": "Traversée Presqu'île (par Perrache)",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -393,6 +404,7 @@
         "name": "Pont Wilson - Pont Guillotière",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#pont-wilson"
       },
       "geometry": {
@@ -413,6 +425,7 @@
         "status": "done",
         "doneAt": "28/02/2022",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#pont-wilson"
       },
       "geometry": {
@@ -434,6 +447,7 @@
         "status": "done",
         "doneAt": "28/06/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#pont-wilson"
       },
       "geometry": {
@@ -451,6 +465,7 @@
         "name": "Rue de Bonnel",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#rue-de-bonnel"
       },
       "geometry": {
@@ -479,6 +494,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#rue-garibaldi-bonnel-à-paul-bert"
       },
       "geometry": {
@@ -498,6 +514,7 @@
         "name": "Rue Paul Bert",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#rue-paul-bert-garibaldi-à-vivier-merle"
       },
       "geometry": {
@@ -521,6 +538,7 @@
         "name": "Vivier Merle Nord",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#boulevard-vivier-merle-paul-bert-à-félix-faure"
       },
       "geometry": {
@@ -538,6 +556,7 @@
         "name": "Avenue Félix Faure",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
       },
       "geometry": {
@@ -556,6 +575,7 @@
         "name": "Parc Mandela - Dauphiné",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
       },
       "geometry": {
@@ -580,6 +600,7 @@
         "name": "Dauphiné - Jules Verne",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
       },
       "geometry": {
@@ -609,6 +630,7 @@
         "name": "Jules Verne - Reconnaissance Balzac",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
       },
       "geometry": {
@@ -637,6 +659,7 @@
         "name": "Reconnaissance Balzac - Kimmerling",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#reconnaissance-balzac-à-bron-sept-chemins"
       },
       "geometry": {
@@ -665,6 +688,7 @@
         "name": "Kimmerling - Sept Chemins",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#reconnaissance-balzac-à-bron-sept-chemins"
       },
       "geometry": {
@@ -715,6 +739,7 @@
         "name": "Carrefour Sept Chemins - Avenue Jean Mermoz",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#bron-sept-chemins-à-boulevard-urbain-est"
       },
       "geometry": {
@@ -745,6 +770,7 @@
         "status": "done",
         "doneAt": "10/07/2024",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#boulevard-urbain-est-à-chassieu-dauphiné"
       },
       "geometry": {
@@ -777,6 +803,7 @@
         "status": "done",
         "doneAt": "10/07/2024",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#avenue-du-dauphiné-ouest"
       },
       "geometry": {

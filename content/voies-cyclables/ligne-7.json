@@ -125,6 +125,7 @@
         "name": "Franchissement A46",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -158,6 +159,7 @@
         "name": "Rillieux - Route du Mas Rillier Est",
         "status": "planned",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -184,6 +186,7 @@
         "name": "Rillieux - Route du Mas Rillier Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -204,6 +207,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -242,6 +246,7 @@
         "name": "Rillieux - Rue Ampère",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -267,6 +272,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -303,6 +309,7 @@
         "name": "Rillieux - Janier & Combattants AFN",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -328,6 +335,7 @@
         "status": "done",
         "doneAt": "10/04/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -348,6 +356,7 @@
         "name": "Rillieux - Loup Pendu",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -372,6 +381,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -391,6 +401,7 @@
         "name": "Rillieux - Carrefour Mercières",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -409,6 +420,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -432,6 +444,7 @@
         "name": "Rillieux - Carrefour Avenue du 8 Mai",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -450,6 +463,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
@@ -514,6 +528,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -541,6 +556,7 @@
         "name": "Chemin Petit - Variante Sud",
         "status": "postponed",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -566,6 +582,7 @@
         "name": "Voie verte de la Dombes - Nord",
         "status": "postponed",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -589,6 +606,7 @@
         "status": "done",
         "doneAt": "15/11/2023",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -610,6 +628,7 @@
         "name": "Voie verte de la Dombes - Centre",
         "status": "postponed",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -632,6 +651,7 @@
         "name": "Variante Marc Sangnier Nord",
         "status": "variante-postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -650,6 +670,7 @@
         "name": "Variante Rue des Combattants AfN",
         "status": "variante-postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -679,6 +700,7 @@
         "name": "Voie verte de la Dombes - Lavoisier",
         "status": "postponed",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -700,6 +722,7 @@
         "name": "Avenue Marc Sangnier",
         "status": "variante-postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -723,6 +746,7 @@
         "name": "Voie verte de la Dombes - Sud",
         "status": "postponed",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -743,6 +767,7 @@
         "name": "Cuire - Chemin du Penthod",
         "status": "planned",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
       },
       "geometry": {
@@ -764,6 +789,7 @@
         "name": "Cuire - Place Jules Ferry",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
       },
       "geometry": {
@@ -785,6 +811,7 @@
         "name": "Boulevard des Canuts Nord",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -819,6 +846,7 @@
         "name": "Boulevard des Canuts Sud",
         "status": "postponed",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -838,6 +866,7 @@
         "name": "Fresque des Canuts",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -858,6 +887,7 @@
         "status": "postponed",
         "text": "variante",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
@@ -894,6 +924,7 @@
         "status": "postponed",
         "text": "variante",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -914,6 +945,7 @@
         "name": "Place des Tapis",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
@@ -936,6 +968,7 @@
         "name": "Montée de la Boucle",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#montée-de-la-boucle"
       },
       "geometry": {
@@ -986,6 +1019,7 @@
         "name": "Contre-allée de la Boucle",
         "status": "planned",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#montée-de-la-boucle"
       },
       "geometry": {
@@ -1012,6 +1046,7 @@
         "name": "Carrefour Boucle - Pont Churchill",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
@@ -1040,6 +1075,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
@@ -1063,6 +1099,7 @@
         "name": "Tête d'Or",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
@@ -1083,6 +1120,7 @@
         "name": "Belges Ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
@@ -1108,6 +1146,7 @@
         "name": "Garibaldi Nord",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
@@ -1127,6 +1166,7 @@
         "name": "Garibaldi - Duquesne Vauban",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#rue-garibaldi-belges-à-vauban"
       },
       "geometry": {
@@ -1153,6 +1193,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#rue-garibaldi-vauban-à-arménie"
       },
       "geometry": {
@@ -1182,6 +1223,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#rue-garibaldi-bonnel-à-paul-bert"
       },
       "geometry": {
@@ -1203,6 +1245,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
       "geometry": {
@@ -1224,6 +1267,7 @@
         "name": "Garibaldi - Arménie Gde Rue Guill",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
       "geometry": {
@@ -1256,6 +1300,7 @@
         "status": "done",
         "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
@@ -1280,6 +1325,7 @@
         "status": "done",
         "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
@@ -1298,6 +1344,7 @@
         "status": "done",
         "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
@@ -1319,6 +1366,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#rue-paul-duvivier"
       },
       "geometry": {
@@ -1354,6 +1402,7 @@
         "status": "done",
         "doneAt": "30/08/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
@@ -1375,6 +1424,7 @@
         "status": "done",
         "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
@@ -1395,6 +1445,7 @@
         "status": "done",
         "doneAt": "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
@@ -1417,6 +1468,7 @@
         "status": "done",
         "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#avenue-jean-jaurès"
       },
       "geometry": {
@@ -1435,6 +1487,7 @@
         "name": "Saint-Fons Centre",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#saint-fons-centre"
       },
       "geometry": {
@@ -1452,6 +1505,7 @@
         "name": "Boulevard Yves Farge",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
       "geometry": {
@@ -1488,6 +1542,7 @@
         "name": "Traversée Boulevard Urbain Sud",
         "status": "wip",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
       "geometry": {
@@ -1559,6 +1614,7 @@
         "name": "Feyzin Nord",
         "status": "planned",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {
@@ -1585,6 +1641,7 @@
         "name": "Feyzin Centre",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {

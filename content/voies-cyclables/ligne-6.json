@@ -164,6 +164,7 @@
         "name": "Chemin de Halage de Crépieux",
         "status": "planned",
         "type": "voie-verte",
+        "quality":"satisfactory",
         "link": "/voie-lyonnaise-6#chemin-de-halage-de-crépieux"
       },
       "geometry": {
@@ -206,6 +207,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#voie-verte-des-berges-du-rhône-et-du-canal-de-miribel"
       },
       "geometry": {
@@ -284,6 +286,7 @@
         "name": "Carrefour Boucle - Pont Churchill",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
@@ -330,6 +333,7 @@
         "name": "Cours d'Herbouville Sud",
         "status": "postponed",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
@@ -347,6 +351,7 @@
         "name": "Jonction Quais du Rhône Centre - VL4",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#jonction-vers-rhône-rive-droite-et-vl4"
       },
       "geometry": {
@@ -371,6 +376,7 @@
         "name": "Rhône Rive Droite Nord",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -389,6 +395,7 @@
         "name": "Passerelle du Collège - Pont Wilson",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -409,6 +416,7 @@
         "name": "Pont Wilson - Pont Guillotière",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -429,6 +437,7 @@
         "name": "Pont Guillotière - Pont Université",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -448,6 +457,7 @@
         "name": "Pont de l'Université - Condé",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -465,6 +475,7 @@
         "name": "Condé - Pont Gallieni",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-de-lattre-à-pont-gallieni-lyon-rive-droite"
       },
       "geometry": {
@@ -482,6 +493,7 @@
         "name": "Traversée échangeur M6-M7",
         "status": "planned",
         "type": "inconnu",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
@@ -501,6 +513,7 @@
         "status": "done",
         "doneAt": "31/08/2021",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
@@ -522,6 +535,7 @@
         "name": "Quai Perrache Centre",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
@@ -540,6 +554,7 @@
         "name": "Quai Perrache Sud",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#quai-perrache"
       },
       "geometry": {
@@ -562,6 +577,7 @@
         "name": "Pont de la Mulatière",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#pont-autoroutier-de-la-mulatière"
       },
       "geometry": {
@@ -585,6 +601,7 @@
         "name": "Carrefour Aquarium",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -603,6 +620,7 @@
         "name": "La Mulatière - Quai de la Libération",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -625,6 +643,7 @@
         "status": "done",
         "doneAt": "31/08/2001",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -677,6 +696,7 @@
         "name": "Oullins Herriot",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -696,6 +716,7 @@
         "name": "Pont d'Oullins",
         "status": "planned",
         "type": "inconnu",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#aquarium-à-pont-doullins"
       },
       "geometry": {
@@ -715,6 +736,7 @@
         "status": "variante",
         "text": "variante 2 S>N",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -740,6 +762,7 @@
         "name": "Scénario 2 - Grande Rue Sud - sens Sud>Nord",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -759,6 +782,7 @@
         "status": "variante",
         "text": "variante 2",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -778,6 +802,7 @@
         "status": "variante",
         "text": "variante 2 N>S",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -824,6 +849,7 @@
         "name": "Scénario 2 - rue de la Camille - sens Nord>Sud",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -855,6 +881,7 @@
         "status": "tested",
         "text": "variante 1",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -901,6 +928,7 @@
         "status": "tested",
         "text": "variante 1",
         "type": "bandes-cyclables",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -926,6 +954,7 @@
         "name": "Oullins Bourgeois - St-Genis-Laval Gadagne",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#rue-de-la-camille-à-giratoire-gadagne"
       },
       "geometry": {
@@ -956,6 +985,7 @@
         "name": "Traversée de St-Genis-Laval",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-6#giratoire-gadagne-à-chemin-des-barolles"
       },
       "geometry": {
