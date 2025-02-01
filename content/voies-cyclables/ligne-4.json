@@ -151,6 +151,7 @@
         "name": "Lissieu - Chicotière à Gare",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
       "geometry": {
@@ -170,6 +171,7 @@
         "name": "Lissieu Gare - Dardilly Clairière",
         "status": "wip",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
       "geometry": {
@@ -190,6 +192,7 @@
         "name": "Contre-allée Clairière",
         "status": "wip",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
       "geometry": {
@@ -212,6 +215,7 @@
         "name": "Dardilly - Clairière à Maison Carrée",
         "status": "wip",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
       "geometry": {
@@ -258,6 +262,7 @@
         "name": "Porte de Lyon",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#porte-de-lyon"
       },
       "geometry": {
@@ -291,6 +296,7 @@
         "name": "Limonest - RN6 Techlid",
         "status": "postponed",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-avenue-de-montlouis"
       },
       "geometry": {
@@ -313,6 +319,7 @@
         "name": "Champagne - Avenue De Gaulle",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-avenue-de-montlouis"
       },
       "geometry": {
@@ -335,6 +342,7 @@
         "name": "Champagne - Montlouis",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
@@ -358,6 +366,7 @@
         "name": "Champagne - République",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
@@ -379,6 +388,7 @@
         "name": "Champagne - Mairie",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
@@ -404,6 +414,7 @@
         "name": "Variante Lanessan",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
@@ -425,6 +436,7 @@
         "name": "Champagne - Lanessan Sud",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#rue-juttet-à-avenue-de-champagne"
       },
       "geometry": {
@@ -444,6 +456,7 @@
         "name": "Avenue du 25e RTS",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-du-25e-régiment-de-tirailleurs-sénégalais"
       },
       "geometry": {
@@ -483,6 +496,7 @@
         "name": "Rue Mouillard",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#porte-de-vaise"
       },
       "geometry": {
@@ -512,6 +526,7 @@
         "name": "Friche SNCF",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#porte-de-vaise"
       },
       "geometry": {
@@ -541,6 +556,7 @@
         "name": "Bourgogne Nord",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#rue-de-bourgogne"
       },
       "geometry": {
@@ -577,6 +593,7 @@
         "name": "Rue de la Corderie",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#rue-de-la-corderie"
       },
       "geometry": {
@@ -596,6 +613,7 @@
         "name": "Carrefour des Monts d'Or",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#quais-de-saône"
       },
       "geometry": {
@@ -614,6 +632,7 @@
         "name": "Quai Jaÿr Sud",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#quais-de-saône"
       },
       "geometry": {
@@ -635,6 +654,7 @@
         "status": "done",
         "doneAt": "16/09/2022",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -655,6 +675,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -680,6 +701,7 @@
         "name": "Pont de Lattre de Tassigny",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -700,6 +722,7 @@
         "name": "Avenue Duquesne",
         "status": "postponed",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -719,6 +742,7 @@
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -737,6 +761,7 @@
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
         "type": "voie-bus-elargie",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -755,6 +780,7 @@
         "name": "Avenue Verguin",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#avenue-verguin"
       },
       "geometry": {
@@ -772,6 +798,7 @@
         "name": "Villeurbanne - André Philip",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#cours-andré-philip-et-rue-francis-de-pressensé"
       },
       "geometry": {
@@ -791,6 +818,7 @@
         "name": "Villeurbanne - Pressensé Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#cours-andré-philip-et-rue-francis-de-pressensé"
       },
       "geometry": {
@@ -814,6 +842,7 @@
         "name": "Villeurbanne - ZAC Gratte-Ciel",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#cours-andré-philip-et-rue-francis-de-pressensé"
       },
       "geometry": {
@@ -833,6 +862,7 @@
         "name": "Villeurbanne - Pressensé Est",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-4#cours-andré-philip-et-rue-francis-de-pressensé"
       },
       "geometry": {

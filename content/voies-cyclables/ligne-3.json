@@ -99,6 +99,7 @@
         "name": "Grand Veissieux",
         "status": "postponed",
         "type": "aucun",
+        "quality":"satisfactory",
         "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -130,6 +131,7 @@
         "name": "Route du Grand Veissieux",
         "status": "postponed",
         "type": "bandes-cyclables",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -170,6 +172,7 @@
         "name": "Quincieux",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quincieux-à-neuville"
       },
       "geometry": {
@@ -202,6 +205,7 @@
         "name": "St-Germain-au-Mont-d'Or",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quincieux-à-neuville"
       },
       "geometry": {
@@ -248,6 +252,7 @@
         "name": "Pont de Neuville-sur-Saône",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -272,6 +277,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -292,6 +298,7 @@
         "name": "Neuville - Esplanade Jean Vilar",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -315,6 +322,7 @@
         "status": "done",
         "doneAt": "25/02/2023",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -336,6 +344,7 @@
         "status": "done",
         "doneAt": "25/02/2023",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -355,6 +364,7 @@
         "status": "done",
         "doneAt": "25/02/2023",
         "type": "zone-de-rencontre",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -372,6 +382,7 @@
         "name": "Neuville - Avenue Sadi Carnot",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -394,6 +405,7 @@
         "status": "done",
         "doneAt": "30/04/2021",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -436,6 +448,7 @@
         "name": "Albigny Nord",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -470,6 +483,7 @@
         "name": "Albigny Sud",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -491,6 +505,7 @@
         "status": "done",
         "doneAt": "25/01/2023",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -516,6 +531,7 @@
         "status": "done",
         "doneAt": "31/11/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -538,6 +554,7 @@
         "status": "done",
         "doneAt": "31/07/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -565,6 +582,7 @@
         "name": "Quai de la Libération",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -584,6 +602,7 @@
         "name": "Collonges",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -649,6 +668,7 @@
         "name": "Quai Raoul Carrié",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
@@ -672,6 +692,7 @@
         "name": "Variante - Gde Rue de Saint Rambert",
         "status": "variante",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
       },
       "geometry": {
@@ -705,6 +726,7 @@
         "name": "Variante - Quai Raoul Carrié",
         "status": "variante",
         "type": "inconnu",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
       },
       "geometry": {
@@ -723,6 +745,7 @@
         "name": "Quai Paul Sédallian",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#île-barbe-à-rue-antonin-laborde-quai-sédallian"
       },
       "geometry": {
@@ -752,6 +775,7 @@
         "name": "Quai du Commerce",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
@@ -774,6 +798,7 @@
         "name": "Quai Jaÿr Nord",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
@@ -799,6 +824,7 @@
         "name": "Quai Jaÿr Sud",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
@@ -818,6 +844,7 @@
         "name": "Quai Jaÿr Trémie",
         "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "status": "planned"
       },
       "geometry": {
@@ -836,6 +863,7 @@
         "name": "Place du Port Mouton",
         "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "status": "planned"
       },
       "geometry": {
@@ -853,6 +881,7 @@
         "name": "Quai Arloing",
         "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "status": "planned"
       },
       "geometry": {
@@ -874,6 +903,7 @@
         "name": "Quai Pierre Scize",
         "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "status": "wip"
       },
       "geometry": {
@@ -901,6 +931,7 @@
         "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "type": "bidirectionnelle",
         "status": "done",
+        "quality": "satisfactory",
         "doneAt" : "17/12/2024"
       },
       "geometry": {
@@ -931,6 +962,7 @@
         "status": "done",
         "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "doneAt": "31/12/2019",
+        "quality": "satisfactory",
         "type": "bidirectionnelle"
       },
       "geometry": {
@@ -956,6 +988,7 @@
         "name": "Quai des Etroits - Quai Jean-Jacques Rousseau",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quai-jean-jacques-rousseau-et-quai-des-etroits"
       },
       "geometry": {
@@ -991,6 +1024,7 @@
         "name": "Carrefour Aquarium",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
@@ -1009,6 +1043,7 @@
         "name": "La Mulatière - Quai de la Libération",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
@@ -1031,6 +1066,7 @@
         "status": "done",
         "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "doneAt": "31/12/2019",
+        "quality": "satisfactory",
         "type": "voie-verte"
       },
       "geometry": {
@@ -1056,6 +1092,7 @@
         "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "type": "voie-verte",
         "status": "done",
+        "quality": "satisfactory",
         "doneAt": "19/11/2024"
       },
       "geometry": {
@@ -1074,6 +1111,7 @@
         "status": "done",
         "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "doneAt": "31/12/2019",
+        "quality": "satisfactory",
         "type": "voie-verte"
       },
       "geometry": {
@@ -1092,6 +1130,7 @@
         "name": "Quai Sémard - Péri Yzeron",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quai-pierre-sémard"
       },
       "geometry": {
@@ -1111,6 +1150,7 @@
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "status": "done",
         "doneAt": "31/12/2019",
+        "quality": "satisfactory",
         "type": "velorue"
       },
       "geometry": {
@@ -1132,6 +1172,7 @@
         "name": "Yzeron - Gare Oullins",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
@@ -1153,6 +1194,7 @@
         "name": "Oullins - Avenue Locard",
         "status": "planned",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
@@ -1176,6 +1218,7 @@
         "name": "Oullins - Avenue des Saules",
         "status": "planned",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
@@ -1194,6 +1237,7 @@
         "name": "Oullins - Rue Dubois Crancé",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
@@ -1219,6 +1263,7 @@
         "status": "done",
         "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "doneAt": "31/12/2019",
+        "quality": "satisfactory",
         "type": "voie-verte"
       },
       "geometry": {
@@ -1241,6 +1286,7 @@
         "name": "Pierre Bénite Nord",
         "status": "wip",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
@@ -1261,6 +1307,7 @@
         "name": "Boulevard de l'Europe",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
@@ -1286,6 +1333,7 @@
         "name": "Traversée A450",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
@@ -1322,6 +1370,7 @@
         "status": "done",
         "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite",
         "doneAt": "31/12/2019",
+        "quality": "satisfactory",
         "type": "voie-verte"
       },
       "geometry": {
@@ -1355,6 +1404,7 @@
         "name": "Irigny - Grigny Le Sablon par Berges du Rhône",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1566,6 +1616,7 @@
         "status": "done",
         "doneAt": "31/12/2010",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1586,6 +1637,7 @@
         "name": "Avenue Marcelin Berthelot",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1608,6 +1660,7 @@
         "name": "Rue Honoré Petetin",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1630,6 +1683,7 @@
         "name": "Place du Bassin",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
@@ -1663,6 +1717,7 @@
         "status": "done",
         "doneAt": "31/12/2010",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
@@ -1683,6 +1738,7 @@
         "status": "done",
         "type": "voie-verte",
         "doneAt": "31/12/2010",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
@@ -1705,6 +1761,7 @@
         "name": "Quai Georges Lévy",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
@@ -1728,6 +1785,7 @@
         "status": "done",
         "link": "/voie-lyonnaise-3#givors-sud",
         "doneAt": "15/12/2023",
+        "quality": "satisfactory",
         "type": "bidirectionnelle"
       },
       "geometry": {
@@ -1752,6 +1810,7 @@
         "status": "done",
         "doneAt" : "17/12/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
@@ -1772,6 +1831,7 @@
         "name": "Givors Freyssinet",
         "status": "wip",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {

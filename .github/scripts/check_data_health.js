@@ -76,7 +76,7 @@ function checkGeoJsonDataHealth({ links }) {
               allLineStrings.push(feature);
               // 2 - check if all properties are present
               const properties = feature.properties || {};
-              const requiredKeys = ['line', 'name', 'status'];
+              const requiredKeys = ['line', 'name', 'status', 'quality'];
               for (const key of requiredKeys) {
                 if (!properties.hasOwnProperty(key)) {
                   console.error(`Missing key '${key}' in LineString properties of file: ${filePath}`);
@@ -84,10 +84,17 @@ function checkGeoJsonDataHealth({ links }) {
                 }
               }
 
-              // 3 - check if status is valid
+              // 3.1 - check if status is valid
               const validStatus = ['done', 'wip', 'planned', 'tested', 'postponed', 'unknown', 'variante', 'variante-postponed'];
               if (!validStatus.includes(properties.status)) {
                 console.error(`Invalid status '${properties.status}' in LineString properties of file: ${filePath}`);
+                process.exit(1);
+              }
+
+              // 3.2 - check if quality is valid
+              const validQuality = ['satisfactory', 'unsatisfactory'];
+              if (!validQuality.includes(properties.quality)) {
+                console.error(`Invalid quality '${properties.quality}' in LineString properties of file: ${filePath}`);
                 process.exit(1);
               }
 

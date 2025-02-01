@@ -112,6 +112,7 @@
         "name": "Liaison VL7",
         "status": "unknown",
         "type": "inconnu",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
       },
       "geometry": {
@@ -129,6 +130,7 @@
         "name": "Saint-Fons - Sud",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
       },
       "geometry": {
@@ -164,6 +166,7 @@
         "name": "Saint-Fons - Frères Perret",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
       },
       "geometry": {
@@ -199,6 +202,7 @@
         "name": "Pont Rhône-A7",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-vallée-de-la-chimie"
       },
       "geometry": {
@@ -249,6 +253,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -283,6 +288,7 @@
         "name": "Traversée A450",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -318,6 +324,7 @@
         "name": "Boulevard de l'Europe",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -343,6 +350,7 @@
         "name": "Pierre Bénite Nord",
         "status": "wip",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -364,6 +372,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -386,6 +395,7 @@
         "name": "Oullins - Rue Dubois Crancé",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -410,6 +420,7 @@
         "name": "Oullins - Avenue des Saules",
         "status": "planned",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -428,6 +439,7 @@
         "name": "Oullins - Avenue Locard",
         "status": "planned",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#gare-doullins-à-pierre-bénite-barrage"
       },
       "geometry": {
@@ -452,6 +464,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -474,6 +487,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -501,6 +515,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -522,6 +537,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -561,6 +577,7 @@
         "status": "variante",
         "text": "variante B",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -590,6 +607,7 @@
         "status": "variante",
         "text": "variante B",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron-à-gare-doullins"
       },
       "geometry": {
@@ -621,6 +639,7 @@
         "status": "done",
         "doneAt": "15/09/2018",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#boulevard-de-lyzeron"
       },
       "geometry": {
@@ -657,6 +676,7 @@
         "name": "Boulevard Emile Zola Ouest",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -682,6 +702,7 @@
         "name": "Parc de l'Yzeron",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -720,6 +741,7 @@
         "status": "done",
         "doneAt": "10/04/2014", 
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -746,6 +768,7 @@
         "name": "Avenue de l'Aqueduc de Beaunant",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#route-de-brignais-à-boulevard-de-lyzeron"
       },
       "geometry": {
@@ -767,6 +790,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-ouest-est-doullins"
       },
       "geometry": {
@@ -787,6 +811,7 @@
         "name": "Ste-Foy - Route de la Libération",
         "status": "postponed",
         "type": "voie-bus",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
       },
       "geometry": {
@@ -816,6 +841,7 @@
         "name": "Francheville - Avenue du Chater",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
       },
       "geometry": {
@@ -851,6 +877,7 @@
         "name": "Traversée de Tassin",
         "status": "postponed",
         "type": "aucun",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#tassin-sud"
       },
       "geometry": {
@@ -870,6 +897,7 @@
         "status": "done",
         "doneAt": "15/12/2023",
         "type": "bilaterale",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#place-vauboin-place-de-lhorloge"
       },
       "geometry": {
@@ -909,6 +937,7 @@
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#avenue-victor-hugo"
       },
       "geometry": {
@@ -928,6 +957,7 @@
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#avenue-victor-hugo"
       },
       "geometry": {
@@ -947,6 +977,7 @@
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#avenue-victor-hugo"
       },
       "geometry": {
@@ -965,7 +996,8 @@
         "name": "Porte du Valvert",
         "type": "bidirectionnelle",
         "status": "planned",
-
+        
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#porte-du-valvert"
       },
       "geometry": {
@@ -991,6 +1023,7 @@
         "name": "Rue Marietton",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#rue-marietton"
       },
       "geometry": {
@@ -1012,6 +1045,7 @@
         "name": "Souvenir - Bourbonnais",
         "status": "planned",
         "type": "velorue",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#rue-du-bourbonnais-et-rue-du-souvenir"
       },
       "geometry": {
@@ -1040,6 +1074,7 @@
         "name": "Place Valmy",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#rue-du-sergent-michel-berthet-le-long-de-la-place-valmy"
       },
       "geometry": {
@@ -1058,6 +1093,7 @@
         "name": "Rond-point Valmy",
         "type": "bilaterale",
         "status": "planned",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#rond-point-de-valmy"
       },
       "geometry": {
@@ -1090,6 +1126,7 @@
         "name": "Rue Roquette",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#rue-roquette"
       },
       "geometry": {
@@ -1117,6 +1154,7 @@
         "name": "Carrefour des Monts d'Or",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#quais-de-saône"
       },
       "geometry": {
@@ -1135,6 +1173,7 @@
         "name": "Quai Jaÿr Sud",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#quais-de-saône"
       },
       "geometry": {
@@ -1156,6 +1195,7 @@
         "status": "done",
         "doneAt": "16/09/2022",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#pont-de-lattre-de-tassigny-à-pont-clémenceau"
       },
       "geometry": {
@@ -1176,6 +1216,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#pont-de-lattre-de-tassigny-à-pont-clémenceau"
       },
       "geometry": {
@@ -1201,6 +1242,7 @@
         "name": "Pont de Lattre de Tassigny",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {
@@ -1221,6 +1263,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {
@@ -1246,6 +1289,7 @@
         "status": "done",
         "doneAt": "28/03/2023",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {
@@ -1270,6 +1314,7 @@
         "name": "Tête d'Or",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#pont-poincaré-à-pont-de-lattre-de-tassigny"
       },
       "geometry": {
@@ -1343,6 +1388,7 @@
         "name": "Transbordeur Nord",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
@@ -1363,6 +1409,7 @@
         "name": "Boulevard Laurent Bonnevay",
         "status": "planned",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
@@ -1389,6 +1436,7 @@
         "status": "done",
         "doneAt": "31/08/2021",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
@@ -1414,6 +1462,7 @@
         "status": "done",
         "doneAt": "31/08/2021",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
@@ -1439,6 +1488,7 @@
         "name": "Einstein INSA",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
@@ -1457,6 +1507,7 @@
         "name": "Einstein Est",
         "status": "postponed",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {
@@ -1475,6 +1526,7 @@
         "name": "Croix Luizet",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
@@ -1503,6 +1555,7 @@
         "name": "Vaulx-en-Velin Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
@@ -1550,6 +1603,7 @@
         "name": "Vaulx-en-Velin Est",
         "status": "planned",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
@@ -1585,6 +1639,7 @@
         "name": "BUE - Boulevard des Droits de l'Homme Nord",
         "status": "wip",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#vaulx-en-velin-est"
       },
       "geometry": {
@@ -1606,6 +1661,7 @@
         "status": "done",
         "doneAt": "10/04/2024",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#avenue-roosevelt-à-tram-t9"
       },
       "geometry": {
@@ -1637,6 +1693,7 @@
         "status": "done",
         "doneAt": "10/04/2024",
         "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#chassieu-golf-à-avenue-roosevelt"
       },
       "geometry": {
@@ -1662,6 +1719,7 @@
         "status": "done",
         "doneAt": "10/04/2024",
         "type": "voie-verte",
+        "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#bron-decathlon-à-chassieu-golf"
       },
       "geometry": {
