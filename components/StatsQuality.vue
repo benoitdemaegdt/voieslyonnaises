@@ -1,6 +1,6 @@
 <template>
   <div v-if="stat.distance > 0 || stat.dangerCount > 0" class="my-5 not-prose p-4 bg-[#F9FAFB]">
-    <div class="flex justify-between">
+    <div class="sm:flex justify-between">
       <div v-if="stat.distance > 0" class="text-base font-normal text-gray-900">
         <span class="italic">Au total, </span>
         <span class="text-lvv-pink font-bold">{{ displayDistanceInKm(stat.distance, precision) }}</span> ({{ displayPercent(stat.percent) }})

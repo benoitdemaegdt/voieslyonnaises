@@ -431,7 +431,7 @@
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -450,7 +450,7 @@
         "name": "Pont de la Guillotière",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
@@ -469,7 +469,7 @@
         "name": "Cours Gambetta",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
@@ -492,7 +492,7 @@
         "name": "Cours Albert Thomas",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
@@ -518,7 +518,7 @@
         "name": "Place d'Arsonval",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#place-darsonval"
       },
       "geometry": {
@@ -610,7 +610,7 @@
         "name": "Bron - Boutasse",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-12#boulevard-pinel-à-bron-boutasse"
       },
       "geometry": {

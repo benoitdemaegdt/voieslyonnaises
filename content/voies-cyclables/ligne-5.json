@@ -814,7 +814,7 @@
         "name": "Ste-Foy - Route de la Libération",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
       },
       "geometry": {
@@ -844,7 +844,7 @@
         "name": "Francheville - Avenue du Chater",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#alaï-à-beaunant-rd342"
       },
       "geometry": {
@@ -880,7 +880,7 @@
         "name": "Traversée de Tassin",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#tassin-sud"
       },
       "geometry": {
@@ -1510,7 +1510,7 @@
         "name": "Einstein Est",
         "status": "postponed",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#traversée-du-campus-de-la-doua"
       },
       "geometry": {

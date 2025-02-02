@@ -348,7 +348,7 @@
         "name": "Cours d'Herbouville Sud",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#cours-dherbouville"
       },
       "geometry": {
@@ -777,7 +777,7 @@
         "name": "Scénario 2 - Grande Rue Sud - sens Sud>Nord",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -864,7 +864,7 @@
         "name": "Scénario 2 - rue de la Camille - sens Nord>Sud",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#traversée-doullins-centre"
       },
       "geometry": {
@@ -1000,7 +1000,7 @@
         "name": "Traversée de St-Genis-Laval",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-6#giratoire-gadagne-à-chemin-des-barolles"
       },
       "geometry": {

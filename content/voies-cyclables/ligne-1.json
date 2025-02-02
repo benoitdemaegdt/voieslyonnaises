@@ -205,7 +205,7 @@
         "status": "postponed",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-1#sud-du-campus-de-la-doua",
-        "quality": "satisfactory"
+        "quality": "unsatisfactory"
       },
       "geometry": {
         "type": "LineString",
@@ -606,7 +606,7 @@
         "status": "postponed",
         "type": "voie-bus",
         "link": "/voie-lyonnaise-1#avenue-général-leclerc",
-        "quality": "satisfactory"
+        "quality": "unsatisfactory"
       },
       "geometry": {
         "type": "LineString",

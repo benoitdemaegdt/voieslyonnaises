@@ -155,7 +155,7 @@
         "name": "Lissieu - Chicotière à Gare",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#giratoire-chicotière-à-giratoire-maison-carrée"
       },
       "geometry": {
@@ -300,7 +300,7 @@
         "name": "Limonest - RN6 Techlid",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#avenue-porte-de-lyon-à-avenue-de-montlouis"
       },
       "geometry": {
@@ -418,7 +418,7 @@
         "name": "Variante Lanessan",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#avenue-de-montlouis-à-rue-juttet"
       },
       "geometry": {
@@ -726,7 +726,7 @@
         "name": "Avenue Duquesne",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {
@@ -746,7 +746,7 @@
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {

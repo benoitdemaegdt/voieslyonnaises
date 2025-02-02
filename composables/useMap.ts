@@ -103,7 +103,7 @@ export const useMap = () => {
   }
 
   function plotUnsatisfactorySections({ map, features }: { map: Map; features: LineStringFeature[] }) {
-    const sections = features.filter(feature => feature.properties.quality === 'unsatisfactory');
+    const sections = features.filter(feature => feature.properties.quality === 'unsatisfactory' && feature.properties.status !== 'postponed');
 
     if (sections.length === 0 && !map.getLayer('unsatisfactory-sections')) {
       return;
@@ -543,6 +543,14 @@ export const useMap = () => {
         'icon-image': 'danger-icon',
         'icon-size': 0.7
       }
+    });
+
+    // la souris devient un pointer au survol
+    map.on('mousemove', 'dangers', () => {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'dangers', () => {
+      map.getCanvas().style.cursor = '';
     });
   }
 

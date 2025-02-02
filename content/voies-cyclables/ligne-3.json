@@ -127,7 +127,7 @@
         "name": "Grand Veissieux",
         "status": "postponed",
         "type": "aucun",
-        "quality":"satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -159,7 +159,7 @@
         "name": "Route du Grand Veissieux",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
@@ -280,7 +280,7 @@
         "name": "Pont de Neuville-sur-Saône",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
@@ -1016,7 +1016,7 @@
         "name": "Quai des Etroits - Quai Jean-Jacques Rousseau",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#quai-jean-jacques-rousseau-et-quai-des-etroits"
       },
       "geometry": {
@@ -1432,7 +1432,7 @@
         "name": "Irigny - Grigny Le Sablon par Berges du Rhône",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1665,7 +1665,7 @@
         "name": "Avenue Marcelin Berthelot",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1688,7 +1688,7 @@
         "name": "Rue Honoré Petetin",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
@@ -1711,7 +1711,7 @@
         "name": "Place du Bassin",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
@@ -1789,7 +1789,7 @@
         "name": "Quai Georges Lévy",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {

@@ -76,7 +76,7 @@
         "name": "Jonage",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jonage-chemin-de-halage"
       },
       "geometry": {
@@ -133,7 +133,7 @@
         "name": "Canal de Jonage - variante Nord",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
       },
       "geometry": {
@@ -210,7 +210,7 @@
         "name": "Digue EDF",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#digue-edf-le-long-du-grand-large"
       },
       "geometry": {
@@ -524,7 +524,7 @@
         "name": "Einstein Est",
         "status": "postponed",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -692,7 +692,7 @@
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -711,7 +711,7 @@
         "name": "Garibaldi - Duquesne Vauban",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -916,7 +916,7 @@
         "name": "Avenue Jean Jaurès",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#avenue-jean-jaurès"
       },
       "geometry": {
@@ -979,7 +979,7 @@
         "name": "Passerelle Oullins-Gerland",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#franchissement-du-rhône"
       },
       "geometry": {
