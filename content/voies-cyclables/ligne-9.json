@@ -30,6 +30,48 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "PontBlanc-commun",
+        "type": "danger",
+        "name": "Station Velo'V - Pont Blanc",
+        "description": "Voie verte obstruée par la station, créant un passage étroit",
+        "danger": "Conflits réguliers entre piétons et cyclistes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.798344, 45.720170]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DuquesneBelges-commun",
+        "type": "danger",
+        "name": "Carrefour Belges - Duquesne, sens Est>Ouest",
+        "description": "Cisaillement entre véhicules qui vont tout droit et cyclistes qui tournent à gauche",
+        "danger": "Risque de collision voiture-vélo par cisaillement dangereux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.851625, 45.773294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DuquesneVerguin-commun",
+        "type": "danger",
+        "name": "Carrefour Belges - Verguin, sens Ouest>Est",
+        "description": "Tourne-à-gauche en pleine voie sans espace de stockage",
+        "danger": "Mouvement inconfortable avec des bus dans le dos et d'autres véhicules arrivant de face"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.853695, 45.772337]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "line": 9,
         "name": "Jonage",
         "status": "postponed",
@@ -631,7 +673,7 @@
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {

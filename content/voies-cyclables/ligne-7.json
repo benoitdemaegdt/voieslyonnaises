@@ -125,7 +125,7 @@
         "name": "Franchissement A46",
         "status": "planned",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {

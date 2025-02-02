@@ -69,6 +69,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "Valmy-commun",
         "type": "danger",
         "name": "Place Valmy",
         "description": "Anneau cyclable trop proche de l'anneau routier",
@@ -82,6 +83,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "Suzuki-commun",
         "type": "danger",
         "name": "Garage Suzuki - Tassin",
         "description": "Stationnement régulier de poids lourds pour déchargement véhicules",
@@ -95,6 +97,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "PontBlanc-commun",
         "type": "danger",
         "name": "Station Velo'V - Pont Blanc",
         "description": "Voie verte obstruée par la station, créant un passage étroit",
@@ -1093,7 +1096,7 @@
         "name": "Rond-point Valmy",
         "type": "bilaterale",
         "status": "planned",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-5#rond-point-de-valmy"
       },
       "geometry": {

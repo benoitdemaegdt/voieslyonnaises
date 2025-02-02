@@ -95,6 +95,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "DuquesneQuais-commun",
         "type": "danger",
         "name": "Carrefour Quais du Rhône - Duquesne, sens Ouest>Est",
         "description": "Mouvent du pont vers Duquesne en 2 phases avec temps d'attente élevé et faible espace de stockage sur trottoir",
@@ -108,6 +109,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "DuquesneGaribaldi-commun",
         "type": "danger",
         "name": "Carrefour Duquesne - Garibaldi, sens Ouest>Est",
         "description": "Cisaillement entre véhicules qui doivent tourner à droite et cyclistes qui continuent tout droit",
@@ -121,6 +123,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "DuquesneBelges-commun",
         "type": "danger",
         "name": "Carrefour Belges - Duquesne, sens Est>Ouest",
         "description": "Cisaillement entre véhicules qui vont tout droit et cyclistes qui tournent à gauche",
@@ -134,6 +137,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "DuquesneVerguin-commun",
         "type": "danger",
         "name": "Carrefour Belges - Verguin, sens Ouest>Est",
         "description": "Tourne-à-gauche en pleine voie sans espace de stockage",
@@ -761,7 +765,7 @@
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-4#pont-clémenceau-à-boulevard-des-belges"
       },
       "geometry": {

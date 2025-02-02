@@ -95,6 +95,34 @@
     {
       "type": "Feature",
       "properties": {
+        "id":"BusAqua-commun",
+        "type": "danger",
+        "name": "Quai Sémard - Dépose bus Aquarium",
+        "description": "Voie verte étroite avec descente de nombreux voyageurs",
+        "danger": "Fort conflit piéton-vélo sur un secteur étroit inadapté à un quai bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.815794, 45.728711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id":"EchangeurAqua-commun",
+        "type": "danger",
+        "name": "Echangeur M7 - Aquarium",
+        "description": "Carrefour autoroutier complexe avec un fort trafic automobile",
+        "danger": "Traversée longue et difficilement lisible en plusieurs phases avec zone de stockage insuffisante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.815576, 45.729368]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
         "line": 3,
         "name": "Grand Veissieux",
         "status": "postponed",

@@ -17,6 +17,76 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "DuquesneQuais-commun",
+        "type": "danger",
+        "name": "Carrefour Quais du Rhône - Duquesne, sens Ouest>Est",
+        "description": "Mouvent du pont vers Duquesne en 2 phases avec temps d'attente élevé et faible espace de stockage sur trottoir",
+        "danger": "Inconfortable pour les piétons. Incite les cyclistes à continuer sur le trottoir Nord."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.841402, 45.772415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Suzuki-commun",
+        "type": "danger",
+        "name": "Garage Suzuki - Tassin",
+        "description": "Stationnement régulier de poids lourds pour déchargement véhicules",
+        "danger": "Blocage total de la circulation des piétons-cyclistes, obligeant les usagers à se mettre en danger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.791066, 45.772197]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Valmy-commun",
+        "type": "danger",
+        "name": "Place Valmy",
+        "description": "Anneau cyclable trop proche de l'anneau routier",
+        "danger": "Risque de collision voiture-vélo faute de visibilité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.805412, 45.775292]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DuquesneGaribaldi-commun",
+        "type": "danger",
+        "name": "Carrefour Duquesne - Garibaldi, sens Ouest>Est",
+        "description": "Cisaillement entre véhicules qui doivent tourner à droite et cyclistes qui continuent tout droit",
+        "danger": "Risque de collision voiture-vélo par cisaillement dangereux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.849637, 45.773055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DuquesneBelges-commun",
+        "type": "danger",
+        "name": "Carrefour Belges - Duquesne, sens Est>Ouest",
+        "description": "Cisaillement entre véhicules qui vont tout droit et cyclistes qui tournent à gauche",
+        "danger": "Risque de collision voiture-vélo par cisaillement dangereux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.851625, 45.773294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "danger",
         "name": "Arrêt T3 - Bel Air",
         "description": "Voie verte étroite - Point dur à 1m70 de large",
@@ -266,7 +336,7 @@
         "name": "Rond-point Valmy",
         "status": "planned",
         "type": "bilaterale",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -475,7 +545,7 @@
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-verguin-à-waldeck-rousseau"
       },
       "geometry": {
@@ -493,7 +563,7 @@
         "name": "Belges Centre",
         "status": "planned",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-verguin-à-waldeck-rousseau"
       },
       "geometry": {
@@ -546,7 +616,7 @@
         "name": "Belges de Fournet à Lafayette",
         "status": "planned",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#boulevard-des-belges-de-waldeck-rousseau-à-lafayette"
       },
       "geometry": {
@@ -568,7 +638,7 @@
         "status": "done",
         "doneAt": "31/12/2022",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
       },
       "geometry": {
@@ -588,7 +658,7 @@
         "name": "Part-Dieu Sud en surface",
         "status": "wip",
         "type": "voie-bus-elargie",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#pôle-déchange-part-dieu"
       },
       "geometry": {
