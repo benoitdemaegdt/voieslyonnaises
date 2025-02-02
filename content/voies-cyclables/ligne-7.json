@@ -556,7 +556,7 @@
         "name": "Chemin Petit - Variante Sud",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -582,7 +582,7 @@
         "name": "Voie verte de la Dombes - Nord",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -628,7 +628,7 @@
         "name": "Voie verte de la Dombes - Centre",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -700,7 +700,7 @@
         "name": "Voie verte de la Dombes - Lavoisier",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -746,7 +746,7 @@
         "name": "Voie verte de la Dombes - Sud",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
@@ -846,7 +846,7 @@
         "name": "Boulevard des Canuts Sud",
         "status": "postponed",
         "type": "bidirectionnelle",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -866,7 +866,7 @@
         "name": "Fresque des Canuts",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -887,7 +887,7 @@
         "status": "postponed",
         "text": "variante",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
@@ -924,7 +924,7 @@
         "status": "postponed",
         "text": "variante",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
@@ -945,7 +945,7 @@
         "name": "Place des Tapis",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
@@ -1120,7 +1120,7 @@
         "name": "Belges Ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
@@ -1146,7 +1146,7 @@
         "name": "Garibaldi Nord",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
@@ -1166,7 +1166,7 @@
         "name": "Garibaldi - Duquesne Vauban",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#rue-garibaldi-belges-à-vauban"
       },
       "geometry": {
@@ -1487,7 +1487,7 @@
         "name": "Saint-Fons Centre",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#saint-fons-centre"
       },
       "geometry": {
@@ -1641,7 +1641,7 @@
         "name": "Feyzin Centre",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {

@@ -155,14 +155,12 @@ export const useStats = () => {
     const features = getAllUniqLineStrings(voies);
     const dangers = getAllUniqDangers(voies);
     const totalDistance = getDistance({ features });
-    const lowQualityFeatures = features.filter(
-      feature => feature.properties.quality === 'unsatisfactory' || feature.properties.status === 'postponed'
-    );
-    const lowQualityDistance = getDistance({ features: lowQualityFeatures });
+    const unsatisfactoryFeatures = features.filter(feature => feature.properties.quality === 'unsatisfactory');
+    const unsatisfactoryDistance = getDistance({ features: unsatisfactoryFeatures });
 
     return {
-      distance: lowQualityDistance,
-      percent: Math.round((lowQualityDistance / totalDistance) * 100),
+      distance: unsatisfactoryDistance,
+      percent: Math.round((unsatisfactoryDistance / totalDistance) * 100),
       dangerCount: dangers.length
     };
   }

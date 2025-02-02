@@ -190,7 +190,7 @@
         "name": "La Tour de Salvagny - Ouest",
         "status": "postponed",
         "type": "voie-verte",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#traversée-de-la-tour-de-salvagny"
       },
       "geometry": {
@@ -251,7 +251,7 @@
         "name": "La Tour de Salvagny - Centre",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#traversée-de-la-tour-de-salvagny"
       },
       "geometry": {
@@ -1034,7 +1034,7 @@
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -1054,7 +1054,7 @@
         "name": "Traversée Presqu'île (par Perrache)",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -1271,7 +1271,7 @@
         "name": "Rue Marius Berliet",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#rue-marius-berliet"
       },
       "geometry": {
@@ -1324,7 +1324,7 @@
         "name": "Avenue Mermoz - T6",
         "status": "postponed",
         "type": "bilaterale",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link" : "/voie-lyonnaise-8#avenue-jean-mermoz"
       },
       "geometry": {
@@ -1678,7 +1678,7 @@
         "name": "Cours du Professeur Jean Bernard",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },
       "geometry": {

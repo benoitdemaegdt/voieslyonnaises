@@ -506,7 +506,7 @@
         "name": "Avenue Duquesne",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -526,7 +526,7 @@
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"
       },
       "geometry": {
@@ -735,7 +735,7 @@
         "name": "Avenue Lacassagne",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-10#avenue-lacassagne-paul-bert-à-dauphiné"
       },
       "geometry": {

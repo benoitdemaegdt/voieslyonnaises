@@ -73,7 +73,7 @@
         "name": "Place Bénédict Tessier",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -91,7 +91,7 @@
         "name": "Avenue du Point du Jour Ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -113,7 +113,7 @@
         "name": "Avenue du Point du Jour Est",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -135,7 +135,7 @@
         "name": "Rue de la Favorite",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#point-du-jour-favorite-lyon-5"
       },
       "geometry": {
@@ -335,7 +335,7 @@
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "postponed",
         "type": "voie-bus",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
@@ -355,7 +355,7 @@
         "name": "Traversée Presqu'île (par Perrache)",
         "status": "postponed",
         "type": "aucun",
-        "quality": "satisfactory",
+        "quality": "unsatisfactory",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
