@@ -151,15 +151,18 @@ export const useStats = () => {
     };
   }
 
-  function getStatsQuality(voies: Geojson[]): { distance: number; percent: number; dangerCount: number } {
+  function getStatsQuality(voies: Geojson[]): { distance: number; postponed: boolean; percent: number; dangerCount: number } {
     const features = getAllUniqLineStrings(voies);
     const dangers = getAllUniqDangers(voies);
     const totalDistance = getDistance({ features });
     const unsatisfactoryFeatures = features.filter(feature => feature.properties.quality === 'unsatisfactory');
     const unsatisfactoryDistance = getDistance({ features: unsatisfactoryFeatures });
+    const postponedFeatures = features.filter(feature => feature.properties.status === 'postponed');
+    const postponedDistance = getDistance({ features: postponedFeatures });
 
     return {
       distance: unsatisfactoryDistance,
+      postponed: unsatisfactoryDistance === postponedDistance,
       percent: Math.round((unsatisfactoryDistance / totalDistance) * 100),
       dangerCount: dangers.length
     };
