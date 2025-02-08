@@ -50,7 +50,7 @@ La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargi
 La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur la commune d'Albigny, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de Couzon, St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
 ::banner{type="wip"}
-La section sur la commune d'Albigny devrait est réalisée entre février et décembre 2025.\
+La section sur la commune d'Albigny est réalisée entre février et décembre 2025.\
 La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.\
 La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.\
 La section sur la commune de Collonges devrait être en travaux à partir de l'été 2025 jusqu'à l'été 2026.

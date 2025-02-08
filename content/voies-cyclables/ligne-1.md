@@ -158,7 +158,7 @@ Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une
 A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence ou le pont de la Mulatière.\
 
 ::banner{type="postponed"}
-La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus sur une voie étroite pour déboucher sur un carrefour au ressenti autoroutier au Sud.
+La Métropole a annoncé le 30/01/2025 que la majeure partie de ce tronçon est reporté sine die. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus sur une voie étroite. Seule une petite partie située au Sud de la rue du commandant Ayasse sera aménagée pour éviter que les cyclistes soient incités à circuler au sein du parc des Berges.
 ::
 
 #### *Concertation*

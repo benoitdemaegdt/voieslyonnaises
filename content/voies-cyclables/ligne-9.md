@@ -54,7 +54,7 @@ Se référer à la page de chaque ligne pour davantage d'informations.
 *Parcours commun avec la véloroute touristique ViaRhôna.*
 
 ::banner{type="wip"}
-Les travaux commencent en février 2025 et devraient se poursuivre par tronçons jusqu'à début 2026.
+Les travaux ont commencé en février 2025 et se poursuivent par tronçons jusqu'à janvier 2026.
 ::
 
 #### Rue du Canal

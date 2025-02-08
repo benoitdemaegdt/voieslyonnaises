@@ -88,6 +88,19 @@
       "type": "Feature",
       "properties": {
         "type": "danger",
+        "name": "Carrefour Pompidou - Villette",
+        "description": "Stationnement régulier de véhicules en dépose-minute dans le carrefour",
+        "danger": "Véhicules obstruant la circulation des vélos dans le carrefour, complexifiant les traversées"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.861530, 45.758970]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "danger",
         "name": "Arrêt T3 - Bel Air",
         "description": "Voie verte étroite - Point dur à 1m70 de large",
         "danger": "Fort conflit piéton-vélo au droit d'une station de tramway à forte fréquentation"
@@ -264,7 +277,7 @@
         "id": "Marietton-commun",
         "line": 10,
         "name": "Rue Marietton",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-10#tassin-valvert-à-tête-dor-verguin"

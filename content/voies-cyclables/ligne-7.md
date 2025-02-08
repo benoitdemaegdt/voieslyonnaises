@@ -41,7 +41,7 @@ Contrairement à ce qui était annoncé lors de la concertation, la piste cyclab
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.
 
 ***Avenue de l'Hippodrome et Chemin Petit***\
-Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
+Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état, à l'exception de la jonction avec la voie verte qui sera élargie.
 
 ::banner{type="wip"}
 Les travaux du giratoire de Gaulle ont eu lieu entre l'automne 2023 et fin mars 2024.
@@ -156,7 +156,7 @@ Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud. Elle a 
 Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la transformation du stationnement actuellement en épi en stationnement longitudinal.
 
 ::banner{type="postponed"}
-La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes n'auront donc aucune alternative crédible pour rejoindre la parc de la Tête d'Or en sécurité depuis le quartier de la Part-Dieu pendant encore de nombreuses années.
+La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes n'auront donc aucune alternative crédible pour rejoindre la parc de la Tête d'Or en sécurité depuis le quartier de la Part-Dieu pendant encore de nombreuses années. *Nous recommandons de passer par la rue Boileau pour relier la rue Vauban et le boulevard des Belges en attendant un aménagement sécurisé hypothétique.*
 ::
 
 ::content-image

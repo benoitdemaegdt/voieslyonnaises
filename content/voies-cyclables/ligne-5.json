@@ -1024,7 +1024,7 @@
         "id": "Marietton-commun",
         "line": 5,
         "name": "Rue Marietton",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-5#rue-marietton"
