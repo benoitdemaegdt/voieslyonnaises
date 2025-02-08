@@ -570,10 +570,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "MandelaDauphine-commun",
+        "id": "Mandela-commun",
         "line": 11,
-        "name": "Parc Mandela - Dauphiné",
-        "status": "planned",
+        "name": "Parc Mandela",
+        "status": "wip",
         "type": "bidirectionnelle",
         "quality": "satisfactory",
         "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
@@ -582,6 +582,24 @@
         "type": "LineString",
         "coordinates": [
           [4.861468420716278,45.7538736167393],
+          [4.8631770745339225,45.75409016627313]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HachetteDauphine-commun",
+        "line": 11,
+        "name": "Hachette - Renoir - Dauphiné",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "link": "/voie-lyonnaise-11#avenue-félix-faure-vivier-merle-à-esplanade-mandela"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.8631770745339225,45.75409016627313],
           [4.8635873531707645,45.75308519529498],
           [4.865788176308245,45.752610851200906],
