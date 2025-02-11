@@ -8,7 +8,7 @@ imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
 
 Depuis le tout début de son histoire, en septembre 2022, Cyclopolis est un projet Open Source. Cela signifie que tout le code de la plateforme est public et réutilisable par tous et toutes.
 
-Le code est directement disponible sur [GitHub](https://github.com/benoitdemaegdt/voieslyonnaises) et réutilisable sous [licence MIT](https://github.com/benoitdemaegdt/voieslyonnaises/blob/main/LICENSE.md).
+Le code est directement disponible sur [GitHub](https://github.com/lavilleavelo/cyclopolis) et réutilisable sous [licence MIT](https://github.com/benoitdemaegdt/voieslyonnaises/blob/main/LICENSE.md).
 
 Une association (ou même un particulier) peut donc tout à fait copier le code de la plateforme, le modifier, l'adapter à sa ville, et le publier sous un autre nom.
 
@@ -53,7 +53,7 @@ Vous pouvez retrouver la vidéo complète du tutoriel ci-dessous :
 
 Vous pouvez cloner le site directement sur votre poste local.
 ```
-git clone git@github.com:benoitdemaegdt/voieslyonnaises.git
+git clone git@github.com:lavilleavelo/cyclopolis.git
 ```
 
 Puis installer les dépendances

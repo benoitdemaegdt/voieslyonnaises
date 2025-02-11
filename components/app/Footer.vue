@@ -62,7 +62,7 @@ const socials = [
   },
   {
     name: 'Github',
-    href: 'https://github.com/benoitdemaegdt/voieslyonnaises',
+    href: 'https://github.com/lavilleavelo/cyclopolis',
     icon: 'mdi:github'
   },
   {
