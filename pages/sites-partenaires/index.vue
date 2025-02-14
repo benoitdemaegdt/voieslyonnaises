@@ -34,7 +34,7 @@
 <script setup lang="ts">
 const { data: sites } = await useAsyncData(() => {
   return queryContent('sites-partenaires')
-    .sort({ city: 1 })
+    .sort({ index: 1 })
     .find();
 });
 </script>
